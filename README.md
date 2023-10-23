@@ -11,5 +11,5 @@ A Bot get config from updated telegram channel
 * Shadowrocket ( add sublink of encrypted file + use realdelay + sort by speed ) 
 
 # Creator
-* <a href="t.me/notrwinshadow">Telegram 🌀</a>
+* <a href="https://t.me/notrwinshadow">Telegram 🌀</a>
 * <a href="[t.me/notrwinshadow](https://github.com/Kwinshadow/">github ❄️</a>
