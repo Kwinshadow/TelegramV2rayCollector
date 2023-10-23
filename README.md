@@ -12,4 +12,4 @@ A Bot get config from updated telegram channel
 
 # Creator
 * <a href="https://t.me/notrwinshadow">Telegram 🌀</a>
-* <a href="[t.me/notrwinshadow](https://github.com/Kwinshadow/">github ❄️</a>
+* <a href="https://github.com/Kwinshadow/">github ❄️</a>
