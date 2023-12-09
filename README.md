@@ -8,25 +8,14 @@ A Bot get config from updated telegram channel
 * File have been encrypted for use in all V2ray client
 
 # sublinks
-<p align="center">
-  <table style="background-color: red;">
-    <tr>
-      <th>Header 1</th>
-      <th>Header 2</th>
-      <th>Header 3</th>
-    </tr>
-    <tr>
-      <td>Row 1, Col 1</td>
-      <td>Row 1, Col 2</td>
-      <td>Row 1, Col 3</td>
-    </tr>
-    <tr>
-      <td>Row 2, Col 1</td>
-      <td>Row 2, Col 2</td>
-      <td>Row 2, Col 3</td>
-    </tr>
-  </table>
-</p>
+| ------------ | base64 sublinks | regular sublinks |
+|:------------ |:--------------:| -------------:|
+| vmess | <a href="https://raw.githubusercontent.com/Kwinshadow/TelegramV2rayCollector/main/sublinks/b64vmess.txt">sub-link</a> | <a href="https://raw.githubusercontent.com/Kwinshadow/TelegramV2rayCollector/main/sublinks/vmess.txt">sub-link</a> |
+| vless | <a href="https://raw.githubusercontent.com/Kwinshadow/TelegramV2rayCollector/main/sublinks/b64vless.txt">sub-link</a> | <a href="https://raw.githubusercontent.com/Kwinshadow/TelegramV2rayCollector/main/sublinks/vless.txt">sub-link</a> |
+| ss | <a href="https://raw.githubusercontent.com/Kwinshadow/TelegramV2rayCollector/main/sublinks/b64ss.txt">sub-link</a> | <a href="https://raw.githubusercontent.com/Kwinshadow/TelegramV2rayCollector/main/sublinks/ss.txt">sub-link</a> |
+| trojan | <a href="https://raw.githubusercontent.com/Kwinshadow/TelegramV2rayCollector/main/sublinks/b64trojan.txt">sub-link</a> | <a href="https://raw.githubusercontent.com/Kwinshadow/TelegramV2rayCollector/main/sublinks/trojan.txt">sub-link</a> |
+| mix | <a href="https://raw.githubusercontent.com/Kwinshadow/TelegramV2rayCollector/main/sublinks/b64mix.txt">sub-link</a> | <a href="https://raw.githubusercontent.com/Kwinshadow/TelegramV2rayCollector/main/sublinks/b64mix.txt">sub-link</a> |
+
 
 
 # Recommended client
