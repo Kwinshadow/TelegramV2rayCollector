@@ -22,7 +22,10 @@ A Bot get config from updated telegram channel
 </div>
 
 ## Recommended client
-* Shadowrocket ( add sublink of encrypted file + use realdelay + sort by speed ) 
+* Shadowrocket ( add sublink of encrypted file + use realdelay + sort by speed )
+
+# Our Telegram Bot
+* our telegram bot design to send configs fast and easy for how can't use sublinks <a href="https://t.me/RwinV2raybot">Bot-link</a>
 
 ## Creator
 * <a href="https://t.me/notrwinshadow">Telegram 🌀</a>
