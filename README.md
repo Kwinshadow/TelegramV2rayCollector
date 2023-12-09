@@ -28,5 +28,5 @@ A Bot get config from updated telegram channel
 * our telegram bot design to send configs fast and easy for how can't use sublinks <a href="https://t.me/RwinV2raybot">Bot-link</a>
 
 ## Creator
-* <a href="https://t.me/notrwinshadow">Telegram 🌀</a>
+* <a href="https://t.me/QW5vbl9yd2lu">Telegram 🌀</a>
 * <a href="https://github.com/Kwinshadow/">github ❄️</a>
