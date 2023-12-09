@@ -27,6 +27,16 @@ A Bot get config from updated telegram channel
 # Our Telegram Bot
 * our telegram bot design to send configs fast and easy for how can't use sublinks <a href="https://t.me/RwinV2raybot">Bot-link</a>
 
+# Chnnels we use 
+* nim_vpn_ir (1st)
+* outline_vpn (2st)
+* hope_net
+* proxystore11
+* yaney_01
+* fnet00
+* azadnet
+* customv2ray
+
 ## Creator
 * <a href="https://t.me/QW5vbl9yd2lu">Telegram 🌀</a>
 * <a href="https://github.com/Kwinshadow/">github ❄️</a>
