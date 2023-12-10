@@ -42,7 +42,7 @@ vless://f553d0ca-701d-4f95-90e9-2851d055291e@16.16.142.250:8443?security=reality
 
 vless://f553d0ca-701d-4f95-90e9-2851d055291e@16.16.104.59:8443?security=reality&encryption=none&pbk=tGrs8b4e2d4c0iWiAOMeBLn6CmnULW2QPQ2-VF2F8Bc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.makers.com&sid=3c#SE🇸🇪
 
-vless://2a269c03-fd20-46e2-8464-60b10a244801@104.20.2.1:80?path=/dl/index.php&security=none&encryption=none&host=RFDJCK.سیسی.wOrLd&type=ws#CA🇨🇦
+vless://2a269c03-fd20-46e2-8464-60b10a244801@104.20.2.1:80?path=/dl/index.php&security=none&encryption=none&host=RFDJCK.سیسی.wOrLd&type=ws#US🇺🇸
 
 vless://0210a826-d1b7-4643-e168-bae41070f946@de.melobigg.site:8443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=&sni=De.Melobigg.Site#NL🇳🇱
 
@@ -118,13 +118,19 @@ ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDVAdGdfbWZicG5fYXR3Mi41MnZwbi5ldS5vcmc6NDQz#
 
 trojan://46d69a7e-9002-44a3-99c1-01c412f29726@5.104.107.143:443?sni=de1.xn--mes358a9urctx.com#DE🇩🇪
 
+vless://5801bce6-fc47-4978-841b-d8c4b0d158ce@kamyarservers.ddns.net:443/?type=grpc&serviceName=@configMs&security=reality&fp=firefox&pbk=bl_WgZJU4-XnjnZ1HWu6tAWaz8rvdgy2pGmaFpOgcQ0&sni=mihanyas.ir&sid=0960546b&spx=/#DE🇩🇪
+
 vless://682149af-d7ba-416b-92fe-871fffcaaab1@kamyarservers.ddns.net:443/?type=grpc&serviceName=@configMs&security=reality&fp=firefox&pbk=bl_WgZJU4-XnjnZ1HWu6tAWaz8rvdgy2pGmaFpOgcQ0&sni=mihanyas.ir&sid=0960546b&spx=/#DE🇩🇪
 
-ss://Y2hhY2hhMjAtcG9seTEzMDU6Qm9nMEVMbU1NOURTeERkUQ==@series-a2-me.samanehha.co:443#GB🇬🇧
+vless://31c78efb-ea2f-4d8a-980c-24a1a7e37e84@warchief.uk:55361?security=reality&encryption=none&pbk=rOkpBSCF0Ce2eXGvxK2fDPwpDXRh-MwNSQMsN-eCq04&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=discord.com&sid=2e36b2bc#DE🇩🇪
 
-vless://7f6f7fed-f21c-40d7-b33d-dda190fc5cb1@vmessorg.bia.tosh.mokhin.me:80?path=/&security=none&encryption=none&host=join.bede.vmessorg.mokhin.me&type=ws#CA🇨🇦
+vless://4904e98f-3775-4849-9971-85af74f31d3d@yellowcow.uk:36508?security=reality&encryption=none&pbk=dJfY4gvkndU4GEjNg5Sih4WkVKlW4ER_rqWLWZi-Cw0&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=discord.com&sid=418195b7#DE🇩🇪
 
-ss://Y2hhY2hhMjAtcG9seTEzMDU6dTE3VDNCdnBZYWFpdVcyYw==@series-a2-mec.samanehha.co:443#GB🇬🇧
+vmess://eyJhZGQiOiIzMS43LjY0LjE5NiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoidHJ0aXpsZS5jb20iLCJpZCI6ImEzOWE2ZWZlLTU0Y2YtNDFiNC1hNDY3LWIxYjc0MWNhOGE4MSIsIm5ldCI6InRjcCIsInBhdGgiOiJcLyIsInBvcnQiOiI4MDgwIiwicHMiOiJJUlx1ZDgzY1x1ZGRlZVx1ZDgzY1x1ZGRmNyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0=
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@www.outline.network.ak1967.fr8678825324247b8176d59f83c30bd94d23d2e3ac5cd4a743bkwqeikvdyufr.cyou:443#GB🇬🇧
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplemVzQlhlc2YzUktCQ3AxdnFLdUl4@beeconf.xyz:8080#FR🇫🇷
+
+vless://376b9861-2fc6-4647-959c-18185cd9c95a@freeiranweb.ddns.net:443?path=/fflsws&security=tls&encryption=none&host=lmn59.sbs&type=ws&sni=lmn59.sbs#CA🇨🇦
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2QkczZ0czbGZwbDExTkU0eWZzSUN4@passconf.xyz:8080#SE🇸🇪
 
