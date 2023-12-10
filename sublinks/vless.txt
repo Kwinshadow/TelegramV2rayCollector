@@ -34,7 +34,7 @@ vless://f553d0ca-701d-4f95-90e9-2851d055291e@16.16.142.250:8443?security=reality
 
 vless://f553d0ca-701d-4f95-90e9-2851d055291e@16.16.104.59:8443?security=reality&encryption=none&pbk=tGrs8b4e2d4c0iWiAOMeBLn6CmnULW2QPQ2-VF2F8Bc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.makers.com&sid=3c#SE🇸🇪
 
-vless://2a269c03-fd20-46e2-8464-60b10a244801@104.20.2.1:80?path=/dl/index.php&security=none&encryption=none&host=RFDJCK.سیسی.wOrLd&type=ws#CA🇨🇦
+vless://2a269c03-fd20-46e2-8464-60b10a244801@104.20.2.1:80?path=/dl/index.php&security=none&encryption=none&host=RFDJCK.سیسی.wOrLd&type=ws#US🇺🇸
 
 vless://0210a826-d1b7-4643-e168-bae41070f946@de.melobigg.site:8443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=&sni=De.Melobigg.Site#NL🇳🇱
 
@@ -84,7 +84,13 @@ vless://f0123519-6e30-4219-a3bb-0f5f22d06766@proxystore11.ddns.net:2083?type=grp
 
 vless://e3ae79eb-0dad-4fe7-bdca-d7afb5a24afd@proxystore11.ddns.net:2083?type=grpc&serviceName=@proxystore11- @proxystoremt11 @proxystore11- @proxystoremt11 @proxystore11- @proxystoremt11&mode=multi&security=tls&fp=chrome&alpn=h2,http/1.1&sni=km.proxystore11.site#CA🇨🇦
 
+vless://5801bce6-fc47-4978-841b-d8c4b0d158ce@kamyarservers.ddns.net:443/?type=grpc&serviceName=@configMs&security=reality&fp=firefox&pbk=bl_WgZJU4-XnjnZ1HWu6tAWaz8rvdgy2pGmaFpOgcQ0&sni=mihanyas.ir&sid=0960546b&spx=/#DE🇩🇪
+
 vless://682149af-d7ba-416b-92fe-871fffcaaab1@kamyarservers.ddns.net:443/?type=grpc&serviceName=@configMs&security=reality&fp=firefox&pbk=bl_WgZJU4-XnjnZ1HWu6tAWaz8rvdgy2pGmaFpOgcQ0&sni=mihanyas.ir&sid=0960546b&spx=/#DE🇩🇪
 
-vless://7f6f7fed-f21c-40d7-b33d-dda190fc5cb1@vmessorg.bia.tosh.mokhin.me:80?path=/&security=none&encryption=none&host=join.bede.vmessorg.mokhin.me&type=ws#CA🇨🇦
+vless://31c78efb-ea2f-4d8a-980c-24a1a7e37e84@warchief.uk:55361?security=reality&encryption=none&pbk=rOkpBSCF0Ce2eXGvxK2fDPwpDXRh-MwNSQMsN-eCq04&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=discord.com&sid=2e36b2bc#DE🇩🇪
+
+vless://4904e98f-3775-4849-9971-85af74f31d3d@yellowcow.uk:36508?security=reality&encryption=none&pbk=dJfY4gvkndU4GEjNg5Sih4WkVKlW4ER_rqWLWZi-Cw0&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=discord.com&sid=418195b7#DE🇩🇪
+
+vless://376b9861-2fc6-4647-959c-18185cd9c95a@freeiranweb.ddns.net:443?path=/fflsws&security=tls&encryption=none&host=lmn59.sbs&type=ws&sni=lmn59.sbs#CA🇨🇦
 
