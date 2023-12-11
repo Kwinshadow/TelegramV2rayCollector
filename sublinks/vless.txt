@@ -20,9 +20,9 @@ vless://f553d0ca-701d-4f95-90e9-2851d055291e@16.170.168.165:8443?security=realit
 
 vless://f553d0ca-701d-4f95-90e9-2851d055291e@13.49.158.83:8443?security=reality&encryption=none&pbk=oLcmlSGMbtpxYBN-BJ1rZnWOOstKf_eMEyGlRF7BhF0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.makers.com&sid=3c#SE🇸🇪
 
-vless://a2dadb95-3f15-4e1c-b517-0b54c336a5fd@faav-join.outline-vpn.cloud:8443?path=/?ed=2048&security=tls&encryption=none&host=nl57.vlessx.us&fp=chrome&type=ws&sni=nl57.Vlessx.us#CA🇨🇦
+vless://a2dadb95-3f15-4e1c-b517-0b54c336a5fd@faav-join.outline-vpn.cloud:8443?path=/?ed=2048&security=tls&encryption=none&host=nl57.vlessx.us&fp=chrome&type=ws&sni=nl57.Vlessx.us#US🇺🇸
 
-vless://c17ee8d1-c7a3-4666-83da-d923ae45c31d@ejoin-to.outline-vpn.cloud:443?path=/uorpws&security=tls&encryption=none&host=oniyx.fun&type=ws&sni=oniyx.fun#CA🇨🇦
+vless://c17ee8d1-c7a3-4666-83da-d923ae45c31d@ejoin-to.outline-vpn.cloud:443?path=/uorpws&security=tls&encryption=none&host=oniyx.fun&type=ws&sni=oniyx.fun#US🇺🇸
 
 vless://a2dadb95-3f15-4e1c-b517-0b54c336a5fd@faav-join.outline-vpn.cloud:8443?path=/?ed=2048&security=tls&encryption=none&host=nl57.vlessx.us&fp=chrome&type=ws&sni=nl57.Vlessx.us#US🇺🇸
 
@@ -30,13 +30,13 @@ vless://c17ee8d1-c7a3-4666-83da-d923ae45c31d@ejoin-to.outline-vpn.cloud:443?path
 
 vless://8a19a5f0-40fc-45fa-8073-01a62c4d039c@de.melobigg.site:8443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=&sni=De.Melobigg.Site#US🇺🇸
 
-vless://8a19a5f0-40fc-45fa-8073-01a62c4d039c@zula.ir:8443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=&sni=De.Melobigg.Site#NL🇳🇱
+vless://8a19a5f0-40fc-45fa-8073-01a62c4d039c@zula.ir:8443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=&sni=De.Melobigg.Site#US🇺🇸
 
 vless://b282ff88-5f38-4fc4-a47b-2912ca067a78@fin.melobigg.site:443?mode=gun&security=tls&encryption=none&fp=chrome&type=grpc&serviceName=&sni=Fin.Melobigg.Site#NL🇳🇱
 
-vless://b282ff88-5f38-4fc4-a47b-2912ca067a78@zula.ir:443?mode=gun&security=tls&encryption=none&fp=chrome&type=grpc&serviceName=&sni=Fin.Melobigg.Site#US🇺🇸
+vless://b282ff88-5f38-4fc4-a47b-2912ca067a78@zula.ir:443?mode=gun&security=tls&encryption=none&fp=chrome&type=grpc&serviceName=&sni=Fin.Melobigg.Site#NL🇳🇱
 
-vless://a2dadb95-3f15-4e1c-b517-0b54c336a5fd@104.21.12.150:8443?path=/?ed=2048&security=tls&encryption=none&host=nl57.vlessx.us&fp=chrome&type=ws&sni=nl57.Vlessx.us#US🇺🇸
+vless://a2dadb95-3f15-4e1c-b517-0b54c336a5fd@104.21.12.150:8443?path=/?ed=2048&security=tls&encryption=none&host=nl57.vlessx.us&fp=chrome&type=ws&sni=nl57.Vlessx.us#CA🇨🇦
 
 vless://f553d0ca-701d-4f95-90e9-2851d055291e@16.16.199.98:8443?security=reality&encryption=none&pbk=GwQCySg9_ZMYlHEZM7RsEyNVXRV3BqZDpnFxKen6hgw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.makers.com&sid=3c#SE🇸🇪
 
@@ -67,18 +67,6 @@ vless://f553d0ca-701d-4f95-90e9-2851d055291e@16.16.142.250:8443?security=reality
 vless://f553d0ca-701d-4f95-90e9-2851d055291e@16.16.104.59:8443?security=reality&encryption=none&pbk=tGrs8b4e2d4c0iWiAOMeBLn6CmnULW2QPQ2-VF2F8Bc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.makers.com&sid=3c#SE🇸🇪
 
 vless://2a269c03-fd20-46e2-8464-60b10a244801@104.20.2.1:80?path=/dl/index.php&security=none&encryption=none&host=RFDJCK.سیسی.wOrLd&type=ws#CA🇨🇦
-
-vless://0210a826-d1b7-4643-e168-bae41070f946@de.melobigg.site:8443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=&sni=De.Melobigg.Site#NL🇳🇱
-
-vless://5839689f-f62e-4f61-b625-5a802ace197b@zula.ir:443?mode=gun&security=tls&encryption=none&fp=chrome&type=grpc&serviceName=&sni=Fin.Melobigg.Site#NL🇳🇱
-
-vless://0210a826-d1b7-4643-e168-bae41070f946@zula.ir:8443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=&sni=De.Melobigg.Site#NL🇳🇱
-
-vless://5839689f-f62e-4f61-b625-5a802ace197b@fin.melobigg.site:443?mode=gun&security=tls&encryption=none&fp=chrome&type=grpc&serviceName=&sni=Fin.Melobigg.Site#NL🇳🇱
-
-vless://a2dadb95-3f15-4e1c-b517-0b54c336a5fd@faav-join.outline-vpn.cloud:8443?path=/?ed=2048&security=tls&encryption=none&host=nl57.vlessx.us&fp=chrome&type=ws&sni=nl57.Vlessx.us#CA🇨🇦
-
-vless://c17ee8d1-c7a3-4666-83da-d923ae45c31d@ejoin-to.outline-vpn.cloud:443?path=/uorpws&security=tls&encryption=none&host=oniyx.fun&type=ws&sni=oniyx.fun#CA🇨🇦
 
 vless://18c51cf2-7b8d-41a1-9b53-70cbd8cde13d@proxystore11.ddns.net:2083?mode=multi&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=@proxystore11- @proxystoremt11 @proxystore11- @proxystoremt11 @proxystore11- @proxystoremt11&sni=km.proxystore11.site#CA🇨🇦
 
