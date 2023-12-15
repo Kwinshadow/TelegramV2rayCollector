@@ -54,7 +54,7 @@ vless://18f90f32-35de-443c-9169-bbc9c0bf1212@zssss-join.outline-vpn.cloud:4207?s
 
 vless://0850c3d6-2aba-49f3-de79-0589ef07cf9d@zula.ir:2083?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=&sni=De.Melobigg.Site#NL🇳🇱
 
-vless://0850c3d6-2aba-49f3-de79-0589ef07cf9d@metrix.anvary.ir:2083?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=&sni=De.Melobigg.Site#CA🇨🇦
+vless://0850c3d6-2aba-49f3-de79-0589ef07cf9d@metrix.anvary.ir:2083?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=&sni=De.Melobigg.Site#US🇺🇸
 
 vless://66d7c8ac-e7df-48ad-b4ec-b6df792f1ae2@zula.ir:2083?mode=gun&security=tls&encryption=none&fp=chrome&type=grpc&serviceName=&sni=Fin.Melobigg.Site#NL🇳🇱
 
@@ -90,6 +90,8 @@ vless://a2dadb95-3f15-4e1c-b517-0b54c336a5fd@104.21.12.150:8443?path=/?ed=2048&s
 
 vless://9471a858-a714-48d5-8dec-cb3a240de37f@173.245.59.145:2096?mode=gun&security=tls&encryption=none&fp=chrome&type=grpc&serviceName=azadi.DarkMood.cfd&sni=azadi.DarkMood.cfd#US🇺🇸
 
+vless://962a733d-2614-0b9b-7ffe-9ac92ffea8eb@prophetquran20.xyz:443?path=/current_time&security=tls&encryption=none&type=ws#CA🇨🇦
+
 vless://7bae8768-b725-4190-9cd4-2eedd5f63bfa@49.13.53.137:443?mode=gun&security=reality&encryption=none&pbk=0h2SZ3BIbcYUzJth9DH2XmRvibbDULonQAVhWHZHfEM&fp=firefox&spx=/&type=grpc&serviceName=@ipV2Ray&sni=greenpepper.ir&sid=f5361167#DE🇩🇪
 
 vmess://eyJhZGQiOiI5NC4xMzEuMTQuMTc3IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJsdDItdm1lc3Muc3NobWF4Lnh5eiIsImlkIjoiMmM1ZmVlMTMtZjA4Yi00YmE4LTg2ZGItMjdkZDUxY2I5NzgxIiwibmV0Ijoid3MiLCJwYXRoIjoiXC92bWVzcyIsInBvcnQiOiI4MCIsInBzIjoiTFRcdWQ4M2NcdWRkZjFcdWQ4M2NcdWRkZjkiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
@@ -107,8 +109,6 @@ vless://97d26fd0-e2ac-4b1f-a098-f422fc49bd30@188.114.96.7:443?path=/cypherpunks&
 vless://3c1395ac-0f01-45ff-b7be-fd3021914577@def.irimcs.org:2087?mode=gun&security=reality&encryption=none&pbk=nw5p42lKknkOxt2REHCHPwThSaNIqbwGrz5WNCfh9U4&fp=firefox&type=grpc&serviceName=@CatVpns&sni=greenpepper.ir&sid=df91#DE🇩🇪
 
 vless://66ebc306-da22-4805-95a2-d8bda84bfedc@128.140.125.127:443?mode=gun&security=reality&encryption=none&pbk=xq6RYOPcRTrtWBzj2q6iiecamHAREvsoffEgfgtgKm0&fp=firefox&type=grpc&serviceName=@flyv2ray&sni=greenpepper.ir&sid=15273896#DE🇩🇪
-
-vless://-MsV2ray--MsV2ray--MsV2ray-@de.MsV2ray.sbs:443?path=/&security=tls&encryption=none&host=ws.MsV2ray.sbs&type=ws&sni=ws.MsV2ray.sbs#CA🇨🇦
 
 vless://80e63c5f-e243-46f3-b099-4dd32174b597@proxystore11.ddns.net:2083?type=grpc&serviceName=@proxystore11- @proxystoremt11 @proxystore11- @proxystoremt11 @proxystore11- @proxystoremt11&mode=multi&security=tls&fp=chrome&alpn=h2,http/1.1&sni=km.proxystore11.site#CA🇨🇦
 
