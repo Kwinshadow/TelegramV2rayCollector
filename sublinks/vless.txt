@@ -24,7 +24,7 @@ vless://962a733d-2614-0b9b-7ffe-9ac92ffea8eb@kitab.fun:443?path=/current_time&se
 
 vless://45214389-8952-43a7-8e5e-4f1a5272a4f0@discord.com:443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=45138532&sni=2621377064.behmusic.store#US🇺🇸
 
-vless://82e578b7-839c-4887-9a0e-3c2823443e61@discord.gg:2053?mode=gun&security=tls&encryption=none&fp=firefox&type=grpc&serviceName=&sni=bashe.seyyedmt.shop#US🇺🇸
+vless://82e578b7-839c-4887-9a0e-3c2823443e61@discord.gg:2053?mode=gun&security=tls&encryption=none&fp=firefox&type=grpc&serviceName=&sni=bashe.seyyedmt.shop#CA🇨🇦
 
 vless://f553d0ca-701d-4f95-90e9-2851d055291e@16.170.40.168:8443?security=reality&encryption=none&pbk=dnpn5fETMfKuYviGyeS4ab6lfHIAagZuYzwEePaFsAg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.makers.com&sid=3c#SE🇸🇪
 
@@ -40,7 +40,7 @@ vless://18f90f32-35de-443c-9169-bbc9c0bf1212@zssss-join.outline-vpn.cloud:4207?s
 
 vless://0850c3d6-2aba-49f3-de79-0589ef07cf9d@zula.ir:2083?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=&sni=De.Melobigg.Site#NL🇳🇱
 
-vless://0850c3d6-2aba-49f3-de79-0589ef07cf9d@metrix.anvary.ir:2083?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=&sni=De.Melobigg.Site#US🇺🇸
+vless://0850c3d6-2aba-49f3-de79-0589ef07cf9d@metrix.anvary.ir:2083?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=&sni=De.Melobigg.Site#CA🇨🇦
 
 vless://66d7c8ac-e7df-48ad-b4ec-b6df792f1ae2@zula.ir:2083?mode=gun&security=tls&encryption=none&fp=chrome&type=grpc&serviceName=&sni=Fin.Melobigg.Site#NL🇳🇱
 
@@ -65,6 +65,16 @@ vless://f553d0ca-701d-4f95-90e9-2851d055291e@16.170.168.4:8443?security=reality&
 vless://f553d0ca-701d-4f95-90e9-2851d055291e@16.16.196.18:8443?security=reality&encryption=none&pbk=nHS7rVhmQO2L5y0yYy4CcjXxHo9RPlsw7WevjPe15jU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.makers.com&sid=3c#SE🇸🇪
 
 vless://f553d0ca-701d-4f95-90e9-2851d055291e@13.51.255.30:8443?security=reality&encryption=none&pbk=Ak0WggT4vbaUZTDgptngkGxlNrN1sHVQq-I8LjviNBE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.makers.com&sid=3c#SE🇸🇪
+
+vless://b282ff88-5f38-4fc4-a47b-2912ca067a78@fin.melobigg.site:443?mode=gun&security=tls&encryption=none&fp=chrome&type=grpc&serviceName=&sni=Fin.Melobigg.Site#NL🇳🇱
+
+vless://b282ff88-5f38-4fc4-a47b-2912ca067a78@zula.ir:443?mode=gun&security=tls&encryption=none&fp=chrome&type=grpc&serviceName=&sni=Fin.Melobigg.Site#NL🇳🇱
+
+vless://a2dadb95-3f15-4e1c-b517-0b54c336a5fd@104.21.12.150:8443?path=/?ed=2048&security=tls&encryption=none&host=nl57.vlessx.us&fp=chrome&type=ws&sni=nl57.Vlessx.us#CA🇨🇦
+
+vless://a2dadb95-3f15-4e1c-b517-0b54c336a5fd@104.21.12.150:8443?path=/?ed=2048&security=tls&encryption=none&host=nl57.vlessx.us&fp=chrome&type=ws&sni=nl57.Vlessx.us#CA🇨🇦
+
+vless://9471a858-a714-48d5-8dec-cb3a240de37f@173.245.59.145:2096?mode=gun&security=tls&encryption=none&fp=chrome&type=grpc&serviceName=azadi.DarkMood.cfd&sni=azadi.DarkMood.cfd#US🇺🇸
 
 vless://42fbd9d2-95ee-464c-9782-5edf7de59aee@77.91.84.45:17633?encryption=none&flow=xtls-rprx-vision&fp=chrome&headerType=none&pbk=WF6Czems3g-9PoEFQ6t115lLxgkLopXWf_dnI0GzFRA&security=reality&sid=b02754403563bf7b&sni=linuxfoundation.org&type=tcp#SE🇸🇪
 
