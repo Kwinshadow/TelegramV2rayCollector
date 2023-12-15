@@ -22,9 +22,9 @@ vless://962a733d-2614-0b9b-7ffe-9ac92ffea8eb@kitab.fun:443?path=/current_time&se
 
 vless://962a733d-2614-0b9b-7ffe-9ac92ffea8eb@kitab.fun:443?path=/current_time&security=tls&encryption=none&type=ws#US🇺🇸
 
-vless://45214389-8952-43a7-8e5e-4f1a5272a4f0@discord.com:443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=45138532&sni=2621377064.behmusic.store#INT🌍
+vless://45214389-8952-43a7-8e5e-4f1a5272a4f0@discord.com:443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=45138532&sni=2621377064.behmusic.store#US🇺🇸
 
-vless://82e578b7-839c-4887-9a0e-3c2823443e61@discord.gg:2053?mode=gun&security=tls&encryption=none&fp=firefox&type=grpc&serviceName=&sni=bashe.seyyedmt.shop#INT🌍
+vless://82e578b7-839c-4887-9a0e-3c2823443e61@discord.gg:2053?mode=gun&security=tls&encryption=none&fp=firefox&type=grpc&serviceName=&sni=bashe.seyyedmt.shop#US🇺🇸
 
 vless://f553d0ca-701d-4f95-90e9-2851d055291e@16.170.40.168:8443?security=reality&encryption=none&pbk=dnpn5fETMfKuYviGyeS4ab6lfHIAagZuYzwEePaFsAg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.makers.com&sid=3c#SE🇸🇪
 
@@ -40,7 +40,7 @@ vless://18f90f32-35de-443c-9169-bbc9c0bf1212@zssss-join.outline-vpn.cloud:4207?s
 
 vless://0850c3d6-2aba-49f3-de79-0589ef07cf9d@zula.ir:2083?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=&sni=De.Melobigg.Site#NL🇳🇱
 
-vless://0850c3d6-2aba-49f3-de79-0589ef07cf9d@metrix.anvary.ir:2083?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=&sni=De.Melobigg.Site#INT🌍
+vless://0850c3d6-2aba-49f3-de79-0589ef07cf9d@metrix.anvary.ir:2083?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=&sni=De.Melobigg.Site#US🇺🇸
 
 vless://66d7c8ac-e7df-48ad-b4ec-b6df792f1ae2@zula.ir:2083?mode=gun&security=tls&encryption=none&fp=chrome&type=grpc&serviceName=&sni=Fin.Melobigg.Site#NL🇳🇱
 
@@ -52,7 +52,7 @@ vless://376b9861-2fc6-4647-959c-18185cd9c95a@freeiranweb.ddns.net:443?path=/ffls
 
 vless://0850c3d6-2aba-49f3-de79-0589ef07cf9d@zula.ir:2083?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=&sni=De.Melobigg.Site#NL🇳🇱
 
-vless://0850c3d6-2aba-49f3-de79-0589ef07cf9d@metrix.anvary.ir:2083?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=&sni=De.Melobigg.Site#INT🌍
+vless://0850c3d6-2aba-49f3-de79-0589ef07cf9d@metrix.anvary.ir:2083?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=&sni=De.Melobigg.Site#US🇺🇸
 
 vless://66d7c8ac-e7df-48ad-b4ec-b6df792f1ae2@zula.ir:2083?mode=gun&security=tls&encryption=none&fp=chrome&type=grpc&serviceName=&sni=Fin.Melobigg.Site#NL🇳🇱
 
@@ -110,9 +110,9 @@ vless://f7f24441-1e13-40df-a247-b8c42085d7bf@time.cloudflare.com:8443?encryption
 
 vless://f7f24441-1e13-40df-a247-b8c42085d7bf@time.cloudflare.com:8880?encryption=none&security=tls&type=ws&sni=fine.sylar8.eu.org&host=fine.sylar8.eu.org&path=/?ed=2048#INT🌍
 
-vless://04a93bb8-0a5b-4aa8-ab7f-31fc7adab1c1@edgu.pureboy.eu.org:443?encryption=none&security=tls&type=ws&sni=edgu.pureboy.eu.org&host=edgu.pureboy.eu.org&path=/?ed=2048#INT🌍
+vless://04a93bb8-0a5b-4aa8-ab7f-31fc7adab1c1@edgu.pureboy.eu.org:443?encryption=none&security=tls&type=ws&sni=edgu.pureboy.eu.org&host=edgu.pureboy.eu.org&path=/?ed=2048#US🇺🇸
 
-vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@3k.pureboy.eu.org:443?encryption=none&security=tls&type=ws&sni=3k.pureboy.eu.org&host=3k.pureboy.eu.org&path=/?ed=2048#US🇺🇸
+vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@3k.pureboy.eu.org:443?encryption=none&security=tls&type=ws&sni=3k.pureboy.eu.org&host=3k.pureboy.eu.org&path=/?ed=2048#INT🌍
 
 vless://5801bce6-fc47-4978-841b-d8c4b0d158ce@kamyarservers.ddns.net:443/?type=grpc&serviceName=@configMs&security=reality&fp=firefox&pbk=bl_WgZJU4-XnjnZ1HWu6tAWaz8rvdgy2pGmaFpOgcQ0&sni=mihanyas.ir&sid=0960546b&spx=/#DE🇩🇪
 
