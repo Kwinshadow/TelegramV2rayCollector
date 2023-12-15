@@ -40,7 +40,7 @@ vless://18f90f32-35de-443c-9169-bbc9c0bf1212@zssss-join.outline-vpn.cloud:4207?s
 
 vless://0850c3d6-2aba-49f3-de79-0589ef07cf9d@zula.ir:2083?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=&sni=De.Melobigg.Site#NL🇳🇱
 
-vless://0850c3d6-2aba-49f3-de79-0589ef07cf9d@metrix.anvary.ir:2083?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=&sni=De.Melobigg.Site#INT🌍
+vless://0850c3d6-2aba-49f3-de79-0589ef07cf9d@metrix.anvary.ir:2083?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=&sni=De.Melobigg.Site#US🇺🇸
 
 vless://66d7c8ac-e7df-48ad-b4ec-b6df792f1ae2@zula.ir:2083?mode=gun&security=tls&encryption=none&fp=chrome&type=grpc&serviceName=&sni=Fin.Melobigg.Site#NL🇳🇱
 
@@ -90,6 +90,8 @@ vless://a2dadb95-3f15-4e1c-b517-0b54c336a5fd@faav-join.outline-vpn.cloud:8443?pa
 
 vless://c17ee8d1-c7a3-4666-83da-d923ae45c31d@ejoin-to.outline-vpn.cloud:443?path=/uorpws&security=tls&encryption=none&host=oniyx.fun&type=ws&sni=oniyx.fun#INT🌍
 
+vless://-MsV2ray--MsV2ray--MsV2ray-@de.MsV2ray.sbs:443?path=/&security=tls&encryption=none&host=ws.MsV2ray.sbs&type=ws&sni=ws.MsV2ray.sbs#INT🌍
+
 vless://83b93def-0ce5-484c-9c47-4732479e47cf@bb.amoozeshretina.sbs:8080?path=/&security=none&encryption=none&host=panel-032fegv.libraryriazi.sbs&type=ws#NL🇳🇱
 
 vless://18f90f32-35de-443c-9169-bbc9c0bf1212@zssss-join.outline-vpn.cloud:4207?security=reality&encryption=none&pbk=rH2rrsmWemGv7CYEXZ2M2okFaySGeDlCX-NPzX2zklI&headerType=none&fp=chrome&type=tcp&sni=github.io&sid=75fd99df8d52b214#FI🇫🇮
@@ -104,7 +106,7 @@ vless://66d7c8ac-e7df-48ad-b4ec-b6df792f1ae2@fin.melobigg.site:2083?mode=gun&sec
 
 vless://a2dadb95-3f15-4e1c-b517-0b54c336a5fd@faav-join.outline-vpn.cloud:8443?path=/?ed=2048&security=tls&encryption=none&host=nl57.vlessx.us&fp=chrome&type=ws&sni=nl57.Vlessx.us#INT🌍
 
-vless://376b9861-2fc6-4647-959c-18185cd9c95a@freeiranweb.ddns.net:443?path=/fflsws&security=tls&encryption=none&host=lmn59.sbs&type=ws&sni=lmn59.sbs#INT🌍
+vless://376b9861-2fc6-4647-959c-18185cd9c95a@freeiranweb.ddns.net:443?path=/fflsws&security=tls&encryption=none&host=lmn59.sbs&type=ws&sni=lmn59.sbs#US🇺🇸
 
 vless://599c49f8-38ef-45aa-89f4-44b935018588@bia_to_vmessorg.mokhin.me:80?path=/&security=none&encryption=none&host=join-bede.vmessorg.mokhin.me&type=ws#INT🌍
 
