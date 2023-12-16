@@ -146,6 +146,8 @@ trojan://telegram-id-privatevpns@18.168.11.214:22222?alpn=http/1.1&headerType=no
 
 trojan://telegram-id-privatevpns@18.171.93.134:22222?alpn=http/1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#GB🇬🇧
 
+vless://80e63c5f-e243-46f3-b099-4dd32174b597@eapanel.proxystore11.site:2083?type=grpc&serviceName=@proxystore11- @proxystoremt11 @proxystore11- @proxystoremt11 @proxystore11- @proxystoremt11&mode=multi&security=tls&fp=chrome&alpn=h2,http/1.1&sni=proxystore11.ddns.net#AT🇦🇹
+
 vless://80e63c5f-e243-46f3-b099-4dd32174b597@proxystore11.ddns.net:2083?type=grpc&serviceName=@proxystore11- @proxystoremt11 @proxystore11- @proxystoremt11 @proxystore11- @proxystoremt11&mode=multi&security=tls&fp=chrome&alpn=h2,http/1.1&sni=km.proxystore11.site#US🇺🇸
 
 vless://18c51cf2-7b8d-41a1-9b53-70cbd8cde13d@proxystore11.ddns.net:2083?mode=multi&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=@proxystore11- @proxystoremt11 @proxystore11- @proxystoremt11 @proxystore11- @proxystoremt11&sni=km.proxystore11.site#US🇺🇸
@@ -170,7 +172,7 @@ vless://f7f24441-1e13-40df-a247-b8c42085d7bf@time.cloudflare.com:8880?encryption
 
 vless://04a93bb8-0a5b-4aa8-ab7f-31fc7adab1c1@edgu.pureboy.eu.org:443?encryption=none&security=tls&type=ws&sni=edgu.pureboy.eu.org&host=edgu.pureboy.eu.org&path=/?ed=2048#US🇺🇸
 
-vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@3k.pureboy.eu.org:443?encryption=none&security=tls&type=ws&sni=3k.pureboy.eu.org&host=3k.pureboy.eu.org&path=/?ed=2048#INT🌍
+vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@3k.pureboy.eu.org:443?encryption=none&security=tls&type=ws&sni=3k.pureboy.eu.org&host=3k.pureboy.eu.org&path=/?ed=2048#US🇺🇸
 
 ss://YWVzLTI1Ni1nY206NVl5NDl0RllxQXYzZ1ppQ09CaWpBajFCOXFzUEpLbWlhMUU5cFByNnRYaFY@sh-cm.gou.wtf:37484#CN🇨🇳
 
