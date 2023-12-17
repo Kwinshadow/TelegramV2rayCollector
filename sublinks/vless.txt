@@ -64,9 +64,9 @@ vless://a802d038-eb2b-479c-afe7-8636f55ee771@fin.melobigg.site:2087?mode=gun&sec
 
 vless://45214389-8952-43a7-8e5e-4f1a5272a4f0@discord.com:443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=45138532&sni=2621377064.behmusic.store#INT🌍
 
-vless://962a733d-2614-0b9b-7ffe-9ac92ffea8eb@kitab.fun:443?path=/current_time&security=tls&encryption=none&type=ws#INT🌍
-
 vless://962a733d-2614-0b9b-7ffe-9ac92ffea8eb@kitab.fun:443?path=/current_time&security=tls&encryption=none&type=ws#US🇺🇸
+
+vless://962a733d-2614-0b9b-7ffe-9ac92ffea8eb@kitab.fun:443?path=/current_time&security=tls&encryption=none&type=ws#INT🌍
 
 vless://45214389-8952-43a7-8e5e-4f1a5272a4f0@discord.com:443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=45138532&sni=2621377064.behmusic.store#INT🌍
 
@@ -92,7 +92,7 @@ vless://89420825-e589-4735-bee1-6dc636fca343@w3.sylarsun.eu.org:443?encryption=n
 
 vless://dfb18c6f-731a-4898-a1c4-cc36c6055a90@w2.sylarsun.eu.org:443?encryption=none&security=tls&type=ws&sni=w2.sylarsun.eu.org&host=w2.sylarsun.eu.org&path=/?ed=2048#NL🇳🇱
 
-vless://29f8ad12-ea84-431b-bf32-9d3fb5cf2aa2@w1.sylar8.eu.org:443?encryption=none&security=tls&type=ws&sni=w1.sylar8.eu.org&host=w1.sylar8.eu.org&path=/?ed=2048#US🇺🇸
+vless://29f8ad12-ea84-431b-bf32-9d3fb5cf2aa2@w1.sylar8.eu.org:443?encryption=none&security=tls&type=ws&sni=w1.sylar8.eu.org&host=w1.sylar8.eu.org&path=/?ed=2048#INT🌍
 
 vless://853f7a50-4419-404f-bd00-8d7000403221@icook.hk:443?encryption=none&security=tls&type=ws&sni=t1.pureboy.eu.org&host=t1.pureboy.eu.org&path=/vls?ed=2048#NL🇳🇱
 
