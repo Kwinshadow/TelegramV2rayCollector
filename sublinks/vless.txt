@@ -26,7 +26,7 @@ vless://cd20a82c-8cc8-48bb-8866-0a2c6338a390@discord.com:443?mode=gun&security=t
 
 vless://7fa331af-750c-463a-bf28-913c8982f7e8@173.245.59.16:80?path=/backup&security=none&encryption=none&host=gAlIj7.dl-oNlINedoctoR.BiO&type=ws#US🇺🇸
 
-vless://e14b20c0-decf-473a-bd45-c853d6fbd470@104.25.254.88:8443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=&sni=b.mmd111.sbs#CA🇨🇦
+vless://e14b20c0-decf-473a-bd45-c853d6fbd470@104.25.254.88:8443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=&sni=b.mmd111.sbs#US🇺🇸
 
 vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@3k.pureboy.eu.org:443?path=/?ed=2048&security=tls&encryption=none&host=3k.pureboy.eu.org&type=ws&sni=3k.pureboy.eu.org#CA🇨🇦
 
@@ -46,9 +46,9 @@ vless://f553d0ca-701d-4f95-90e9-2851d055291e@13.48.131.97:8443?security=reality&
 
 vless://f553d0ca-701d-4f95-90e9-2851d055291e@16.171.66.249:8443?security=reality&encryption=none&pbk=-nWnfTJO3LQYnQwh4rY1_dmc9L2Tj-djGfGX-L9783w&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.mozorg.moz.works&sid=3c#SE🇸🇪
 
-vless://7ddf1a7b-3d86-4908-bef0-6e2ee635db5b@mci.divar.pro:80?path=/backup&security=none&encryption=none&host=vi2mTp.kasHTi.WoRLD&type=ws#US🇺🇸
+vless://7ddf1a7b-3d86-4908-bef0-6e2ee635db5b@mci.divar.pro:80?path=/backup&security=none&encryption=none&host=vi2mTp.kasHTi.WoRLD&type=ws#CA🇨🇦
 
-vless://3fa6ad85-97c5-4cb3-b758-f49e9f2be872@104.31.16.242:443?path=/?ed=2048&security=tls&encryption=none&host=bolbolvpn-join-us-1.rising-from-ashes.sbs&fp=chrome&type=ws&sni=bolbolvpn-join-us-1.rising-from-ashes.sbs#US🇺🇸
+vless://3fa6ad85-97c5-4cb3-b758-f49e9f2be872@104.31.16.242:443?path=/?ed=2048&security=tls&encryption=none&host=bolbolvpn-join-us-1.rising-from-ashes.sbs&fp=chrome&type=ws&sni=bolbolvpn-join-us-1.rising-from-ashes.sbs#CA🇨🇦
 
 vless://9dab2cf6-f5c3-4f20-dbfa-485623b76122@zula.ir:8443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=&sni=De.Melobigg.Site#NL🇳🇱
 
@@ -98,7 +98,7 @@ vless://95671424-6668-49f7-9d88-1661c2ca0d1c@104.20.184.151:2083?mode=gun&securi
 
 vless://95671424-6668-49f7-9d88-1661c2ca0d1c@freeee.vpngaming.shop:2083?mode=gun&security=tls&encryption=none&type=grpc&serviceName=&sni=FREE.vpngaming.shop#GB🇬🇧
 
-vless://962a733d-2614-0b9b-7ffe-9ac92ffea8eb@wikiquran07.world:443?path=/current_time&security=tls&encryption=none&type=ws#NL🇳🇱
+vless://962a733d-2614-0b9b-7ffe-9ac92ffea8eb@wikiquran07.world:443?path=/current_time&security=tls&encryption=none&type=ws#CA🇨🇦
 
 vless://SvnTeam@mtn.vpnprosec.com:2087?mode=gun&security=tls&encryption=none&type=grpc&serviceName=&sni=Grm.SvnNvs.Online#NL🇳🇱
 
