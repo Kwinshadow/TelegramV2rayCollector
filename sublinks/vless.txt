@@ -28,9 +28,9 @@ vless://7fa331af-750c-463a-bf28-913c8982f7e8@173.245.59.16:80?path=/backup&secur
 
 vless://e14b20c0-decf-473a-bd45-c853d6fbd470@104.25.254.88:8443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=&sni=b.mmd111.sbs#US🇺🇸
 
-vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@3k.pureboy.eu.org:443?path=/?ed=2048&security=tls&encryption=none&host=3k.pureboy.eu.org&type=ws&sni=3k.pureboy.eu.org#CA🇨🇦
+vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@3k.pureboy.eu.org:443?path=/?ed=2048&security=tls&encryption=none&host=3k.pureboy.eu.org&type=ws&sni=3k.pureboy.eu.org#US🇺🇸
 
-vless://376b9861-2fc6-4647-959c-18185cd9c95a@104.31.16.36:443?path=/fflsws&security=tls&encryption=none&host=lmn39.sbs&type=ws&sni=lmn39.sbs#CA🇨🇦
+vless://376b9861-2fc6-4647-959c-18185cd9c95a@104.31.16.36:443?path=/fflsws&security=tls&encryption=none&host=lmn39.sbs&type=ws&sni=lmn39.sbs#US🇺🇸
 
 vless://f553d0ca-701d-4f95-90e9-2851d055291e@13.51.250.7:8443?security=reality&encryption=none&pbk=lT_FKxwMBxlJD3sBkrsX1H2fNDvoYtzoV_dH_a7szSU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.mozorg.moz.works&sid=3c#SE🇸🇪
 
@@ -98,7 +98,7 @@ vless://95671424-6668-49f7-9d88-1661c2ca0d1c@104.20.184.151:2083?mode=gun&securi
 
 vless://95671424-6668-49f7-9d88-1661c2ca0d1c@freeee.vpngaming.shop:2083?mode=gun&security=tls&encryption=none&type=grpc&serviceName=&sni=FREE.vpngaming.shop#GB🇬🇧
 
-vless://962a733d-2614-0b9b-7ffe-9ac92ffea8eb@wikiquran07.world:443?path=/current_time&security=tls&encryption=none&type=ws#CA🇨🇦
+vless://962a733d-2614-0b9b-7ffe-9ac92ffea8eb@wikiquran07.world:443?path=/current_time&security=tls&encryption=none&type=ws#NL🇳🇱
 
 vless://SvnTeam@mtn.vpnprosec.com:2087?mode=gun&security=tls&encryption=none&type=grpc&serviceName=&sni=Grm.SvnNvs.Online#NL🇳🇱
 
