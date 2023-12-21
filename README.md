@@ -25,7 +25,7 @@ A Bot get config from updated telegram channel
 * Shadowrocket ( add sublink of encrypted file + use realdelay + sort by speed )
 
 # Our Telegram Bot
-* our telegram bot design to send configs fast and easy for how can't use sublinks <a href="https://t.me/RwinV2raybot">Bot-link</a>
+* our telegram bot design to send configs fast and easy for who can't use sublinks <a href="https://t.me/RwinV2raybot">Bot-link</a>
 
 # Channels we use 
 * nim_vpn_ir (1st)
