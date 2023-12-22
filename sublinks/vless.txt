@@ -32,11 +32,11 @@ vless://7e0d3dd7-64e6-4253-cb1f-def06bb55df4@speedtest.org:2087?mode=gun&securit
 
 vless://376b9861-2fc6-4647-959c-18185cd9c95a@104.31.16.36:443?path=/fflsws&security=tls&encryption=none&host=lmn39.sbs&type=ws&sni=lmn39.sbs#US🇺🇸
 
-vless://6e34f2c5-6c71-4010-c292-10d05ef4a9a2@190.93.247.14:443?path=/?ed=2048&security=tls&encryption=none&alpn=http/1.1&host=current.ircp.online&fp=chrome&type=ws&sni=current.ircp.online#US🇺🇸
+vless://6e34f2c5-6c71-4010-c292-10d05ef4a9a2@190.93.247.14:443?path=/?ed=2048&security=tls&encryption=none&alpn=http/1.1&host=current.ircp.online&fp=chrome&type=ws&sni=current.ircp.online#CR🇨🇷
 
 vless://29f8ad12-ea84-431b-bf32-9d3fb5cf2aa2@w1.sylar8.eu.org:443?path=/?ed=2048&security=tls&encryption=none&host=w1.sylar8.eu.org&type=ws&sni=w1.sylar8.eu.org#US🇺🇸
 
-vless://c17ee8d1-c7a3-4666-83da-d923ae45c31d@ejoin-to.outline-vpn.cloud:443?path=/uorpws&security=tls&encryption=none&host=oniyx.fun&type=ws&sni=oniyx.fun#CA🇨🇦
+vless://c17ee8d1-c7a3-4666-83da-d923ae45c31d@ejoin-to.outline-vpn.cloud:443?path=/uorpws&security=tls&encryption=none&host=oniyx.fun&type=ws&sni=oniyx.fun#US🇺🇸
 
 vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@104.21.28.62:443?path=/?ed=2048&security=tls&encryption=none&host=3k.pureboy.eu.org&type=ws&sni=3k.pureboy.eu.org#CA🇨🇦
 
@@ -112,6 +112,10 @@ vless://6e34f2c5-6c71-4010-c292-10d05ef4a9a2@190.93.247.14:443?path=/?ed=2048&se
 
 vless://29f8ad12-ea84-431b-bf32-9d3fb5cf2aa2@w1.sylar8.eu.org:443?path=/?ed=2048&security=tls&encryption=none&host=w1.sylar8.eu.org&type=ws&sni=w1.sylar8.eu.org#CA🇨🇦
 
+vless://4fe26c50-ca5b-41fe-b122-d7889636428b@free.pandavpn.tech:443?encryption=none&security=tls&sni=ccnq7x2adkjjmfgfw2lnckrrcx8xnghycqwiclkk7dydukphddkm3eyqlsftrev.30joz74wa.workers.Dev&type=ws&host=ccnq7x2adkjjmfgfw2lnckrrcx8xnghycqwiclkk7dydukphddkm3eyqlsftrev.30joz74wa.workers.Dev&path=Telegram#NL🇳🇱
+
+vless://5cc03a65-762b-470c-9154-85049c59efef@e.outlinekey.online:443?type=grpc&security=tls&serviceName=@Outlinev2rayNG,@Outlinev2rayNG&sni=uni.outlinekey.online#CA🇨🇦
+
 vless://484a47af-81ff-4d03-9c1c-a56c9a7d555b@e.outlinekey.online:443?type=grpc&security=tls&serviceName=@Outlinev2rayNG,@Outlinev2rayNG&sni=uni.outlinekey.online#CA🇨🇦
 
 vless://95616dce-98b9-42d6-be11-6f59fa3138fc@85.192.40.92:443?mode=gun&security=reality&encryption=none&pbk=XE3b2cF5enA1BY2KmyBrEH--hEAwufn9hqtFiG6WZhM&fp=firefox&spx=/&type=grpc&serviceName=@FNET00&sni=c.amazon-adsystem.com&sid=c1cfae3b#NL🇳🇱
@@ -136,13 +140,7 @@ vless://484a47af-81ff-4d03-9c1c-a56c9a7d555b@e.outlinekey.online:443?type=grpc&s
 
 vless://5cc03a65-762b-470c-9154-85049c59efef@e.outlinekey.online:443?type=grpc&security=tls&serviceName=@Outlinev2rayNG,@Outlinev2rayNG&sni=uni.outlinekey.online#CA🇨🇦
 
-vless://2de736fe-7939-497c-b665-7a1b6d086683@93.123.82.35:1402?security=none&encryption=none&host=datadoghq.com&headerType=http&type=tcp#CH🇨🇭
-
-vless://12bd2115-f2fd-4b7e-8fa2-1b147160bf68@93.123.82.35:2024?mode=multi&security=reality&encryption=none&pbk=iH1Jh_GnPn_ow26S_hzpMIqZqr6jNwvvPdm-5kS7tkc&fp=firefox&spx=/&type=grpc&serviceName=&sni=creativecommons.org&sid=b10d5c26#CH🇨🇭
-
-vless://4300463a-09d8-4670-a42c-7550b8849713@e.outlinekey.online:443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@Outlinev2rayNG,@Outlinev2rayNG&sni=uni.outlinekey.online#CA🇨🇦
-
-vless://ec41df06-68fe-41dc-9e52-257b40751c0c@proxystore11.kodaksho.eu.org:2087?path=@Proxystore11&security=tls&encryption=none&alpn=h2,http/1.1&host=km.proxystore11.site&fp=chrome&type=ws&sni=km.proxystore11.site#US🇺🇸
+vless://ec41df06-68fe-41dc-9e52-257b40751c0c@proxystore11.kodaksho.eu.org:2087?path=@Proxystore11&security=tls&encryption=none&alpn=h2,http/1.1&host=km.proxystore11.site&fp=chrome&type=ws&sni=km.proxystore11.site#CR🇨🇷
 
 vless://5f7428e7-c04a-415c-a52a-333a7ce02fbf@proxystore11.ddnsking.com:2083?mode=multi&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=@proxystore11- @proxystoremt11 @proxystore11- @proxystoremt11 @proxystore11- @proxystoremt11&sni=km.proxystore11.site#
 
