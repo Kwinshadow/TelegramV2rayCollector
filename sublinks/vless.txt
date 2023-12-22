@@ -30,23 +30,23 @@ vless://7e0d3dd7-64e6-4253-cb1f-def06bb55df4@zula.ir:2087?mode=gun&security=tls&
 
 vless://7e0d3dd7-64e6-4253-cb1f-def06bb55df4@speedtest.org:2087?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=&sni=De.Melobigg.Site#US🇺🇸
 
-vless://376b9861-2fc6-4647-959c-18185cd9c95a@104.31.16.36:443?path=/fflsws&security=tls&encryption=none&host=lmn39.sbs&type=ws&sni=lmn39.sbs#US🇺🇸
+vless://376b9861-2fc6-4647-959c-18185cd9c95a@104.31.16.36:443?path=/fflsws&security=tls&encryption=none&host=lmn39.sbs&type=ws&sni=lmn39.sbs#CA🇨🇦
 
-vless://6e34f2c5-6c71-4010-c292-10d05ef4a9a2@190.93.247.14:443?path=/?ed=2048&security=tls&encryption=none&alpn=http/1.1&host=current.ircp.online&fp=chrome&type=ws&sni=current.ircp.online#US🇺🇸
+vless://6e34f2c5-6c71-4010-c292-10d05ef4a9a2@190.93.247.14:443?path=/?ed=2048&security=tls&encryption=none&alpn=http/1.1&host=current.ircp.online&fp=chrome&type=ws&sni=current.ircp.online#CR🇨🇷
 
-vless://29f8ad12-ea84-431b-bf32-9d3fb5cf2aa2@w1.sylar8.eu.org:443?path=/?ed=2048&security=tls&encryption=none&host=w1.sylar8.eu.org&type=ws&sni=w1.sylar8.eu.org#US🇺🇸
+vless://29f8ad12-ea84-431b-bf32-9d3fb5cf2aa2@w1.sylar8.eu.org:443?path=/?ed=2048&security=tls&encryption=none&host=w1.sylar8.eu.org&type=ws&sni=w1.sylar8.eu.org#CA🇨🇦
 
 vless://c17ee8d1-c7a3-4666-83da-d923ae45c31d@ejoin-to.outline-vpn.cloud:443?path=/uorpws&security=tls&encryption=none&host=oniyx.fun&type=ws&sni=oniyx.fun#CA🇨🇦
 
-vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@104.21.28.62:443?path=/?ed=2048&security=tls&encryption=none&host=3k.pureboy.eu.org&type=ws&sni=3k.pureboy.eu.org#CA🇨🇦
+vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@104.21.28.62:443?path=/?ed=2048&security=tls&encryption=none&host=3k.pureboy.eu.org&type=ws&sni=3k.pureboy.eu.org#US🇺🇸
 
-vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@104.21.28.62:443?path=/?ed=2048&security=tls&encryption=none&host=3k.pureboy.eu.org&type=ws&sni=3k.pureboy.eu.org#CA🇨🇦
+vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@104.21.28.62:443?path=/?ed=2048&security=tls&encryption=none&host=3k.pureboy.eu.org&type=ws&sni=3k.pureboy.eu.org#US🇺🇸
 
 vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@172.67.170.103:443?path=/?ed=2048&security=tls&encryption=none&host=3k.pureboy.eu.org&type=ws&sni=3k.pureboy.eu.org#CA🇨🇦
 
-vless://376b9861-2fc6-4647-959c-18185cd9c95a@104.31.16.36:443?path=/fflsws&security=tls&encryption=none&host=lmn39.sbs&type=ws&sni=lmn39.sbs#CA🇨🇦
+vless://376b9861-2fc6-4647-959c-18185cd9c95a@104.31.16.36:443?path=/fflsws&security=tls&encryption=none&host=lmn39.sbs&type=ws&sni=lmn39.sbs#US🇺🇸
 
-vless://bf86d355-289a-455f-9b60-5e85f54bb83d@ip1.naylon.top:443?path=/&security=tls&encryption=none&host=bbbb.eshkinsike.click&type=ws&sni=bbbb.eshkinsike.click#CA🇨🇦
+vless://bf86d355-289a-455f-9b60-5e85f54bb83d@ip1.naylon.top:443?path=/&security=tls&encryption=none&host=bbbb.eshkinsike.click&type=ws&sni=bbbb.eshkinsike.click#US🇺🇸
 
 vless://acca9938-3695-43df-872a-9c7d2b11f3bd@104.21.20.148:8443?path=/&security=tls&encryption=none&host=felinetest.site&type=ws&sni=felinetest.site#CA🇨🇦
 
@@ -104,21 +104,13 @@ vless://7e0d3dd7-64e6-4253-cb1f-def06bb55df4@speedtest.org:2087?mode=gun&securit
 
 vless://757da0b4-dc0f-436a-80e3-eaf01a8ac07f@zula.ir:2087?mode=gun&security=tls&encryption=none&fp=chrome&type=grpc&serviceName=&sni=Fin.Melobigg.Site#NL🇳🇱
 
-vless://757da0b4-dc0f-436a-80e3-eaf01a8ac07f@fin.melobigg.site:2087?mode=gun&security=tls&encryption=none&fp=chrome&type=grpc&serviceName=&sni=Fin.Melobigg.Site#NL🇳🇱
+vless://757da0b4-dc0f-436a-80e3-eaf01a8ac07f@fin.melobigg.site:2087?mode=gun&security=tls&encryption=none&fp=chrome&type=grpc&serviceName=&sni=Fin.Melobigg.Site#CA🇨🇦
 
 vless://376b9861-2fc6-4647-959c-18185cd9c95a@104.31.16.36:443?path=/fflsws&security=tls&encryption=none&host=lmn39.sbs&type=ws&sni=lmn39.sbs#CA🇨🇦
 
 vless://6e34f2c5-6c71-4010-c292-10d05ef4a9a2@190.93.247.14:443?path=/?ed=2048&security=tls&encryption=none&alpn=http/1.1&host=current.ircp.online&fp=chrome&type=ws&sni=current.ircp.online#CR🇨🇷
 
 vless://29f8ad12-ea84-431b-bf32-9d3fb5cf2aa2@w1.sylar8.eu.org:443?path=/?ed=2048&security=tls&encryption=none&host=w1.sylar8.eu.org&type=ws&sni=w1.sylar8.eu.org#CA🇨🇦
-
-vless://4fe26c50-ca5b-41fe-b122-d7889636428b@free.pandavpn.tech:443?encryption=none&security=tls&sni=ccnq7x2adkjjmfgfw2lnckrrcx8xnghycqwiclkk7dydukphddkm3eyqlsftrev.30joz74wa.workers.Dev&type=ws&host=ccnq7x2adkjjmfgfw2lnckrrcx8xnghycqwiclkk7dydukphddkm3eyqlsftrev.30joz74wa.workers.Dev&path=Telegram#NL🇳🇱
-
-vless://5cc03a65-762b-470c-9154-85049c59efef@e.outlinekey.online:443?type=grpc&security=tls&serviceName=@Outlinev2rayNG,@Outlinev2rayNG&sni=uni.outlinekey.online#CA🇨🇦
-
-vless://484a47af-81ff-4d03-9c1c-a56c9a7d555b@e.outlinekey.online:443?type=grpc&security=tls&serviceName=@Outlinev2rayNG,@Outlinev2rayNG&sni=uni.outlinekey.online#CA🇨🇦
-
-vless://95616dce-98b9-42d6-be11-6f59fa3138fc@85.192.40.92:443?mode=gun&security=reality&encryption=none&pbk=XE3b2cF5enA1BY2KmyBrEH--hEAwufn9hqtFiG6WZhM&fp=firefox&spx=/&type=grpc&serviceName=@FNET00&sni=c.amazon-adsystem.com&sid=c1cfae3b#NL🇳🇱
 
 vless://ec41df06-68fe-41dc-9e52-257b40751c0c@proxystore11.kodaksho.eu.org:2087?path=@Proxystore11&security=tls&encryption=none&alpn=h2,http/1.1&host=km.proxystore11.site&fp=chrome&type=ws&sni=km.proxystore11.site#CR🇨🇷
 
@@ -138,7 +130,7 @@ vless://6f5d7ed2-cfdf-43a9-9b3e-4cb20d0afb29@kamyarservers.camdvr.org:443/?type=
 
 vless://205f3b7e-f044-454c-bac2-e452a779e128@kamyarservers.ddns.net:443/?type=grpc&serviceName=@configMs&security=reality&fp=firefox&pbk=bl_WgZJU4-XnjnZ1HWu6tAWaz8rvdgy2pGmaFpOgcQ0&sni=mihanyas.ir&sid=0960546b&spx=/#
 
-vless://SvnTeamm@mtn.vpnprosec.com:2087?mode=gun&security=tls&encryption=none&fp=chrome&type=grpc&serviceName=&sni=V2rayFnLnd.Mmdnet.Online#NL🇳🇱
+vless://SvnTeamm@mtn.vpnprosec.com:2087?mode=gun&security=tls&encryption=none&fp=chrome&type=grpc&serviceName=&sni=V2rayFnLnd.Mmdnet.Online#CA🇨🇦
 
 vless://bed8045b-97d6-4752-d67b-4f5ab4d6d126@sourceforge.net:2096?path=/TelegramHosseinStore_Za&security=tls&encryption=none&host=Vip.hsza.site&fp=firefox&type=ws&sni=Vip.hsza.site#CA🇨🇦
 
