@@ -26,13 +26,13 @@ vless://a1b395ea-5cf8-482e-a290-41ee5ea5b476@cufe.turk.coffee:80?path=/,Turk&sec
 
 vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@172.67.170.103:443?path=/?ed=2048&security=tls&encryption=none&host=3k.pureboy.eu.org&type=ws&sni=3k.pureboy.eu.org#US🇺🇸
 
-vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@104.21.28.62:443?path=/?ed&security=tls&encryption=none&host=3k.pureboy.eu.org&type=ws&sni=3k.pureboy.eu.org#CA🇨🇦
+vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@104.21.28.62:443?path=/?ed&security=tls&encryption=none&host=3k.pureboy.eu.org&type=ws&sni=3k.pureboy.eu.org#US🇺🇸
 
 vless://c17ee8d1-c7a3-4666-83da-d923ae45c31d@ejoin-to.outline-vpn.cloud:443?path=/uorpws&security=tls&encryption=none&host=oniyx.fun&type=ws&sni=oniyx.fun#US🇺🇸
 
 vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@172.67.170.103:443?path=/?ed=2048&security=tls&encryption=none&host=3k.pureboy.eu.org&type=ws&sni=3k.pureboy.eu.org#US🇺🇸
 
-vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@3k.pureboy.eu.org:443?path=/?ed=2048&security=tls&encryption=none&host=3k.pureboy.eu.org&type=ws&sni=3k.pureboy.eu.org#US🇺🇸
+vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@3k.pureboy.eu.org:443?path=/?ed=2048&security=tls&encryption=none&host=3k.pureboy.eu.org&type=ws&sni=3k.pureboy.eu.org#CA🇨🇦
 
 vless://376b9861-2fc6-4647-959c-18185cd9c95a@104.31.16.36:443?path=/fflsws&security=tls&encryption=none&host=lmn39.sbs&type=ws&sni=lmn39.sbs#CA🇨🇦
 
@@ -40,11 +40,11 @@ vless://c17ee8d1-c7a3-4666-83da-d923ae45c31d@ejoin-to.outline-vpn.cloud:443?path
 
 vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@172.67.170.103:443?path=/?ed=2048&security=tls&encryption=none&host=3k.pureboy.eu.org&type=ws&sni=3k.pureboy.eu.org#CA🇨🇦
 
-vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@3k.pureboy.eu.org:443?path=/?ed=2048&security=tls&encryption=none&host=3k.pureboy.eu.org&type=ws&sni=3k.pureboy.eu.org#US🇺🇸
+vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@3k.pureboy.eu.org:443?path=/?ed=2048&security=tls&encryption=none&host=3k.pureboy.eu.org&type=ws&sni=3k.pureboy.eu.org#CA🇨🇦
 
 vless://8925e44e-50d8-4054-aa43-3519119fe47b@dns4.nufilter.store:443?path=/&security=tls&encryption=none&host=mast.kanal-tel-nufilter.site&type=ws&sni=mast.kanal-tel-nufilter.site#CA🇨🇦
 
-vless://667c6c32-609f-4c08-9bdb-da6333f2a89b@a-ipclf.tabanweb.com:443?path=/apiapp&security=tls&encryption=none&host=vhapi124sh.vipluptvs.store&type=ws&sni=vhapi124sh.vipluptvs.store#CA🇨🇦
+vless://667c6c32-609f-4c08-9bdb-da6333f2a89b@a-ipclf.tabanweb.com:443?path=/apiapp&security=tls&encryption=none&host=vhapi124sh.vipluptvs.store&type=ws&sni=vhapi124sh.vipluptvs.store#US🇺🇸
 
 vless://376b9861-2fc6-4647-959c-18185cd9c95a@104.31.16.36:443?path=/fflsws&security=tls&encryption=none&host=lmn39.sbs&type=ws&sni=lmn39.sbs#CA🇨🇦
 
@@ -130,7 +130,7 @@ vless://070dc81a-6a1f-4f35-a99b-f6db27f872ed@77.105.139.69:443?type=tcp&encrypti
 
 vless://66dbd4c7-6866-4527-b923-d064431c8524@kv.randwicks.shop:2083?path=/action_page.php&security=tls&encryption=none&host=kv.randwicks.shop&fp=randomized&type=ws&sni=kv.randwicks.shop#CA🇨🇦
 
-vless://ec41df06-68fe-41dc-9e52-257b40751c0c@proxystore11.kodaksho.eu.org:2087?path=@Proxystore11&security=tls&encryption=none&alpn=h2,http/1.1&host=km.proxystore11.site&fp=chrome&type=ws&sni=km.proxystore11.site#US🇺🇸
+vless://ec41df06-68fe-41dc-9e52-257b40751c0c@proxystore11.kodaksho.eu.org:2087?path=@Proxystore11&security=tls&encryption=none&alpn=h2,http/1.1&host=km.proxystore11.site&fp=chrome&type=ws&sni=km.proxystore11.site#CR🇨🇷
 
 vless://5f7428e7-c04a-415c-a52a-333a7ce02fbf@proxystore11.ddnsking.com:2083?mode=multi&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=@proxystore11- @proxystoremt11 @proxystore11- @proxystoremt11 @proxystore11- @proxystoremt11&sni=km.proxystore11.site#
 
