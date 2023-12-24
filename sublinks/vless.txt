@@ -112,7 +112,7 @@ vless://070dc81a-6a1f-4f35-a99b-f6db27f872ed@77.105.139.69:443?type=tcp&encrypti
 
 vless://66dbd4c7-6866-4527-b923-d064431c8524@kv.randwicks.shop:2083?path=/action_page.php&security=tls&encryption=none&host=kv.randwicks.shop&fp=randomized&type=ws&sni=kv.randwicks.shop#CA🇨🇦
 
-vless://ec41df06-68fe-41dc-9e52-257b40751c0c@proxystore11.kodaksho.eu.org:2087?path=@Proxystore11&security=tls&encryption=none&alpn=h2,http/1.1&host=km.proxystore11.site&fp=chrome&type=ws&sni=km.proxystore11.site#US🇺🇸
+vless://ec41df06-68fe-41dc-9e52-257b40751c0c@proxystore11.kodaksho.eu.org:2087?path=@Proxystore11&security=tls&encryption=none&alpn=h2,http/1.1&host=km.proxystore11.site&fp=chrome&type=ws&sni=km.proxystore11.site#CR🇨🇷
 
 vless://5f7428e7-c04a-415c-a52a-333a7ce02fbf@proxystore11.ddnsking.com:2083?mode=multi&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=@proxystore11- @proxystoremt11 @proxystore11- @proxystoremt11 @proxystore11- @proxystoremt11&sni=km.proxystore11.site#
 
