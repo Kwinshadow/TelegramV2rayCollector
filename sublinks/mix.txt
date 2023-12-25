@@ -36,7 +36,7 @@ vless://1370ae3e-814f-4c48-9bd1-5c1fac65f0df@mci.hamrahdomains.lol:2053?path=/&s
 
 vless://8704372e-e6b6-44ed-d11d-35b77252ad12@okok.turk.coffee:80?path=/,Turk&security=none&encryption=none&type=ws#NL🇳🇱
 
-vless://fd464e65-799c-4d14-994e-6bb82aba0a55@cf.mitowear.com:443?path=/?ed=2048&security=tls&encryption=none&host=sweden-c8f4261f9f46e6465709e17ebea7a92b.mitowear.com&type=ws&sni=sweden-c8f4261f9f46e6465709e17ebea7a92b.mitowear.com#CA🇨🇦
+vless://fd464e65-799c-4d14-994e-6bb82aba0a55@cf.mitowear.com:443?path=/?ed=2048&security=tls&encryption=none&host=sweden-c8f4261f9f46e6465709e17ebea7a92b.mitowear.com&type=ws&sni=sweden-c8f4261f9f46e6465709e17ebea7a92b.mitowear.com#US🇺🇸
 
 vmess://eyJhZGQiOiJkYXFlaHdpdi5zaXRlIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJkYXFlaHdpdi5zaXRlIiwiaWQiOiI0ZmEzNWVhNC02NjhlLTRkN2ItOWJiYy1iODM2ODEwNjA2MTciLCJuZXQiOiJ3cyIsInBhdGgiOiJcL2t3aG12d3MiLCJwb3J0IjoiNDQzIiwicHMiOiJDQVx1ZDgzY1x1ZGRlOFx1ZDgzY1x1ZGRlNiIsInNjeSI6ImF1dG8iLCJzbmkiOiJkYXFlaHdpdi5zaXRlIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=
 
@@ -44,15 +44,15 @@ vless://04a93bb8-0a5b-4aa8-ab7f-31fc7adab1c1@edgu.pureboy.eu.org:443?path=/?ed=2
 
 vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@star---join.outline-vpn.cloud:443?path=/?ed=2048&security=tls&encryption=none&host=3k.pureboy.eu.org&type=ws&sni=3k.pureboy.eu.org#CA🇨🇦
 
-vless://04a93bb8-0a5b-4aa8-ab7f-31fc7adab1c1@edgu.pureboy.eu.org:443?path=/?ed=2048&security=tls&encryption=none&host=edgu.pureboy.eu.org&type=ws&sni=edgu.pureboy.eu.org#US🇺🇸
+vless://04a93bb8-0a5b-4aa8-ab7f-31fc7adab1c1@edgu.pureboy.eu.org:443?path=/?ed=2048&security=tls&encryption=none&host=edgu.pureboy.eu.org&type=ws&sni=edgu.pureboy.eu.org#CA🇨🇦
 
 vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@star---join.outline-vpn.cloud:443?path=/?ed=2048&security=tls&encryption=none&host=3k.pureboy.eu.org&type=ws&sni=3k.pureboy.eu.org#US🇺🇸
 
-vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@3k.pureboy.eu.org:443?path=/?ed=2048&security=tls&encryption=none&host=3k.pureboy.eu.org&type=ws&sni=3k.pureboy.eu.org#CA🇨🇦
+vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@3k.pureboy.eu.org:443?path=/?ed=2048&security=tls&encryption=none&host=3k.pureboy.eu.org&type=ws&sni=3k.pureboy.eu.org#US🇺🇸
 
 vless://29f8ad12-ea84-431b-bf32-9d3fb5cf2aa2@w1.sylar8.eu.org:443?path=/?ed=2048&security=tls&encryption=none&host=w1.sylar8.eu.org&type=ws&sni=w1.sylar8.eu.org#CA🇨🇦
 
-vless://8045f7cf-296d-46a6-e7d1-d2fe62cb93ee@zula.ir:8443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=&sni=De.Melobigg.Site#US🇺🇸
+vless://8045f7cf-296d-46a6-e7d1-d2fe62cb93ee@zula.ir:8443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=&sni=De.Melobigg.Site#NL🇳🇱
 
 vless://8045f7cf-296d-46a6-e7d1-d2fe62cb93ee@speedtest.org:8443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=&sni=De.Melobigg.Site#NL🇳🇱
 
@@ -134,15 +134,15 @@ vmess://eyJhZGQiOiJpbjgudWxpZmVhaS5jb20iLCJhaWQiOjAsImhvc3QiOiJpbjgudWxpZmVhaS5j
 
 vless://00b76294-c209-4321-8b71-16ad80dc6418@proxystore11.kodaksho.eu.org:2083?mode=multi&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=@proxystore11- @proxystoremt11 @proxystore11- @proxystoremt11 @proxystore11- @proxystoremt11&sni=km.proxystore11.site#CR🇨🇷
 
-vless://c0bcd5c0-331e-4105-ae9c-2d8d7e066eac@proxystore11.kodaksho.eu.org:2087?path=@Proxystore11&security=tls&encryption=none&alpn=h2,http/1.1&host=km.proxystore11.site&fp=chrome&type=ws&sni=km.proxystore11.site#US🇺🇸
+vless://c0bcd5c0-331e-4105-ae9c-2d8d7e066eac@proxystore11.kodaksho.eu.org:2087?path=@Proxystore11&security=tls&encryption=none&alpn=h2,http/1.1&host=km.proxystore11.site&fp=chrome&type=ws&sni=km.proxystore11.site#CR🇨🇷
 
-vless://ec41df06-68fe-41dc-9e52-257b40751c0c@proxystore11.kodaksho.eu.org:2087?path=@Proxystore11&security=tls&encryption=none&alpn=h2,http/1.1&host=km.proxystore11.site&fp=chrome&type=ws&sni=km.proxystore11.site#CR🇨🇷
+vless://ec41df06-68fe-41dc-9e52-257b40751c0c@proxystore11.kodaksho.eu.org:2087?path=@Proxystore11&security=tls&encryption=none&alpn=h2,http/1.1&host=km.proxystore11.site&fp=chrome&type=ws&sni=km.proxystore11.site#US🇺🇸
 
 vless://5f7428e7-c04a-415c-a52a-333a7ce02fbf@proxystore11.ddnsking.com:2083?mode=multi&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=@proxystore11- @proxystoremt11 @proxystore11- @proxystoremt11 @proxystore11- @proxystoremt11&sni=km.proxystore11.site#
 
 vmess://eyJ2IjoiMiIsInBzIjoiQ05cdWQ4M2NcdWRkZThcdWQ4M2NcdWRkZjMiLCJhZGQiOiJjbTEuYXdzbGNuLmluZm8iLCJwb3J0IjoiMjUyNTgiLCJpZCI6IjkzZWM3MjYxLTFjOTItNDE0OS04NDhhLTI2YjZmYjlmYzRjZSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiJjbTEuYXdzbGNuLmluZm8iLCJwYXRoIjoiXC8iLCJ0bHMiOiIiLCJzbmkiOiIifQ==
 
-trojan://93ec7261-1c92-4149-848a-26b6fb9fc4ce@in01.trojanyyds.xyz:443?allowInsecure=1#JP🇯🇵
+trojan://93ec7261-1c92-4149-848a-26b6fb9fc4ce@in01.trojanyyds.xyz:443?allowInsecure=1#HK🇭🇰
 
 trojan://57edfecf-5694-4a34-8072-54a4f0636a62@68.233.121.121:40004?allowInsecure=1#CA🇨🇦
 
