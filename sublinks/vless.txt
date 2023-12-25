@@ -22,7 +22,7 @@ vless://acca9938-3695-43df-872a-9c7d2b11f3bd@plus3---join.outline-vpn.cloud:8443
 
 vless://376b9861-2fc6-4647-959c-18185cd9c95a@104.31.16.36:443?path=/fflsws&security=tls&encryption=none&host=lmn39.sbs&type=ws&sni=lmn39.sbs#US🇺🇸
 
-vless://d8d98718-0181-4e73-9b1c-f3371cef094c@xio.vpnxw.eu.org:2086?path=/?ed=2048&security=none&encryption=none&host=deio.vpnxw.eu.org&type=ws#INT🌍
+vless://d8d98718-0181-4e73-9b1c-f3371cef094c@xio.vpnxw.eu.org:2086?path=/?ed=2048&security=none&encryption=none&host=deio.vpnxw.eu.org&type=ws#US🇺🇸
 
 vless://1370ae3e-814f-4c48-9bd1-5c1fac65f0df@mci.hamrahdomains.lol:2053?path=/&security=tls&encryption=none&host=mci.hamrahdomains.lol&type=ws&sni=mci.hamrahdomains.lol#US🇺🇸
 
@@ -34,7 +34,7 @@ vless://04a93bb8-0a5b-4aa8-ab7f-31fc7adab1c1@edgu.pureboy.eu.org:443?path=/?ed=2
 
 vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@star---join.outline-vpn.cloud:443?path=/?ed=2048&security=tls&encryption=none&host=3k.pureboy.eu.org&type=ws&sni=3k.pureboy.eu.org#US🇺🇸
 
-vless://04a93bb8-0a5b-4aa8-ab7f-31fc7adab1c1@edgu.pureboy.eu.org:443?path=/?ed=2048&security=tls&encryption=none&host=edgu.pureboy.eu.org&type=ws&sni=edgu.pureboy.eu.org#US🇺🇸
+vless://04a93bb8-0a5b-4aa8-ab7f-31fc7adab1c1@edgu.pureboy.eu.org:443?path=/?ed=2048&security=tls&encryption=none&host=edgu.pureboy.eu.org&type=ws&sni=edgu.pureboy.eu.org#INT🌍
 
 vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@star---join.outline-vpn.cloud:443?path=/?ed=2048&security=tls&encryption=none&host=3k.pureboy.eu.org&type=ws&sni=3k.pureboy.eu.org#US🇺🇸
 
@@ -68,7 +68,7 @@ vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@star--join.outline-vpn.cloud:443?pa
 
 vless://376b9861-2fc6-4647-959c-18185cd9c95a@32--join.outline-vpn.cloud:443?path=/fflsws&security=tls&encryption=none&host=lmn39.sbs&type=ws&sni=lmn39.sbs#INT🌍
 
-vless://04a93bb8-0a5b-4aa8-ab7f-31fc7adab1c1@edgu.pureboy.eu.org:443?path=/?ed=2048&security=tls&encryption=none&host=edgu.pureboy.eu.org&type=ws&sni=edgu.pureboy.eu.org#US🇺🇸
+vless://04a93bb8-0a5b-4aa8-ab7f-31fc7adab1c1@edgu.pureboy.eu.org:443?path=/?ed=2048&security=tls&encryption=none&host=edgu.pureboy.eu.org&type=ws&sni=edgu.pureboy.eu.org#INT🌍
 
 vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@star--join.outline-vpn.cloud:443?path=/?ed&security=tls&encryption=none&host=3k.pureboy.eu.org&type=ws&sni=3k.pureboy.eu.org#INT🌍
 
@@ -96,11 +96,11 @@ vless://66841b12-b6f4-4868-9785-729452a91a1b@104.16.155.121:8443?mode=gun&securi
 
 vless://070dc81a-6a1f-4f35-a99b-f6db27f872ed@77.105.139.69:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=canva.com&fp=firefox&security=reality&pbk=U9Lp63fsg-VZ2TTO1LxP9vvqefI0yf7czjUnbDsRYxM&sid=a2f341cf#NL🇳🇱
 
-vless://66dbd4c7-6866-4527-b923-d064431c8524@kv.randwicks.shop:2083?path=/action_page.php&security=tls&encryption=none&host=kv.randwicks.shop&fp=randomized&type=ws&sni=kv.randwicks.shop#INT🌍
+vless://66dbd4c7-6866-4527-b923-d064431c8524@kv.randwicks.shop:2083?path=/action_page.php&security=tls&encryption=none&host=kv.randwicks.shop&fp=randomized&type=ws&sni=kv.randwicks.shop#US🇺🇸
 
 vless://00b76294-c209-4321-8b71-16ad80dc6418@proxystore11.kodaksho.eu.org:2083?mode=multi&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=@proxystore11- @proxystoremt11 @proxystore11- @proxystoremt11 @proxystore11- @proxystoremt11&sni=km.proxystore11.site#CR🇨🇷
 
-vless://c0bcd5c0-331e-4105-ae9c-2d8d7e066eac@proxystore11.kodaksho.eu.org:2087?path=@Proxystore11&security=tls&encryption=none&alpn=h2,http/1.1&host=km.proxystore11.site&fp=chrome&type=ws&sni=km.proxystore11.site#CR🇨🇷
+vless://c0bcd5c0-331e-4105-ae9c-2d8d7e066eac@proxystore11.kodaksho.eu.org:2087?path=@Proxystore11&security=tls&encryption=none&alpn=h2,http/1.1&host=km.proxystore11.site&fp=chrome&type=ws&sni=km.proxystore11.site#US🇺🇸
 
 vless://ec41df06-68fe-41dc-9e52-257b40751c0c@proxystore11.kodaksho.eu.org:2087?path=@Proxystore11&security=tls&encryption=none&alpn=h2,http/1.1&host=km.proxystore11.site&fp=chrome&type=ws&sni=km.proxystore11.site#CR🇨🇷
 
