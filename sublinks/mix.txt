@@ -62,7 +62,7 @@ vless://e07b673a-9b23-4c86-a0b6-0b06219d8b66@www.mrzedmodeon.shop:2053?mode=gun&
 
 vless://376b9861-2fc6-4647-959c-18185cd9c95a@xax---join.outline-vpn.cloud:443?path=/fflsws&security=tls&encryption=none&host=lmn59.sbs&fp=chrome&type=ws&sni=lmn59.sbs#CA🇨🇦
 
-vless://49c7c89e-1805-4ade-f2b0-f6cb4bddce5a@okok.turk.coffee:80?path=/,Turk&security=none&encryption=none&type=ws#CA🇨🇦
+vless://49c7c89e-1805-4ade-f2b0-f6cb4bddce5a@okok.turk.coffee:80?path=/,Turk&security=none&encryption=none&type=ws#NL🇳🇱
 
 vless://520bb6ba-b207-4f20-b0dd-8250893461f2@fx-name.nv10.sbs:8443?path=Telegram: @V2ray_Alpha&security=tls&encryption=none&host=fx-alpha.nv10.sbs&fp=chrome&type=ws&sni=fx-alpha.nv10.sbs#US🇺🇸
 
@@ -152,9 +152,9 @@ vless://3a717129-4203-48b7-aeda-3376dc8776fb@sg3-full.privateip.net:443?type=ws&
 
 vless://bde7932e-8f52-4f7e-b92e-ad1cd0908784@sg2-full.privateip.net:443?type=ws&encryption=none&security=tls&path=/VLESS#SG🇸🇬
 
-vless://00437b8b-db9a-4662-b95c-af13dcba2924@proxystore11.kodaksho.eu.org:2083?type=grpc&serviceName=@proxystore11- @proxystoremt11 @proxystore11- @proxystoremt11 @proxystore11- @proxystoremt11&mode=multi&security=tls&fp=chrome&alpn=h2,http/1.1&sni=km.proxystore11.site#CR🇨🇷
+vless://00437b8b-db9a-4662-b95c-af13dcba2924@proxystore11.kodaksho.eu.org:2083?type=grpc&serviceName=@proxystore11- @proxystoremt11 @proxystore11- @proxystoremt11 @proxystore11- @proxystoremt11&mode=multi&security=tls&fp=chrome&alpn=h2,http/1.1&sni=km.proxystore11.site#US🇺🇸
 
-vless://60509aa8-9c2f-4425-a7d4-873a43ff398f@proxystore11.kodaksho.eu.org:2087?path=@Proxystore11&security=tls&encryption=none&alpn=h2,http/1.1&host=km.proxystore11.site&fp=chrome&type=ws&sni=km.proxystore11.site#US🇺🇸
+vless://60509aa8-9c2f-4425-a7d4-873a43ff398f@proxystore11.kodaksho.eu.org:2087?path=@Proxystore11&security=tls&encryption=none&alpn=h2,http/1.1&host=km.proxystore11.site&fp=chrome&type=ws&sni=km.proxystore11.site#CR🇨🇷
 
 vless://b1ea09e2-24d4-4607-8d0a-08812b7ffdb2@212.113.119.169:80?type=ws&path=/proxystore11&security=none#AT🇦🇹
 
