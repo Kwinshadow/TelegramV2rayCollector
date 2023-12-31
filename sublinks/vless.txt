@@ -32,7 +32,7 @@ vless://962a733d-2614-0b9b-7ffe-9ac92ffea8eb@sunnaquran05.xyz:443?path=/current_
 
 vless://29f8ad12-ea84-431b-bf32-9d3fb5cf2aa2@w1.sylar8.eu.org:443?path=/?ed=2048&security=tls&encryption=none&host=w1.sylar8.eu.org&type=ws&sni=w1.sylar8.eu.org#US🇺🇸
 
-vless://dfb18c6f-731a-4898-a1c4-cc36c6055a90@w2.sylarsun.eu.org:443?path=/?ed=2048&security=tls&encryption=none&host=w2.sylarsun.eu.org&type=ws&sni=w2.sylarsun.eu.org#NL🇳🇱
+vless://dfb18c6f-731a-4898-a1c4-cc36c6055a90@w2.sylarsun.eu.org:443?path=/?ed=2048&security=tls&encryption=none&host=w2.sylarsun.eu.org&type=ws&sni=w2.sylarsun.eu.org#US🇺🇸
 
 vless://89420825-e589-4735-bee1-6dc636fca343@w3.sylarsun.eu.org:443?path=/?ed=2048&security=tls&encryption=none&host=w3.sylarsun.eu.org&type=ws&sni=w3.sylarsun.eu.org#NL🇳🇱
 
@@ -122,11 +122,9 @@ vless://e472d68b-3a7c-4087-9915-f7323ab0bac7@ca-full.privateip.net:443?type=ws&e
 
 vless://1080dc55-ab9a-4cbc-92fe-b16cc0e289ba@au2-full.privateip.net:443?type=ws&encryption=none&security=tls&path=/vless#AU🇦🇺
 
-vless://d57cb801-7a36-469e-9e05-66f2dbd4f929@104.17.237.22:443?mode=multi&security=tls&encryption=none&alpn=h2&fp=chrome&type=grpc&akpn=@mehrosaboran,@mehrosaboran&serviceName=@Digiv2ray#CA🇨🇦
+vless://00437b8b-db9a-4662-b95c-af13dcba2924@proxystore11.kodaksho.eu.org:2083?type=grpc&serviceName=@proxystore11- @proxystoremt11 @proxystore11- @proxystoremt11 @proxystore11- @proxystoremt11&mode=multi&security=tls&fp=chrome&alpn=h2,http/1.1&sni=km.proxystore11.site#CR🇨🇷
 
-vless://00437b8b-db9a-4662-b95c-af13dcba2924@proxystore11.kodaksho.eu.org:2083?type=grpc&serviceName=@proxystore11- @proxystoremt11 @proxystore11- @proxystoremt11 @proxystore11- @proxystoremt11&mode=multi&security=tls&fp=chrome&alpn=h2,http/1.1&sni=km.proxystore11.site#US🇺🇸
-
-vless://60509aa8-9c2f-4425-a7d4-873a43ff398f@proxystore11.kodaksho.eu.org:2087?path=@Proxystore11&security=tls&encryption=none&alpn=h2,http/1.1&host=km.proxystore11.site&fp=chrome&type=ws&sni=km.proxystore11.site#US🇺🇸
+vless://60509aa8-9c2f-4425-a7d4-873a43ff398f@proxystore11.kodaksho.eu.org:2087?path=@Proxystore11&security=tls&encryption=none&alpn=h2,http/1.1&host=km.proxystore11.site&fp=chrome&type=ws&sni=km.proxystore11.site#CR🇨🇷
 
 vless://b1ea09e2-24d4-4607-8d0a-08812b7ffdb2@212.113.119.169:80?type=ws&path=/proxystore11&security=none#AT🇦🇹
 
@@ -150,7 +148,7 @@ vless://---Telegram-Parsashonam--22-@104.21.0.165:443?mode=gun&security=tls&encr
 
 vless://---Telegram-Parsashonam--21-@Zula.ir:443?mode=gun&security=tls&encryption=none&fp=chrome&type=grpc&serviceName=&sni=NEW1.Parsashonam.TECH#NL🇳🇱
 
-vless://---Telegram-Parsashonam--10-@104.21.0.165:2083?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=@Parsashonam&sni=NEW0.Parsashonam.TECH#CA🇨🇦
+vless://---Telegram-Parsashonam--10-@104.21.0.165:2083?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=@Parsashonam&sni=NEW0.Parsashonam.TECH#INT🌍
 
 vless://---Telegram-Parsashonam--10-@zula.ir:2083?mode=gun&security=tls&encryption=none&fp=chrome&type=grpc&serviceName=@Parsashonam&sni=NEW0.Parsashonam.TECH#NL🇳🇱
 
