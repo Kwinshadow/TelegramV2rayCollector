@@ -106,6 +106,8 @@ vless://dfb18c6f-731a-4898-a1c4-cc36c6055a90@w2.sylarsun.eu.org:443?path=/?ed=20
 
 vless://89420825-e589-4735-bee1-6dc636fca343@w3.sylarsun.eu.org:443?path=/?ed=2048&security=tls&encryption=none&host=w3.sylarsun.eu.org&type=ws&sni=w3.sylarsun.eu.org#US🇺🇸
 
+vless://76da71c7-6d5a-4a46-806a-3b7bbac87dd5@cdf.filtering-69.shop:443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@Filtering_69&sni=cdf.filtering-69.shop#US🇺🇸
+
 vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@104.17.11.11:443?path=/?ed=2048&security=tls&encryption=none&host=3k.pureboy.eu.org&type=ws&sni=3k.pureboy.eu.org#US🇺🇸
 
 vless://944d2985-ab26-4736-b53e-b872344f99d7@e.outlinekey.online:443?type=grpc&security=tls&serviceName=@Outlinev2rayNG,@Outlinev2rayNG&sni=uni.outlinekey.online#US🇺🇸
