@@ -120,8 +120,6 @@ vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@104.21.28.62:443?sni=3k.pureboy.eu.
 
 vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@104.24.188.54:443?path=/?ed=2048/@https_config_injector&security=tls&encryption=none&host=3k.pureboy.eu.org&fp=chrome&type=ws&sni=3k.pureboy.eu.org#US🇺🇸
 
-vless://6e34f2c5-6c71-4010-c292-10d05ef4a9a2@172.66.209.117:443?path=/?ed=2048&security=tls&encryption=none&alpn=http/1.1&host=current.ircp.online&fp=chrome&type=ws&sni=current.ircp.online#US🇺🇸
-
 vless://52c608ee-4877-45fe-b018-7829bc77b128@104.16.243.38:2096?path=vless-ws/?ed=2048&security=tls&encryption=none&alpn=h2,http/1.1&host=proxystore11.EU.org&fp=safari&type=ws&sni=proxystore11.EU.org#US🇺🇸
 
 vless://00437b8b-db9a-4662-b95c-af13dcba2924@proxystore11.kodaksho.eu.org:2083?type=grpc&serviceName=@proxystore11- @proxystoremt11 @proxystore11- @proxystoremt11 @proxystore11- @proxystoremt11&mode=multi&security=tls&fp=chrome&alpn=h2,http/1.1&sni=km.proxystore11.site#CR🇨🇷
