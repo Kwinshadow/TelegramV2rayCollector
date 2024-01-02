@@ -100,6 +100,14 @@ vless://962a733d-2614-0b9b-7ffe-9ac92ffea8eb@aliquran24.xyz:443?path=/current_ti
 
 vless://ee6f433b-8ece-4948-8b71-a0c34db496d4@vip.cdn2cdn.com:443?path=/kmhows&security=tls&encryption=none&host=cdn12.gsmvp.com&fp=chrome&type=ws&sni=cdn12.gsmvp.com#US🇺🇸
 
+vless://56941a54-a867-4c85-b920-f754e409b35c@jp-full.privateip.net:2003?type=grpc&encryption=none&security=tls&path=/&serviceName=GRPC&mode=gun#JP🇯🇵
+
+vless://SvnTeam@mtn.vpnprosec.com:443?type=grpc&serviceName=&security=tls&fp=firefox&alpn=http/1.1,h2&sni=WebSite.agV2raYes.Top#US🇺🇸
+
+vless://56941a54-a867-4c85-b920-f754e409b35c@jp-full.privateip.net:443?type=ws&encryption=none&security=tls&path=/VLESS#JP🇯🇵
+
+vless://56941a54-a867-4c85-b920-f754e409b35c@jp-full.privateip.net:443?type=tcp&encryption=none&security=tls&path=/&flow=xtls-rprx-vision#JP🇯🇵
+
 vless://472a983c-9d2b-47dc-f1c0-8ad88bdaf6a2@104.31.16.250:443?mode=gun&security=tls&encryption=none&alpn=h2&fp=chrome&type=grpc&serviceName=@bored_vpn,#US🇺🇸
 
 vless://106967f7-6def-4ad7-bf1a-80ada6f3cbe2@103.160.204.170:2083?mode=gun&security=tls&encryption=none&fp=chrome&type=grpc&serviceName=@bored_vpn,#HK🇭🇰
@@ -123,12 +131,6 @@ vless://V2ORG@45.8.104.193:8880?path=/&security=none&encryption=none&host=cnl.mr
 vless://2e3da648-7ad4-498a-a0be-5a89d2def0bc@104.25.190.19:8443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=@NPV_V2RAY#US🇺🇸
 
 vless://e1a928be-e289-4aef-b92e-4106fabdf42f@k---join.outline-vpn.cloud:80?path=/?ed=2048&security=none&encryption=none&host=mahi.kosnanatfilterchi.eu.org&type=ws#US🇺🇸
-
-vless://a1fc8ed3-751a-444d-a4db-f1ac2f21f835@sei4ntaf8ert.arqavani.cfd:2096?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=safari&type=grpc&serviceName=#US🇺🇸
-
-vless://bec837a6-4318-44d3-8554-3db6ddeec03c@sei4ntaf8ert.arqavani.cfd:2096?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=safari&type=grpc&serviceName=#US🇺🇸
-
-vless://V2ORG@45.8.104.193:2083?mode=multi&security=tls&encryption=none&alpn=h2&fp=safari&type=grpc&serviceName=@V2ORG,@V2ORG&sni=cnl.mrv2ray.com#DE🇩🇪
 
 vless://e1a928be-e289-4aef-b92e-4106fabdf42f@173.245.58.31:80?path=/?ed=2048&security=none&encryption=none&host=mahi.kosnanatfilterchi.eu.org&type=ws#US🇺🇸
 
@@ -171,4 +173,8 @@ vless://---Telegram-Parsashonam--21-@Zula.ir:443?mode=gun&security=tls&encryptio
 vless://---Telegram-Parsashonam--10-@104.21.0.165:2083?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=@Parsashonam&sni=NEW0.Parsashonam.TECH#US🇺🇸
 
 vless://---Telegram-Parsashonam--10-@zula.ir:2083?mode=gun&security=tls&encryption=none&fp=chrome&type=grpc&serviceName=@Parsashonam&sni=NEW0.Parsashonam.TECH#US🇺🇸
+
+vless://---Telegram-Parsashonam--21-@Zula.ir:443?type=grpc&serviceName=&security=tls&fp=chrome&alpn=&sni=NEW1.Parsashonam.TECH#US🇺🇸
+
+vless://---Telegram-Parsashonam--9-@zula.ir:2083?mode=gun&security=tls&encryption=none&fp=firefox&type=grpc&serviceName=@Parsashonam&sni=NEW0.Parsashonam.TECH#US🇺🇸
 
