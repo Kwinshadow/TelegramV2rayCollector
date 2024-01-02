@@ -106,6 +106,8 @@ vless://dfb18c6f-731a-4898-a1c4-cc36c6055a90@w2.sylarsun.eu.org:443?path=/?ed=20
 
 vless://89420825-e589-4735-bee1-6dc636fca343@w3.sylarsun.eu.org:443?path=/?ed=2048&security=tls&encryption=none&host=w3.sylarsun.eu.org&type=ws&sni=w3.sylarsun.eu.org#US🇺🇸
 
+vless://db559f5a-fb84-4363-8072-2fdaeaa059a5@cdnjs.com:8880?path=/&security=none&encryption=none&host=ux.sourceforge.fun&type=ws#US🇺🇸
+
 vless://5e06c966-12b8-4382-831f-41eea83de94c@join_bede1.vmessorg.shop:80?encryption=none&security=none&type=ws&host=join_bede.vmessorg.shop&path=/#
 
 vless://37998561-27ab-45bb-8d25-a257e533afb3@bia_to1.vmessorg.shop:80?encryption=none&security=none&type=ws&host=joinbede.vmessorg.shop&path=/#
@@ -113,10 +115,6 @@ vless://37998561-27ab-45bb-8d25-a257e533afb3@bia_to1.vmessorg.shop:80?encryption
 vless://b2ba3069-9ae3-401d-9774-ee24a31bcef5@join_bede1.vmessorg.shop:80?encryption=none&security=none&type=ws&host=join_bede.vmessorg.shop&path=/#
 
 vless://2e3da648-7ad4-498a-a0be-5a89d2def0bc@zula.ir:8443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=@NPV_V2RAY#US🇺🇸
-
-vless://c76903f0-bc18-42e8-b026-20fd8fddb777@116.203.184.23:2096?sni=sourceforge.net&sid=27e75589&mode=gun&security=reality&encryption=none&serviceName=ZEDODEON&fp=chrome&type=grpc&spx=/&pbk=zN9DTHpP4CCxpOw4abbvFkQTSIir7Fr9Dl1Uxd3j1BM#DE🇩🇪
-
-vless://5f75c7d3-446e-40c3-b5bf-da7f30857ee9@104.25.6.5:2087?mode=gun&security=tls&encryption=none&alpn=http/1.1&fp=chrome&type=grpc&serviceName=@AFC_vpn.@AFC_vpn.@AFC_vpn&sni=suping2.snapppfood.sbs#US🇺🇸
 
 vless://52c608ee-4877-45fe-b018-7829bc77b128@104.16.243.38:2096?path=vless-ws/?ed=2048&security=tls&encryption=none&alpn=h2,http/1.1&host=proxystore11.EU.org&fp=safari&type=ws&sni=proxystore11.EU.org#US🇺🇸
 
