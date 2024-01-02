@@ -110,6 +110,8 @@ vless://dfb18c6f-731a-4898-a1c4-cc36c6055a90@w2.sylarsun.eu.org:443?path=/?ed=20
 
 vless://89420825-e589-4735-bee1-6dc636fca343@w3.sylarsun.eu.org:443?path=/?ed=2048&security=tls&encryption=none&host=w3.sylarsun.eu.org&type=ws&sni=w3.sylarsun.eu.org#US🇺🇸
 
+vless://b7796b2d-0447-47bb-a2fd-b7aca7ddfef5@v2ray.vpremiumservice.shop:11087?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#IR🇮🇷
+
 vless://6f549c04-8fc3-4885-8cdf-c2492c0bf257@206.238.236.11:8443?mode=gun&security=tls&encryption=none&fp=chrome&type=grpc&serviceName=freevpn&sni=yalda20232912.freedns.site#HK🇭🇰
 
 vless://e1a928be-e289-4aef-b92e-4106fabdf42f@173.245.58.31:80?path=/?ed=2048&security=none&encryption=none&host=mahi.kosnanatfilterchi.eu.org&type=ws#US🇺🇸
