@@ -114,6 +114,18 @@ vless://962a733d-2614-0b9b-7ffe-9ac92ffea8eb@aliquran24.xyz:443?path=/current_ti
 
 vless://ee6f433b-8ece-4948-8b71-a0c34db496d4@vip.cdn2cdn.com:443?path=/kmhows&security=tls&encryption=none&host=cdn12.gsmvp.com&fp=chrome&type=ws&sni=cdn12.gsmvp.com#US🇺🇸
 
+vless://472a983c-9d2b-47dc-f1c0-8ad88bdaf6a2@104.31.16.250:443?mode=gun&security=tls&encryption=none&alpn=h2&fp=chrome&type=grpc&serviceName=@bored_vpn,#US🇺🇸
+
+vless://106967f7-6def-4ad7-bf1a-80ada6f3cbe2@103.160.204.170:2083?mode=gun&security=tls&encryption=none&fp=chrome&type=grpc&serviceName=@bored_vpn,#HK🇭🇰
+
+vless://106967f7-6def-4ad7-bf1a-80ada6f3cbe2@173.245.58.31:2083?mode=gun&security=tls&encryption=none&fp=chrome&type=grpc&serviceName=@bored_vpn,#US🇺🇸
+
+vless://SvnTeam@mtn.vpnprosec.com:443?type=grpc&serviceName=&security=tls&fp=firefox&alpn=http/1.1,h2&sni=WebSite.agV2raYes.Top#US🇺🇸
+
+vmess://eyJhZGQiOiJub2R5LmlyIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJkZTMuYmlxaWJhby5zaXRlIiwiaWQiOiJmNjgyYmY0Yi00NGNhLTRiMzctODdhMi03NWU0NDhjZGZlYjQiLCJuZXQiOiJ3cyIsInBhdGgiOiJcL3B1YmxpYyIsInBvcnQiOiIyMDUyIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiIsInBzIjoiVVNcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjgifQ==
+
+vmess://eyJhZGQiOiJzcGVlZC5ub3ZpbndlYi5zaG9wIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJzZXJ2ZXItNDMxNy5wcm9kLmhvc3RzLm9va2xhc2VydmVyLm5ldCIsImlkIjoiYjgwZDNlNGEtNjcyMS00Mjc0LWI1ODAtOWUxYzY0OTEzN2ZjIiwibmV0IjoidGNwIiwicGF0aCI6IlwvZG93bmxvYWQsIFwvdXBsb2FkIiwicG9ydCI6IjgwODAiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiIsInBzIjoiRklcdWQ4M2NcdWRkZWJcdWQ4M2NcdWRkZWUifQ==
+
 vless://0ae932ed-a628-4953-9397-4710a01e783a@104.18.202.212:443?mode=multi&security=tls&encryption=none&alpn=h2&fp=chrome&type=grpc&serviceName=@VPNCUSTOMIZE&sni=KingSpeedV2rayng.VPNCUSTOMIZE.tech#US🇺🇸
 
 vmess://eyJhZGQiOiIxOTUuODUuNTkuMTYxIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJtZ3Rvd19jZG4ueXVuamlzdWFuLmNmIiwiaWQiOiI2MzExZjA1Yi01MjA3LTRjZTYtODZlYS1lYmU4ZDk4MTE0OTEiLCJuZXQiOiJ3cyIsInBhdGgiOiJcLyIsInBvcnQiOiIyMDgyIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiIsInBzIjoiQ1lcdWQ4M2NcdWRkZThcdWQ4M2NcdWRkZmUifQ==
@@ -149,22 +161,6 @@ vmess://eyJhZGQiOiIxMDQuMjEuMjguNjMiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9z
 vmess://eyJhZGQiOiIxMDQuMTguMjAyLjIxMiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0Ijoid2ViLXdzLmRycy5sb2wiLCJpZCI6IlRlbGVncmFtLVYycmF5X2FscGhhIiwibmV0Ijoid3MiLCJwYXRoIjoiXC8/ZWQ9MjA0OCIsInBvcnQiOiI4MCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIiLCJwcyI6IlVTXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4In0=
 
 vmess://eyJhZGQiOiIxMDQuMTguMjAyLjIxMiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0Ijoia2FuYWwtdGVsLmZyZWV2MmFscGhhLmNmZCIsImlkIjoiVGVsZWdyYW0tVjJyYXlfYWxwaGEiLCJuZXQiOiJ3cyIsInBhdGgiOiJcLz9lZD0yMDQ4IiwicG9ydCI6IjgwIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiIsInBzIjoiVVNcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjgifQ==
-
-vmess://eyJhZGQiOiJwbGEueWoyMDIyLmdxIiwiYWlkIjoiMCIsImhvc3QiOiJwbGEueWoyMDIyLmdxIiwiaWQiOiI0YjVlNDU2NS0zMjJmLTQyMjMtYTg5MS03OGE4NGYxODk3MjYiLCJuZXQiOiJ3cyIsInBhdGgiOiJcL3I4eWt3aWY1cmZmaXFKZUo0OXpMUXRBVUVTbWthN1BiaFd6M3dpSHM4Y1NlaVJ5WkwiLCJwb3J0IjoiODg4MCIsInBzIjoiVVNcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjgiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
-
-vmess://eyJhZGQiOiIxMDkuMTIzLjIzMC4xNTciLCJhaWQiOiIwIiwiaG9zdCI6ImludGVybmV0LmxpZmUuY29tLmJ5IiwiaWQiOiI1OTUxN2UwYi1hZTFjLTQxZDMtOWM0NC1jNDRjZWE2Zjc1NDYiLCJuZXQiOiJ3cyIsInBhdGgiOiJcL3Rha2VzaGkud2lraSIsInBvcnQiOiI4MCIsInBzIjoiSlBcdWQ4M2NcdWRkZWZcdWQ4M2NcdWRkZjUiLCJzY3kiOiJhdXRvIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOjJ9
-
-vmess://eyJhZGQiOiJyYWNrbmVyZC5nb3Jnb3JjaGlja2VuLm9uZSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoicmFja25lcmQuZ29yZ29yY2hpY2tlbi5vbmUiLCJpZCI6IjFkZjBhNmNhLTU4MTItNGJjZS1kZGIxLTljZDU1NDhmNDkxOSIsIm5ldCI6IndzIiwicGF0aCI6IlwvcmFja25lcmQiLCJwb3J0IjoiODQ0MyIsInBzIjoiVVNcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjgiLCJzY3kiOiJhdXRvIiwic25pIjoicmFja25lcmQuZ29yZ29yY2hpY2tlbi5vbmUiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ==
-
-vmess://eyJhZGQiOiJ2bjcuNWdzaWV1dG9jZG8uY29tIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJsaWVucXVhbi5nYXJlbmEudm4iLCJpZCI6ImM5NTM1N2ViLTI4NjktNDUxMS04OTQwLWYwZGM1ZTFlYzliMSIsIm5ldCI6IndzIiwicGF0aCI6IlwvNWdzaWV1dG9jZG8uY2x1YiIsInBvcnQiOiI4MCIsInBzIjoiVk5cdWQ4M2NcdWRkZmJcdWQ4M2NcdWRkZjMiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
-
-vmess://eyJhZGQiOiIxMDQuMjcuMTAyLjEwNSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiQmlhLXRlbC5mcmVldjJhbHBoYS5jZmQiLCJpZCI6IlRlbGVncmFtLVYycmF5X2FscGhhIiwibmV0Ijoid3MiLCJwYXRoIjoiXC8/ZWQ9MjA0OCIsInBvcnQiOiI4MDgwIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiIsInBzIjoiVVNcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjgifQ==
-
-vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@188.114.96.18:443?path=/?ed=2048&security=tls&encryption=none&host=3k.pureboy.eu.org&type=ws&sni=3k.pureboy.eu.org#US🇺🇸
-
-vless://b93adadb-4bd4-4d0e-985c-4584c3e4f6d9@V2ray.motorcycles:2087?path=/&security=tls&encryption=none&host=FreeV2rayng.SHHPROXY.monster&type=ws&sni=FreeV2rayng.SHHPROXY.monster#CR🇨🇷
-
-vmess://eyJhZGQiOiJjbS0wMy56aHVhbmZhLmxpbmsiLCJhaWQiOjAsImlkIjoiNjVkNzliZTMtNzMyNy00NWY4LTg2ZmMtYmQ3ZjI3OTQ4ZWVjIiwibmV0IjoidGNwIiwicG9ydCI6NDU4MjYsInNjeSI6ImFlcy0xMjgtZ2NtIiwidGxzIjoibm9uZSIsInR5cGUiOiJub25lIiwidiI6MiwicHMiOiJDTlx1ZDgzY1x1ZGRlOFx1ZDgzY1x1ZGRmMyJ9
 
 vless://e1a928be-e289-4aef-b92e-4106fabdf42f@173.245.58.31:80?path=/?ed=2048&security=none&encryption=none&host=mahi.kosnanatfilterchi.eu.org&type=ws#US🇺🇸
 
@@ -235,8 +231,4 @@ vless://---Telegram-Parsashonam--21-@Zula.ir:443?mode=gun&security=tls&encryptio
 vless://---Telegram-Parsashonam--10-@104.21.0.165:2083?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=@Parsashonam&sni=NEW0.Parsashonam.TECH#US🇺🇸
 
 vless://---Telegram-Parsashonam--10-@zula.ir:2083?mode=gun&security=tls&encryption=none&fp=chrome&type=grpc&serviceName=@Parsashonam&sni=NEW0.Parsashonam.TECH#US🇺🇸
-
-vless://---Telegram-Parsashonam--21-@Zula.ir:443?type=grpc&serviceName=&security=tls&fp=chrome&alpn=&sni=NEW1.Parsashonam.TECH#US🇺🇸
-
-vless://---Telegram-Parsashonam--9-@zula.ir:2083?mode=gun&security=tls&encryption=none&fp=firefox&type=grpc&serviceName=@Parsashonam&sni=NEW0.Parsashonam.TECH#US🇺🇸
 
