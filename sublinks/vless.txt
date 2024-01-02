@@ -100,6 +100,18 @@ vless://962a733d-2614-0b9b-7ffe-9ac92ffea8eb@aliquran24.xyz:443?path=/current_ti
 
 vless://ee6f433b-8ece-4948-8b71-a0c34db496d4@vip.cdn2cdn.com:443?path=/kmhows&security=tls&encryption=none&host=cdn12.gsmvp.com&fp=chrome&type=ws&sni=cdn12.gsmvp.com#US🇺🇸
 
+vless://V2ORG@45.8.104.193:8880?path=/&security=none&encryption=none&host=cnl.mrv2ray.com&type=ws#DE🇩🇪
+
+vless://2e3da648-7ad4-498a-a0be-5a89d2def0bc@104.25.190.19:8443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=@NPV_V2RAY#US🇺🇸
+
+vless://e1a928be-e289-4aef-b92e-4106fabdf42f@k---join.outline-vpn.cloud:80?path=/?ed=2048&security=none&encryption=none&host=mahi.kosnanatfilterchi.eu.org&type=ws#US🇺🇸
+
+vless://a1fc8ed3-751a-444d-a4db-f1ac2f21f835@sei4ntaf8ert.arqavani.cfd:2096?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=safari&type=grpc&serviceName=#US🇺🇸
+
+vless://bec837a6-4318-44d3-8554-3db6ddeec03c@sei4ntaf8ert.arqavani.cfd:2096?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=safari&type=grpc&serviceName=#US🇺🇸
+
+vless://V2ORG@45.8.104.193:2083?mode=multi&security=tls&encryption=none&alpn=h2&fp=safari&type=grpc&serviceName=@V2ORG,@V2ORG&sni=cnl.mrv2ray.com#DE🇩🇪
+
 vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@188.114.96.18:443?path=/?ed=2048&security=tls&encryption=none&host=3k.pureboy.eu.org&type=ws&sni=3k.pureboy.eu.org#US🇺🇸
 
 vless://b93adadb-4bd4-4d0e-985c-4584c3e4f6d9@V2ray.motorcycles:2087?path=/&security=tls&encryption=none&host=FreeV2rayng.SHHPROXY.monster&type=ws&sni=FreeV2rayng.SHHPROXY.monster#CR🇨🇷
