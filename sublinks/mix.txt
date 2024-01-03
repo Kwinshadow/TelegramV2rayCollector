@@ -114,6 +114,22 @@ vless://e1a928be-e289-4aef-b92e-4106fabdf42f@k---join.outline-vpn.cloud:80?path=
 
 vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@star---join.outline-vpn.cloud:443?path=/?ed=2048&security=tls&encryption=none&host=3k.pureboy.eu.org&type=ws&sni=3k.pureboy.eu.org#US🇺🇸
 
+vless://c7c4d312-afb0-4b78-a8cb-45e2968f5cd0@190.93.247.155:443?mode=gun&security=tls&encryption=none&type=grpc&alpn=TELEGRAM:#CR🇨🇷
+
+vless://c7c4d312-afb0-4b78-a8cb-45e2968f5cd0@104.18.202.212:443?mode=multi&security=tls&encryption=none&type=grpc&alpn=TELEGRAM:#US🇺🇸
+
+vless://62914a54-e1c2-4a98-f142-40bc82d7e054@190.93.246.241:2087?mode=gun&security=tls&encryption=none&type=grpc&alpn=TELEGRAM:#CR🇨🇷
+
+vless://c40111ab-1d7a-489b-9103-62d576117240@188.114.96.3:2053?path=/&security=tls&encryption=none&host=gh.boredhot.cloud&fp=chrome&type=ws&sni=gh.boredhot.cloud#US🇺🇸
+
+trojan://e0d44ae7-cb7d-4acc-a8c0-9861a6f5eaad@51.91.11.29:80?security=tls&sni=softsaaz.ir#FR🇫🇷
+
+trojan://e0d44ae7-cb7d-4acc-a8c0-9861a6f5eaad@51.91.11.29:80?security=tls&sni=asriran.com#FR🇫🇷
+
+trojan://e0d44ae7-cb7d-4acc-a8c0-9861a6f5eaad@51.91.11.29:80?security=tls&sni=namayesh.com#FR🇫🇷
+
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@54.254.129.246:443#SG🇸🇬
+
 vmess://eyJhZGQiOiJzcGVlZC5ub3ZpbndlYi5zaG9wIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJzZXJ2ZXItNDMxNy5wcm9kLmhvc3RzLm9va2xhc2VydmVyLm5ldCIsImlkIjoiYjgwZDNlNGEtNjcyMS00Mjc0LWI1ODAtOWUxYzY0OTEzN2ZjIiwibmV0IjoidGNwIiwicGF0aCI6IlwvZG93bmxvYWQsIFwvdXBsb2FkIiwicG9ydCI6IjgwODAiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiIsInBzIjoiREtcdWQ4M2NcdWRkZTlcdWQ4M2NcdWRkZjAifQ==
 
 vless://545d8edd-03a3-4100-ae73-078bbba1964a@104.21.28.62:443?path=/vless&security=tls&encryption=none&host=es2-vless.sshmax.xyz&type=ws&sni=es2-vless.sshmax.xyz#US🇺🇸
@@ -151,20 +167,6 @@ vless://520bb6ba-b207-4f20-b0dd-8250893461f2@serv-3.alpha4.top:8443?path=Telegra
 vless://884b0b35-c883-44f5-8487-26fc94d91049@mtn.alpha1.skin:2087?type=grpc&encryption=none&security=tls&sni=ch-7000.alpha1.skin&fp=chrome#US🇺🇸
 
 vless://6141d9fd-07a7-4e28-af70-c2c6010a3e6d@e.outlinekey.online:443?type=grpc&security=tls&serviceName=@Outlinev2rayNG,@Outlinev2rayNG&sni=uni.outlinekey.online#US🇺🇸
-
-vmess://eyJhZGQiOiIxMDQuMjcuMTAyLjEwNSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiQmlhLXRlbC5mcmVldjJhbHBoYS5jZmQiLCJpZCI6IlRlbGVncmFtLVYycmF5X2FscGhhIiwibmV0Ijoid3MiLCJwYXRoIjoiXC8/ZWQ9MjA0OCIsInBvcnQiOiI4MDgwIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiIsInBzIjoiVVNcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjgifQ==
-
-vless://c766f530-52c3-461d-f8ab-35038880cfdc@162.159.133.40:8443?mode=gun&security=tls&encryption=none&fp=chrome&type=grpc&serviceName=@bored_vpn,#US🇺🇸
-
-vless://69b5e1f0-1844-489a-aa3f-68ffd3e4aee3@serv-1.alpha4.top:2083?path=Telegram:#US🇺🇸
-
-vmess://eyJhZGQiOiIxMDQuMjcuMTAyLjEwNSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0Ijoia2FuYWwtdGVsLmZyZWV2MmFscGhhLmNmZCIsImlkIjoiVGVsZWdyYW0tVjJyYXlfYWxwaGEiLCJuZXQiOiJ3cyIsInBhdGgiOiJcLz8iLCJwb3J0IjoiODA4MCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIiLCJwcyI6IlVTXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4In0=
-
-vless://c766f530-52c3-461d-f8ab-35038880cfdc@104.24.177.7:8443?mode=gun&security=tls&encryption=none&fp=chrome&type=grpc&serviceName=@bored_vpn,#US🇺🇸
-
-vless://fb5cfe95-ee26-4399-be4b-36d648414b9c@proxiiraniii.hitido2760.workers.dev:80?path=/&security=none&encryption=none&host=proxiiraniii.hitido2760.workers.dev&type=ws#US🇺🇸
-
-vless://2ce4c747-1d1f-4510-959c-7ece60400619@bia.spikevpn.cfd:443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=firefox&type=grpc&serviceName=@spikevpn&sni=dl.spikevpn.cfd#CR🇨🇷
 
 vless://e1a928be-e289-4aef-b92e-4106fabdf42f@173.245.58.31:80?path=/?ed=2048&security=none&encryption=none&host=mahi.kosnanatfilterchi.eu.org&type=ws#US🇺🇸
 
