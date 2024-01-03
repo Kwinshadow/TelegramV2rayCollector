@@ -114,6 +114,22 @@ vless://290a3af9-1f64-419b-89bf-775a3cb9a9df@0913.outline-vpn.cloud:80?path=/bac
 
 vless://a4c42483-3b0c-4ddb-b766-46592be075b6@ne--join.outline-vpn.cloud:2052?path=/&security=none&encryption=none&host=RJNB46.amOoZeshgAH-pc.COM&type=ws#US🇺🇸
 
+vmess://eyJhZGQiOiI2Ni4yNDEuMTI0LjkzIiwiYWlkIjowLCJob3N0IjoiIiwiaWQiOiJkZTA0YWRkOS01YzY4LThiYWItOTUwYy0wOGNkNTMyMGRmMTgiLCJuZXQiOiJ3cyIsInBhdGgiOiJcL3ZtZXNzIiwicG9ydCI6NDQzLCJwcyI6IlVTXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IiwidGxzIjoidGxzIiwidHlwZSI6ImF1dG8iLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiIifQ==
+
+vmess://eyJhZGQiOiI2Ni44MS4yNDcuMjIyIiwiYWlkIjowLCJob3N0IjoiIiwiaWQiOiJiM2EyMWRlZi01ZmNjLTQ3YTgtYTZhMC1hMzRlMjlkNTI4OGEiLCJuZXQiOiJ3cyIsInBhdGgiOiJcL3dzczUxMDY4IiwicG9ydCI6NDQzLCJwcyI6IlVTXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IiwidGxzIjoidGxzIiwidHlwZSI6ImF1dG8iLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiIifQ==
+
+vmess://eyJhZGQiOiI2Ny4yMS43Mi40MSIsImFpZCI6NjQsImhvc3QiOiIiLCJpZCI6IjI1NjZkMDBmLTIxOGMtNDhmNy05YTM2LTEzZDNkNmYxYTcyNCIsIm5ldCI6IndzIiwicGF0aCI6IlwvcGF0aFwvMTczNDE4MTQxMTIzIiwicG9ydCI6NDQzLCJwcyI6IlVTXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IiwidGxzIjoidGxzIiwidHlwZSI6ImF1dG8iLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiIifQ==
+
+vmess://eyJhZGQiOiI2Ny4yMS43Mi40NCIsImFpZCI6NjQsImhvc3QiOiIiLCJpZCI6IjI1NjZkMDBmLTIxOGMtNDhmNy05YTM2LTEzZDNkNmYxYTcyNCIsIm5ldCI6IndzIiwicGF0aCI6IlwvcGF0aFwvMTIwMjA4MzAxNDIyIiwicG9ydCI6NDQzLCJwcyI6IlVTXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IiwidGxzIjoidGxzIiwidHlwZSI6ImF1dG8iLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiIifQ==
+
+ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@61.220.130.70:50701#TW🇹🇼
+
+trojan://O4K-nAbZC4qEnBA0a_9EWQ@66.228.55.178:2083?security=tls&sni=gstatic.com&type=ws#US🇺🇸
+
+vmess://eyJhZGQiOiI2Ni4yMjguNTUuMTc4IiwiYWlkIjowLCJob3N0IjoiIiwiaWQiOiI0NmM1OTg1Yi02MjY4LTQ2MjAtOWNmNi0yZGE4ZTgzYzBmNWIiLCJuZXQiOiJ3cyIsInBhdGgiOiJcLyIsInBvcnQiOjgwODAsInBzIjoiVVNcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjgiLCJ0bHMiOiIiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiJ9
+
+trojan://O4K-nAbZC4qEnBA0a_9EWQ@66.228.55.178:2083?security=tls&sni=gstatic.com&type=ws&path=/&Host=gstatic.com#US🇺🇸
+
 vless://6bf3e709-c1f7-4e15-b962-613cd7af4d7a@serv-2.alpha4.top:2053?path=Telegram:#US🇺🇸
 
 vless://520bb6ba-b207-4f20-b0dd-8250893461f2@serv-3.alpha4.top:8443?path=Telegram:#US🇺🇸
@@ -151,18 +167,6 @@ vless://00929fbb-88a0-46a2-9b37-4b99404fb34c@6v.fastv2.com:19021?type=ws&securit
 vmess://eyJhZGQiOiIxOTguNDEuMjAyLjUiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiY2hyb21lIiwiaG9zdCI6IiIsImlkIjoiMTBkYTg4MGMtZGM4My00NTM1LWI1NjItZWQyM2M0ZDRlMjg5IiwibmV0IjoiZ3JwYyIsInBhdGgiOiJtbS5ib3JlZGhvdC5jbG91ZCIsInBvcnQiOiIyMDk2Iiwic2N5IjoiYXV0byIsInNuaSI6Im1tLmJvcmVkaG90LmNsb3VkIiwidGxzIjoidGxzIiwidHlwZSI6Imd1biIsInYiOiIyIiwicHMiOiJVU1x1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmOCJ9
 
 vless://1d86846c-5a27-43c8-8981-57bb75c82195@172.67.206.201:443?security=tls&type=ws&sni=qvnic.gsolli.sbs&path=/paradise&encryption=none&headerType=none#US🇺🇸
-
-vmess://eyJhZGQiOiJ3ZWIucGFyc3BhY2suY29tIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJ6VWxBOS5lU21BSWxrT1JlYS5zSG9wIiwiaWQiOiI1Zjc5N2I5MS1jN2VjLTQxNzgtZDE5ZS05YjA2OWI3MGI0NDYiLCJuZXQiOiJ3cyIsInBhdGgiOiJcLyIsInBvcnQiOiI4MCIsInBzIjoiVVNcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjgiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
-
-vmess://eyJhZGQiOiJkaWdpdGFsb2NlYW4uY29tIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJRdXJhbjE0LmVTbUFJbGtPUmVhLnNIb3AiLCJpZCI6ImEyZjI3MjA1LTViNTktNGExZC1lOWVkLWM3OGY3YWI0YjYzMyIsIm5ldCI6IndzIiwicGF0aCI6IlwvIiwicG9ydCI6IjgwIiwicHMiOiJVU1x1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmOCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==
-
-vless://c369ce60-6f00-4134-b135-d8dcfefb2b07@188.114.96.18:2053?path=/&security=tls&encryption=none&host=mm.boredhot.cloud&fp=chrome&type=ws&sni=mm.boredhot.cloud#US🇺🇸
-
-vless://c766f530-52c3-461d-f8ab-35038880cfdc@104.24.177.7:8443?mode=gun&security=tls&encryption=none&fp=chrome&type=grpc&serviceName=@bored_vpn,#US🇺🇸
-
-vless://308b5d56-c2d1-44bc-8069-5e4b3aab3156@speedtest.org:8443?mode=gun&security=tls&encryption=none&fp=chrome&type=grpc&serviceName=me&sni=finbig6.waky-melo.site#US🇺🇸
-
-vless://e07b673a-9b23-4c86-a0b6-0b06219d8b66@mo--join.outline-vpn.cloud:2053?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&type=grpc&serviceName=@ZEDMODEON&sni=profile.joinzedmodeon.top#US🇺🇸
 
 vless://e1a928be-e289-4aef-b92e-4106fabdf42f@173.245.58.31:80?path=/?ed=2048&security=none&encryption=none&host=mahi.kosnanatfilterchi.eu.org&type=ws#US🇺🇸
 
