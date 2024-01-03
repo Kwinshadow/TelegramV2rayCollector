@@ -100,6 +100,12 @@ vless://e1a928be-e289-4aef-b92e-4106fabdf42f@k---join.outline-vpn.cloud:80?path=
 
 vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@star---join.outline-vpn.cloud:443?path=/?ed=2048&security=tls&encryption=none&host=3k.pureboy.eu.org&type=ws&sni=3k.pureboy.eu.org#US🇺🇸
 
+vless://29f8ad12-ea84-431b-bf32-9d3fb5cf2aa2@172.67.174.190:443?path=/?ed=2048&security=tls&encryption=none&host=w1.sylar8.eu.org&fp=chrome&type=ws&sni=w1.sylar8.eu.org#US🇺🇸
+
+vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@172.67.170.103:443?path=/?ed=2048&@AstroVPN_official#US🇺🇸
+
+vless://e537da6c-870e-4f96-8e68-c437d5f502fb@188.114.96.3:2053?path=/&security=tls&encryption=none&host=ghazal.boredhot.cloud&fp=chrome&type=ws&sni=ghazal.boredhot.cloud#US🇺🇸
+
 vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@3k.pureboy.eu.org:443?type=ws&encryption=none&host=3k.pureboy.eu.org&path=/?ed=2048&security=tls&sni=3k.pureboy.eu.org#US🇺🇸
 
 vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@104.21.28.62:443?type=ws&encryption=none&host=3k.pureboy.eu.org&path=/?ed=2048&security=tls&sni=3k.pureboy.eu.org#US🇺🇸
@@ -117,14 +123,6 @@ vless://884b0b35-c883-44f5-8487-26fc94d91049@mtn.alpha1.skin:2087?mode=gun&secur
 vless://29f8ad12-ea84-431b-bf32-9d3fb5cf2aa2@172.67.174.190:443?path=/?ed=2048&security=tls&encryption=none&host=w1.sylar8.eu.org&fp=chrome&type=ws&sni=w1.sylar8.eu.org#US🇺🇸
 
 vless://a636c0fd-c580-469c-b32b-a8be341e0f15@free3.riflvpn.tech:8443?type=grpc&serviceName=f&security=tls&fp=chrome&alpn=http/1.1,h2&sni=free3.riflvpn.tech#US🇺🇸
-
-vless://c7c4d312-afb0-4b78-a8cb-45e2968f5cd0@190.93.247.155:443?mode=gun&security=tls&encryption=none&type=grpc&alpn=TELEGRAM:#CR🇨🇷
-
-vless://c7c4d312-afb0-4b78-a8cb-45e2968f5cd0@104.18.202.212:443?mode=multi&security=tls&encryption=none&type=grpc&alpn=TELEGRAM:#US🇺🇸
-
-vless://62914a54-e1c2-4a98-f142-40bc82d7e054@190.93.246.241:2087?mode=gun&security=tls&encryption=none&type=grpc&alpn=TELEGRAM:#CR🇨🇷
-
-vless://c40111ab-1d7a-489b-9103-62d576117240@188.114.96.3:2053?path=/&security=tls&encryption=none&host=gh.boredhot.cloud&fp=chrome&type=ws&sni=gh.boredhot.cloud#US🇺🇸
 
 vless://e1a928be-e289-4aef-b92e-4106fabdf42f@173.245.58.31:80?path=/?ed=2048&security=none&encryption=none&host=mahi.kosnanatfilterchi.eu.org&type=ws#US🇺🇸
 
@@ -151,10 +149,6 @@ vless://dd00bf26-1ad4-433f-aeda-5a0e9c683390@weeronline.nl:2082?path=/?ed=2048&s
 vless://6ec52bc7-fcd7-4841-ab69-70d6e03a6eda@All1.v2raygod.site:80?path=@V2ray_God&security=none&encryption=none&host=worker.V2rayGod.site&type=ws#US🇺🇸
 
 vless://04a93bb8-0a5b-4aa8-ab7f-31fc7adab1c1@edgu.pureboy.eu.org:443?path=/?ed=2048&security=tls&encryption=none&host=edgu.pureboy.eu.org&fp=chrome&type=ws&sni=edgu.pureboy.eu.org#US🇺🇸
-
-vless://6ec52bc7-fcd7-4841-ab69-70d6e03a6eda@all1.v2raygod.site:80?path=@V2ray_God&security=none&encryption=none&host=worker.V2rayGod.site&type=ws#US🇺🇸
-
-vless://e1a928be-e289-4aef-b92e-4106fabdf42f@k---join.outline-vpn.cloud:80?path=/?ed=2048&security=none&encryption=none&host=mahi.kosnanatfilterchi.eu.org&type=ws#US🇺🇸
 
 vless://---Telegram-Parsashonam--1-@Zula.ir:2087?type=grpc&serviceName=&security=tls&fp=chrome&alpn=&sni=De0.Parsashonam-CH.Sbs#US🇺🇸
 
