@@ -34,13 +34,13 @@ vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@3k.pureboy.eu.org:443?path=/?ed=204
 
 vless://b00c0af2-620a-4cd5-9ba7-f7e5f4f0b1b4@vip.cdn2cdn.com:443?path=/njmiws&security=tls&encryption=none&host=cdn14.gsmvp.com&fp=chrome&type=ws&sni=cdn14.gsmvp.com#US🇺🇸
 
-vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@www.unpkg.com:443?path=/?ed=2048&security=tls&encryption=none&host=3k.pureboy.eu.org&type=ws&sni=3k.pureboy.eu.org#US🇺🇸
+vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@www.unpkg.com:443?path=/?ed=2048&security=tls&encryption=none&host=3k.pureboy.eu.org&type=ws&sni=3k.pureboy.eu.org#CA🇨🇦
 
-vless://a0cdf51b-e97d-4e87-9976-ed272b617c09@new-join-tooooo.outline-vpn.cloud:443?path=/apiapp&security=tls&encryption=none&host=vi117.vipsaparat.store&fp=chrome&type=ws&sni=vi117.vipsaparat.store#US🇺🇸
+vless://a0cdf51b-e97d-4e87-9976-ed272b617c09@new-join-tooooo.outline-vpn.cloud:443?path=/apiapp&security=tls&encryption=none&host=vi117.vipsaparat.store&fp=chrome&type=ws&sni=vi117.vipsaparat.store#CA🇨🇦
 
-vless://ee6f433b-8ece-4948-8b71-a0c34db496d4@vip.cdn2cdn.com:443?path=/kmhows&security=tls&encryption=none&host=cdn12.gsmvp.com&fp=chrome&type=ws&sni=cdn12.gsmvp.com#NL🇳🇱
+vless://ee6f433b-8ece-4948-8b71-a0c34db496d4@vip.cdn2cdn.com:443?path=/kmhows&security=tls&encryption=none&host=cdn12.gsmvp.com&fp=chrome&type=ws&sni=cdn12.gsmvp.com#US🇺🇸
 
-vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@star---join.outline-vpn.cloud:443?path=/?ed=2048&security=tls&encryption=none&host=3k.pureboy.eu.org&type=ws&sni=3k.pureboy.eu.org#CA🇨🇦
+vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@star---join.outline-vpn.cloud:443?path=/?ed=2048&security=tls&encryption=none&host=3k.pureboy.eu.org&type=ws&sni=3k.pureboy.eu.org#US🇺🇸
 
 vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@star--join.outline-vpn.cloud:443?path=/?ed=2048&security=tls&encryption=none&host=3k.pureboy.eu.org&type=ws&sni=3k.pureboy.eu.org#CA🇨🇦
 
@@ -114,6 +114,22 @@ vmess://eyJhZGQiOiJlcjgtam9pbi5vdXRsaW5lLXZwbi5jbG91ZCIsImFpZCI6IjAiLCJhbHBuIjoi
 
 vless://29f8ad12-ea84-431b-bf32-9d3fb5cf2aa2@t---join.outline-vpn.cloud:443?path=/?ed=2048&security=tls&encryption=none&host=w1.sylar8.eu.org&type=ws&sni=w1.sylar8.eu.org#CA🇨🇦
 
+trojan://telegram-id-directvpn@44.201.217.130:22222?security=tls&sni=trj.rollingnext.co.uk#US🇺🇸
+
+trojan://telegram-id-directvpn@44.201.217.130:22222?security=tls&sni=trj.rollingnext.co.uk#US🇺🇸
+
+trojan://telegram-id-directvpn@44.211.71.82:22222?security=tls&sni=trj.rollingnext.co.uk#US🇺🇸
+
+vmess://eyJhZGQiOiI0NS4xMi4xNDQuNjgiLCJhaWQiOjY0LCJob3N0IjoiIiwiaWQiOiI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQiLCJuZXQiOiJ3cyIsInBhdGgiOiJcL3BhdGhcLzE2ODk4NDk0ODcxOTAiLCJwb3J0Ijo0NDMsInBzIjoiRVNcdWQ4M2NcdWRkZWFcdWQ4M2NcdWRkZjgiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiJ9
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmN1BqMGM3M1BxUWY5N2xtV1ltQmJY@40.114.213.220:64504#NL🇳🇱
+
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@43.201.108.109:443#KR🇰🇷
+
+ss://YWVzLTI1Ni1jZmI6ZG91Yi5pbw==@43.202.49.222:2333#KR🇰🇷
+
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@43.207.83.221:443#JP🇯🇵
+
 vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@star--join.outline-vpn.cloud:443?path=/?ed&security=tls&encryption=none&host=3k.pureboy.eu.org&type=ws&sni=3k.pureboy.eu.org#CA🇨🇦
 
 vless://-MsV2ray--MsV2ray--MsV2ray-@de.MsV2ray.sbs:443?path=/&security=tls&encryption=none&host=ws.MsV2ray.sbs&type=ws&sni=ws.MsV2ray.sbs#CA🇨🇦
@@ -149,22 +165,6 @@ vless://ea5fa5d6-5100-4453-9a09-69cb133179a0@bia-to3.unlimiteddev.shop:80?type=w
 vless://f687d026-0530-475d-fbe6-e11cc6f9bc99@www.fontspace.com:8443?path=V2NET_IRAN-V2NET_IRAN-V2NET_IRAN-V2NET_IRAN-V2NET_IRAN-V2NET_IRAN-V2NET_IRAN-V2NET_IRAN-V2NET_IRAN-V2NET_IRAN-V2NET_IRAN&security=tls&encryption=none&alpn=h2,http/1.1&host=attachment-nd-effectively-easier.trycloudflare.com&fp=chrome&type=ws&sni=attachment-nd-effectively-easier.trycloudflare.com#CA🇨🇦
 
 vmess://eyJhZGQiOiI1MS43NS4xNjIuMTk5IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImU2YWFiMWUwLWVkZTAtNDdjMy1iMDFjLWYzNGE0OThkYjgzOCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiNjE1NzAiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInBzIjoiR0JcdWQ4M2NcdWRkZWNcdWQ4M2NcdWRkZTcifQ==
-
-vless://e537da6c-870e-4f96-8e68-c437d5f502fb@188.114.96.3:2053?path=/&security=tls&encryption=none&host=ghazal.boredhot.cloud&fp=chrome&type=ws&sni=ghazal.boredhot.cloud#NL🇳🇱
-
-vless://d57cb801-7a36-469e-9e05-66f2dbd4f923@173.245.58.100:443?mode=multi&security=tls&encryption=none&alpn=h2&fp=chrome&type=grpc&akpn=@mehrosaboran,@mehrosaboran&serviceName=@Digiv2ray#US🇺🇸
-
-vless://8e556711-ac12-4671-b414-f2b9def01b83@173.245.58.100:2083?path=/@Digiv2ray&security=tls&encryption=none&alpn=h2&host=ConneCtion-SpeedV2rayNg.Digiv2ray.shop&fp=chrome&type=ws&sni=ConneCtion-SpeedV2rayNg.Digiv2ray.shop#US🇺🇸
-
-vless://ea5fa5d6-5100-4453-9a09-69cb133179a0@bia-to1.unlimiteddev.shop:80?type=ws&security=none&host=bia-to-channel4.unlimiteddev.shop&path=/#CA🇨🇦
-
-vless://29f8ad12-ea84-431b-bf32-9d3fb5cf2aa2@172.67.174.190:443?path=/?ed=2048&security=tls&encryption=none&host=w1.sylar8.eu.org&fp=chrome&type=ws&sni=w1.sylar8.eu.org#CA🇨🇦
-
-vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@172.67.170.103:443?path=/?ed=2048&@AstroVPN_official#CA🇨🇦
-
-vmess://eyJhZGQiOiIxNS4yMDQuMjQ1LjE2OCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJjMDM5Mzg4OS0wYTBmLTQ3ZDYtYmE0My1mZTM4YTdmMjNkOTIiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjUxNTc0Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIiLCJwcyI6IlVTXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4In0=
-
-vmess://eyJhZGQiOiI3OS4xNDMuODQuMTE3IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjliNzg4ZmE3LTllMzUtNGVkNS1lMGU5LTdkNzg4YjI2ZWMwNyIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMjU0NzciLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInBzIjoiSVJcdWQ4M2NcdWRkZWVcdWQ4M2NcdWRkZjcifQ==
 
 vless://e1a928be-e289-4aef-b92e-4106fabdf42f@173.245.58.31:80?path=/?ed=2048&security=none&encryption=none&host=mahi.kosnanatfilterchi.eu.org&type=ws#US🇺🇸
 
