@@ -100,6 +100,12 @@ vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@www.unpkg.com:443?path=/?ed=2048&se
 
 vless://29f8ad12-ea84-431b-bf32-9d3fb5cf2aa2@t---join.outline-vpn.cloud:443?path=/?ed=2048&security=tls&encryption=none&host=w1.sylar8.eu.org&type=ws&sni=w1.sylar8.eu.org#US🇺🇸
 
+vless://52d45af5-8b62-47e7-9237-19dc03571fe3@All.digiv2ray.shop:2095?path=/&security=none&encryption=none&host=ConneCtion-SpeedV2rayNg.Digiv2ray.shop&type=ws#CR🇨🇷
+
+vless://ea5fa5d6-5100-4453-9a09-69cb133179a0@bia-to4.unlimiteddev.shop:80?path=/&security=none&encryption=none&host=bia-to-channel4.unlimiteddev.shop&type=ws#US🇺🇸
+
+vless://29f8ad12-ea84-431b-bf32-9d3fb5cf2aa2@172.67.174.190:443?path=/?ed&security=tls&encryption=none&host=w1.sylar8.eu.org&fp=chrome&type=ws&sni=w1.sylar8.eu.org#US🇺🇸
+
 vless://ea5fa5d6-5100-4453-9a09-69cb133179a0@bia-to2.unlimiteddev.shop:80?type=ws&security=none&host=bia-to-channel4.unlimiteddev.shop&path=/#US🇺🇸
 
 vless://ea5fa5d6-5100-4453-9a09-69cb133179a0@bia-to3.unlimiteddev.shop:80?type=ws&security=none&host=bia-to-channel4.unlimiteddev.shop&path=/#US🇺🇸
@@ -127,8 +133,6 @@ vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@104.21.28.62:443?type=ws&encryption
 vless://462acb01-a275-433c-9fc6-074de3d68ba0@turkws.configforvpn.fun:2087?type=ws&encryption=none&host=turkws.configforvpn.fun&path=/&security=tls&sni=turkws.configforvpn.fun#US🇺🇸
 
 vless://eef6d6fd-ac94-4613-a505-dfa002649003@my.petomet.shop:443?type=ws&encryption=none&path=/&security=tls#IR🇮🇷
-
-vless://5ba3fb86-4c5d-41ed-be96-80f9fd4748c9@dlcg5.v2rez.tech:2096?security=tls&type=ws&host=&headerType=&path=&sni=dlcg5.v2rez.tech&fp=chrome&alpn=h2,http/1.1#US🇺🇸
 
 vless://e1a928be-e289-4aef-b92e-4106fabdf42f@173.245.58.31:80?path=/?ed=2048&security=none&encryption=none&host=mahi.kosnanatfilterchi.eu.org&type=ws#US🇺🇸
 
