@@ -100,6 +100,12 @@ vless://290a3af9-1f64-419b-89bf-775a3cb9a9df@0913.outline-vpn.cloud:80?path=/bac
 
 vless://a4c42483-3b0c-4ddb-b766-46592be075b6@ne--join.outline-vpn.cloud:2052?path=/&security=none&encryption=none&host=RJNB46.amOoZeshgAH-pc.COM&type=ws#US🇺🇸
 
+vless://c766f530-52c3-461d-f8ab-35038880cfdc@104.24.177.7:8443?mode=gun&security=tls&encryption=none&fp=chrome&type=grpc&serviceName=@bored_vpn,#US🇺🇸
+
+vless://fb5cfe95-ee26-4399-be4b-36d648414b9c@proxiiraniii.hitido2760.workers.dev:80?path=/&security=none&encryption=none&host=proxiiraniii.hitido2760.workers.dev&type=ws#US🇺🇸
+
+vless://2ce4c747-1d1f-4510-959c-7ece60400619@bia.spikevpn.cfd:443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=firefox&type=grpc&serviceName=@spikevpn&sni=dl.spikevpn.cfd#CR🇨🇷
+
 vless://d8485528-6779-4cca-960e-17096e2313b4@cafe.ntgvip.online:2083?path=/NTGreen&security=tls&encryption=none&host=sell.ntgvip.online:2087&type=ws&sni=sell.ntgvip.online#US🇺🇸
 
 vless://00929fbb-88a0-46a2-9b37-4b99404fb34c@6v.fastv2.com:19021?type=ws&security=none&path=/#IR🇮🇷
@@ -117,8 +123,6 @@ vless://e07b673a-9b23-4c86-a0b6-0b06219d8b66@mo--join.outline-vpn.cloud:2053?mod
 vless://V2ORG@telegram.v2rayngcloud.cfd:2083?mode=multi&security=tls&encryption=none&alpn=h2&fp=safari&type=grpc&serviceName=@V2ORG,@V2ORG&sni=cnl.mrv2ray.com#US🇺🇸
 
 vless://V2ORG@telegram.v2rayngcloud.cfd:8880?path=/&security=none&encryption=none&host=cnl.mrv2ray.com&type=ws#US🇺🇸
-
-vless://06538336-4cff-4802-831b-2e5f257d0e33@190.93.247.155:443?type=grpc&serviceName=&security=tls&fp=chrome&alpn=h2&allowInsecure=1&sni=freakv22.tm-online.xyz#CR🇨🇷
 
 vless://e1a928be-e289-4aef-b92e-4106fabdf42f@173.245.58.31:80?path=/?ed=2048&security=none&encryption=none&host=mahi.kosnanatfilterchi.eu.org&type=ws#US🇺🇸
 
