@@ -100,6 +100,10 @@ vless://290a3af9-1f64-419b-89bf-775a3cb9a9df@0913.outline-vpn.cloud:80?path=/bac
 
 vless://a4c42483-3b0c-4ddb-b766-46592be075b6@ne--join.outline-vpn.cloud:2052?path=/&security=none&encryption=none&host=RJNB46.amOoZeshgAH-pc.COM&type=ws#US🇺🇸
 
+vless://308b5d56-c2d1-44bc-8069-5e4b3aab3156@speedtest.org:8443?mode=gun&security=tls&encryption=none&fp=chrome&type=grpc&serviceName=me&sni=finbig6.waky-melo.site#US🇺🇸
+
+vless://e07b673a-9b23-4c86-a0b6-0b06219d8b66@mo--join.outline-vpn.cloud:2053?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&type=grpc&serviceName=@ZEDMODEON&sni=profile.joinzedmodeon.top#US🇺🇸
+
 vless://V2ORG@telegram.v2rayngcloud.cfd:2083?mode=multi&security=tls&encryption=none&alpn=h2&fp=safari&type=grpc&serviceName=@V2ORG,@V2ORG&sni=cnl.mrv2ray.com#US🇺🇸
 
 vless://V2ORG@telegram.v2rayngcloud.cfd:8880?path=/&security=none&encryption=none&host=cnl.mrv2ray.com&type=ws#US🇺🇸
@@ -115,14 +119,6 @@ vless://2c59ff33-916d-459b-a4c0-8b7432c4c3bb@16.16.203.73:443?encryption=none&fl
 vless://266f480d-ab52-40e1-bf67-65b9ccadcad0@104.18.202.209:2053?mode=multi&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=@ZEDMODEON&sni=dash.joinzedmodeon.top#US🇺🇸
 
 vless://884b0b35-c883-44f5-8487-26fc94d91049@mtn.alpha1.skin:2087?mode=multi&security=tls&encryption=none&fp=chrome&type=grpc&serviceName=&sni=ch-7000.alpha1.skin#US🇺🇸
-
-vless://2c59ff33-916d-459b-a4c0-8b7432c4c3bb@13.48.49.118:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=coinmarketcap.com&fp=chrome&pbk=xHQGMkNV3eT4Zia5lWuEiSX1N-4cY4MByjneuuB9b24&sid=1db3&spx=/headlines/news/&type=tcp&headerType=none#SE🇸🇪
-
-vless://884b0b35-c883-44f5-8487-26fc94d91049@all.alpha1.skin:2087?type=grpc&serviceName=&mode=multi&security=tls&fp=chrome&alpn=http/1.1,h2,h3&sni=ch-8000.alpha1.skin#US🇺🇸
-
-vless://884b0b35-c883-44f5-8487-26fc94d91049@mci.alpha1.skin:2087?type=grpc&serviceName=&mode=multi&security=tls&fp=chrome&alpn=http/1.1,h2,h3&sni=ch-9000.alpha1.skin#US🇺🇸
-
-vless://884b0b35-c883-44f5-8487-26fc94d91049@mtn.alpha1.skin:2087?type=grpc&serviceName=&mode=multi&security=tls&fp=chrome&alpn=http/1.1,h2,h3&sni=ch-7000.alpha1.skin#US🇺🇸
 
 vless://e1a928be-e289-4aef-b92e-4106fabdf42f@173.245.58.31:80?path=/?ed=2048&security=none&encryption=none&host=mahi.kosnanatfilterchi.eu.org&type=ws#US🇺🇸
 
@@ -165,8 +161,4 @@ vless://---Telegram-Parsashonam--21-@Zula.ir:443?mode=gun&security=tls&encryptio
 vless://---Telegram-Parsashonam--10-@104.21.0.165:2083?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=@Parsashonam&sni=NEW0.Parsashonam.TECH#US🇺🇸
 
 vless://---Telegram-Parsashonam--10-@zula.ir:2083?mode=gun&security=tls&encryption=none&fp=chrome&type=grpc&serviceName=@Parsashonam&sni=NEW0.Parsashonam.TECH#US🇺🇸
-
-vless://---Telegram-Parsashonam--21-@Zula.ir:443?type=grpc&serviceName=&security=tls&fp=chrome&alpn=&sni=NEW1.Parsashonam.TECH#US🇺🇸
-
-vless://---Telegram-Parsashonam--9-@zula.ir:2083?mode=gun&security=tls&encryption=none&fp=firefox&type=grpc&serviceName=@Parsashonam&sni=NEW0.Parsashonam.TECH#US🇺🇸
 
