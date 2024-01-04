@@ -52,7 +52,7 @@ vless://89420825-e589-4735-bee1-6dc636fca343@w3.sylarsun.eu.org:443?path=/?ed=20
 
 vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@3k.pureboy.eu.org:443?path=/?ed=2048&security=tls&encryption=none&host=3k.pureboy.eu.org&type=ws&sni=3k.pureboy.eu.org#US🇺🇸
 
-vless://b00c0af2-620a-4cd5-9ba7-f7e5f4f0b1b4@vip.cdn2cdn.com:443?path=/njmiws&security=tls&encryption=none&host=cdn14.gsmvp.com&fp=chrome&type=ws&sni=cdn14.gsmvp.com#NL🇳🇱
+vless://b00c0af2-620a-4cd5-9ba7-f7e5f4f0b1b4@vip.cdn2cdn.com:443?path=/njmiws&security=tls&encryption=none&host=cdn14.gsmvp.com&fp=chrome&type=ws&sni=cdn14.gsmvp.com#US🇺🇸
 
 vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@www.unpkg.com:443?path=/?ed=2048&security=tls&encryption=none&host=3k.pureboy.eu.org&type=ws&sni=3k.pureboy.eu.org#INT🌍
 
@@ -86,17 +86,17 @@ vless://29f8ad12-ea84-431b-bf32-9d3fb5cf2aa2@t---join.outline-vpn.cloud:443?path
 
 vless://e1a928be-e289-4aef-b92e-4106fabdf42f@k---join.outline-vpn.cloud:80?path=/?ed=2048&security=none&encryption=none&host=mahi.kosnanatfilterchi.eu.org&type=ws#INT🌍
 
-vless://29f8ad12-ea84-431b-bf32-9d3fb5cf2aa2@w1.sylar8.eu.org:443?path=/?ed=2048&security=tls&encryption=none&host=w1.sylar8.eu.org&type=ws&sni=w1.sylar8.eu.org#US🇺🇸
+vless://29f8ad12-ea84-431b-bf32-9d3fb5cf2aa2@w1.sylar8.eu.org:443?path=/?ed=2048&security=tls&encryption=none&host=w1.sylar8.eu.org&type=ws&sni=w1.sylar8.eu.org#INT🌍
 
 vless://dfb18c6f-731a-4898-a1c4-cc36c6055a90@w2.sylarsun.eu.org:443?path=/?ed=2048&security=tls&encryption=none&host=w2.sylarsun.eu.org&type=ws&sni=w2.sylarsun.eu.org#NL🇳🇱
 
 vless://89420825-e589-4735-bee1-6dc636fca343@w3.sylarsun.eu.org:443?path=/?ed=2048&security=tls&encryption=none&host=w3.sylarsun.eu.org&type=ws&sni=w3.sylarsun.eu.org#NL🇳🇱
 
-vless://20a3c960-a9ef-4227-baff-f28406ece4dc@cdnjs.com:8080?path=/&security=none&encryption=none&host=ws.nastoh1.sbs&type=ws#US🇺🇸
-
-vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@3k.pureboy.eu.org:443?path=/?ed=2048&security=tls&encryption=none&host=3k.pureboy.eu.org&type=ws&sni=3k.pureboy.eu.org#US🇺🇸
-
 vless://20a3c960-a9ef-4227-baff-f28406ece4dc@cdnjs.com:8080?path=/&security=none&encryption=none&host=ws.nastoh1.sbs&type=ws#INT🌍
+
+vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@3k.pureboy.eu.org:443?path=/?ed=2048&security=tls&encryption=none&host=3k.pureboy.eu.org&type=ws&sni=3k.pureboy.eu.org#INT🌍
+
+vless://20a3c960-a9ef-4227-baff-f28406ece4dc@cdnjs.com:8080?path=/&security=none&encryption=none&host=ws.nastoh1.sbs&type=ws#US🇺🇸
 
 vless://b0675705-e3c7-4640-b286-29216a598d97@1eovhk66etg.servecounterstrike.com:2083?path=/sksks&security=tls&encryption=none&alpn=http/1.1&host=PAnel95216.MEhdik.HOmes&fp=chrome&type=ws&sni=DmskSjskJssj.mehdik.homes#INT🌍
 
@@ -107,6 +107,10 @@ vless://b00c0af2-620a-4cd5-9ba7-f7e5f4f0b1b4@vip.cdn2cdn.com:443?path=/njmiws&se
 vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@www.unpkg.com:443?path=/?ed=2048&security=tls&encryption=none&host=3k.pureboy.eu.org&type=ws&sni=3k.pureboy.eu.org#INT🌍
 
 vless://04a93bb8-0a5b-4aa8-ab7f-31fc7adab1c1@edgu.pureboy.eu.org:443?path=/?ed=2048&security=tls&encryption=none&host=edgu.pureboy.eu.org&fp=chrome&type=ws&sni=edgu.pureboy.eu.org#US🇺🇸
+
+vless://V2ORG@telegram.v2rayngcloud.cfd:2083?mode=multi&security=tls&encryption=none&alpn=h2&fp=safari&type=grpc&serviceName=@V2ORG,@V2ORG&sni=cnl.mrv2ray.com#CR🇨🇷
+
+vless://b1e1e302-af09-4138-8dc2-4ce39d1f72d8@tamit.ir:443?path=/ws&security=tls&encryption=none&host=a443bbaa386457b5.movvmj.space&fp=chrome&type=ws&sni=a443bbaa386457b5.movvmj.space#NL🇳🇱
 
 vless://f36ce5ac-feb8-467c-8c70-63271854a2b1@173.245.58.133:80?path=/backup&security=none&encryption=none&host=tu2hVA.tAHARAT.apP&type=ws#US🇺🇸
 
@@ -140,10 +144,6 @@ vless://da8d0369-0121-4d2b-9fe1-c071833604cf@198.41.202.5:80?path=/?ed=2048&secu
 
 vless://04a93bb8-0a5b-4aa8-ab7f-31fc7adab1c1@104.21.28.62:443?path=/?ed=2048&security=tls&encryption=none&host=edgu.pureboy.eu.org&fp=chrome&type=ws&sni=edgu.pureboy.eu.org#INT🌍
 
-vless://00a7ef02-f88c-45ff-be76-cf50c37d05a6@srv1.hamedgeek.sbs:2083?type=ws&path=/&host=kingofilter.hamedgeek.sbs&security=tls&fp=chrome&alpn=h2,http/1.1&sni=kingofilter.hamedgeek.sbs#INT🌍
-
-vless://00a7ef02-f88c-45ff-be76-cf50c37d05a6@srv5.hamedgeek.sbs:2083?type=ws&path=/&host=kingofilter.hamedgeek.sbs&security=tls&fp=chrome&alpn=h2,http/1.1&sni=kingofilter.hamedgeek.sbs#INT🌍
-
 vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@172.67.170.103:443?path=/?ed=2048&security=tls&encryption=none&host=3k.pureboy.eu.org&type=ws&sni=3k.pureboy.eu.org#US🇺🇸
 
 vless://7fd7c15d-95cd-4f5c-bf59-f21e5eb27580@47.245.6.28:443?path=telegram🇨🇳 @wangcai2 /?ed=2048&security=tls&encryption=none&host=3k.dabee.top&type=ws&sni=3k.dabee.top#JP🇯🇵
@@ -170,17 +170,11 @@ vless://4494dc29-2772-4f26-8d9e-a995cfdf07fc@mtn.vpnprosec.com:443?type=grpc&enc
 
 vless://4ff056f8-d99a-43e0-8888-0135a91aa210@ddns.fnet00.space:8443?path=/@FNET00/@FNET00/@FNET00/@FNET00/@FNET00/@FNET00/@FNET00/@FNET00/@FNET00/@FNET00/@FNET00/@FNET00/@FNET00&security=tls&encryption=none&fp=chrome&type=ws&sni=ddns.FNET00.Space#NL🇳🇱
 
-vless://c3face37-ee19-4993-88bc-832914686676@sefarat24.com:443/?type=ws&encryption=none&flow=&host=azadnet20.qurani.shop&path=/?ed=2048&security=tls&sni=azadnet20.qurani.shop&alpn=http/1.1&fp=firefox#NL🇳🇱
+vless://236169f9-f9ec-4ba8-a8e6-7031378fccf8@sourceforge.net:2095?path=/?ed=2048&@AstroVPN_official @AstroVPN_official @AstroVPN_official @AstroVPN_official @AstroVPN_official @AstroVPN_official @AstroVPN_official @AstroVPN_official&security=none&encryption=none&host=hsjnw9.mohamad420.sbs&type=ws#US🇺🇸
 
-vless://236169f9-f9ec-4ba8-a8e6-7031378fccf8@sourceforge.net:2095?path=/?ed=2048&@AstroVPN_official @AstroVPN_official @AstroVPN_official @AstroVPN_official @AstroVPN_official @AstroVPN_official @AstroVPN_official @AstroVPN_official&security=none&encryption=none&host=hsjnw9.mohamad420.sbs&type=ws#INT🌍
-
-vless://da8d0369-0121-4d2b-9fe1-c071833604cf@tgju.org:80?path=/?ed=2048&security=none&encryption=none&host=fl.gooldeneaglee.eu.org&type=ws#INT🌍
+vless://da8d0369-0121-4d2b-9fe1-c071833604cf@tgju.org:80?path=/?ed=2048&security=none&encryption=none&host=fl.gooldeneaglee.eu.org&type=ws#US🇺🇸
 
 vless://04a93bb8-0a5b-4aa8-ab7f-31fc7adab1c1@edgu.pureboy.eu.org:443?path=/?ed=2048&security=tls&encryption=none&host=edgu.pureboy.eu.org&fp=chrome&type=ws&sni=edgu.pureboy.eu.org#US🇺🇸
 
 vless://8a7ec621-d27b-4e08-9433-f2076b2b63c0@[0000:0000:0000:0000:0000:ffff:6812:7264]:8080?path=/&security=none&encryption=none&host=n1.shirazpc.site&type=ws#
-
-vless://---Telegram-Parsashonam--1-@Zula.ir:2087?type=grpc&serviceName=&security=tls&fp=chrome&alpn=&sni=De0.Parsashonam-CH.Sbs#NL🇳🇱
-
-vless://---Telegram-Parsashonam--2-@Zula.ir:2053?type=grpc&serviceName=@Parsashonam&mode=multi&security=tls&fp=chrome&alpn=&sni=Fi0.Parsashonam-CH.Sbs#NL🇳🇱
 
