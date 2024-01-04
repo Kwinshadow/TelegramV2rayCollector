@@ -34,9 +34,9 @@ vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@3k.pureboy.eu.org:443?path=/?ed=204
 
 vless://b00c0af2-620a-4cd5-9ba7-f7e5f4f0b1b4@vip.cdn2cdn.com:443?path=/njmiws&security=tls&encryption=none&host=cdn14.gsmvp.com&fp=chrome&type=ws&sni=cdn14.gsmvp.com#US🇺🇸
 
-vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@www.unpkg.com:443?path=/?ed=2048&security=tls&encryption=none&host=3k.pureboy.eu.org&type=ws&sni=3k.pureboy.eu.org#CA🇨🇦
+vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@www.unpkg.com:443?path=/?ed=2048&security=tls&encryption=none&host=3k.pureboy.eu.org&type=ws&sni=3k.pureboy.eu.org#US🇺🇸
 
-vless://a0cdf51b-e97d-4e87-9976-ed272b617c09@new-join-tooooo.outline-vpn.cloud:443?path=/apiapp&security=tls&encryption=none&host=vi117.vipsaparat.store&fp=chrome&type=ws&sni=vi117.vipsaparat.store#US🇺🇸
+vless://a0cdf51b-e97d-4e87-9976-ed272b617c09@new-join-tooooo.outline-vpn.cloud:443?path=/apiapp&security=tls&encryption=none&host=vi117.vipsaparat.store&fp=chrome&type=ws&sni=vi117.vipsaparat.store#CA🇨🇦
 
 vless://ee6f433b-8ece-4948-8b71-a0c34db496d4@vip.cdn2cdn.com:443?path=/kmhows&security=tls&encryption=none&host=cdn12.gsmvp.com&fp=chrome&type=ws&sni=cdn12.gsmvp.com#US🇺🇸
 
@@ -100,6 +100,16 @@ vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@www.unpkg.com:443?path=/?ed=2048&se
 
 vless://29f8ad12-ea84-431b-bf32-9d3fb5cf2aa2@t---join.outline-vpn.cloud:443?path=/?ed=2048&security=tls&encryption=none&host=w1.sylar8.eu.org&type=ws&sni=w1.sylar8.eu.org#CA🇨🇦
 
+vless://52d45af5-8b62-47e7-9237-19dc03571fe3@104.18.202.209:2095?path=/&security=none&encryption=none&host=ConneCtion-SpeedV2rayNg.Digiv2ray.shop&type=ws#CA🇨🇦
+
+vless://ab6edcdc-6689-49b5-a7ae-8c7e0a86816c@d2suuh8hp9tlaj.cloudfront.net:443?path=/current_time&security=tls&encryption=none&type=ws&sni=d2suuh8hp9tlaj.cloudfront.net#IE🇮🇪
+
+vless://JOIN28--TUNELSERVER--@Tunelserver.myelf.me:8443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=کانال‌ما:@Tunelserverکانال‌ما:@Tunelserverکانال‌ما:@Tunelserverکانال‌ما:@Tunelserver&sni=Hetzner.elfzx.me#CA🇨🇦
+
+vless://2c59ff33-916d-459b-a4c0-8b7432c4c3bb@13.53.188.112:443?security=reality&encryption=none&pbk=2kFalTuNFrCI4cnIqoNVkKKeQ4DwPZZIqsZLv13_sAg&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=lolstatic-a.akamaihd.net&sid=90031b#SE🇸🇪
+
+vless://2c59ff33-916d-459b-a4c0-8b7432c4c3bb@16.16.198.161:443?security=reality&encryption=none&pbk=EmcJnAmgmizra9H-aY3vS2UpyjJ9CcdpygtVWs2fRVA&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=lolstatic-a.akamaihd.net&sid=e4#SE🇸🇪
+
 vless://26b15a33-0153-4bee-a10e-a29aecd5cae4@190.93.247.155:443?mode=gun&security=tls&encryption=none&alpn=@mehrosaboran,@mehrosaboran&fp=firefox&type=grpc&serviceName=@spikevpn&sni=dl.spikevpn.cfd#CR🇨🇷
 
 vless://5febbe48-3b81-44dd-93ce-b81bbb71ee52@104.27.102.105:2053?path=/&security=tls&encryption=none&host=ghazal.boredhot.cloud&fp=chrome&type=ws&sni=ghazal.boredhot.cloud#CA🇨🇦
@@ -117,16 +127,6 @@ vless://6ac5828d-8427-4b25-8eb8-8a7bff62f50d@78.109.194.176:10400?security=none&
 vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@104.21.28.62:443?sni=3k.pureboy.eu.org&host=3k.pureboy.eu.org&type=ws&security=tls&path=/?ed=2048&encryption=none#CA🇨🇦
 
 vless://ea5fa5d6-5100-4453-9a09-69cb133179a0@bia-to2.unlimiteddev.shop:80?path=/&security=none&encryption=none&host=bia-to-channel4.unlimiteddev.shop&type=ws#CA🇨🇦
-
-vless://568dbb71-0858-4169-efcd-736318e6be95@zerooners.4ghetzner.dynu.com:8443?path=/Telegram @Netazad22 Telegram @Netazad22 Telegram @Netazad22 Telegram @Netazad22 Telegram @Netazad22 Telegram @Netazad22 Telegram @Netazad22 Telegram @Netazad22 Telegram @Netazad22 Telegram @Netazad22 Telegram @Netazad22 Telegram @Netazad22 Telegram @Netazad22 Telegram @Netazad22 Telegram @Netazad22 Telegram @Netazad22&security=tls&encryption=none&host=gt1new.socialinband.com&type=ws&sni=Free-config-for-you972uu6j88803hdhdhhgfsdhhdh.socialinband.com#CA🇨🇦
-
-vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@104.27.102.105:443?path=tel.mehrosaboran&security=tls&encryption=none&host=3k.pureboy.eu.org&fp=chrome&type=ws&sni=3k.pureboy.eu.org#CA🇨🇦
-
-vless://71de1a25-cdb6-469a-a242-e933db09bb74@robosta.turk.coffee:8880?host=robosta.turk.coffee&security=none&type=ws&path=/webrovers&encryption=none#NL🇳🇱
-
-vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@104.27.102.105:443?path=tel.mehrosaboran&security=tls&encryption=none&host=3k.pureboy.eu.org&fp=chrome&type=ws&sni=3k.pureboy.eu.org#CA🇨🇦
-
-vless://SvnTeam2@mtn.vpnprosec.com:443?mode=gun&security=tls&encryption=none&fp=firefox&type=grpc&serviceName=&sni=RiazyRoomAgV2rayes.varzeshnews.top#NL🇳🇱
 
 vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@172.67.170.103:443?path=/?ed=2048&security=tls&encryption=none&host=3k.pureboy.eu.org&type=ws&sni=3k.pureboy.eu.org#CA🇨🇦
 
@@ -156,21 +156,15 @@ vless://4ff056f8-d99a-43e0-8888-0135a91aa210@ddns.fnet00.space:8443?path=/@FNET0
 
 vless://c3face37-ee19-4993-88bc-832914686676@sefarat24.com:443/?type=ws&encryption=none&flow=&host=azadnet20.qurani.shop&path=/?ed=2048&security=tls&sni=azadnet20.qurani.shop&alpn=http/1.1&fp=firefox#NL🇳🇱
 
-vless://dd00bf26-1ad4-433f-aeda-5a0e9c683390@weeronline.nl:2082?path=/?ed=2048&security=none&encryption=none&host=semej.hamidstm.space&type=ws#CA🇨🇦
+vless://236169f9-f9ec-4ba8-a8e6-7031378fccf8@sourceforge.net:2095?path=/?ed=2048&@AstroVPN_official @AstroVPN_official @AstroVPN_official @AstroVPN_official @AstroVPN_official @AstroVPN_official @AstroVPN_official @AstroVPN_official&security=none&encryption=none&host=hsjnw9.mohamad420.sbs&type=ws#CA🇨🇦
 
-vless://6ec52bc7-fcd7-4841-ab69-70d6e03a6eda@All1.v2raygod.site:80?path=@V2ray_God&security=none&encryption=none&host=worker.V2rayGod.site&type=ws#CA🇨🇦
+vless://da8d0369-0121-4d2b-9fe1-c071833604cf@tgju.org:80?path=/?ed=2048&security=none&encryption=none&host=fl.gooldeneaglee.eu.org&type=ws#CA🇨🇦
 
 vless://04a93bb8-0a5b-4aa8-ab7f-31fc7adab1c1@edgu.pureboy.eu.org:443?path=/?ed=2048&security=tls&encryption=none&host=edgu.pureboy.eu.org&fp=chrome&type=ws&sni=edgu.pureboy.eu.org#CA🇨🇦
 
-vless://6ec52bc7-fcd7-4841-ab69-70d6e03a6eda@all1.v2raygod.site:80?path=@V2ray_God&security=none&encryption=none&host=worker.V2rayGod.site&type=ws#CA🇨🇦
-
-vless://e1a928be-e289-4aef-b92e-4106fabdf42f@k---join.outline-vpn.cloud:80?path=/?ed=2048&security=none&encryption=none&host=mahi.kosnanatfilterchi.eu.org&type=ws#CA🇨🇦
+vless://8a7ec621-d27b-4e08-9433-f2076b2b63c0@[0000:0000:0000:0000:0000:ffff:6812:7264]:8080?path=/&security=none&encryption=none&host=n1.shirazpc.site&type=ws#
 
 vless://---Telegram-Parsashonam--1-@Zula.ir:2087?type=grpc&serviceName=&security=tls&fp=chrome&alpn=&sni=De0.Parsashonam-CH.Sbs#NL🇳🇱
 
 vless://---Telegram-Parsashonam--2-@Zula.ir:2053?type=grpc&serviceName=@Parsashonam&mode=multi&security=tls&fp=chrome&alpn=&sni=Fi0.Parsashonam-CH.Sbs#NL🇳🇱
-
-vless://---Telegram-Parsashonam--0-@Zula.ir:2087?mode=gun&security=tls&encryption=none&fp=chrome&type=grpc&serviceName=&sni=DE.PARSASHONAM.CFD#NL🇳🇱
-
-vless://---Telegram-Parsashonam--1-@Zula.ir:2053?mode=multi&security=tls&encryption=none&fp=chrome&type=grpc&serviceName=@Parsashonam&sni=FI.Parsashonam.Sbs#NL🇳🇱
 
