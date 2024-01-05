@@ -28,7 +28,7 @@ vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@3k.pureboy.eu.org:443?path=/?ed=204
 
 vless://460332c1-aa61-445d-9cc1-00647871b803@s18.nextvps.monster:8307?path=/&security=none&encryption=none&host=telewebion.com&type=ws#IR🇮🇷
 
-vless://29f8ad12-ea84-431b-bf32-9d3fb5cf2aa2@w1.sylar8.eu.org:443?path=/?ed=2048&security=tls&encryption=none&host=w1.sylar8.eu.org&type=ws&sni=w1.sylar8.eu.org#US🇺🇸
+vless://29f8ad12-ea84-431b-bf32-9d3fb5cf2aa2@w1.sylar8.eu.org:443?path=/?ed=2048&security=tls&encryption=none&host=w1.sylar8.eu.org&type=ws&sni=w1.sylar8.eu.org#CA🇨🇦
 
 vless://9fbaa2ab-fe89-444f-aa05-21dd1b3cabb5@freews.kinghooman.sbs:8443?path=/free&security=tls&encryption=none&fp=chrome&type=ws&sni=freews.kinghooman.sbs#US🇺🇸
 
@@ -36,15 +36,15 @@ vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@iran-011-join.outline-vpn.cloud:443
 
 vless://a419e219-82c3-4ae4-8c32-f07d8ecb8c5e@b2n.ir:80?path=/YDxOGX9WskdwS34a330gLzF&security=none&encryption=none&host=a5vomy1pjcn463cctkj4ddave51f3qu8d55c9x.skyroom.site&type=ws#US🇺🇸
 
-vless://308b5d56-c2d1-44bc-8069-5e4b3aab3156@www.zula.ir:8443?mode=gun&security=tls&encryption=none&fp=chrome&type=grpc&serviceName=me&sni=finbig6.waky-melo.site#US🇺🇸
+vless://308b5d56-c2d1-44bc-8069-5e4b3aab3156@www.zula.ir:8443?mode=gun&security=tls&encryption=none&fp=chrome&type=grpc&serviceName=me&sni=finbig6.waky-melo.site#NL🇳🇱
 
-vless://e1a928be-e289-4aef-b92e-4106fabdf42f@k---join.outline-vpn.cloud:80?path=/?ed=2048&security=none&encryption=none&host=mahi.kosnanatfilterchi.eu.org&type=ws#CA🇨🇦
+vless://e1a928be-e289-4aef-b92e-4106fabdf42f@k---join.outline-vpn.cloud:80?path=/?ed=2048&security=none&encryption=none&host=mahi.kosnanatfilterchi.eu.org&type=ws#US🇺🇸
 
-vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@star--join.outline-vpn.cloud:443?path=/?ed=2048&security=tls&encryption=none&host=3k.pureboy.eu.org&type=ws&sni=3k.pureboy.eu.org#CA🇨🇦
+vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@star--join.outline-vpn.cloud:443?path=/?ed=2048&security=tls&encryption=none&host=3k.pureboy.eu.org&type=ws&sni=3k.pureboy.eu.org#US🇺🇸
 
-vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@www.unpkg.com:443?path=/?ed=2048&security=tls&encryption=none&host=3k.pureboy.eu.org&type=ws&sni=3k.pureboy.eu.org#CA🇨🇦
+vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@www.unpkg.com:443?path=/?ed=2048&security=tls&encryption=none&host=3k.pureboy.eu.org&type=ws&sni=3k.pureboy.eu.org#US🇺🇸
 
-vless://dfb18c6f-731a-4898-a1c4-cc36c6055a90@w2.sylarsun.eu.org:443?path=/?ed=2048&security=tls&encryption=none&host=w2.sylarsun.eu.org&type=ws&sni=w2.sylarsun.eu.org#NL🇳🇱
+vless://dfb18c6f-731a-4898-a1c4-cc36c6055a90@w2.sylarsun.eu.org:443?path=/?ed=2048&security=tls&encryption=none&host=w2.sylarsun.eu.org&type=ws&sni=w2.sylarsun.eu.org#US🇺🇸
 
 vless://89420825-e589-4735-bee1-6dc636fca343@w3.sylarsun.eu.org:443?path=/?ed=2048&security=tls&encryption=none&host=w3.sylarsun.eu.org&type=ws&sni=w3.sylarsun.eu.org#NL🇳🇱
 
@@ -125,6 +125,10 @@ vless://b00c0af2-620a-4cd5-9ba7-f7e5f4f0b1b4@vip.cdn2cdn.com:443?path=/njmiws&se
 vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@www.unpkg.com:443?path=/?ed=2048&security=tls&encryption=none&host=3k.pureboy.eu.org&type=ws&sni=3k.pureboy.eu.org#CA🇨🇦
 
 vless://04a93bb8-0a5b-4aa8-ab7f-31fc7adab1c1@edgu.pureboy.eu.org:443?path=/?ed=2048&security=tls&encryption=none&host=edgu.pureboy.eu.org&fp=chrome&type=ws&sni=edgu.pureboy.eu.org#CA🇨🇦
+
+vless://d92a8cd4-185c-42ed-8bde-5e8d69a852e1@all.vpncustomize.cam:443?mode=multi&security=tls&encryption=none&alpn=h2&fp=chrome&type=grpc&serviceName=‌@VPNCUSTOMIZE&sni=usa1-KingSpeedV2rayng.VPNCUSTOMIZE.tech#CR🇨🇷
+
+vless://e1a928be-e289-4aef-b92e-4106fabdf42f@172.67.204.84:80?path=/?ed=2048&security=none&encryption=none&host=mahi.kosnanatfilterchi.eu.org&type=ws#CA🇨🇦
 
 vless://e2c1bd38-554e-4b1e-ac41-8883df4184d1@5.42.86.225:6272?mode=gun&security=reality&encryption=none&pbk=1yjMDe_3ZcrJDc4fGqWPmy-udJRLW502p2EjplmCWx8&fp=chrome&spx=/doggo&type=grpc&serviceName=&sni=magicbus.ca&sid=76753364#SE🇸🇪
 
