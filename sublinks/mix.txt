@@ -38,9 +38,9 @@ vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@star---join.outline-vpn.cloud:443?p
 
 vless://29f8ad12-ea84-431b-bf32-9d3fb5cf2aa2@t---join.outline-vpn.cloud:443?path=/?ed=2048&security=tls&encryption=none&host=w1.sylar8.eu.org&type=ws&sni=w1.sylar8.eu.org#CA🇨🇦
 
-vless://462acb01-a275-433c-9fc6-074de3d68ba0@turkws.configforvpn.fun:2087?path=/&security=tls&encryption=none&type=ws&sni=turkws.configforvpn.fun#US🇺🇸
+vless://462acb01-a275-433c-9fc6-074de3d68ba0@turkws.configforvpn.fun:2087?path=/&security=tls&encryption=none&type=ws&sni=turkws.configforvpn.fun#CA🇨🇦
 
-vless://29f8ad12-ea84-431b-bf32-9d3fb5cf2aa2@w1.sylar8.eu.org:443?path=/?ed=2048&security=tls&encryption=none&host=w1.sylar8.eu.org&type=ws&sni=w1.sylar8.eu.org#CA🇨🇦
+vless://29f8ad12-ea84-431b-bf32-9d3fb5cf2aa2@w1.sylar8.eu.org:443?path=/?ed=2048&security=tls&encryption=none&host=w1.sylar8.eu.org&type=ws&sni=w1.sylar8.eu.org#US🇺🇸
 
 vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@er--join.outline-vpn.cloud:443?path=/?ed&security=tls&encryption=none&alpn=http/1.1&host=3k.pureboy.eu.org&fp=chrome&type=ws&sni=3k.pureboy.eu.org#CA🇨🇦
 
@@ -136,6 +136,22 @@ vless://308b5d56-c2d1-44bc-8069-5e4b3aab3156@www.zula.ir:8443?mode=gun&security=
 
 vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@iran-011-join.outline-vpn.cloud:443?path=/?ed=2048&security=tls&encryption=none&host=3k.pureboy.eu.org&fp=chrome&type=ws&sni=3k.pureboy.eu.org#US🇺🇸
 
+trojan://telegram-id-privatevpns@18.184.9.101:22222?security=tls&sni=trj.rollingnext.co.uk#DE🇩🇪
+
+trojan://telegram-id-directvpn@18.196.127.24:22222?security=tls&sni=trj.rollingnext.co.uk#DE🇩🇪
+
+trojan://telegram-id-directvpn@18.196.127.24:22222?security=tls&sni=trj.rollingnext.co.uk#DE🇩🇪
+
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@18.237.109.159:443#US🇺🇸
+
+trojan://telegram-id-privatevpns@18.132.35.140:22222?security=tls&sni=trj.rollingnext.co.uk#GB🇬🇧
+
+trojan://telegram-id-privatevpns@18.132.35.140:22222?security=tls&sni=trj.rollingnext.co.uk#GB🇬🇧
+
+trojan://telegram-id-privatevpns@18.135.6.102:22222?security=tls&sni=trj.rollingnext.co.uk#GB🇬🇧
+
+trojan://telegram-id-privatevpns@18.135.6.102:22222?security=tls&sni=trj.rollingnext.co.uk#GB🇬🇧
+
 vless://8c061198-cfa1-42fb-918e-4af35ddb33ee@all.vpncustomize.cam:443?mode=multi&security=tls&encryption=none&alpn=h2&fp=chrome&type=grpc&serviceName=‌@VPNCUSTOMIZE&sni=usa-kingspeedV2rayng.VPNCUSTOMIZE.tech#US🇺🇸
 
 vless://8c061198-cfa1-42fb-918e-4af35ddb33ee@all.vpncustomize.cam:8443?path=/ed=2048&security=tls&encryption=none&alpn=h2&host=usa1-KingSpeedV2rayng.VPNCUSTOMIZE.tech&fp=chrome&type=ws&sni=usa1-KingSpeedV2rayng.VPNCUSTOMIZE.tech#US🇺🇸
@@ -150,7 +166,7 @@ vless://a32e3f6b-0928-42ff-a978-95bf298878d2@bia-to3.unlimiteddev.shop:80?encryp
 
 vless://a32e3f6b-0928-42ff-a978-95bf298878d2@bia-to4.unlimiteddev.shop:80?encryption=none&security=none&type=ws&host=bia-to-channel4.unlimiteddev.shop&path=/#CA🇨🇦
 
-vless://8c061198-cfa1-42fb-918e-4af35ddb33ee@all.vpncustomize.cam:443?mode=multi&security=tls&encryption=none&alpn=h2&fp=chrome&type=grpc&serviceName=‌@VPNCUSTOMIZE&sni=usa1-KingSpeedV2rayng.VPNCUSTOMIZE.tech#CR🇨🇷
+vless://8c061198-cfa1-42fb-918e-4af35ddb33ee@all.vpncustomize.cam:443?mode=multi&security=tls&encryption=none&alpn=h2&fp=chrome&type=grpc&serviceName=‌@VPNCUSTOMIZE&sni=usa1-KingSpeedV2rayng.VPNCUSTOMIZE.tech#US🇺🇸
 
 vless://9701c8b3-b2c0-4a70-b5af-da5cf5361a47@45.84.196.148:8443?security=reality&encryption=none&pbk=SuZTEyms4vQtWwsT7PC6tP1HZFAStjxuzvnI1-xRogU&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=speed.cloudflare.com&sid=90462b6a#DE🇩🇪
 
@@ -164,29 +180,13 @@ vless://7bf1c642-bc10-4a6e-8f01-a6411f051421@All.digiv2ray.shop:2053?path=/&secu
 
 vless://309ddc26-beff-4f3a-ae02-d93cb8c3a443@188.166.193.85:2096?mode=gun&security=reality&encryption=none&pbk=Ceni_WFlB4uCFFV3ejVhQ3AS2mX3xns0J7tAGmUDGQE&fp=chrome&spx=/&type=grpc&serviceName=TELEGRAM:@ZEDMODEON-TELEGRAM:@ZEDMODEON-TELEGRAM:@ZEDMODEON,TELEGRAM:@ZEDMODEON&sni=www.discord.com&sid=6b5797fe#DE🇩🇪
 
-vless://0fe0c570-e5fc-4815-af5b-bc67df290019@www.mrzedmodeon.top:2096?mode=multi&security=tls&encryption=none&alpn=h2&fp=chrome&type=grpc&serviceName=TELEGRAM:@ZEDMODEON-TELEGRAM:@ZEDMODEON-TELEGRAM:@ZEDMODEON,TELEGRAM:@ZEDMODEON&sni=dash.zedmodeon1.store#NL🇳🇱
+vless://0fe0c570-e5fc-4815-af5b-bc67df290019@www.mrzedmodeon.top:2096?mode=multi&security=tls&encryption=none&alpn=h2&fp=chrome&type=grpc&serviceName=TELEGRAM:@ZEDMODEON-TELEGRAM:@ZEDMODEON-TELEGRAM:@ZEDMODEON,TELEGRAM:@ZEDMODEON&sni=dash.zedmodeon1.store#CA🇨🇦
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpLbEpsWFhlOUtqUVg0bWg0eEMwNWM5@51.145.68.57:13751#GB🇬🇧
 
 vmess://eyJhZGQiOiJpbi1mdWxsLnByaXZhdGVpcC5uZXQiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiNGRmMmI0ZGYtNzE1Ny00ZGJkLWFlMWYtOTk3ZDExZmQ0ZmVlIiwibmV0Ijoid3MiLCJwYXRoIjoiXC9SQUNFVlBOIiwicG9ydCI6IjQ0MyIsInBzIjoiSU5cdWQ4M2NcdWRkZWVcdWQ4M2NcdWRkZjMiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoidGxzIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
 
 vless://11a9d4d0-3ebe-4af4-a1b3-7bec472987bc@tm.sbsBsbs.sbs:2087?mode=gun&security=tls&encryption=none&fp=chrome&type=grpc&serviceName=@ipV2Ray&sni=sbs.sbsBsbs.sbs#
-
-trojan://vvpSWt7ZxX@dns.rasha.cfd:443?type=grpc&serviceName=51085506&mode=multi&security=tls&fp=randomized&alpn=http/1.1,h2&sni=4431999447.cdngame.shop#CA🇨🇦
-
-trojan://o4Bz3Fd1VC@dns.rasha.cfd:443?type=grpc&serviceName=18768022&mode=multi&security=tls&fp=randomized&alpn=http/1.1,h2&sni=6211440796.cdngame.shop#CA🇨🇦
-
-trojan://HPhhR4q3Iz@dns.rasha.cfd:443?type=grpc&serviceName=35534794&mode=multi&security=tls&fp=randomized&alpn=http/1.1,h2&sni=8282697354.cdngame.shop#CA🇨🇦
-
-trojan://HhnIbLmRXJ@dns.rasha.cfd:443?type=grpc&serviceName=84876288&mode=multi&security=tls&fp=randomized&alpn=http/1.1,h2&sni=2600627423.cdngame.shop#CA🇨🇦
-
-trojan://wxZ4Aa4rBQ@dns.rasha.cfd:443?type=grpc&serviceName=38130729&mode=multi&security=tls&fp=randomized&alpn=http/1.1,h2&sni=1184894672.cdngame.shop#CA🇨🇦
-
-trojan://zwqLFsTQz3@dns.rasha.cfd:443?type=grpc&serviceName=26274514&mode=multi&security=tls&fp=randomized&alpn=http/1.1,h2&sni=6357312789.cdngame.shop#CA🇨🇦
-
-trojan://XuL8BqW6Gb@dns.rasha.cfd:443?type=grpc&serviceName=92504654&mode=multi&security=tls&fp=randomized&alpn=http/1.1,h2&sni=7086100456.cdngame.shop#CA🇨🇦
-
-trojan://npWqzLATVc@dns.rasha.cfd:443?type=grpc&serviceName=13062246&mode=multi&security=tls&fp=randomized&alpn=http/1.1,h2&sni=3587208330.cdngame.shop#CA🇨🇦
 
 vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@172.67.170.103:443?path=/?ed=2048&security=tls&encryption=none&host=3k.pureboy.eu.org&type=ws&sni=3k.pureboy.eu.org#CA🇨🇦
 
@@ -222,7 +222,7 @@ vmess://eyJhZGQiOiIxODUuMjIuMTU0LjEyIiwidiI6MiwicHMiOiJSVVx1ZDgzY1x1ZGRmN1x1ZDgz
 
 trojan://93ec7261-1c92-4149-848a-26b6fb9fc4ce@my02.trojanyyds.xyz:443#HK🇭🇰
 
-trojan://93ec7261-1c92-4149-848a-26b6fb9fc4ce@hk03.trojanyyds.xyz:443?sni=hk03.trojanyyds.xyz#JP🇯🇵
+trojan://93ec7261-1c92-4149-848a-26b6fb9fc4ce@hk03.trojanyyds.xyz:443?sni=hk03.trojanyyds.xyz#HK🇭🇰
 
 vless://60813b9d-aa0e-4a5c-88b8-ed231058e82a@192.18.140.174:443?encryption=none&security=tls&type=ws&sni=pages.20230619.love&host=pages.20230619.love&path=telegram🇨🇳@wangcai2/?ed=2048#US🇺🇸
 
