@@ -32,15 +32,15 @@ vless://e1a928be-e289-4aef-b92e-4106fabdf42f@port80----join.outline-vpn.cloud:80
 
 vless://215fe998-29ae-4e84-9471-2bdb211b1742@join--showww.outline-vpn.cloud:8443?mode=gun&security=tls&encryption=none&fp=chrome&type=grpc&serviceName=@networknim&sni=free.foxnim.site#US🇺🇸
 
-vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@join--showwww.outline-vpn.cloud:443?path=/?ed=2048/@https_config_injector&security=tls&encryption=none&host=3k.pureboy.eu.org&fp=chrome&type=ws&sni=3k.pureboy.eu.org#INT🌍
+vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@join--showwww.outline-vpn.cloud:443?path=/?ed=2048/@https_config_injector&security=tls&encryption=none&host=3k.pureboy.eu.org&fp=chrome&type=ws&sni=3k.pureboy.eu.org#US🇺🇸
 
-vless://58d04d0d-e4b1-40d2-81df-d175f030424c@ars2.pingreducer.top:443?path=/pingreducer&security=tls&encryption=none&fp=chrome&type=ws&sni=ars2.pingreducer.top#NL🇳🇱
+vless://58d04d0d-e4b1-40d2-81df-d175f030424c@ars2.pingreducer.top:443?path=/pingreducer&security=tls&encryption=none&fp=chrome&type=ws&sni=ars2.pingreducer.top#US🇺🇸
 
 vless://462acb01-a275-433c-9fc6-074de3d68ba0@turkws.configforvpn.fun:2087?path=/&security=tls&encryption=none&type=ws&sni=turkws.configforvpn.fun#US🇺🇸
 
-vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@www.unpkg.com:443?path=/?ed=2048&security=tls&encryption=none&host=3k.pureboy.eu.org&type=ws&sni=3k.pureboy.eu.org#US🇺🇸
+vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@www.unpkg.com:443?path=/?ed=2048&security=tls&encryption=none&host=3k.pureboy.eu.org&type=ws&sni=3k.pureboy.eu.org#INT🌍
 
-vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@3k.pureboy.eu.org:443?path=/?ed=2048&security=tls&encryption=none&host=3k.pureboy.eu.org&type=ws&sni=3k.pureboy.eu.org#INT🌍
+vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@3k.pureboy.eu.org:443?path=/?ed=2048&security=tls&encryption=none&host=3k.pureboy.eu.org&type=ws&sni=3k.pureboy.eu.org#US🇺🇸
 
 vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@iran-011-join.outline-vpn.cloud:443?path=/?ed=2048&security=tls&encryption=none&host=3k.pureboy.eu.org&fp=chrome&type=ws&sni=3k.pureboy.eu.org#INT🌍
 
@@ -124,7 +124,7 @@ vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@er--join.outline-vpn.cloud:443?path
 
 vless://009e23cb-efb7-46e2-a2a0-5219dc81b989@6wvtvqhsu2sicisbsvs---bxjwhdbrbzx83v---67.sb25vsiw8ysv2tcao-food-spab.shop:8880?mode=gun&security=reality&encryption=none&pbk=XxSqx1rnEKBJiajeSNc0Noj3RpJXBCgL3aK8fLrqfgQ&fp=firefox&type=grpc&serviceName=&sni=greenpepper.ir&sid=fffbcb8f#DE🇩🇪
 
-vless://04a93bb8-0a5b-4aa8-ab7f-31fc7adab1c1@edgu.pureboy.eu.org:443?path=/?ed=2048&security=tls&encryption=none&host=edgu.pureboy.eu.org&fp=chrome&type=ws&sni=edgu.pureboy.eu.org#INT🌍
+vless://04a93bb8-0a5b-4aa8-ab7f-31fc7adab1c1@edgu.pureboy.eu.org:443?path=/?ed=2048&security=tls&encryption=none&host=edgu.pureboy.eu.org&fp=chrome&type=ws&sni=edgu.pureboy.eu.org#US🇺🇸
 
 vless://71de1a25-cdb6-469a-a242-e933db09bb74@robosta.turk.coffee:8880?path=/webrovers&security=none&encryption=none&host=robosta.turk.coffee&type=ws#NL🇳🇱
 
@@ -139,10 +139,6 @@ vless://480730c8-fedd-4f21-bcb4-ff5cd3693bec@graydog.uk:56376?flow=xtls-rprx-vis
 vless://2c59ff33-916d-459b-a4c0-8b7432c4c3bb@16.16.171.86:443?security=reality&encryption=none&pbk=hf9U6-knSXLXMLsnkkXHZggrTyooevRUZyXqSMUzGwI&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=lolstatic-a.akamaihd.net&sid=1db3#SE🇸🇪
 
 vless://cd23e4c1-c82f-444f-8f06-15c1f0978022@172.66.47.74:443?mode=multi&security=tls&encryption=none&alpn=h2&fp=chrome&type=grpc&servicename=@mehrosaboran,@mehrosaboran&serviceName=@Digiv2ray#US🇺🇸
-
-vless://38301e29-81db-402d-990b-d154b7722ad8@vipvpncho.irnicho.site:31538?type=tcp&path=/&host=eset.com&headerType=http&security=none#IR🇮🇷
-
-vless://cac8e18f-c58c-4752-dfbd-74decb7c3ee6@www.speedtest.net:8443?path=V2NET_IRAN-V2NET_IRAN-V2NET_IRAN-V2NET_IRAN-V2NET_IRAN-V2NET_IRAN-V2NET_IRAN-V2NET_IRAN-V2NET_IRAN-V2NET_IRAN-V2NET_IRAN&security=tls&encryption=none&alpn=h2,http/1.1&host=hired-fact-mines-entire.trycloudflare.com&fp=edge&type=ws&sni=hired-fact-mines-entire.trycloudflare.com#INT🌍
 
 vless://da8d0369-0121-4d2b-9fe1-c071833604cf@104.26.15.85:80?path=/?ed=2048&security=none&encryption=none&host=fl.gooldeneaglee.eu.org&type=ws#INT🌍
 
@@ -176,7 +172,7 @@ vless://4ff056f8-d99a-43e0-8888-0135a91aa210@ddns.fnet00.space:8443?path=/@FNET0
 
 vless://236169f9-f9ec-4ba8-a8e6-7031378fccf8@sourceforge.net:2095?path=/?ed=2048&@AstroVPN_official @AstroVPN_official @AstroVPN_official @AstroVPN_official @AstroVPN_official @AstroVPN_official @AstroVPN_official @AstroVPN_official&security=none&encryption=none&host=hsjnw9.mohamad420.sbs&type=ws#INT🌍
 
-vless://da8d0369-0121-4d2b-9fe1-c071833604cf@tgju.org:80?path=/?ed=2048&security=none&encryption=none&host=fl.gooldeneaglee.eu.org&type=ws#US🇺🇸
+vless://da8d0369-0121-4d2b-9fe1-c071833604cf@tgju.org:80?path=/?ed=2048&security=none&encryption=none&host=fl.gooldeneaglee.eu.org&type=ws#INT🌍
 
 vless://04a93bb8-0a5b-4aa8-ab7f-31fc7adab1c1@edgu.pureboy.eu.org:443?path=/?ed=2048&security=tls&encryption=none&host=edgu.pureboy.eu.org&fp=chrome&type=ws&sni=edgu.pureboy.eu.org#US🇺🇸
 
