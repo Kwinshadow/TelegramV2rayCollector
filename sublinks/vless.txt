@@ -42,9 +42,9 @@ vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@star---join.outline-vpn.cloud:443?p
 
 vless://29f8ad12-ea84-431b-bf32-9d3fb5cf2aa2@t---join.outline-vpn.cloud:443?path=/?ed=2048&security=tls&encryption=none&host=w1.sylar8.eu.org&type=ws&sni=w1.sylar8.eu.org#CA🇨🇦
 
-vless://462acb01-a275-433c-9fc6-074de3d68ba0@turkws.configforvpn.fun:2087?path=/&security=tls&encryption=none&type=ws&sni=turkws.configforvpn.fun#US🇺🇸
+vless://462acb01-a275-433c-9fc6-074de3d68ba0@turkws.configforvpn.fun:2087?path=/&security=tls&encryption=none&type=ws&sni=turkws.configforvpn.fun#CA🇨🇦
 
-vless://29f8ad12-ea84-431b-bf32-9d3fb5cf2aa2@w1.sylar8.eu.org:443?path=/?ed=2048&security=tls&encryption=none&host=w1.sylar8.eu.org&type=ws&sni=w1.sylar8.eu.org#CA🇨🇦
+vless://29f8ad12-ea84-431b-bf32-9d3fb5cf2aa2@w1.sylar8.eu.org:443?path=/?ed=2048&security=tls&encryption=none&host=w1.sylar8.eu.org&type=ws&sni=w1.sylar8.eu.org#US🇺🇸
 
 vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@er--join.outline-vpn.cloud:443?path=/?ed&security=tls&encryption=none&alpn=http/1.1&host=3k.pureboy.eu.org&fp=chrome&type=ws&sni=3k.pureboy.eu.org#CA🇨🇦
 
@@ -52,7 +52,7 @@ vless://e1a928be-e289-4aef-b92e-4106fabdf42f@port80--join.outline-vpn.cloud:80?p
 
 vless://e1a928be-e289-4aef-b92e-4106fabdf42f@port80----join.outline-vpn.cloud:80?path=/?ed=2048&security=none&encryption=none&host=mahi.kosnanatfilterchi.eu.org&type=ws#NL🇳🇱
 
-vless://215fe998-29ae-4e84-9471-2bdb211b1742@join--showww.outline-vpn.cloud:8443?mode=gun&security=tls&encryption=none&fp=chrome&type=grpc&serviceName=@networknim&sni=free.foxnim.site#CA🇨🇦
+vless://215fe998-29ae-4e84-9471-2bdb211b1742@join--showww.outline-vpn.cloud:8443?mode=gun&security=tls&encryption=none&fp=chrome&type=grpc&serviceName=@networknim&sni=free.foxnim.site#INT🌍
 
 vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@join--showwww.outline-vpn.cloud:443?path=/?ed=2048/@https_config_injector&security=tls&encryption=none&host=3k.pureboy.eu.org&fp=chrome&type=ws&sni=3k.pureboy.eu.org#CA🇨🇦
 
@@ -132,7 +132,7 @@ vless://e1a928be-e289-4aef-b92e-4106fabdf42f@k---join.outline-vpn.cloud:80?path=
 
 vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@star--join.outline-vpn.cloud:443?path=/?ed=2048&security=tls&encryption=none&host=3k.pureboy.eu.org&type=ws&sni=3k.pureboy.eu.org#CA🇨🇦
 
-vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@www.unpkg.com:443?path=/?ed=2048&security=tls&encryption=none&host=3k.pureboy.eu.org&type=ws&sni=3k.pureboy.eu.org#CA🇨🇦
+vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@www.unpkg.com:443?path=/?ed=2048&security=tls&encryption=none&host=3k.pureboy.eu.org&type=ws&sni=3k.pureboy.eu.org#INT🌍
 
 vless://dfb18c6f-731a-4898-a1c4-cc36c6055a90@w2.sylarsun.eu.org:443?path=/?ed=2048&security=tls&encryption=none&host=w2.sylarsun.eu.org&type=ws&sni=w2.sylarsun.eu.org#NL🇳🇱
 
@@ -156,21 +156,13 @@ vless://badcd907-50f2-4ef3-aaae-bf44f0ca9b2a@173.245.58.31:443?mode=gun&security
 
 vless://f73473b5-140d-4d83-a638-cb802c74c58a@sourceforge.net:2095?path=/?ed=2048&security=none&encryption=none&host=cdn-www.net-php.ir.tunell-dns7.xyz&type=ws#CA🇨🇦
 
-vless://1104944f-043e-417c-8677-4baa92220731@dns.rasha.cfd:443?type=ws&host=2182536267.shiomicdn.shop&path=/&security=tls&fp=&alpn=&sni=2182536267.shiomicdn.shop#INT🌍
+vless://1104944f-043e-417c-8677-4baa92220731@dns.rasha.cfd:443?type=ws&host=2182536267.shiomicdn.shop&path=/&security=tls&fp=&alpn=&sni=2182536267.shiomicdn.shop#CA🇨🇦
 
 vless://30eae4f5-8317-4191-800d-dbf8787684b1@dns.rasha.cfd:443?type=ws&host=5600077626.shiomicdn.shop&path=/&security=tls&fp=&alpn=&sni=5600077626.shiomicdn.shop#CA🇨🇦
 
 vless://28cbf875-e64b-44be-a571-f4ab34fae0ad@dns.rasha.cfd:443?type=ws&host=6049977902.shiomicdn.shop&path=/&security=tls&fp=&alpn=&sni=6049977902.shiomicdn.shop#CA🇨🇦
 
-vless://e7a9a4f5-09bf-4b3a-b781-66897bec7d97@dns.rasha.cfd:443?type=ws&host=8398233275.shiomicdn.shop&path=/&security=tls&fp=&alpn=&sni=8398233275.shiomicdn.shop#CA🇨🇦
-
-vless://aac1cfb5-9a43-433e-a5e3-3ec7f6f2f7c7@dns.rasha.cfd:443?type=ws&host=1803169029.shiomicdn.shop&path=/&security=tls&fp=&alpn=&sni=1803169029.shiomicdn.shop#CA🇨🇦
-
-vless://81b5af23-eff7-4d52-9471-7b0ec9e9b84c@dns.rasha.cfd:443?type=ws&host=3947301830.shiomicdn.shop&path=/&security=tls&fp=&alpn=&sni=3947301830.shiomicdn.shop#CA🇨🇦
-
-vless://9d638552-6e1d-4027-9ad7-a68c7ed8deef@dns.rasha.cfd:443?type=ws&host=9446834790.shiomicdn.shop&path=/&security=tls&fp=&alpn=&sni=9446834790.shiomicdn.shop#CA🇨🇦
-
-vless://27a411db-3fe8-4777-95de-b896e57d2c22@dns.rasha.cfd:443?type=ws&host=3594077432.shiomicdn.shop&path=/&security=tls&fp=&alpn=&sni=3594077432.shiomicdn.shop#CA🇨🇦
+vless://e7a9a4f5-09bf-4b3a-b781-66897bec7d97@dns.rasha.cfd:443?type=ws&host=8398233275.shiomicdn.shop&path=/&security=tls&fp=&alpn=&sni=8398233275.shiomicdn.shop#INT🌍
 
 vless://da8d0369-0121-4d2b-9fe1-c071833604cf@104.26.15.85:80?path=/?ed=2048&security=none&encryption=none&host=fl.gooldeneaglee.eu.org&type=ws#CA🇨🇦
 
