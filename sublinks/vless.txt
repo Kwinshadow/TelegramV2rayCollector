@@ -120,7 +120,7 @@ vless://460332c1-aa61-445d-9cc1-00647871b803@s18.nextvps.monster:8307?path=/&sec
 
 vless://29f8ad12-ea84-431b-bf32-9d3fb5cf2aa2@w1.sylar8.eu.org:443?path=/?ed=2048&security=tls&encryption=none&host=w1.sylar8.eu.org&type=ws&sni=w1.sylar8.eu.org#CA🇨🇦
 
-vless://9fbaa2ab-fe89-444f-aa05-21dd1b3cabb5@freews.kinghooman.sbs:8443?path=/free&security=tls&encryption=none&fp=chrome&type=ws&sni=freews.kinghooman.sbs#CA🇨🇦
+vless://9fbaa2ab-fe89-444f-aa05-21dd1b3cabb5@freews.kinghooman.sbs:8443?path=/free&security=tls&encryption=none&fp=chrome&type=ws&sni=freews.kinghooman.sbs#NL🇳🇱
 
 vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@iran-011-join.outline-vpn.cloud:443?path=/?ed=2048&security=tls&encryption=none&host=3k.pureboy.eu.org&fp=chrome&type=ws&sni=3k.pureboy.eu.org#US🇺🇸
 
@@ -138,6 +138,22 @@ vless://dfb18c6f-731a-4898-a1c4-cc36c6055a90@w2.sylarsun.eu.org:443?path=/?ed=20
 
 vless://89420825-e589-4735-bee1-6dc636fca343@w3.sylarsun.eu.org:443?path=/?ed=2048&security=tls&encryption=none&host=w3.sylarsun.eu.org&type=ws&sni=w3.sylarsun.eu.org#NL🇳🇱
 
+vless://1104944f-043e-417c-8677-4baa92220731@dns.rasha.cfd:443?type=ws&host=2182536267.shiomicdn.shop&path=/&security=tls&fp=&alpn=&sni=2182536267.shiomicdn.shop#CA🇨🇦
+
+vless://30eae4f5-8317-4191-800d-dbf8787684b1@dns.rasha.cfd:443?type=ws&host=5600077626.shiomicdn.shop&path=/&security=tls&fp=&alpn=&sni=5600077626.shiomicdn.shop#CA🇨🇦
+
+vless://28cbf875-e64b-44be-a571-f4ab34fae0ad@dns.rasha.cfd:443?type=ws&host=6049977902.shiomicdn.shop&path=/&security=tls&fp=&alpn=&sni=6049977902.shiomicdn.shop#CA🇨🇦
+
+vless://e7a9a4f5-09bf-4b3a-b781-66897bec7d97@dns.rasha.cfd:443?type=ws&host=8398233275.shiomicdn.shop&path=/&security=tls&fp=&alpn=&sni=8398233275.shiomicdn.shop#CA🇨🇦
+
+vless://aac1cfb5-9a43-433e-a5e3-3ec7f6f2f7c7@dns.rasha.cfd:443?type=ws&host=1803169029.shiomicdn.shop&path=/&security=tls&fp=&alpn=&sni=1803169029.shiomicdn.shop#CA🇨🇦
+
+vless://81b5af23-eff7-4d52-9471-7b0ec9e9b84c@dns.rasha.cfd:443?type=ws&host=3947301830.shiomicdn.shop&path=/&security=tls&fp=&alpn=&sni=3947301830.shiomicdn.shop#CA🇨🇦
+
+vless://9d638552-6e1d-4027-9ad7-a68c7ed8deef@dns.rasha.cfd:443?type=ws&host=9446834790.shiomicdn.shop&path=/&security=tls&fp=&alpn=&sni=9446834790.shiomicdn.shop#CA🇨🇦
+
+vless://27a411db-3fe8-4777-95de-b896e57d2c22@dns.rasha.cfd:443?type=ws&host=3594077432.shiomicdn.shop&path=/&security=tls&fp=&alpn=&sni=3594077432.shiomicdn.shop#CA🇨🇦
+
 vless://efdc1131-aee1-45b2-9b0e-b2f108110e50@forward3.maryam1700.com:2083?type=grpc&mode=multi&security=tls&fp=firefox&sni=forward4444.maryam1500.top&alpn=http/1.1#CA🇨🇦
 
 vless://16e3cc71-c99f-4ab5-bff3-6247ca6cbd80@forward3.maryam1700.com:2096?type=grpc&mode=gun&security=tls&fp=firefox&sni=forward333.maryam1500.top&alpn=http/1.1#CA🇨🇦
@@ -147,14 +163,6 @@ vless://a71aba0b-cbc9-4ab1-a0cb-93a83f03a672@104.18.154.42:443?path=@daily_confi
 vless://c61fc408-33c6-44a6-f476-17d90c6330d7@LIGHTNING6-joinbede.liV2ray.xyz:2083?mode=gun&security=tls&encryption=none&alpn=h2&fp=chrome&type=grpc&serviceName=@LIGHTNING6&sni=AllLocation-bestSpeedTest-V2LIGHT.liV2raY7.cfd#CR🇨🇷
 
 vless://79400ca5-7805-4085-b02c-2674d9e4c5d8@V2ray.motorcycles:2087?path=/&security=tls&encryption=none&host=SHHPROXY.snappfoodd.site&type=ws&sni=SHHPROXY.snappfoodd.site#US🇺🇸
-
-vless://36a59a9a-295b-49ed-b710-ce3fae74e30f@drow-ranger.uk:13010?security=reality&encryption=none&pbk=ZouT6u-IRVdpMKK-DRYLEohOSEc_Q-onekJ8LrudRl0&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=discord.com&sid=ec6ce007#DE🇩🇪
-
-vless://17c20397-e203-436b-906e-d79264d6aeda@bia-to3.unlimiteddev.shop:80?encryption=none&security=none&type=ws&host=bia-to-channel4.unlimiteddev.shop&path=/#CA🇨🇦
-
-vless://17c20397-e203-436b-906e-d79264d6aeda@bia-to4.unlimiteddev.shop:80?encryption=none&security=none&type=ws&host=bia-to-channel4.unlimiteddev.shop&path=/#CA🇨🇦
-
-vless://135f588d-3fa1-4088-97f1-c43ba6fd5c1a@172.67.229.179:80?path=/backup&security=none&encryption=none&host=ys9llX.BLackmASTER.org&type=ws#CA🇨🇦
 
 vless://da8d0369-0121-4d2b-9fe1-c071833604cf@104.26.15.85:80?path=/?ed=2048&security=none&encryption=none&host=fl.gooldeneaglee.eu.org&type=ws#CA🇨🇦
 
