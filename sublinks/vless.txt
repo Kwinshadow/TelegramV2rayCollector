@@ -30,23 +30,23 @@ vless://e1a928be-e289-4aef-b92e-4106fabdf42f@new-join-too.outline-vpn.cloud:80?p
 
 vless://460332c1-aa61-445d-9cc1-00647871b803@s18.nextvps.monster:8307?path=/&security=none&encryption=none&host=telewebion.com&type=ws#IR🇮🇷
 
-vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@3k.pureboy.eu.org:443?path=/?ed=2048&security=tls&encryption=none&host=3k.pureboy.eu.org&type=ws&sni=3k.pureboy.eu.org#CA🇨🇦
+vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@3k.pureboy.eu.org:443?path=/?ed=2048&security=tls&encryption=none&host=3k.pureboy.eu.org&type=ws&sni=3k.pureboy.eu.org#US🇺🇸
 
 vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@www.unpkg.com:443?path=/?ed=2048&security=tls&encryption=none&host=3k.pureboy.eu.org&type=ws&sni=3k.pureboy.eu.org#US🇺🇸
 
-vless://dfb18c6f-731a-4898-a1c4-cc36c6055a90@w2.sylarsun.eu.org:443?path=/?ed=2048&security=tls&encryption=none&host=w2.sylarsun.eu.org&type=ws&sni=w2.sylarsun.eu.org#NL🇳🇱
+vless://dfb18c6f-731a-4898-a1c4-cc36c6055a90@w2.sylarsun.eu.org:443?path=/?ed=2048&security=tls&encryption=none&host=w2.sylarsun.eu.org&type=ws&sni=w2.sylarsun.eu.org#US🇺🇸
 
 vless://e1a928be-e289-4aef-b92e-4106fabdf42f@k---join.outline-vpn.cloud:80?path=/?ed=2048&security=none&encryption=none&host=mahi.kosnanatfilterchi.eu.org&type=ws#CA🇨🇦
 
-vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@star---join.outline-vpn.cloud:443?path=/?ed=2048&security=tls&encryption=none&host=3k.pureboy.eu.org&type=ws&sni=3k.pureboy.eu.org#US🇺🇸
+vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@star---join.outline-vpn.cloud:443?path=/?ed=2048&security=tls&encryption=none&host=3k.pureboy.eu.org&type=ws&sni=3k.pureboy.eu.org#CA🇨🇦
 
-vless://29f8ad12-ea84-431b-bf32-9d3fb5cf2aa2@t---join.outline-vpn.cloud:443?path=/?ed=2048&security=tls&encryption=none&host=w1.sylar8.eu.org&type=ws&sni=w1.sylar8.eu.org#US🇺🇸
+vless://29f8ad12-ea84-431b-bf32-9d3fb5cf2aa2@t---join.outline-vpn.cloud:443?path=/?ed=2048&security=tls&encryption=none&host=w1.sylar8.eu.org&type=ws&sni=w1.sylar8.eu.org#CA🇨🇦
 
 vless://462acb01-a275-433c-9fc6-074de3d68ba0@turkws.configforvpn.fun:2087?path=/&security=tls&encryption=none&type=ws&sni=turkws.configforvpn.fun#US🇺🇸
 
 vless://29f8ad12-ea84-431b-bf32-9d3fb5cf2aa2@w1.sylar8.eu.org:443?path=/?ed=2048&security=tls&encryption=none&host=w1.sylar8.eu.org&type=ws&sni=w1.sylar8.eu.org#CA🇨🇦
 
-vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@er--join.outline-vpn.cloud:443?path=/?ed&security=tls&encryption=none&alpn=http/1.1&host=3k.pureboy.eu.org&fp=chrome&type=ws&sni=3k.pureboy.eu.org#INT🌍
+vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@er--join.outline-vpn.cloud:443?path=/?ed&security=tls&encryption=none&alpn=http/1.1&host=3k.pureboy.eu.org&fp=chrome&type=ws&sni=3k.pureboy.eu.org#CA🇨🇦
 
 vless://e1a928be-e289-4aef-b92e-4106fabdf42f@port80--join.outline-vpn.cloud:80?path=/?ed=2048&security=none&encryption=none&host=mahi.kosnanatfilterchi.eu.org&type=ws#CA🇨🇦
 
@@ -66,7 +66,7 @@ vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@3k.pureboy.eu.org:443?path=/?ed=204
 
 vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@iran-011-join.outline-vpn.cloud:443?path=/?ed=2048&security=tls&encryption=none&host=3k.pureboy.eu.org&fp=chrome&type=ws&sni=3k.pureboy.eu.org#US🇺🇸
 
-vless://04a93bb8-0a5b-4aa8-ab7f-31fc7adab1c1@edgu.pureboy.eu.org:443?path=/?ed=2048&security=tls&encryption=none&host=edgu.pureboy.eu.org&fp=chrome&type=ws&sni=edgu.pureboy.eu.org#US🇺🇸
+vless://04a93bb8-0a5b-4aa8-ab7f-31fc7adab1c1@edgu.pureboy.eu.org:443?path=/?ed=2048&security=tls&encryption=none&host=edgu.pureboy.eu.org&fp=chrome&type=ws&sni=edgu.pureboy.eu.org#CA🇨🇦
 
 vless://16e3cc71-c99f-4ab5-bff3-6247ca6cbd80@ts--join.outline-vpn.cloud:2096?mode=gun&security=tls&encryption=none&fp=firefox&type=grpc&serviceName=&sni=forward333.maryam1500.top#CA🇨🇦
 
@@ -118,7 +118,7 @@ vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@3k.pureboy.eu.org:443?path=/?ed=204
 
 vless://460332c1-aa61-445d-9cc1-00647871b803@s18.nextvps.monster:8307?path=/&security=none&encryption=none&host=telewebion.com&type=ws#IR🇮🇷
 
-vless://29f8ad12-ea84-431b-bf32-9d3fb5cf2aa2@w1.sylar8.eu.org:443?path=/?ed=2048&security=tls&encryption=none&host=w1.sylar8.eu.org&type=ws&sni=w1.sylar8.eu.org#US🇺🇸
+vless://29f8ad12-ea84-431b-bf32-9d3fb5cf2aa2@w1.sylar8.eu.org:443?path=/?ed=2048&security=tls&encryption=none&host=w1.sylar8.eu.org&type=ws&sni=w1.sylar8.eu.org#CA🇨🇦
 
 vless://9fbaa2ab-fe89-444f-aa05-21dd1b3cabb5@freews.kinghooman.sbs:8443?path=/free&security=tls&encryption=none&fp=chrome&type=ws&sni=freews.kinghooman.sbs#NL🇳🇱
 
@@ -138,6 +138,14 @@ vless://dfb18c6f-731a-4898-a1c4-cc36c6055a90@w2.sylarsun.eu.org:443?path=/?ed=20
 
 vless://89420825-e589-4735-bee1-6dc636fca343@w3.sylarsun.eu.org:443?path=/?ed=2048&security=tls&encryption=none&host=w3.sylarsun.eu.org&type=ws&sni=w3.sylarsun.eu.org#NL🇳🇱
 
+vless://92803f2f-9a3b-496c-9650-a2b501569940@es-full.privateip.net:443?type=ws&encryption=none&security=tls&path=/VLESS#DE🇩🇪
+
+vless://22ff5b46-e357-40eb-a09a-f17dff80301f@ru-full.privateip.net:443?type=ws&encryption=none&security=tls&path=/VLESS#SE🇸🇪
+
+vless://3033d51d-2719-4672-8660-8aacb8d13848@uk-full.privateip.net:443?type=ws&encryption=none&security=tls&path=/VLESS#GB🇬🇧
+
+vless://04695962-ec9f-4589-b962-263e7b55664c@fr-full.privateip.net:443?type=ws&encryption=none&security=tls&path=/VLESS#FR🇫🇷
+
 vless://287d5629-ee1f-43b6-aaa5-abca84fcce14@mcinew.crowvpn.sbs:2095?path=/&security=none&encryption=none&host=mcinew.crowvpn.sbs&type=ws#NL🇳🇱
 
 vless://fe4a548f-a43f-4e34-919b-ce3113eb6267@190.93.246.225:2083?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=@LIGHTNING6&sni=Liv2ray.p-lightning6.cfd#CR🇨🇷
@@ -148,7 +156,7 @@ vless://badcd907-50f2-4ef3-aaae-bf44f0ca9b2a@173.245.58.31:443?mode=gun&security
 
 vless://f73473b5-140d-4d83-a638-cb802c74c58a@sourceforge.net:2095?path=/?ed=2048&security=none&encryption=none&host=cdn-www.net-php.ir.tunell-dns7.xyz&type=ws#CA🇨🇦
 
-vless://1104944f-043e-417c-8677-4baa92220731@dns.rasha.cfd:443?type=ws&host=2182536267.shiomicdn.shop&path=/&security=tls&fp=&alpn=&sni=2182536267.shiomicdn.shop#CA🇨🇦
+vless://1104944f-043e-417c-8677-4baa92220731@dns.rasha.cfd:443?type=ws&host=2182536267.shiomicdn.shop&path=/&security=tls&fp=&alpn=&sni=2182536267.shiomicdn.shop#INT🌍
 
 vless://30eae4f5-8317-4191-800d-dbf8787684b1@dns.rasha.cfd:443?type=ws&host=5600077626.shiomicdn.shop&path=/&security=tls&fp=&alpn=&sni=5600077626.shiomicdn.shop#CA🇨🇦
 
