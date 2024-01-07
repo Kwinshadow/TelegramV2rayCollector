@@ -124,7 +124,7 @@ vless://460332c1-aa61-445d-9cc1-00647871b803@s18.nextvps.monster:8307?path=/&sec
 
 vless://29f8ad12-ea84-431b-bf32-9d3fb5cf2aa2@w1.sylar8.eu.org:443?path=/?ed=2048&security=tls&encryption=none&host=w1.sylar8.eu.org&type=ws&sni=w1.sylar8.eu.org#CA🇨🇦
 
-vless://9fbaa2ab-fe89-444f-aa05-21dd1b3cabb5@freews.kinghooman.sbs:8443?path=/free&security=tls&encryption=none&fp=chrome&type=ws&sni=freews.kinghooman.sbs#CA🇨🇦
+vless://9fbaa2ab-fe89-444f-aa05-21dd1b3cabb5@freews.kinghooman.sbs:8443?path=/free&security=tls&encryption=none&fp=chrome&type=ws&sni=freews.kinghooman.sbs#NL🇳🇱
 
 vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@iran-011-join.outline-vpn.cloud:443?path=/?ed=2048&security=tls&encryption=none&host=3k.pureboy.eu.org&fp=chrome&type=ws&sni=3k.pureboy.eu.org#US🇺🇸
 
@@ -141,6 +141,22 @@ vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@www.unpkg.com:443?path=/?ed=2048&se
 vless://dfb18c6f-731a-4898-a1c4-cc36c6055a90@w2.sylarsun.eu.org:443?path=/?ed=2048&security=tls&encryption=none&host=w2.sylarsun.eu.org&type=ws&sni=w2.sylarsun.eu.org#NL🇳🇱
 
 vless://89420825-e589-4735-bee1-6dc636fca343@w3.sylarsun.eu.org:443?path=/?ed=2048&security=tls&encryption=none&host=w3.sylarsun.eu.org&type=ws&sni=w3.sylarsun.eu.org#NL🇳🇱
+
+vless://1104944f-043e-417c-8677-4baa92220731@dns.rasha.cfd:443?type=ws&host=2182536267.shiomicdn.shop&path=/&security=tls&fp=&alpn=&sni=2182536267.shiomicdn.shop#CA🇨🇦
+
+vless://30eae4f5-8317-4191-800d-dbf8787684b1@dns.rasha.cfd:443?type=ws&host=5600077626.shiomicdn.shop&path=/&security=tls&fp=&alpn=&sni=5600077626.shiomicdn.shop#CA🇨🇦
+
+vless://28cbf875-e64b-44be-a571-f4ab34fae0ad@dns.rasha.cfd:443?type=ws&host=6049977902.shiomicdn.shop&path=/&security=tls&fp=&alpn=&sni=6049977902.shiomicdn.shop#CA🇨🇦
+
+vless://e7a9a4f5-09bf-4b3a-b781-66897bec7d97@dns.rasha.cfd:443?type=ws&host=8398233275.shiomicdn.shop&path=/&security=tls&fp=&alpn=&sni=8398233275.shiomicdn.shop#CA🇨🇦
+
+vless://aac1cfb5-9a43-433e-a5e3-3ec7f6f2f7c7@dns.rasha.cfd:443?type=ws&host=1803169029.shiomicdn.shop&path=/&security=tls&fp=&alpn=&sni=1803169029.shiomicdn.shop#CA🇨🇦
+
+vless://81b5af23-eff7-4d52-9471-7b0ec9e9b84c@dns.rasha.cfd:443?type=ws&host=3947301830.shiomicdn.shop&path=/&security=tls&fp=&alpn=&sni=3947301830.shiomicdn.shop#CA🇨🇦
+
+vless://9d638552-6e1d-4027-9ad7-a68c7ed8deef@dns.rasha.cfd:443?type=ws&host=9446834790.shiomicdn.shop&path=/&security=tls&fp=&alpn=&sni=9446834790.shiomicdn.shop#CA🇨🇦
+
+vless://27a411db-3fe8-4777-95de-b896e57d2c22@dns.rasha.cfd:443?type=ws&host=3594077432.shiomicdn.shop&path=/&security=tls&fp=&alpn=&sni=3594077432.shiomicdn.shop#CA🇨🇦
 
 vmess://eyJhZGQiOiIxNzIuNjcuMTkuOTciLCJhaWQiOjAsImhvc3QiOiIiLCJpZCI6IjQxN2QyN2ZiLWNiOTMtM2JkOC05YmY3LTcxY2Q5MTMxOTgyMSIsIm5ldCI6IndzIiwicGF0aCI6IlwvaGdjZWZvbW4iLCJwb3J0IjoyMDk1LCJwcyI6IkNBXHVkODNjXHVkZGU4XHVkODNjXHVkZGU2IiwidGxzIjoiIiwidHlwZSI6ImF1dG8iLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiIifQ==
 
@@ -179,22 +195,6 @@ vmess://eyJhZGQiOiJVSzIuaXJjZi5ldS5PUkciLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwi
 vless://c61fc408-33c6-44a6-f476-17d90c6330d7@LIGHTNING6-joinbede.liV2ray.xyz:2083?mode=gun&security=tls&encryption=none&alpn=h2&fp=chrome&type=grpc&serviceName=@LIGHTNING6&sni=AllLocation-bestSpeedTest-V2LIGHT.liV2raY7.cfd#CR🇨🇷
 
 vless://79400ca5-7805-4085-b02c-2674d9e4c5d8@V2ray.motorcycles:2087?path=/&security=tls&encryption=none&host=SHHPROXY.snappfoodd.site&type=ws&sni=SHHPROXY.snappfoodd.site#US🇺🇸
-
-vless://36a59a9a-295b-49ed-b710-ce3fae74e30f@drow-ranger.uk:13010?security=reality&encryption=none&pbk=ZouT6u-IRVdpMKK-DRYLEohOSEc_Q-onekJ8LrudRl0&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=discord.com&sid=ec6ce007#DE🇩🇪
-
-vmess://eyJhZGQiOiIxNzIuNjcuMTUxLjExNSIsImFpZCI6MCwiaG9zdCI6IiIsImlkIjoiNDE3ZDI3ZmItY2I5My0zYmQ4LTliZjctNzFjZDkxMzE5ODIxIiwibmV0Ijoid3MiLCJwYXRoIjoiXC9oZ2NlZm9tbiIsInBvcnQiOjIwOTUsInRscyI6IiIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIiwicHMiOiJDQVx1ZDgzY1x1ZGRlOFx1ZDgzY1x1ZGRlNiJ9
-
-vmess://eyJhZGQiOiIxNzIuNjcuMjE0LjQxIiwiYWlkIjowLCJob3N0IjoiIiwiaWQiOiI4MjRjNThiMS02NWJhLTQ2ODAtYTYwOS02NjNhMDAwZGJiOTIiLCJuZXQiOiJ3cyIsInBhdGgiOiJcL3dzczEzODg5IiwicG9ydCI6NDQzLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiIsInBzIjoiQ0FcdWQ4M2NcdWRkZThcdWQ4M2NcdWRkZTYifQ==
-
-vmess://eyJhZGQiOiIxNzIuNjcuMjM3LjczIiwiYWlkIjowLCJob3N0IjoiIiwiaWQiOiI0MTdkMjdmYi1jYjkzLTNiZDgtOWJmNy03MWNkOTEzMTk4MjEiLCJuZXQiOiJ3cyIsInBhdGgiOiJcL2hnY2Vmb21uIiwicG9ydCI6MjA5NSwidGxzIjoiIiwidHlwZSI6ImF1dG8iLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiIiLCJwcyI6IkNBXHVkODNjXHVkZGU4XHVkODNjXHVkZGU2In0=
-
-vless://17c20397-e203-436b-906e-d79264d6aeda@bia-to3.unlimiteddev.shop:80?encryption=none&security=none&type=ws&host=bia-to-channel4.unlimiteddev.shop&path=/#CA🇨🇦
-
-vless://17c20397-e203-436b-906e-d79264d6aeda@bia-to4.unlimiteddev.shop:80?encryption=none&security=none&type=ws&host=bia-to-channel4.unlimiteddev.shop&path=/#CA🇨🇦
-
-vless://135f588d-3fa1-4088-97f1-c43ba6fd5c1a@172.67.229.179:80?path=/backup&security=none&encryption=none&host=ys9llX.BLackmASTER.org&type=ws#CA🇨🇦
-
-vmess://eyJ2IjoiMiIsImFkZCI6InYybGluZS50ZWxlZ3JhbS5jaGFubmVsLjEzODguZnI4Njc4ODI1MzI0MjQ3YjgxNzZkNTlmODNjMzBiZDk0ZDIzZDJlM2FjNWNkNGE3NDNia3dxZWlrdmR5dWZyLmN5b3UiLCJwb3J0IjoiNDQzIiwiaWQiOiIyYjRhODQ2OC1kOWM1LTQ1NTEtOGYyMC04MTFkMmM5OThkY2QiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiIiwicGF0aCI6IlwvcmFjZXZwbiIsInRscyI6InRscyIsInNuaSI6IiIsImFscG4iOiIiLCJmcCI6IiIsInBzIjoiVVNcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjgifQ==
 
 vless://da8d0369-0121-4d2b-9fe1-c071833604cf@104.26.15.85:80?path=/?ed=2048&security=none&encryption=none&host=fl.gooldeneaglee.eu.org&type=ws#CA🇨🇦
 
@@ -238,7 +238,7 @@ vmess://eyJhZGQiOiIxODUuMjIuMTU0LjEyIiwidiI6MiwicHMiOiJSVVx1ZDgzY1x1ZGRmN1x1ZDgz
 
 trojan://93ec7261-1c92-4149-848a-26b6fb9fc4ce@my02.trojanyyds.xyz:443#HK🇭🇰
 
-trojan://93ec7261-1c92-4149-848a-26b6fb9fc4ce@hk03.trojanyyds.xyz:443?sni=hk03.trojanyyds.xyz#JP🇯🇵
+trojan://93ec7261-1c92-4149-848a-26b6fb9fc4ce@hk03.trojanyyds.xyz:443?sni=hk03.trojanyyds.xyz#HK🇭🇰
 
 vless://60813b9d-aa0e-4a5c-88b8-ed231058e82a@192.18.140.174:443?encryption=none&security=tls&type=ws&sni=pages.20230619.love&host=pages.20230619.love&path=telegram🇨🇳@wangcai2/?ed=2048#US🇺🇸
 
