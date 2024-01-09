@@ -34,17 +34,17 @@ vless://e1a928be-e289-4aef-b92e-4106fabdf42f@port80--join.outline-vpn.cloud:80?p
 
 vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@star--join.outline-vpn.cloud:443?path=/?ed=2048&security=tls&encryption=none&host=3k.pureboy.eu.org&type=ws&sni=3k.pureboy.eu.org#INT🌍
 
-vless://SvnTeam@cdn.user.com:443?mode=gun&security=tls&encryption=none&fp=firefox&type=grpc&serviceName=&sni=gmV2raygm.svnteamfree.com#US🇺🇸
+vless://SvnTeam@cdn.user.com:443?mode=gun&security=tls&encryption=none&fp=firefox&type=grpc&serviceName=&sni=gmV2raygm.svnteamfree.com#INT🌍
 
 vless://16e3cc71-c99f-4ab5-bff3-6247ca6cbd80@ts--join.outline-vpn.cloud:2096?mode=gun&security=tls&encryption=none&fp=firefox&type=grpc&serviceName=&sni=forward333.maryam1500.top#US🇺🇸
 
-vless://29f8ad12-ea84-431b-bf32-9d3fb5cf2aa2@t---join.outline-vpn.cloud:443?path=/?ed=2048&security=tls&encryption=none&host=w1.sylar8.eu.org&type=ws&sni=w1.sylar8.eu.org#US🇺🇸
+vless://29f8ad12-ea84-431b-bf32-9d3fb5cf2aa2@t---join.outline-vpn.cloud:443?path=/?ed=2048&security=tls&encryption=none&host=w1.sylar8.eu.org&type=ws&sni=w1.sylar8.eu.org#INT🌍
 
 vless://29f8ad12-ea84-431b-bf32-9d3fb5cf2aa2@w1.sylar8.eu.org:443?path=/?ed=2048&security=tls&encryption=none&host=w1.sylar8.eu.org&type=ws&sni=w1.sylar8.eu.org#US🇺🇸
 
-vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@er--join.outline-vpn.cloud:443?path=/?ed&security=tls&encryption=none&alpn=http/1.1&host=3k.pureboy.eu.org&fp=chrome&type=ws&sni=3k.pureboy.eu.org#INT🌍
+vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@er--join.outline-vpn.cloud:443?path=/?ed&security=tls&encryption=none&alpn=http/1.1&host=3k.pureboy.eu.org&fp=chrome&type=ws&sni=3k.pureboy.eu.org#US🇺🇸
 
-vless://e1a928be-e289-4aef-b92e-4106fabdf42f@port80----join.outline-vpn.cloud:80?path=/?ed=2048&security=none&encryption=none&host=mahi.kosnanatfilterchi.eu.org&type=ws#NL🇳🇱
+vless://e1a928be-e289-4aef-b92e-4106fabdf42f@port80----join.outline-vpn.cloud:80?path=/?ed=2048&security=none&encryption=none&host=mahi.kosnanatfilterchi.eu.org&type=ws#US🇺🇸
 
 vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@mm---join.outline-vpn.cloud:443?path=/?ed=2048&security=tls&encryption=none&host=3k.pureboy.eu.org&fp=chrome&type=ws&sni=3k.pureboy.eu.org#INT🌍
 
@@ -52,7 +52,7 @@ vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@www.unpkg.com:443?path=/?ed=2048&se
 
 vless://e9122f37-d226-469c-89df-db15701f2023@xn--21-pv2cn3nz8d5o7an4zda455qi36a.tech:80?path=/&security=none&encryption=none&host=87.事出场次以运7.tech&type=ws#NL🇳🇱
 
-vless://04a93bb8-0a5b-4aa8-ab7f-31fc7adab1c1@edgu.pureboy.eu.org:443?path=/?ed=2048&security=tls&encryption=none&host=edgu.pureboy.eu.org&fp=chrome&type=ws&sni=edgu.pureboy.eu.org#INT🌍
+vless://04a93bb8-0a5b-4aa8-ab7f-31fc7adab1c1@edgu.pureboy.eu.org:443?path=/?ed=2048&security=tls&encryption=none&host=edgu.pureboy.eu.org&fp=chrome&type=ws&sni=edgu.pureboy.eu.org#US🇺🇸
 
 vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@www.unpkg.com:443?path=/?ed=2048&security=tls&encryption=none&host=3k.pureboy.eu.org&type=ws&sni=3k.pureboy.eu.org#INT🌍
 
@@ -106,7 +106,7 @@ vless://462acb01-a275-433c-9fc6-074de3d68ba0@turkws.configforvpn.fun:2087?path=/
 
 vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@www.unpkg.com:443?path=/?ed=2048&security=tls&encryption=none&host=3k.pureboy.eu.org&type=ws&sni=3k.pureboy.eu.org#INT🌍
 
-vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@3k.pureboy.eu.org:443?path=/?ed=2048&security=tls&encryption=none&host=3k.pureboy.eu.org&type=ws&sni=3k.pureboy.eu.org#US🇺🇸
+vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@3k.pureboy.eu.org:443?path=/?ed=2048&security=tls&encryption=none&host=3k.pureboy.eu.org&type=ws&sni=3k.pureboy.eu.org#INT🌍
 
 vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@iran-011-join.outline-vpn.cloud:443?path=/?ed=2048&security=tls&encryption=none&host=3k.pureboy.eu.org&fp=chrome&type=ws&sni=3k.pureboy.eu.org#INT🌍
 
@@ -123,6 +123,22 @@ vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@www.unpkg.com:443?path=/?ed=2048&se
 vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@star--join.outline-vpn.cloud:443?path=/?ed=2048&security=tls&encryption=none&host=3k.pureboy.eu.org&type=ws&sni=3k.pureboy.eu.org#INT🌍
 
 vless://89420825-e589-4735-bee1-6dc636fca343@w3.sylarsun.eu.org:443?path=/?ed=2048&security=tls&encryption=none&host=w3.sylarsun.eu.org&type=ws&sni=w3.sylarsun.eu.org#NL🇳🇱
+
+trojan://b9f3ff1a-9c85-48e1-9809-7a6431c4329f@nl2-full.privateip.net:443/?type=tcp&security=tls#NL🇳🇱
+
+trojan://4bbbb975-f2ff-4c1f-b69e-e3831504f7d3@fr-full.privateip.net:443/?type=tcp&security=tls#FR🇫🇷
+
+trojan://07e52cb1-7ab7-479f-819a-e3df91510cb5@us-full.privateip.net:443/?type=tcp&security=tls#US🇺🇸
+
+trojan://telegram-id-directvpn@3.12.173.235:22222/?type=tcp&security=tls&sni=trj.rollingnext.co.uk#US🇺🇸
+
+trojan://telegram-id-directvpn@13.53.146.41:22222/?type=tcp&security=tls&sni=trj.rollingnext.co.uk#SE🇸🇪
+
+trojan://telegram-id-directvpn@13.36.150.226:22222/?type=tcp&security=tls&sni=trj.rollingnext.co.uk#FR🇫🇷
+
+trojan://Libertasone*@ironone.libertasiran.cloud:443/?type=ws&host=ironone.libertasiran.cloud&path=/n89&security=tls&sni=ironone.libertasiran.cloud#NL🇳🇱
+
+trojan://c95357eb-2869-4511-8940-f0dc5e1ec9b1@hanoiidc2.5gsieutocdo.com:443/?type=tcp&security=tls&sni=hanoiidc2.5gsieutocdo.com#VN🇻🇳
 
 trojan://1d4ddd40-3134-11ee-8623-1239d0255272@206.168.190.219:8443?security=tls&sni=ba24.ir#US🇺🇸
 
@@ -162,22 +178,6 @@ vless://457bc73d-9972-47df-9a5f-a16bf7e42e15@172.66.44.158:8880?path=/live?ed=20
 
 vless://d872a9f5-40d8-4506-8def-4568fe8de927@bia-to1.unlimiteddev.shop:80?encryption=none&security=none&type=ws&host=bia-to-channel4.unlimiteddev.shop&path=/#INT🌍
 
-vmess://eyJhZGQiOiIxMDQuMTkzLjEwLjE0NiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI4MTU2YTlhMy1kYTZjLTQ3YjgtODI0Ny05Mzk5MTJmODc2MmYiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjEwMDkwIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiIsInBzIjoiTkxcdWQ4M2NcdWRkZjNcdWQ4M2NcdWRkZjEifQ==
-
-vmess://eyJhZGQiOiIxMDQuMjM0LjExLjE1OSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI0OGQwZDM4OC1lYTlkLTQ4ZjQtOTI5Yy1lNTNkN2VjYjQ2YmEiLCJuZXQiOiJ3cyIsInBhdGgiOiJcLzQ4ZDBkMzg4IiwicG9ydCI6IjgwIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiIsInBzIjoiQ0FcdWQ4M2NcdWRkZThcdWQ4M2NcdWRkZTYifQ==
-
-vless://cfdb0f73-4c40-4f64-f8e8-311dab040523@LIGHTNING6-joinbede.liV2ray.xyz:2083?mode=gun&security=tls&encryption=none&alpn=h2&fp=chrome&type=grpc&serviceName=@LIGHTNING6&sni=AllLocation-bestSpeedTest-V2LIGHTt.liV2raY7.cfd#US🇺🇸
-
-vless://2c59ff33-916d-459b-a4c0-8b7432c4c3bb@13.50.225.215:443?security=reality&encryption=none&pbk=Y_EDAjYZVKJbTZ2VB6T6uP3vTQnCGXFU4DnBlvxWvhs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=coinmarketcap.com&sid=1db3#SE🇸🇪
-
-vmess://eyJhZGQiOiJkaXNjb3JkLmNvbSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiTWwuaXJjZi5ldS5vcmciLCJpZCI6IjljY2RkMTlhLTgwYmYtNGYyZC1hMjAyLTE4MDAxNWJhNzg5MyIsIm5ldCI6IndzIiwicGF0aCI6IlwvQHgycmF5bl92cG5AeDJyYXluX3ZwbkB4MnJheW5fdnBuIiwicG9ydCI6IjgwODAiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoibm9uZSIsInR5cGUiOiIiLCJ2IjoiMiIsInBzIjoiSU5UXHVkODNjXHVkZjBkIn0=
-
-vmess://eyJhZGQiOiJsdDEtdm1lc3Muc3NobWF4Lnh5eiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoibHQxLXZtZXNzLnNzaG1heC54eXoiLCJpZCI6ImQzZTQwZDU5LWI1M2MtNGY0ZS04ODY3LWJiNTk4YmU4NjRkMiIsIm5ldCI6IndzIiwicGF0aCI6Ilwvdm1lc3MiLCJwb3J0IjoiODAiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIiwicHMiOiJMVFx1ZDgzY1x1ZGRmMVx1ZDgzY1x1ZGRmOSJ9
-
-vless://e411b264-7c2a-4ec1-9142-20aaf136400a@full.turk.coffee:80?type=ws&path=/,Turk&security=none#NL🇳🇱
-
-vless://turboo-server@104.20.156.248:2095?path=/&security=none&encryption=none&host=telegram.turbo0-server.xyz&type=ws#INT🌍
-
 vless://da8d0369-0121-4d2b-9fe1-c071833604cf@104.26.15.85:80?path=/?ed=2048&security=none&encryption=none&host=fl.gooldeneaglee.eu.org&type=ws#INT🌍
 
 vless://da8d0369-0121-4d2b-9fe1-c071833604cf@104.26.14.85:80?path=/?ed=2048&security=none&encryption=none&host=fl.gooldeneaglee.eu.org&type=ws#INT🌍
@@ -212,7 +212,7 @@ vmess://eyJhZGQiOiI0NS41OC4xNTMuMjQiLCJ2IjoyLCJwcyI6Ik5MXHVkODNjXHVkZGYzXHVkODNj
 
 vmess://eyJhZGQiOiIxODUuMjIuMTU0LjEyIiwidiI6MiwicHMiOiJSVVx1ZDgzY1x1ZGRmN1x1ZDgzY1x1ZGRmYSIsInBvcnQiOiIyOTcxNSIsImlkIjoiOGM2ZGUwYjEtN2MyMC00NWIyLWUzNjMtYzU1MzA2ZGI1MDIyIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiIiwidGxzIjoiIn0=
 
-trojan://93ec7261-1c92-4149-848a-26b6fb9fc4ce@my02.trojanyyds.xyz:443#HK🇭🇰
+trojan://93ec7261-1c92-4149-848a-26b6fb9fc4ce@my02.trojanyyds.xyz:443#JP🇯🇵
 
 trojan://93ec7261-1c92-4149-848a-26b6fb9fc4ce@hk03.trojanyyds.xyz:443?sni=hk03.trojanyyds.xyz#HK🇭🇰
 
