@@ -32,15 +32,15 @@ vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@star---join.outline-vpn.cloud:443?p
 
 vless://e1a928be-e289-4aef-b92e-4106fabdf42f@port80--join.outline-vpn.cloud:80?path=/?ed=2048&security=none&encryption=none&host=mahi.kosnanatfilterchi.eu.org&type=ws#US🇺🇸
 
-vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@star--join.outline-vpn.cloud:443?path=/?ed=2048&security=tls&encryption=none&host=3k.pureboy.eu.org&type=ws&sni=3k.pureboy.eu.org#US🇺🇸
+vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@star--join.outline-vpn.cloud:443?path=/?ed=2048&security=tls&encryption=none&host=3k.pureboy.eu.org&type=ws&sni=3k.pureboy.eu.org#INT🌍
 
 vless://SvnTeam@cdn.user.com:443?mode=gun&security=tls&encryption=none&fp=firefox&type=grpc&serviceName=&sni=gmV2raygm.svnteamfree.com#US🇺🇸
 
 vless://16e3cc71-c99f-4ab5-bff3-6247ca6cbd80@ts--join.outline-vpn.cloud:2096?mode=gun&security=tls&encryption=none&fp=firefox&type=grpc&serviceName=&sni=forward333.maryam1500.top#US🇺🇸
 
-vless://29f8ad12-ea84-431b-bf32-9d3fb5cf2aa2@t---join.outline-vpn.cloud:443?path=/?ed=2048&security=tls&encryption=none&host=w1.sylar8.eu.org&type=ws&sni=w1.sylar8.eu.org#INT🌍
+vless://29f8ad12-ea84-431b-bf32-9d3fb5cf2aa2@t---join.outline-vpn.cloud:443?path=/?ed=2048&security=tls&encryption=none&host=w1.sylar8.eu.org&type=ws&sni=w1.sylar8.eu.org#US🇺🇸
 
-vless://29f8ad12-ea84-431b-bf32-9d3fb5cf2aa2@w1.sylar8.eu.org:443?path=/?ed=2048&security=tls&encryption=none&host=w1.sylar8.eu.org&type=ws&sni=w1.sylar8.eu.org#INT🌍
+vless://29f8ad12-ea84-431b-bf32-9d3fb5cf2aa2@w1.sylar8.eu.org:443?path=/?ed=2048&security=tls&encryption=none&host=w1.sylar8.eu.org&type=ws&sni=w1.sylar8.eu.org#US🇺🇸
 
 vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@er--join.outline-vpn.cloud:443?path=/?ed&security=tls&encryption=none&alpn=http/1.1&host=3k.pureboy.eu.org&fp=chrome&type=ws&sni=3k.pureboy.eu.org#INT🌍
 
@@ -98,7 +98,7 @@ vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@join--showwww.outline-vpn.cloud:443
 
 vless://58d04d0d-e4b1-40d2-81df-d175f030424c@ars2.pingreducer.top:443?path=/pingreducer&security=tls&encryption=none&fp=chrome&type=ws&sni=ars2.pingreducer.top#NL🇳🇱
 
-vless://462acb01-a275-433c-9fc6-074de3d68ba0@turkws.configforvpn.fun:2087?path=/&security=tls&encryption=none&type=ws&sni=turkws.configforvpn.fun#INT🌍
+vless://462acb01-a275-433c-9fc6-074de3d68ba0@turkws.configforvpn.fun:2087?path=/&security=tls&encryption=none&type=ws&sni=turkws.configforvpn.fun#US🇺🇸
 
 vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@www.unpkg.com:443?path=/?ed=2048&security=tls&encryption=none&host=3k.pureboy.eu.org&type=ws&sni=3k.pureboy.eu.org#INT🌍
 
@@ -126,19 +126,13 @@ vless://457bc73d-9972-47df-9a5f-a16bf7e42e15@172.66.44.158:8880?path=/live?ed=20
 
 vless://d872a9f5-40d8-4506-8def-4568fe8de927@bia-to1.unlimiteddev.shop:80?encryption=none&security=none&type=ws&host=bia-to-channel4.unlimiteddev.shop&path=/#INT🌍
 
-vless://cfdb0f73-4c40-4f64-f8e8-311dab040523@LIGHTNING6-joinbede.liV2ray.xyz:2083?mode=gun&security=tls&encryption=none&alpn=h2&fp=chrome&type=grpc&serviceName=@LIGHTNING6&sni=AllLocation-bestSpeedTest-V2LIGHTt.liV2raY7.cfd#CR🇨🇷
+vless://cfdb0f73-4c40-4f64-f8e8-311dab040523@LIGHTNING6-joinbede.liV2ray.xyz:2083?mode=gun&security=tls&encryption=none&alpn=h2&fp=chrome&type=grpc&serviceName=@LIGHTNING6&sni=AllLocation-bestSpeedTest-V2LIGHTt.liV2raY7.cfd#US🇺🇸
 
 vless://2c59ff33-916d-459b-a4c0-8b7432c4c3bb@13.50.225.215:443?security=reality&encryption=none&pbk=Y_EDAjYZVKJbTZ2VB6T6uP3vTQnCGXFU4DnBlvxWvhs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=coinmarketcap.com&sid=1db3#SE🇸🇪
 
 vless://e411b264-7c2a-4ec1-9142-20aaf136400a@full.turk.coffee:80?type=ws&path=/,Turk&security=none#NL🇳🇱
 
 vless://turboo-server@104.20.156.248:2095?path=/&security=none&encryption=none&host=telegram.turbo0-server.xyz&type=ws#INT🌍
-
-vless://952e3a40-6352-4f15-9199-14e535a4ccb4@195.238.122.116:35293?security=reality&encryption=none&pbk=iuqsm2XN7PxIiLAJmJTS7ImRdte5tX1V5dDtxb13LUc&headerType=none&fp=firefox&type=tcp&sni=zula.ir&sid=f7fed945#DE🇩🇪
-
-vless://7f2f6b47-7ca4-4b8b-b3c2-488e66398da9@nl2-full.privateip.net:443?type=tcp&encryption=none&security=tls&path=/&flow=xtls-rprx-vision#NL🇳🇱
-
-vless://8ac8802f-89b4-45ac-bbc0-10eabd5a049b@de2-full.privateip.net:443?type=tcp&encryption=none&security=tls&path=/&flow=xtls-rprx-vision#DE🇩🇪
 
 vless://da8d0369-0121-4d2b-9fe1-c071833604cf@104.26.15.85:80?path=/?ed=2048&security=none&encryption=none&host=fl.gooldeneaglee.eu.org&type=ws#INT🌍
 
