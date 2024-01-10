@@ -22,7 +22,7 @@ vless://dfb18c6f-731a-4898-a1c4-cc36c6055a90@w2.sylarsun.eu.org:443?path=/?ed=20
 
 vless://13f021a8-af20-43b6-b6a7-c09637ee8a24@zula.ir:443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=me&sni=fin6.melobigg.site#US🇺🇸
 
-trojan://yjQi9IX5mu@de6.melobigg.site:443?path=/me&security=tls&alpn=h2,http/1.1&fp=chrome&type=ws&sni=de6.melobigg.site#US🇺🇸
+trojan://yjQi9IX5mu@de6.melobigg.site:443?path=/me&security=tls&alpn=h2,http/1.1&fp=chrome&type=ws&sni=de6.melobigg.site#NL🇳🇱
 
 vless://13f021a8-af20-43b6-b6a7-c09637ee8a24@speedtest.org:443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=me&sni=fin6.melobigg.site#US🇺🇸
 
@@ -34,9 +34,9 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.samanehha.co:443#GB🇬🇧
 
-vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@tw--join.outline-vpn.cloud:443?path=/?ed=2048&security=tls&encryption=none&host=3k.pureboy.eu.org&type=ws&sni=3k.pureboy.eu.org#US🇺🇸
+vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@tw--join.outline-vpn.cloud:443?path=/?ed=2048&security=tls&encryption=none&host=3k.pureboy.eu.org&type=ws&sni=3k.pureboy.eu.org#CA🇨🇦
 
-vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@aw--join.outline-vpn.cloud:443?path=/?ed=2048&security=tls&encryption=none&host=3k.pureboy.eu.org&type=ws&sni=3k.pureboy.eu.org#US🇺🇸
+vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@aw--join.outline-vpn.cloud:443?path=/?ed=2048&security=tls&encryption=none&host=3k.pureboy.eu.org&type=ws&sni=3k.pureboy.eu.org#CA🇨🇦
 
 vless://0c51f885-7ef1-4df2-a1ca-82ea2df5e6a8@test.ez0535.sbs:8443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&type=grpc&serviceName=&sni=server5.mahsa0535.sbs#NL🇳🇱
 
@@ -44,15 +44,15 @@ vmess://eyJhZGQiOiIzMzIub3V0bGluZS12cG4uY2xvdWQiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZw
 
 vless://bda4be04-48bf-4df1-aaf2-6d42522eab6b@ji--join.outline-vpn.cloud:80?path=/?ed=2048&security=none&encryption=none&host=ehda.sajaditsme.com&type=ws#CA🇨🇦
 
-vless://457bc73d-9972-47df-9a5f-a16bf7e42e15@ut--join.outline-vpn.cloud:8880?path=/live?ed=2048&security=none&encryption=none&host=63da1337546378e7.diaco-xyz.online&type=ws#CA🇨🇦
+vless://457bc73d-9972-47df-9a5f-a16bf7e42e15@ut--join.outline-vpn.cloud:8880?path=/live?ed=2048&security=none&encryption=none&host=63da1337546378e7.diaco-xyz.online&type=ws#US🇺🇸
 
 vmess://eyJhZGQiOiJmZi0tam9pbi5vdXRsaW5lLXZwbi5jbG91ZCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiYmlhLXRvLmNvZGUtdjIuY2ZkIiwiaWQiOiJUZWxlZ3JhbS1WMnJheV9hbHBoYSIsIm5ldCI6IndzIiwicGF0aCI6IlwvP2VkPTIwNDgiLCJwb3J0IjoiMjA4MiIsInBzIjoiQ0FcdWQ4M2NcdWRkZThcdWQ4M2NcdWRkZTYiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
 
-vless://b634a1ea-5cd8-4a20-981c-a0c8b6cf7371@www.speedtest.net:443?mode=gun&security=tls&encryption=none&fp=random&type=grpc&serviceName=@melov2ray&sni=FIn.Melov2ray.Shop#CA🇨🇦
+vless://b634a1ea-5cd8-4a20-981c-a0c8b6cf7371@www.speedtest.net:443?mode=gun&security=tls&encryption=none&fp=random&type=grpc&serviceName=@melov2ray&sni=FIn.Melov2ray.Shop#US🇺🇸
 
 vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@www.unpkg.com:443?path=/?ed=2048&security=tls&encryption=none&host=3k.pureboy.eu.org&type=ws&sni=3k.pureboy.eu.org#CA🇨🇦
 
-vless://e1a928be-e289-4aef-b92e-4106fabdf42f@port80--join.outline-vpn.cloud:80?path=/?ed=2048&security=none&encryption=none&host=mahi.kosnanatfilterchi.eu.org&type=ws#CA🇨🇦
+vless://e1a928be-e289-4aef-b92e-4106fabdf42f@port80--join.outline-vpn.cloud:80?path=/?ed=2048&security=none&encryption=none&host=mahi.kosnanatfilterchi.eu.org&type=ws#US🇺🇸
 
 vless://29f8ad12-ea84-431b-bf32-9d3fb5cf2aa2@t---join.outline-vpn.cloud:443?path=/?ed=2048&security=tls&encryption=none&host=w1.sylar8.eu.org&type=ws&sni=w1.sylar8.eu.org#CA🇨🇦
 
@@ -62,13 +62,13 @@ vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@mm---join.outline-vpn.cloud:443?pat
 
 vless://215fe998-29ae-4e84-9471-2bdb211b1742@join--showww.outline-vpn.cloud:8443?mode=gun&security=tls&encryption=none&fp=chrome&type=grpc&serviceName=@networknim&sni=free.foxnim.site#CA🇨🇦
 
-vless://462acb01-a275-433c-9fc6-074de3d68ba0@turkws.configforvpn.fun:2087?path=/&security=tls&encryption=none&type=ws&sni=turkws.configforvpn.fun#CA🇨🇦
+vless://462acb01-a275-433c-9fc6-074de3d68ba0@turkws.configforvpn.fun:2087?path=/&security=tls&encryption=none&type=ws&sni=turkws.configforvpn.fun#US🇺🇸
 
-vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@www.unpkg.com:443?path=/?ed=2048&security=tls&encryption=none&host=3k.pureboy.eu.org&type=ws&sni=3k.pureboy.eu.org#CA🇨🇦
+vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@www.unpkg.com:443?path=/?ed=2048&security=tls&encryption=none&host=3k.pureboy.eu.org&type=ws&sni=3k.pureboy.eu.org#US🇺🇸
 
-vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@er--join.outline-vpn.cloud:443?path=/?ed&security=tls&encryption=none&alpn=http/1.1&host=3k.pureboy.eu.org&fp=chrome&type=ws&sni=3k.pureboy.eu.org#CA🇨🇦
+vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@er--join.outline-vpn.cloud:443?path=/?ed&security=tls&encryption=none&alpn=http/1.1&host=3k.pureboy.eu.org&fp=chrome&type=ws&sni=3k.pureboy.eu.org#US🇺🇸
 
-vless://e1a928be-e289-4aef-b92e-4106fabdf42f@port80----join.outline-vpn.cloud:80?path=/?ed=2048&security=none&encryption=none&host=mahi.kosnanatfilterchi.eu.org&type=ws#NL🇳🇱
+vless://e1a928be-e289-4aef-b92e-4106fabdf42f@port80----join.outline-vpn.cloud:80?path=/?ed=2048&security=none&encryption=none&host=mahi.kosnanatfilterchi.eu.org&type=ws#US🇺🇸
 
 vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@www.unpkg.com:443?path=/?ed=2048&security=tls&encryption=none&host=3k.pureboy.eu.org&fp=chrome&type=ws&sni=3k.pureboy.eu.org#CA🇨🇦
 
@@ -110,6 +110,20 @@ vless://e9122f37-d226-469c-89df-db15701f2023@xn--21-pv2cn3nz8d5o7an4zda455qi36a.
 
 vless://04a93bb8-0a5b-4aa8-ab7f-31fc7adab1c1@edgu.pureboy.eu.org:443?path=/?ed=2048&security=tls&encryption=none&host=edgu.pureboy.eu.org&fp=chrome&type=ws&sni=edgu.pureboy.eu.org#CA🇨🇦
 
+trojan://telegram-id-directvpn@35.181.36.26:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#FR🇫🇷
+
+vless://0c47c8fd-4966-4351-8bdd-88d46b4a8cd1@190.93.247.155:443?mode=gun&security=tls&encryption=none&alpn=h2&fp=chrome&type=grpc&serviceName=&sni=freakv22.tm-online.xyz#CR🇨🇷
+
+vmess://eyJhZGQiOiIxOTAuOTMuMjQ3Ljc2IiwiYWlkIjoiMCIsImFscG4iOiJoMixodHRwXC8xLjEiLCJmcCI6ImZpcmVmb3giLCJob3N0IjoiIiwiaWQiOiJfTWFoYW52cG5fY29weV9uYWFhYWtvbm5fIiwibmV0IjoiZ3JwYyIsInBhdGgiOiJtYWhhbnZpcC5tYWhhbnR1LnRvcCIsInBvcnQiOiI4NDQzIiwic2N5IjoiYXV0byIsInNuaSI6Im1haGFudmlwLm1haGFudHUudG9wIiwidGxzIjoidGxzIiwidHlwZSI6Imd1biIsInYiOiIyIiwicHMiOiJDUlx1ZDgzY1x1ZGRlOFx1ZDgzY1x1ZGRmNyJ9
+
+vmess://eyJhZGQiOiIxNzIuNjcuMjE1LjIwMiIsImFpZCI6IjEiLCJob3N0Ijoib2N0YXZpLmNmZCIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwibmV0Ijoid3MiLCJwYXRoIjoibGlua3Z3cyIsInBvcnQiOiI0NDMiLCJzbmkiOiJvY3RhdmkuY2ZkIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIiwicHMiOiJDQVx1ZDgzY1x1ZGRlOFx1ZDgzY1x1ZGRlNiJ9
+
+vmess://eyJhZGQiOiIxMDQuMjcuMTAyLjE1MCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0Ijoiam9pbi1zaG8tdG8uZnJlZXYyYWxwaGEuY2ZkIiwiaWQiOiJUZWxlZ3JhbS1WMnJheV9hbHBoYSIsIm5ldCI6IndzIiwicGF0aCI6IlwvP2VkPTIwNDgiLCJwb3J0IjoiODA4MCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIiLCJwcyI6IkNBXHVkODNjXHVkZGU4XHVkODNjXHVkZGU2In0=
+
+trojan://yjQi9IX5mu@de6.melobigg.site:443?path=/me&security=tls&alpn=h2,http/1.1&fp=chrome&type=ws&sni=de6.melobigg.site#CA🇨🇦
+
+vmess://eyJhZGQiOiJkbDMuZG91c2hpbWVuZy5jb20iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImNmLWRlOS5kb3VzaGltZW5nLmNvbSIsImlkIjoiNWFmZTlmYjQtMzY2OS00NDJkLTg4ZGEtNWJjY2NlMzU1ZTNjIiwibmV0Ijoid3MiLCJwYXRoIjoiXC9hc2RhcyIsInBvcnQiOiIyMDgyIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiIsInBzIjoiQ0FcdWQ4M2NcdWRkZThcdWQ4M2NcdWRkZTYifQ==
+
 vmess://eyJhZGQiOiIxNzIuNjYuNDYuNyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiIwOGVjNmEwNi04YzE1LTQwNjktYTc4MS04YzcyNWEzMGI3ZTciLCJuZXQiOiJncnBjIiwicGF0aCI6IiIsInBvcnQiOiIyMDg3Iiwic2N5IjoiYXV0byIsInNuaSI6Im15LnRvb3RlcnMuaXIiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoibXVsdGkiLCJ2IjoiMiIsInBzIjoiQ0FcdWQ4M2NcdWRkZThcdWQ4M2NcdWRkZTYifQ==
 
 vmess://eyJhZGQiOiIxOTAuOTMuMjQ3Ljc2IiwiYWlkIjoiMCIsImFscG4iOiJoMixodHRwXC8xLjEiLCJmcCI6ImZpcmVmb3giLCJob3N0IjoiIiwiaWQiOiJfTWFoYW52cG5fY29weV9uYWFhYWtvbm5fIiwibmV0IjoiZ3JwYyIsInBhdGgiOiJtYWhhbnZpcC5tYWhhbnR1LnRvcCIsInBvcnQiOiI4NDQzIiwic2N5IjoiYXV0byIsInNuaSI6Im1haGFudmlwLm1haGFudHUudG9wIiwidGxzIjoidGxzIiwidHlwZSI6Imd1biIsInYiOiIyIiwicHMiOiJDUlx1ZDgzY1x1ZGRlOFx1ZDgzY1x1ZGRmNyJ9
@@ -149,22 +163,6 @@ vmess://eyJhZGQiOiIxOTguNDEuMjIyLjE5OSIsImFpZCI6MCwiaG9zdCI6IiIsImlkIjoiNDE3ZDI3
 vmess://eyJhZGQiOiIxOTkuMTg4LjExMS41MSIsImFpZCI6NjQsImhvc3QiOiIiLCJpZCI6IjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCIsIm5ldCI6IndzIiwicGF0aCI6IlwvcGF0aFwvMTY4NjcyODgzMDkxMyIsInBvcnQiOjQ0MywicHMiOiJVU1x1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmOCIsInRscyI6InRscyIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIn0=
 
 vmess://eyJhZGQiOiIxOTkuMjQ3LjIzLjMxIiwiYWlkIjowLCJob3N0IjoiIiwiaWQiOiJjMTMyNzdjZS1jZGE2LTRkMDEtY2VkYy0xZTM2MDVhMGViNzIiLCJuZXQiOiJ3cyIsInBhdGgiOiJcLzEyNzk2P2VkPTIwNDgiLCJwb3J0Ijo0NDMsInBzIjoiREVcdWQ4M2NcdWRkZTlcdWQ4M2NcdWRkZWEiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiJ9
-
-vmess://eyJhZGQiOiIxOTguMi4yMDguNjkiLCJhaWQiOjY0LCJob3N0IjoiIiwiaWQiOiI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQiLCJuZXQiOiJ3cyIsInBhdGgiOiJcL3BhdGhcLzE2ODkzMjYzNjAwOTYiLCJwb3J0Ijo0NDMsInBzIjoiVVNcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjgiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiJ9
-
-vmess://eyJhZGQiOiIxOTguNDEuMTkzLjExMCIsImFpZCI6MCwiaG9zdCI6IiIsImlkIjoiMGFmYjhiMmMtMTQ5YS00OWE4LWU5MGYtZDc3ODg0YWM5MjJmIiwibmV0Ijoid3MiLCJwYXRoIjoiXC9ibHVlIiwicG9ydCI6MjA4MiwicHMiOiJDQVx1ZDgzY1x1ZGRlOFx1ZDgzY1x1ZGRlNiIsInRscyI6IiIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIn0=
-
-vmess://eyJhZGQiOiIxOTguNDEuMjEyLjciLCJhaWQiOjAsImhvc3QiOiIiLCJpZCI6IjQxN2QyN2ZiLWNiOTMtM2JkOC05YmY3LTcxY2Q5MTMxOTgyMSIsIm5ldCI6IndzIiwicGF0aCI6IlwvaGdjZWZvbW4iLCJwb3J0IjoyMDk1LCJwcyI6IkNBXHVkODNjXHVkZGU4XHVkODNjXHVkZGU2IiwidGxzIjoiIiwidHlwZSI6ImF1dG8iLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiIifQ==
-
-vmess://eyJhZGQiOiIxOTguNDEuMjE0LjU1IiwiYWlkIjowLCJob3N0IjoiIiwiaWQiOiI0MTdkMjdmYi1jYjkzLTNiZDgtOWJmNy03MWNkOTEzMTk4MjEiLCJuZXQiOiJ3cyIsInBhdGgiOiJcL2hnY2Vmb21uIiwicG9ydCI6MjA5NSwicHMiOiJDQVx1ZDgzY1x1ZGRlOFx1ZDgzY1x1ZGRlNiIsInRscyI6IiIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIn0=
-
-ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E=@212.102.38.41:443#CZ🇨🇿
-
-ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E=@212.102.38.88:443#CZ🇨🇿
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHdnNqUTBPWjVuR1FYREdmemZXWmY1@212.227.146.33:443#ES🇪🇸
-
-vmess://eyJhZGQiOiJvcGhlbGlhLm1vbSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0Ijoib3BoZWxpYS5tb20iLCJpZCI6IjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsIm5ldCI6IndzIiwicGF0aCI6Imxpbmt2d3MiLCJwb3J0IjoiNDQzIiwic2N5IjoiYXV0byIsInNuaSI6Im9waGVsaWEubW9tIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIiwicHMiOiJOTFx1ZDgzY1x1ZGRmM1x1ZDgzY1x1ZGRmMSJ9
 
 vless://da8d0369-0121-4d2b-9fe1-c071833604cf@104.26.15.85:80?path=/?ed=2048&security=none&encryption=none&host=fl.gooldeneaglee.eu.org&type=ws#CA🇨🇦
 
