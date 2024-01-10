@@ -22,7 +22,7 @@ vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@www.unpkg.com:443?path=/?ed=2048&se
 
 vless://e1a928be-e289-4aef-b92e-4106fabdf42f@port80--join.outline-vpn.cloud:80?path=/?ed=2048&security=none&encryption=none&host=mahi.kosnanatfilterchi.eu.org&type=ws#US🇺🇸
 
-vless://29f8ad12-ea84-431b-bf32-9d3fb5cf2aa2@t---join.outline-vpn.cloud:443?path=/?ed=2048&security=tls&encryption=none&host=w1.sylar8.eu.org&type=ws&sni=w1.sylar8.eu.org#US🇺🇸
+vless://29f8ad12-ea84-431b-bf32-9d3fb5cf2aa2@t---join.outline-vpn.cloud:443?path=/?ed=2048&security=tls&encryption=none&host=w1.sylar8.eu.org&type=ws&sni=w1.sylar8.eu.org#INT🌍
 
 vless://29f8ad12-ea84-431b-bf32-9d3fb5cf2aa2@w1.sylar8.eu.org:443?path=/?ed=2048&security=tls&encryption=none&host=w1.sylar8.eu.org&type=ws&sni=w1.sylar8.eu.org#US🇺🇸
 
@@ -44,7 +44,7 @@ vless://e9122f37-d226-469c-89df-db15701f2023@xn--21-pv2cn3nz8d5o7an4zda455qi36a.
 
 vless://89420825-e589-4735-bee1-6dc636fca343@w3.sylarsun.eu.org:443?path=/?ed=2048&security=tls&encryption=none&host=w3.sylarsun.eu.org&type=ws&sni=w3.sylarsun.eu.org#NL🇳🇱
 
-vless://04a93bb8-0a5b-4aa8-ab7f-31fc7adab1c1@edgu.pureboy.eu.org:443?path=/?ed=2048&security=tls&encryption=none&host=edgu.pureboy.eu.org&fp=chrome&type=ws&sni=edgu.pureboy.eu.org#US🇺🇸
+vless://04a93bb8-0a5b-4aa8-ab7f-31fc7adab1c1@edgu.pureboy.eu.org:443?path=/?ed=2048&security=tls&encryption=none&host=edgu.pureboy.eu.org&fp=chrome&type=ws&sni=edgu.pureboy.eu.org#INT🌍
 
 vless://dfb18c6f-731a-4898-a1c4-cc36c6055a90@w2.sylarsun.eu.org:443?path=/?ed=2048&security=tls&encryption=none&host=w2.sylarsun.eu.org&type=ws&sni=w2.sylarsun.eu.org#NL🇳🇱
 
@@ -58,13 +58,13 @@ vless://e1a928be-e289-4aef-b92e-4106fabdf42f@port80--join.outline-vpn.cloud:80?p
 
 vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@star--join.outline-vpn.cloud:443?path=/?ed=2048&security=tls&encryption=none&host=3k.pureboy.eu.org&type=ws&sni=3k.pureboy.eu.org#INT🌍
 
-vless://SvnTeam@cdn.user.com:443?mode=gun&security=tls&encryption=none&fp=firefox&type=grpc&serviceName=&sni=gmV2raygm.svnteamfree.com#INT🌍
+vless://SvnTeam@cdn.user.com:443?mode=gun&security=tls&encryption=none&fp=firefox&type=grpc&serviceName=&sni=gmV2raygm.svnteamfree.com#US🇺🇸
 
 vless://16e3cc71-c99f-4ab5-bff3-6247ca6cbd80@ts--join.outline-vpn.cloud:2096?mode=gun&security=tls&encryption=none&fp=firefox&type=grpc&serviceName=&sni=forward333.maryam1500.top#INT🌍
 
 vless://29f8ad12-ea84-431b-bf32-9d3fb5cf2aa2@t---join.outline-vpn.cloud:443?path=/?ed=2048&security=tls&encryption=none&host=w1.sylar8.eu.org&type=ws&sni=w1.sylar8.eu.org#INT🌍
 
-vless://29f8ad12-ea84-431b-bf32-9d3fb5cf2aa2@w1.sylar8.eu.org:443?path=/?ed=2048&security=tls&encryption=none&host=w1.sylar8.eu.org&type=ws&sni=w1.sylar8.eu.org#INT🌍
+vless://29f8ad12-ea84-431b-bf32-9d3fb5cf2aa2@w1.sylar8.eu.org:443?path=/?ed=2048&security=tls&encryption=none&host=w1.sylar8.eu.org&type=ws&sni=w1.sylar8.eu.org#US🇺🇸
 
 vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@er--join.outline-vpn.cloud:443?path=/?ed&security=tls&encryption=none&alpn=http/1.1&host=3k.pureboy.eu.org&fp=chrome&type=ws&sni=3k.pureboy.eu.org#INT🌍
 
@@ -96,6 +96,16 @@ vless://460332c1-aa61-445d-9cc1-00647871b803@s18.nextvps.monster:8307?path=/&sec
 
 vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@3k.pureboy.eu.org:443?path=/?ed=2048&security=tls&encryption=none&host=3k.pureboy.eu.org&type=ws&sni=3k.pureboy.eu.org#INT🌍
 
+vless://2c59ff33-916d-459b-a4c0-8b7432c4c3bb@16.16.70.138:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&headerType=none&pbk=a0HNz4nqwMocjpOIEcyNtmAfIjmjIcI4h9AhDx2F_SM&security=reality&sid=1db3&sni=coinmarketcap.com&spx=/&type=tcp#SE🇸🇪
+
+vless://9acbeae9-54ca-4b22-8761-c7980700e10a@224-Join.V2RayTz.sbs:443?encryption=none&fp=firefox&mode=gun&pbk=--w7eHtwMBeksPtXq5opOv0kGocEqxPh0-fYOYPDRxM&security=reality&serviceName=@ipV2Ray&sid=c50dbf82&sni=www.speedq.fun&spx=/&type=grpc#DE🇩🇪
+
+vless://3f31a280-e11e-4387-89be-d2b1aaca08c1@windrunner.uk:56853?encryption=none&flow=xtls-rprx-vision&fp=chrome&headerType=none&pbk=YhpNDX_yJ-n0Y_z25vXzI-4bx7etsZnZKGTqARjnYU8&security=reality&sid=c2dc122e&sni=discord.com&type=tcp#FI🇫🇮
+
+vless://2c59ff33-916d-459b-a4c0-8b7432c4c3bb@16.16.173.59:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&headerType=none&pbk=ICh6itldU-Ehl0qTpjw2t8ZEuhfYcIWBkxGL1P_zLms&security=reality&sid=1db3&sni=coinmarketcap.com&spx=/&type=tcp#SE🇸🇪
+
+vless://c874a124-391d-41cd-9be9-2fa695b1da34@190.93.247.155:2083?mode=gun&security=tls&encryption=none&alpn=@bored_vpn,@bored_vpn&fp=chrome&type=grpc&serviceName=@LIGHTNING6&sni=AllLocation-bestSpeedTest-V2LIGHTa.liV2raYd.cfd#CR🇨🇷
+
 vless://1bc33c21-267a-4201-819c-36ab4f10e543@172.64.28.12:443?type=ws&encryption=none&host=sg1.servervless.de&path=/?ed=2048&security=tls&sni=sg1.servervless.de#US🇺🇸
 
 vless://ebe56615-5212-4634-8f32-39a412293244@190.93.246.241:443?type=ws&encryption=none&host=hk4.servervless.de&path=/?ed=2048&security=tls&sni=hk4.servervless.de#CR🇨🇷
@@ -113,16 +123,6 @@ vless://1bc33c21-267a-4201-819c-36ab4f10e543@104.21.18.95:80?type=ws&encryption=
 vless://db880fbf-a42e-4abe-b1ae-92e79929e7b2@jp-full.privateip.net:443?type=tcp&encryption=none&security=tls&path=/&flow=xtls-rprx-vision#JP🇯🇵
 
 vless://5811c513-3660-4b7b-a82a-0a26a60d7037@in-full.privateip.net:443?type=tcp&encryption=none&security=tls&path=/&flow=xtls-rprx-vision#IN🇮🇳
-
-vless://db880fbf-a42e-4abe-b1ae-92e79929e7b2@jp-full.privateip.net:443?type=ws&encryption=none&security=tls&path=/VLESS#JP🇯🇵
-
-vless://5811c513-3660-4b7b-a82a-0a26a60d7037@in-full.privateip.net:443?type=ws&encryption=none&security=tls&path=/VLESS#IN🇮🇳
-
-vless://c626ae39-f34f-481a-8bca-07bc83069e07@it-full.privateip.net:443?type=ws&encryption=none&security=tls&path=/VLESS#IT🇮🇹
-
-vless://fd87719b-cd10-40cb-b697-db66db847fa8@yjc.ir:80?path=/&security=none&encryption=none&host=dl1.zulagem.shop&type=ws#IR🇮🇷
-
-vless://16e3cc71-c99f-4ab5-bff3-6247ca6cbd80@forward3.maryam1700.com:2096?mode=gun&security=tls&encryption=none&alpn=http/1.1&fp=firefox&type=grpc&serviceName=&sni=f3.maryam1900.com#INT🌍
 
 vless://da8d0369-0121-4d2b-9fe1-c071833604cf@104.26.15.85:80?path=/?ed=2048&security=none&encryption=none&host=fl.gooldeneaglee.eu.org&type=ws#INT🌍
 
