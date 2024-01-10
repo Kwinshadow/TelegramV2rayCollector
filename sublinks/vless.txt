@@ -18,7 +18,7 @@ vless://457bc73d-9972-47df-9a5f-a16bf7e42e15@ut--join.outline-vpn.cloud:8880?pat
 
 vless://b634a1ea-5cd8-4a20-981c-a0c8b6cf7371@www.speedtest.net:443?mode=gun&security=tls&encryption=none&fp=random&type=grpc&serviceName=@melov2ray&sni=FIn.Melov2ray.Shop#US🇺🇸
 
-vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@www.unpkg.com:443?path=/?ed=2048&security=tls&encryption=none&host=3k.pureboy.eu.org&type=ws&sni=3k.pureboy.eu.org#INT🌍
+vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@www.unpkg.com:443?path=/?ed=2048&security=tls&encryption=none&host=3k.pureboy.eu.org&type=ws&sni=3k.pureboy.eu.org#US🇺🇸
 
 vless://e1a928be-e289-4aef-b92e-4106fabdf42f@port80--join.outline-vpn.cloud:80?path=/?ed=2048&security=none&encryption=none&host=mahi.kosnanatfilterchi.eu.org&type=ws#US🇺🇸
 
@@ -26,9 +26,9 @@ vless://29f8ad12-ea84-431b-bf32-9d3fb5cf2aa2@t---join.outline-vpn.cloud:443?path
 
 vless://29f8ad12-ea84-431b-bf32-9d3fb5cf2aa2@w1.sylar8.eu.org:443?path=/?ed=2048&security=tls&encryption=none&host=w1.sylar8.eu.org&type=ws&sni=w1.sylar8.eu.org#US🇺🇸
 
-vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@mm---join.outline-vpn.cloud:443?path=/?ed=2048&security=tls&encryption=none&host=3k.pureboy.eu.org&fp=chrome&type=ws&sni=3k.pureboy.eu.org#INT🌍
+vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@mm---join.outline-vpn.cloud:443?path=/?ed=2048&security=tls&encryption=none&host=3k.pureboy.eu.org&fp=chrome&type=ws&sni=3k.pureboy.eu.org#US🇺🇸
 
-vless://215fe998-29ae-4e84-9471-2bdb211b1742@join--showww.outline-vpn.cloud:8443?mode=gun&security=tls&encryption=none&fp=chrome&type=grpc&serviceName=@networknim&sni=free.foxnim.site#US🇺🇸
+vless://215fe998-29ae-4e84-9471-2bdb211b1742@join--showww.outline-vpn.cloud:8443?mode=gun&security=tls&encryption=none&fp=chrome&type=grpc&serviceName=@networknim&sni=free.foxnim.site#INT🌍
 
 vless://462acb01-a275-433c-9fc6-074de3d68ba0@turkws.configforvpn.fun:2087?path=/&security=tls&encryption=none&type=ws&sni=turkws.configforvpn.fun#US🇺🇸
 
@@ -64,7 +64,7 @@ vless://16e3cc71-c99f-4ab5-bff3-6247ca6cbd80@ts--join.outline-vpn.cloud:2096?mod
 
 vless://29f8ad12-ea84-431b-bf32-9d3fb5cf2aa2@t---join.outline-vpn.cloud:443?path=/?ed=2048&security=tls&encryption=none&host=w1.sylar8.eu.org&type=ws&sni=w1.sylar8.eu.org#INT🌍
 
-vless://29f8ad12-ea84-431b-bf32-9d3fb5cf2aa2@w1.sylar8.eu.org:443?path=/?ed=2048&security=tls&encryption=none&host=w1.sylar8.eu.org&type=ws&sni=w1.sylar8.eu.org#US🇺🇸
+vless://29f8ad12-ea84-431b-bf32-9d3fb5cf2aa2@w1.sylar8.eu.org:443?path=/?ed=2048&security=tls&encryption=none&host=w1.sylar8.eu.org&type=ws&sni=w1.sylar8.eu.org#INT🌍
 
 vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@er--join.outline-vpn.cloud:443?path=/?ed&security=tls&encryption=none&alpn=http/1.1&host=3k.pureboy.eu.org&fp=chrome&type=ws&sni=3k.pureboy.eu.org#INT🌍
 
@@ -94,7 +94,7 @@ vless://e1a928be-e289-4aef-b92e-4106fabdf42f@new-join-too.outline-vpn.cloud:80?p
 
 vless://460332c1-aa61-445d-9cc1-00647871b803@s18.nextvps.monster:8307?path=/&security=none&encryption=none&host=telewebion.com&type=ws#IR🇮🇷
 
-vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@3k.pureboy.eu.org:443?path=/?ed=2048&security=tls&encryption=none&host=3k.pureboy.eu.org&type=ws&sni=3k.pureboy.eu.org#US🇺🇸
+vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@3k.pureboy.eu.org:443?path=/?ed=2048&security=tls&encryption=none&host=3k.pureboy.eu.org&type=ws&sni=3k.pureboy.eu.org#INT🌍
 
 vless://1bc33c21-267a-4201-819c-36ab4f10e543@172.64.28.12:443?type=ws&encryption=none&host=sg1.servervless.de&path=/?ed=2048&security=tls&sni=sg1.servervless.de#US🇺🇸
 
@@ -123,16 +123,6 @@ vless://c626ae39-f34f-481a-8bca-07bc83069e07@it-full.privateip.net:443?type=ws&e
 vless://fd87719b-cd10-40cb-b697-db66db847fa8@yjc.ir:80?path=/&security=none&encryption=none&host=dl1.zulagem.shop&type=ws#IR🇮🇷
 
 vless://16e3cc71-c99f-4ab5-bff3-6247ca6cbd80@forward3.maryam1700.com:2096?mode=gun&security=tls&encryption=none&alpn=http/1.1&fp=firefox&type=grpc&serviceName=&sni=f3.maryam1900.com#INT🌍
-
-vless://fd87719b-cd10-40cb-b697-db66db847fa8@yjc.ir:80?path=/&security=none&encryption=none&host=dl4.zulagem.shop&type=ws#IR🇮🇷
-
-vless://fd87719b-cd10-40cb-b697-db66db847fa8@yjc.ir:80?path=/&security=none&encryption=none&host=dl3.zulagem.shop&type=ws#IR🇮🇷
-
-vless://fd87719b-cd10-40cb-b697-db66db847fa8@yjc.ir:80?path=/&security=none&encryption=none&host=dl5.zulagem.shop&type=ws#IR🇮🇷
-
-vless://fd87719b-cd10-40cb-b697-db66db847fa8@yjc.ir:80?path=/&security=none&encryption=none&host=dl2.zulagem.shop&type=ws#IR🇮🇷
-
-vless://e1a928be-e289-4aef-b92e-4106fabdf42f@104.21.59.125:80?path=/?ed&security=none&encryption=none&host=mahi.kosnanatfilterchi.eu.org&type=ws#INT🌍
 
 vless://da8d0369-0121-4d2b-9fe1-c071833604cf@104.26.15.85:80?path=/?ed=2048&security=none&encryption=none&host=fl.gooldeneaglee.eu.org&type=ws#INT🌍
 
