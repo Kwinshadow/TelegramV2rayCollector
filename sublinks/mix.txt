@@ -28,11 +28,11 @@ vless://b75b3034-36ab-4979-beae-3d02db1b11ec@cxc--join.outline-vpn.cloud:443?pat
 
 vless://29f8ad12-ea84-431b-bf32-9d3fb5cf2aa2@plus3---join.outline-vpn.cloud:443?path=path/telegram@v2ray_alpha/?ed=2048&security=tls&encryption=none&host=w1.sylar8.eu.org&type=ws&sni=w1.sylar8.eu.org#US🇺🇸
 
-vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@aw--join.outline-vpn.cloud:443?path=/?ed=2048&security=tls&encryption=none&host=3k.pureboy.eu.org&type=ws&sni=3k.pureboy.eu.org#CA🇨🇦
+vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@aw--join.outline-vpn.cloud:443?path=/?ed=2048&security=tls&encryption=none&host=3k.pureboy.eu.org&type=ws&sni=3k.pureboy.eu.org#US🇺🇸
 
-vless://39701277-b87f-4de3-b952-5d667d02baf9@ut--join.outline-vpn.cloud:2052?path=/&security=none&encryption=none&host=KcKhEs.SHApaRAK.bIo&type=ws#CA🇨🇦
+vless://39701277-b87f-4de3-b952-5d667d02baf9@ut--join.outline-vpn.cloud:2052?path=/&security=none&encryption=none&host=KcKhEs.SHApaRAK.bIo&type=ws#US🇺🇸
 
-vless://e03be1d4-bd9a-45dd-a6cd-4ada8e9be94a@esz--join.outline-vpn.cloud:2053?path=/backup&security=tls&encryption=none&host=defcjkodfvgerjifkvsdfcedfcdv78d5f4jijijjh785696.bale.bio&fp=chrome&type=ws&sni=defcjkodfvgerjifkvsdfcedfcdv78d5f4jijijjh785696.bale.bio#CA🇨🇦
+vless://e03be1d4-bd9a-45dd-a6cd-4ada8e9be94a@esz--join.outline-vpn.cloud:2053?path=/backup&security=tls&encryption=none&host=defcjkodfvgerjifkvsdfcedfcdv78d5f4jijijjh785696.bale.bio&fp=chrome&type=ws&sni=defcjkodfvgerjifkvsdfcedfcdv78d5f4jijijjh785696.bale.bio#US🇺🇸
 
 vless://bda4be04-48bf-4df1-aaf2-6d42522eab6b@ji--join.outline-vpn.cloud:80?path=/?ed=2048&security=none&encryption=none&host=ehda.sajaditsme.com&type=ws#US🇺🇸
 
@@ -44,11 +44,11 @@ vless://29f8ad12-ea84-431b-bf32-9d3fb5cf2aa2@w1.sylar8.eu.org:443?path=/?ed=2048
 
 vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@3k.pureboy.eu.org:443?path=/?ed=2048&security=tls&encryption=none&host=3k.pureboy.eu.org&type=ws&sni=3k.pureboy.eu.org#CA🇨🇦
 
-vless://e9122f37-d226-469c-89df-db15701f2023@xn--21-pv2cn3nz8d5o7an4zda455qi36a.tech:80?path=/&security=none&encryption=none&host=dhdodvkdpwv.事出动列员18.tech&type=ws#US🇺🇸
+vless://e9122f37-d226-469c-89df-db15701f2023@xn--21-pv2cn3nz8d5o7an4zda455qi36a.tech:80?path=/&security=none&encryption=none&host=dhdodvkdpwv.事出动列员18.tech&type=ws#NL🇳🇱
 
-vless://962a733d-2614-0b9b-7ffe-9ac92ffea8eb@aliquran24.xyz:443?path=/current_time&security=tls&encryption=none&type=ws#US🇺🇸
+vless://962a733d-2614-0b9b-7ffe-9ac92ffea8eb@aliquran24.xyz:443?path=/current_time&security=tls&encryption=none&type=ws#NL🇳🇱
 
-vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@www.unpkg.com:443?path=/?ed=2048&security=tls&encryption=none&host=3k.pureboy.eu.org&type=ws&sni=3k.pureboy.eu.org#US🇺🇸
+vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@www.unpkg.com:443?path=/?ed=2048&security=tls&encryption=none&host=3k.pureboy.eu.org&type=ws&sni=3k.pureboy.eu.org#CA🇨🇦
 
 trojan://qG9K8AGnn9XH5jUqeFu96g@cdn-13.cdn2cdn.com:2083?path=/&security=tls&host=cdn13.cdn2cdn.com&fp=chrome&type=ws&sni=cdn13.cdn2cdn.com#NL🇳🇱
 
@@ -233,4 +233,6 @@ vless://---Parsashonam--2-@www.speedtest.net:443?path=/&security=tls&encryption=
 vless://3fcc1c67-7a88-40b8-a10d-320fdf11b0b0@www.speedtest.net:443?path=/@Parsashonam&security=tls&encryption=none&alpn=h2,http/1.1&host=notebooks-removed-partner-volleyball.trycloudflare.com&fp=chrome&type=ws&sni=notebooks-removed-partner-volleyball.trycloudflare.com#CA🇨🇦
 
 vless://46e885f8-bd03-4feb-a2d2-9166761b0d43@www.speedtest.net:443?path=/@Parsashonam&security=tls&encryption=none&alpn=h2,http/1.1&host=grade-packing-wrestling-slovakia.trycloudflare.com&fp=chrome&type=ws&sni=grade-packing-wrestling-slovakia.trycloudflare.com#CA🇨🇦
+
+vless://---Parsashonam--1-@www.speedtest.net:443?path=/&security=tls&encryption=none&alpn=h2,http/1.1&host=applications-viii-bow-barry.trycloudflare.com&fp=chrome&type=ws&sni=applications-viii-bow-barry.trycloudflare.com#CA🇨🇦
 
