@@ -80,7 +80,7 @@ vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@er--join.outline-vpn.cloud:443?path
 
 vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@www.unpkg.com:443?path=/?ed=2048&security=tls&encryption=none&host=3k.pureboy.eu.org&fp=chrome&type=ws&sni=3k.pureboy.eu.org#INT🌍
 
-vless://04a93bb8-0a5b-4aa8-ab7f-31fc7adab1c1@edgu.pureboy.eu.org:443?path=/?ed=2048&security=tls&encryption=none&host=edgu.pureboy.eu.org&fp=chrome&type=ws&sni=edgu.pureboy.eu.org#INT🌍
+vless://04a93bb8-0a5b-4aa8-ab7f-31fc7adab1c1@edgu.pureboy.eu.org:443?path=/?ed=2048&security=tls&encryption=none&host=edgu.pureboy.eu.org&fp=chrome&type=ws&sni=edgu.pureboy.eu.org#US🇺🇸
 
 vless://0c51f885-7ef1-4df2-a1ca-82ea2df5e6a8@test.ez0535.sbs:8443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&type=grpc&serviceName=&sni=server5.mahsa0535.sbs#
 
@@ -123,8 +123,4 @@ vless://e1a928be-e289-4aef-b92e-4106fabdf42f@port80--join.outline-vpn.cloud:80?p
 vless://---Parsashonam--5-@104.17.123.55:443?path=/&security=tls&encryption=none&alpn=h2,http/1.1&host=composition-slovakia-cellular-cos.trycloudflare.com&fp=chrome&type=ws&sni=composition-slovakia-cellular-cos.trycloudflare.com#INT🌍
 
 vless://---Parsashonam--2-@www.speedtest.net:443?path=/&security=tls&encryption=none&alpn=h2,http/1.1&host=applications-viii-bow-barry.trycloudflare.com&fp=chrome&type=ws&sni=applications-viii-bow-barry.trycloudflare.com#INT🌍
-
-vless://3fcc1c67-7a88-40b8-a10d-320fdf11b0b0@www.speedtest.net:443?path=/@Parsashonam&security=tls&encryption=none&alpn=h2,http/1.1&host=notebooks-removed-partner-volleyball.trycloudflare.com&fp=chrome&type=ws&sni=notebooks-removed-partner-volleyball.trycloudflare.com#INT🌍
-
-vless://46e885f8-bd03-4feb-a2d2-9166761b0d43@www.speedtest.net:443?path=/@Parsashonam&security=tls&encryption=none&alpn=h2,http/1.1&host=grade-packing-wrestling-slovakia.trycloudflare.com&fp=chrome&type=ws&sni=grade-packing-wrestling-slovakia.trycloudflare.com#INT🌍
 
