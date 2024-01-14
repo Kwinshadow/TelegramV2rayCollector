@@ -40,7 +40,7 @@ vless://48bd4d22-e42f-4749-af6a-85ecf716c823@ubia2-join.outline-vpn.cloud:80?pat
 
 vless://e1a928be-e289-4aef-b92e-4106fabdf42f@port80--join.outline-vpn.cloud:80?path=/?ed=2048&security=none&encryption=none&host=mahi.kosnanatfilterchi.eu.org&type=ws#US🇺🇸
 
-vless://29f8ad12-ea84-431b-bf32-9d3fb5cf2aa2@w1.sylar8.eu.org:443?path=/?ed=2048&security=tls&encryption=none&host=w1.sylar8.eu.org&type=ws&sni=w1.sylar8.eu.org#US🇺🇸
+vless://29f8ad12-ea84-431b-bf32-9d3fb5cf2aa2@w1.sylar8.eu.org:443?path=/?ed=2048&security=tls&encryption=none&host=w1.sylar8.eu.org&type=ws&sni=w1.sylar8.eu.org#INT🌍
 
 vless://dfb18c6f-731a-4898-a1c4-cc36c6055a90@w2.sylarsun.eu.org:443?path=/?ed=2048&security=tls&encryption=none&host=w2.sylarsun.eu.org&type=ws&sni=w2.sylarsun.eu.org#NL🇳🇱
 
@@ -72,9 +72,9 @@ vless://58d9858e-36f3-4bbf-bf36-7d4ce83dbb59@cdnjs.com:2086?path=/&security=none
 
 vless://633fb319-8b60-4bd6-94e2-ea94f16edd9f@cdnjs.com:8080?path=/&security=none&encryption=none&host=p3.virankade.site&type=ws#INT🌍
 
-vless://a725f7fa-76c1-463b-af30-4ac1e160e3e8@cdnjs.com:8443?mode=gun&security=tls&encryption=none&fp=chrome&type=grpc&serviceName=8443vless&sni=srv3.arvanx.online#US🇺🇸
+vless://a725f7fa-76c1-463b-af30-4ac1e160e3e8@cdnjs.com:8443?mode=gun&security=tls&encryption=none&fp=chrome&type=grpc&serviceName=8443vless&sni=srv3.arvanx.online#INT🌍
 
-vless://73f54e37-027d-4444-8b8b-58ddcf800658@dol.black555.shop:8443?type=ws&path=/&host=black555.shop&security=tls&fp=chrome&alpn=h2,http/1.1&sni=black555.shop#INT🌍
+vless://73f54e37-027d-4444-8b8b-58ddcf800658@dol.black555.shop:8443?type=ws&path=/&host=black555.shop&security=tls&fp=chrome&alpn=h2,http/1.1&sni=black555.shop#US🇺🇸
 
 vless://39701277-b87f-4de3-b952-5d667d02baf9@ut--join.outline-vpn.cloud:2052?path=/&security=none&encryption=none&host=KcKhEs.SHApaRAK.bIo&type=ws#US🇺🇸
 
