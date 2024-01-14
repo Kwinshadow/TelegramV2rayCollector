@@ -24,9 +24,9 @@ vless://e1a928be-e289-4aef-b92e-4106fabdf42f@port80----join.outline-vpn.cloud:80
 
 vless://29f8ad12-ea84-431b-bf32-9d3fb5cf2aa2@t---join.outline-vpn.cloud:443?path=/?ed=2048&security=tls&encryption=none&host=w1.sylar8.eu.org&type=ws&sni=w1.sylar8.eu.org#INT🌍
 
-vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@www.unpkg.com:443?path=/?ed=2048&security=tls&encryption=none&host=3k.pureboy.eu.org&fp=chrome&type=ws&sni=3k.pureboy.eu.org#US🇺🇸
+vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@www.unpkg.com:443?path=/?ed=2048&security=tls&encryption=none&host=3k.pureboy.eu.org&fp=chrome&type=ws&sni=3k.pureboy.eu.org#INT🌍
 
-vless://04a93bb8-0a5b-4aa8-ab7f-31fc7adab1c1@edgu.pureboy.eu.org:443?path=/?ed=2048&security=tls&encryption=none&host=edgu.pureboy.eu.org&fp=chrome&type=ws&sni=edgu.pureboy.eu.org#INT🌍
+vless://04a93bb8-0a5b-4aa8-ab7f-31fc7adab1c1@edgu.pureboy.eu.org:443?path=/?ed=2048&security=tls&encryption=none&host=edgu.pureboy.eu.org&fp=chrome&type=ws&sni=edgu.pureboy.eu.org#US🇺🇸
 
 vless://e1a928be-e289-4aef-b92e-4106fabdf42f@new-join-too.outline-vpn.cloud:80?path=/?ed=2048&security=none&encryption=none&host=mahi.kosnanatfilterchi.eu.org&type=ws#US🇺🇸
 
@@ -64,7 +64,7 @@ vless://04a93bb8-0a5b-4aa8-ab7f-31fc7adab1c1@edgu.pureboy.eu.org:443?path=/?ed=2
 
 vless://0c51f885-7ef1-4df2-a1ca-82ea2df5e6a8@test.ez0535.sbs:8443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&type=grpc&serviceName=&sni=server5.mahsa0535.sbs#
 
-vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@3k.pureboy.eu.org:443?path=/?ed=2048&security=tls&encryption=none&host=3k.pureboy.eu.org&type=ws&sni=3k.pureboy.eu.org#US🇺🇸
+vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@3k.pureboy.eu.org:443?path=/?ed=2048&security=tls&encryption=none&host=3k.pureboy.eu.org&type=ws&sni=3k.pureboy.eu.org#INT🌍
 
 vless://962a733d-2614-0b9b-7ffe-9ac92ffea8eb@aliquran24.xyz:443?path=/current_time&security=tls&encryption=none&type=ws#NL🇳🇱
 
@@ -76,7 +76,7 @@ vless://7eb1733f-b192-41bc-af52-8ab96b5967af@iranserver.com:443?path=/@FreedomSp
 
 vless://13f021a8-af20-43b6-b6a7-c09637ee8a24@speedtest.org:443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=me&sni=fin6.melobigg.site#NL🇳🇱
 
-vless://73f54e37-027d-4444-8b8b-58ddcf800658@dol.black555.shop:8443?type=ws&path=/&host=black555.shop&security=tls&fp=chrome&alpn=h2,http/1.1&sni=black555.shop#INT🌍
+vless://73f54e37-027d-4444-8b8b-58ddcf800658@dol.black555.shop:8443?type=ws&path=/&host=black555.shop&security=tls&fp=chrome&alpn=h2,http/1.1&sni=black555.shop#
 
 vless://39701277-b87f-4de3-b952-5d667d02baf9@ut--join.outline-vpn.cloud:2052?path=/&security=none&encryption=none&host=KcKhEs.SHApaRAK.bIo&type=ws#US🇺🇸
 
@@ -110,7 +110,7 @@ vless://b9bec4e7-0c93-4724-91da-368e285cc5b4@kamyarservers.camdvr.org:443/?type=
 
 vless://9c067f15-1108-43db-b98e-94641b5758a1@gold.tap4connect.me:57986?security=none&encryption=none&headerType=http&type=tcp#BG🇧🇬
 
-vless://50555890-994d-4416-9a9b-bbc82fc19eb3@alh.wagnervpn.com:443?path=/WS&security=tls&encryption=none&fp=chrome&type=ws&sni=alh.wagnervpn.com#INT🌍
+vless://50555890-994d-4416-9a9b-bbc82fc19eb3@alh.wagnervpn.com:443?path=/WS&security=tls&encryption=none&fp=chrome&type=ws&sni=alh.wagnervpn.com#US🇺🇸
 
 vless://---Parsashonam--4-@104.17.124.55:443?path=/&security=tls&encryption=none&alpn=h2,http/1.1&host=crimes-lebanon-ordinary-dip.trycloudflare.com&fp=chrome&type=ws&sni=crimes-lebanon-ordinary-dip.trycloudflare.com#INT🌍
 
