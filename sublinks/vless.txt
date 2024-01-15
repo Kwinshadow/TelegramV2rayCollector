@@ -30,17 +30,17 @@ vless://7eb1733f-b192-41bc-af52-8ab96b5967af@iranserver.com:443?path=/@FreedomSp
 
 vless://13f021a8-af20-43b6-b6a7-c09637ee8a24@speedtest.org:443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=me&sni=fin6.melobigg.site#US🇺🇸
 
-vless://58d9858e-36f3-4bbf-bf36-7d4ce83dbb59@cdnjs.com:2086?path=/&security=none&encryption=none&host=p3.abrarvan.xyz&type=ws#INT🌍
+vless://58d9858e-36f3-4bbf-bf36-7d4ce83dbb59@cdnjs.com:2086?path=/&security=none&encryption=none&host=p3.abrarvan.xyz&type=ws#US🇺🇸
 
 vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@3k.pureboy.eu.org:443?path=/?ed=2048&security=tls&encryption=none&host=3k.pureboy.eu.org&type=ws&sni=3k.pureboy.eu.org#US🇺🇸
 
-vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@star--join.outline-vpn.cloud:443?path=/?ed=2048&security=tls&encryption=none&host=3k.pureboy.eu.org&type=ws&sni=3k.pureboy.eu.org#US🇺🇸
+vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@star--join.outline-vpn.cloud:443?path=/?ed=2048&security=tls&encryption=none&host=3k.pureboy.eu.org&type=ws&sni=3k.pureboy.eu.org#INT🌍
 
 vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@star---join.outline-vpn.cloud:443?path=/?ed=2048&security=tls&encryption=none&host=3k.pureboy.eu.org&type=ws&sni=3k.pureboy.eu.org#US🇺🇸
 
-vless://04a93bb8-0a5b-4aa8-ab7f-31fc7adab1c1@edgu.pureboy.eu.org:443?path=/?ed=2048&security=tls&encryption=none&host=edgu.pureboy.eu.org&fp=chrome&type=ws&sni=edgu.pureboy.eu.org#INT🌍
+vless://04a93bb8-0a5b-4aa8-ab7f-31fc7adab1c1@edgu.pureboy.eu.org:443?path=/?ed=2048&security=tls&encryption=none&host=edgu.pureboy.eu.org&fp=chrome&type=ws&sni=edgu.pureboy.eu.org#US🇺🇸
 
-vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@www.unpkg.com:443?path=/?ed=2048&security=tls&encryption=none&host=3k.pureboy.eu.org&type=ws&sni=3k.pureboy.eu.org#US🇺🇸
+vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@www.unpkg.com:443?path=/?ed=2048&security=tls&encryption=none&host=3k.pureboy.eu.org&type=ws&sni=3k.pureboy.eu.org#INT🌍
 
 vless://a9281288-3659-4eea-9044-58291062ab6f@iran-007-join.outline-vpn.cloud:2087?mode=gun&security=tls&encryption=none&type=grpc&serviceName=&sni=lengwi12.chipkayin.shop#US🇺🇸
 
@@ -80,7 +80,7 @@ vless://48bd4d22-e42f-4749-af6a-85ecf716c823@ubia2-join.outline-vpn.cloud:80?pat
 
 vless://e1a928be-e289-4aef-b92e-4106fabdf42f@port80--join.outline-vpn.cloud:80?path=/?ed=2048&security=none&encryption=none&host=mahi.kosnanatfilterchi.eu.org&type=ws#US🇺🇸
 
-vless://29f8ad12-ea84-431b-bf32-9d3fb5cf2aa2@w1.sylar8.eu.org:443?path=/?ed=2048&security=tls&encryption=none&host=w1.sylar8.eu.org&type=ws&sni=w1.sylar8.eu.org#US🇺🇸
+vless://29f8ad12-ea84-431b-bf32-9d3fb5cf2aa2@w1.sylar8.eu.org:443?path=/?ed=2048&security=tls&encryption=none&host=w1.sylar8.eu.org&type=ws&sni=w1.sylar8.eu.org#INT🌍
 
 vless://dfb18c6f-731a-4898-a1c4-cc36c6055a90@w2.sylarsun.eu.org:443?path=/?ed=2048&security=tls&encryption=none&host=w2.sylarsun.eu.org&type=ws&sni=w2.sylarsun.eu.org#NL🇳🇱
 
@@ -114,9 +114,9 @@ vless://f69d4594-2d18-4266-abc4-eeb9c5604ca5@172.67.221.245:443?encryption=none&
 
 vless://f69d4594-2d18-4266-abc4-eeb9c5604ca5@172.67.213.235:443?encryption=none&security=tls&type=ws&sni=www.12reddddddd.bf&host=www.12reddddddd.bf&path=/975e3406-9ac4-45fc-a12b-30fbe810c75f#US🇺🇸
 
-vless://2b89fcab-30cd-4665-8f2c-bafed9020d50@kamyarservers.camdvr.org:443/?type=grpc&serviceName=@Fnet00&security=reality&pbk=pj7hhjVTqfsjNw7vIMQFwT6nzdbHLNAyUveeRhv5vw4&fp=firefox&sni=greenpepper.ir&sid=0960546b&spx=/#DE🇩🇪
+vless://7e2d1645-ee37-458e-bf31-d1694ff352c5@kamyarservers.camdvr.org:443/?type=grpc&serviceName=@Fnet00&security=reality&pbk=pj7hhjVTqfsjNw7vIMQFwT6nzdbHLNAyUveeRhv5vw4&fp=firefox&sni=greenpepper.ir&sid=0960546b&spx=/#DE🇩🇪
 
-vless://b9bec4e7-0c93-4724-91da-368e285cc5b4@kamyarservers.camdvr.org:443/?type=grpc&serviceName=@Fnet00&security=reality&pbk=pj7hhjVTqfsjNw7vIMQFwT6nzdbHLNAyUveeRhv5vw4&fp=firefox&sni=greenpepper.ir&sid=0960546b&spx=/#DE🇩🇪
+vless://2b89fcab-30cd-4665-8f2c-bafed9020d50@kamyarservers.camdvr.org:443/?type=grpc&serviceName=@Fnet00&security=reality&pbk=pj7hhjVTqfsjNw7vIMQFwT6nzdbHLNAyUveeRhv5vw4&fp=firefox&sni=greenpepper.ir&sid=0960546b&spx=/#DE🇩🇪
 
 vless://e1a928be-e289-4aef-b92e-4106fabdf42f@k---join.outline-vpn.cloud:80?path=/?ed=2048&security=none&encryption=none&host=mahi.kosnanatfilterchi.eu.org&type=ws#INT🌍
 
