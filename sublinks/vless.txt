@@ -40,7 +40,7 @@ vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@tw--join.outline-vpn.cloud:443?path
 
 vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@er--join.outline-vpn.cloud:443?path=/?ed&security=tls&encryption=none&alpn=http/1.1&host=3k.pureboy.eu.org&fp=chrome&type=ws&sni=3k.pureboy.eu.org#INT🌍
 
-vless://e1a928be-e289-4aef-b92e-4106fabdf42f@port80----join.outline-vpn.cloud:80?path=/?ed=2048&security=none&encryption=none&host=mahi.kosnanatfilterchi.eu.org&type=ws#NL🇳🇱
+vless://e1a928be-e289-4aef-b92e-4106fabdf42f@port80----join.outline-vpn.cloud:80?path=/?ed=2048&security=none&encryption=none&host=mahi.kosnanatfilterchi.eu.org&type=ws#US🇺🇸
 
 vless://29f8ad12-ea84-431b-bf32-9d3fb5cf2aa2@t---join.outline-vpn.cloud:443?path=/?ed=2048&security=tls&encryption=none&host=w1.sylar8.eu.org&type=ws&sni=w1.sylar8.eu.org#INT🌍
 
@@ -68,7 +68,7 @@ vless://48bd4d22-e42f-4749-af6a-85ecf716c823@ubia2-join.outline-vpn.cloud:80?pat
 
 vless://e1a928be-e289-4aef-b92e-4106fabdf42f@port80--join.outline-vpn.cloud:80?path=/?ed=2048&security=none&encryption=none&host=mahi.kosnanatfilterchi.eu.org&type=ws#US🇺🇸
 
-vless://29f8ad12-ea84-431b-bf32-9d3fb5cf2aa2@w1.sylar8.eu.org:443?path=/?ed=2048&security=tls&encryption=none&host=w1.sylar8.eu.org&type=ws&sni=w1.sylar8.eu.org#US🇺🇸
+vless://29f8ad12-ea84-431b-bf32-9d3fb5cf2aa2@w1.sylar8.eu.org:443?path=/?ed=2048&security=tls&encryption=none&host=w1.sylar8.eu.org&type=ws&sni=w1.sylar8.eu.org#INT🌍
 
 vless://dfb18c6f-731a-4898-a1c4-cc36c6055a90@w2.sylarsun.eu.org:443?path=/?ed=2048&security=tls&encryption=none&host=w2.sylarsun.eu.org&type=ws&sni=w2.sylarsun.eu.org#NL🇳🇱
 
@@ -80,7 +80,7 @@ vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@er--join.outline-vpn.cloud:443?path
 
 vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@www.unpkg.com:443?path=/?ed=2048&security=tls&encryption=none&host=3k.pureboy.eu.org&fp=chrome&type=ws&sni=3k.pureboy.eu.org#INT🌍
 
-vless://04a93bb8-0a5b-4aa8-ab7f-31fc7adab1c1@edgu.pureboy.eu.org:443?path=/?ed=2048&security=tls&encryption=none&host=edgu.pureboy.eu.org&fp=chrome&type=ws&sni=edgu.pureboy.eu.org#US🇺🇸
+vless://04a93bb8-0a5b-4aa8-ab7f-31fc7adab1c1@edgu.pureboy.eu.org:443?path=/?ed=2048&security=tls&encryption=none&host=edgu.pureboy.eu.org&fp=chrome&type=ws&sni=edgu.pureboy.eu.org#INT🌍
 
 vless://0c51f885-7ef1-4df2-a1ca-82ea2df5e6a8@test.ez0535.sbs:8443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&type=grpc&serviceName=&sni=server5.mahsa0535.sbs#
 
