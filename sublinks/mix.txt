@@ -20,15 +20,15 @@ trojan://qG9K8AGnn9XH5jUqeFu96g@cdn-13.cdn2cdn.com:2083?path=/&security=tls&host
 
 vless://98d50790-31ec-47d5-b2ed-493fd21accc6@new-join-too.outline-vpn.cloud:2082?path=/&security=none&encryption=none&host=p1.abrarvan.xyz&type=ws#US🇺🇸
 
-vless://cf15b202-d101-4831-9e0b-1d63e9311328@cdnjs.com:2052?path=/&security=none&encryption=none&host=p3.abrarvan.xyz&type=ws#US🇺🇸
+vless://cf15b202-d101-4831-9e0b-1d63e9311328@cdnjs.com:2052?path=/&security=none&encryption=none&host=p3.abrarvan.xyz&type=ws#INT🌍
 
-vless://462acb01-a275-433c-9fc6-074de3d68ba0@turkws.configforvpn.fun:2087?path=/&security=tls&encryption=none&type=ws&sni=turkws.configforvpn.fun#US🇺🇸
+vless://462acb01-a275-433c-9fc6-074de3d68ba0@turkws.configforvpn.fun:2087?path=/&security=tls&encryption=none&type=ws&sni=turkws.configforvpn.fun#INT🌍
 
 vless://dfb18c6f-731a-4898-a1c4-cc36c6055a90@w2.sylarsun.eu.org:443?path=/?ed=2048&security=tls&encryption=none&host=w2.sylarsun.eu.org&type=ws&sni=w2.sylarsun.eu.org#NL🇳🇱
 
 vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@star--join.outline-vpn.cloud:443?path=/?ed=2048&security=tls&encryption=none&host=3k.pureboy.eu.org&type=ws&sni=3k.pureboy.eu.org#INT🌍
 
-vless://04a93bb8-0a5b-4aa8-ab7f-31fc7adab1c1@edgu.pureboy.eu.org:443?path=/?ed=2048&security=tls&encryption=none&host=edgu.pureboy.eu.org&fp=chrome&type=ws&sni=edgu.pureboy.eu.org#US🇺🇸
+vless://04a93bb8-0a5b-4aa8-ab7f-31fc7adab1c1@edgu.pureboy.eu.org:443?path=/?ed=2048&security=tls&encryption=none&host=edgu.pureboy.eu.org&fp=chrome&type=ws&sni=edgu.pureboy.eu.org#INT🌍
 
 vless://e1a928be-e289-4aef-b92e-4106fabdf42f@port80----join.outline-vpn.cloud:80?path=/?ed=2048&security=none&encryption=none&host=mahi.kosnanatfilterchi.eu.org&type=ws#NL🇳🇱
 
@@ -96,7 +96,7 @@ vless://e1a928be-e289-4aef-b92e-4106fabdf42f@new-join-too.outline-vpn.cloud:80?p
 
 vless://48bd4d22-e42f-4749-af6a-85ecf716c823@ubia2-join.outline-vpn.cloud:443?path=/?ed=2048&security=tls&encryption=none&host=fkhamnei.kosnanatfilterchi.eu.org&type=ws&sni=fkhamnei.kosnanatfilterchi.eu.org#US🇺🇸
 
-vless://cf15b202-d101-4831-9e0b-1d63e9311328@cdnjs.com:2052?path=/&security=none&encryption=none&host=p3.abrarvan.xyz&type=ws#US🇺🇸
+vless://cf15b202-d101-4831-9e0b-1d63e9311328@cdnjs.com:2052?path=/&security=none&encryption=none&host=p3.abrarvan.xyz&type=ws#INT🌍
 
 vmess://eyJhZGQiOiIxMDQuMjcuMTAyLjEwNSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0Ijoiam9pbi1zaG8uY29kZS12Mi5jZmQiLCJpZCI6IlRlbGVncmFtLVYycmF5X2FscGhhIiwibmV0Ijoid3MiLCJwYXRoIjoiXC8/ZWQ9MjA0OCIsInBvcnQiOiI4MDgwIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiIsInBzIjoiSU5UXHVkODNjXHVkZjBkIn0=
 
@@ -198,7 +198,7 @@ vless://f69d4594-2d18-4266-abc4-eeb9c5604ca5@172.67.143.204:443?encryption=none&
 
 vmess://eyJhZGQiOiJ3d3cuYnV0ZWNoLnBwLnVhIiwidiI6MiwicHMiOiJOTFx1ZDgzY1x1ZGRmM1x1ZDgzY1x1ZGRmMSIsInBvcnQiOiI0NDMiLCJpZCI6IjA5YjkyNDI1LTM4YTktNDQ1YS1iMDFhLWNjZDVkY2UwYWViYiIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiIiwiaG9zdCI6ImhlcmUtY2h1Y2stc3VwcG9ydGVkLW1hY2hpbmUudHJ5Y2xvdWRmbGFyZS5jb20iLCJ0bHMiOiJ0bHMiLCJwYXRoIjoiMDliOTI0MjUtMzhhOS00NDVhLWIwMWEtY2NkNWRjZTBhZWJiLXZtIn0=
 
-vmess://eyJhZGQiOiJjaGluYS5tZmEuZ292LnVhIiwidiI6MiwicHMiOiJJTlRcdWQ4M2NcdWRmMGQiLCJwb3J0IjoiNDQzIiwiaWQiOiIwOWI5MjQyNS0zOGE5LTQ0NWEtYjAxYS1jY2Q1ZGNlMGFlYmIiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6IiIsImhvc3QiOiJoZXJlLWNodWNrLXN1cHBvcnRlZC1tYWNoaW5lLnRyeWNsb3VkZmxhcmUuY29tIiwidGxzIjoidGxzIiwicGF0aCI6IjA5YjkyNDI1LTM4YTktNDQ1YS1iMDFhLWNjZDVkY2UwYWViYi12bSJ9
+vmess://eyJhZGQiOiJjaGluYS5tZmEuZ292LnVhIiwidiI6MiwicHMiOiJVU1x1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmOCIsInBvcnQiOiI0NDMiLCJpZCI6IjA5YjkyNDI1LTM4YTktNDQ1YS1iMDFhLWNjZDVkY2UwYWViYiIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiIiwiaG9zdCI6ImhlcmUtY2h1Y2stc3VwcG9ydGVkLW1hY2hpbmUudHJ5Y2xvdWRmbGFyZS5jb20iLCJ0bHMiOiJ0bHMiLCJwYXRoIjoiMDliOTI0MjUtMzhhOS00NDVhLWIwMWEtY2NkNWRjZTBhZWJiLXZtIn0=
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjMGM4NTY1NC02NDZjLTQ4ZjgtOTE0MS1iYTliNzBkMGM5MjhAMTgzLjIzNi41MS4yMDoyNzI1MQ==#
 
@@ -206,7 +206,7 @@ vmess://eyJhZGQiOiJ3d3cuc25hcHBmb29kaW5nLmNvbSIsInYiOjIsInBzIjoiIiwicG9ydCI6IjQ0
 
 vmess://eyJhZGQiOiI0NS4xNTQuMTQuMjA5IiwidiI6MiwicHMiOiJHQlx1ZDgzY1x1ZGRlY1x1ZDgzY1x1ZGRlNyIsInBvcnQiOiI0ODg1MiIsImlkIjoiNTU3NzY5YmEtZTA4NS00OWVmLThhYzYtOTZjZjNkMWE5NzMwIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJodHRwIiwidHlwZSI6IiIsInRscyI6IiIsInBhdGgiOiJcLyJ9
 
-vmess://eyJhZGQiOiJzbWkucHAudWEiLCJ2IjoyLCJwcyI6IklOVFx1ZDgzY1x1ZGYwZCIsInBvcnQiOiI0NDMiLCJpZCI6IjA5YjkyNDI1LTM4YTktNDQ1YS1iMDFhLWNjZDVkY2UwYWViYiIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiIiwiaG9zdCI6ImhlcmUtY2h1Y2stc3VwcG9ydGVkLW1hY2hpbmUudHJ5Y2xvdWRmbGFyZS5jb20iLCJ0bHMiOiJ0bHMiLCJwYXRoIjoiMDliOTI0MjUtMzhhOS00NDVhLWIwMWEtY2NkNWRjZTBhZWJiLXZtIn0=
+vmess://eyJhZGQiOiJzbWkucHAudWEiLCJ2IjoyLCJwcyI6IlVTXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IiwicG9ydCI6IjQ0MyIsImlkIjoiMDliOTI0MjUtMzhhOS00NDVhLWIwMWEtY2NkNWRjZTBhZWJiIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiIiLCJob3N0IjoiaGVyZS1jaHVjay1zdXBwb3J0ZWQtbWFjaGluZS50cnljbG91ZGZsYXJlLmNvbSIsInRscyI6InRscyIsInBhdGgiOiIwOWI5MjQyNS0zOGE5LTQ0NWEtYjAxYS1jY2Q1ZGNlMGFlYmItdm0ifQ==
 
 vless://97b0db66-09d7-470b-a2a9-e1bc68f46f18@kamyarserver.camdvr.org:443/?type=grpc&serviceName=@Fnet00&security=reality&pbk=pj7hhjVTqfsjNw7vIMQFwT6nzdbHLNAyUveeRhv5vw4&fp=firefox&sni=greenpepper.ir&sid=0960546b&spx=/#
 
