@@ -34,13 +34,13 @@ vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@advailo.com:443?path=/?ed=2048&secu
 
 vless://e1a928be-e289-4aef-b92e-4106fabdf42f@zula.ir:80?path=/?ed=2048&security=none&encryption=none&host=mahi.kosnanatfilterchi.eu.org&type=ws#US🇺🇸
 
-vless://e1a928be-e289-4aef-b92e-4106fabdf42f@ult--join.outline-vpn.cloud:443?path=/?ed&security=tls&encryption=none&host=mahi.kosnanatfilterchi.eu.org&type=ws&sni=mahi.kosnanatfilterchi.eu.org#US🇺🇸
+vless://e1a928be-e289-4aef-b92e-4106fabdf42f@ult--join.outline-vpn.cloud:443?path=/?ed&security=tls&encryption=none&host=mahi.kosnanatfilterchi.eu.org&type=ws&sni=mahi.kosnanatfilterchi.eu.org#INT🌍
 
-vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@advailo.com:443?path=/?ed=2048&security=tls&encryption=none&host=3k.pureboy.eu.org&type=ws&sni=3k.pureboy.eu.org#NL🇳🇱
+vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@advailo.com:443?path=/?ed=2048&security=tls&encryption=none&host=3k.pureboy.eu.org&type=ws&sni=3k.pureboy.eu.org#US🇺🇸
 
 vless://7eb1733f-b192-41bc-af52-8ab96b5967af@iranserver.com:443?path=/@FreedomSparrow/?ed=1024&security=tls&encryption=none&alpn=h2,http/1.1&host=sparrow.lionforpeople.site&fp=chrome&type=ws&sni=sparrow.lionforpeople.site#US🇺🇸
 
-vless://e1a928be-e289-4aef-b92e-4106fabdf42f@join-----------------to.outline-vpn.cloud:80?path=path/telegram@proxy_mtm&security=none&encryption=none&host=mahi.kosnanatfilterchi.eu.org&type=ws#NL🇳🇱
+vless://e1a928be-e289-4aef-b92e-4106fabdf42f@join-----------------to.outline-vpn.cloud:80?path=path/telegram@proxy_mtm&security=none&encryption=none&host=mahi.kosnanatfilterchi.eu.org&type=ws#US🇺🇸
 
 vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@star---join.outline-vpn.cloud:443?path=/?ed=2048&security=tls&encryption=none&host=3k.pureboy.eu.org&type=ws&sni=3k.pureboy.eu.org#US🇺🇸
 
@@ -62,7 +62,7 @@ vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@star--join.outline-vpn.cloud:443?pa
 
 vless://e1a928be-e289-4aef-b92e-4106fabdf42f@port80--join.outline-vpn.cloud:80?path=/?ed=2048&security=none&encryption=none&host=mahi.kosnanatfilterchi.eu.org&type=ws#US🇺🇸
 
-vless://04a93bb8-0a5b-4aa8-ab7f-31fc7adab1c1@edgu.pureboy.eu.org:443?path=/?ed=2048&security=tls&encryption=none&host=edgu.pureboy.eu.org&fp=chrome&type=ws&sni=edgu.pureboy.eu.org#US🇺🇸
+vless://04a93bb8-0a5b-4aa8-ab7f-31fc7adab1c1@edgu.pureboy.eu.org:443?path=/?ed=2048&security=tls&encryption=none&host=edgu.pureboy.eu.org&fp=chrome&type=ws&sni=edgu.pureboy.eu.org#INT🌍
 
 vless://dfb18c6f-731a-4898-a1c4-cc36c6055a90@w2.sylarsun.eu.org:443?path=/?ed=2048&security=tls&encryption=none&host=w2.sylarsun.eu.org&type=ws&sni=w2.sylarsun.eu.org#NL🇳🇱
 
@@ -121,8 +121,6 @@ vless://97b0db66-09d7-470b-a2a9-e1bc68f46f18@kamyarserver.camdvr.org:443/?type=g
 vless://fe51988e-fd66-4b7e-8310-cb427dd1e19f@185.239.2.156:2095?security=none&encryption=none&host=bama.ir&headerType=http&type=tcp#IR🇮🇷
 
 vless://e4a52f75-474e-449e-bcd2-05ea177f1403@104.31.16.160:80?path=/&security=none&encryption=none&host=59.维子足球19.tech&type=ws#INT🌍
-
-vless://Parsashonam-0@www.speedtest.net:443?path=/Parsashonam&security=tls&encryption=none&alpn=h2,http/1.1&host=same-jones-huntington-ll.trycloudflare.com&fp=chrome&type=ws&sni=same-jones-huntington-ll.trycloudflare.com#INT🌍
 
 vless://Parsashonam-0@www.speedtest.net:443?type=ws&host=same-jones-huntington-ll.trycloudflare.com&path=/Parsashonam&security=tls&fp=chrome&sni=same-jones-huntington-ll.trycloudflare.com&alpn=h2,http/1.1&fragment=10-20,10-20,tlshello#INT🌍
 
