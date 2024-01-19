@@ -22,7 +22,7 @@ vless://04a93bb8-0a5b-4aa8-ab7f-31fc7adab1c1@edgu.pureboy.eu.org:443?path=/?ed=2
 
 vless://dfb18c6f-731a-4898-a1c4-cc36c6055a90@w2.sylarsun.eu.org:443?path=/?ed=2048&security=tls&encryption=none&host=w2.sylarsun.eu.org&type=ws&sni=w2.sylarsun.eu.org#US🇺🇸
 
-vless://0c1c79ee-e934-453f-b6fc-e67aac205936@red---join.outline-vpn.cloud:2087?path=Telegram🇨🇳 @WangCai_8 /?ed=2048&security=tls&encryption=none&host=vl.v443.cloudns.org&type=ws&sni=vl.v443.cloudns.org#INT🌍
+vless://0c1c79ee-e934-453f-b6fc-e67aac205936@red---join.outline-vpn.cloud:2087?path=Telegram🇨🇳 @WangCai_8 /?ed=2048&security=tls&encryption=none&host=vl.v443.cloudns.org&type=ws&sni=vl.v443.cloudns.org#US🇺🇸
 
 vless://0c1c79ee-e934-453f-b6fc-e67aac205936@red--join.outline-vpn.cloud:443?path=Telegram🇨🇳 @WangCai_8 /?ed=2048&security=tls&encryption=none&host=vl.v443.cloudns.org&type=ws&sni=vl.v443.cloudns.org#US🇺🇸
 
@@ -32,7 +32,7 @@ vless://0c1c79ee-e934-453f-b6fc-e67aac205936@blue----join.outline-vpn.cloud:8443
 
 vless://0c1c79ee-e934-453f-b6fc-e67aac205936@blue---join.outline-vpn.cloud:2087?path=Telegram🇨🇳 @WangCai_8 /?ed=2048&security=tls&encryption=none&host=vl.v443.cloudns.org&type=ws&sni=vl.v443.cloudns.org#INT🌍
 
-vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@blue--join.outline-vpn.cloud:443?path=/?ed=2048&security=tls&encryption=none&host=3k.pureboy.eu.org&type=ws&sni=3k.pureboy.eu.org#US🇺🇸
+vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@blue--join.outline-vpn.cloud:443?path=/?ed=2048&security=tls&encryption=none&host=3k.pureboy.eu.org&type=ws&sni=3k.pureboy.eu.org#INT🌍
 
 vless://0c1c79ee-e934-453f-b6fc-e67aac205936@blue-join.outline-vpn.cloud:2083?path=Telegram🇨🇳 @WangCai_8 /?ed=2048&security=tls&encryption=none&host=vl.v443.cloudns.org&type=ws&sni=vl.v443.cloudns.org#INT🌍
 
@@ -52,7 +52,7 @@ vless://e1a928be-e289-4aef-b92e-4106fabdf42f@edgu.pureboy.eu.org:80?path=/?ed=20
 
 vless://e1a928be-e289-4aef-b92e-4106fabdf42f@new-join-too.outline-vpn.cloud:80?path=/?ed=2048&security=none&encryption=none&host=mahi.kosnanatfilterchi.eu.org&type=ws#US🇺🇸
 
-vless://f4cec6cc-6177-423c-90f8-2ad9f0dd996b@instagram.vpn.ct.arvancode.eu.org:443?path=/bShq2qgG8GnX8zqm/?ed=2048&security=tls&encryption=none&host=Iran.ir.arvancode.eu.Org&fp=chrome&type=ws&sni=Iran.ir.arvancode.eu.Org#US🇺🇸
+vless://f4cec6cc-6177-423c-90f8-2ad9f0dd996b@instagram.vpn.ct.arvancode.eu.org:443?path=/bShq2qgG8GnX8zqm/?ed=2048&security=tls&encryption=none&host=Iran.ir.arvancode.eu.Org&fp=chrome&type=ws&sni=Iran.ir.arvancode.eu.Org#INT🌍
 
 vless://e57e2f03-01c3-4f27-8803-2e35145373b2@0733.outline-vpn.cloud:80?path=/backup&security=none&encryption=none&host=FgauEf.aMOoZEsHgAH-Pc.cOm&type=ws#US🇺🇸
 
@@ -86,11 +86,19 @@ vless://98d50790-31ec-47d5-b2ed-493fd21accc6@new-join-too.outline-vpn.cloud:2082
 
 vless://cf15b202-d101-4831-9e0b-1d63e9311328@cdnjs.com:2052?path=/&security=none&encryption=none&host=p3.abrarvan.xyz&type=ws#INT🌍
 
-vless://462acb01-a275-433c-9fc6-074de3d68ba0@turkws.configforvpn.fun:2087?path=/&security=tls&encryption=none&type=ws&sni=turkws.configforvpn.fun#INT🌍
+vless://462acb01-a275-433c-9fc6-074de3d68ba0@turkws.configforvpn.fun:2087?path=/&security=tls&encryption=none&type=ws&sni=turkws.configforvpn.fun#US🇺🇸
 
 vless://dfb18c6f-731a-4898-a1c4-cc36c6055a90@w2.sylarsun.eu.org:443?path=/?ed=2048&security=tls&encryption=none&host=w2.sylarsun.eu.org&type=ws&sni=w2.sylarsun.eu.org#NL🇳🇱
 
 vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@star--join.outline-vpn.cloud:443?path=/?ed=2048&security=tls&encryption=none&host=3k.pureboy.eu.org&type=ws&sni=3k.pureboy.eu.org#INT🌍
+
+vless://e1a928be-e289-4aef-b92e-4106fabdf42f@104.21.59.131:80?path=/?ed=2048&security=none&encryption=none&host=mahi.kosnanatfilterchi.eu.org&type=ws#INT🌍
+
+vless://c2f4ac61-ad85-4f21-a501-54abeea4d47f@190.93.247.124:2095?path=/?ed=2048&security=none&encryption=none&host=cdn-owmsmsj.mohammad420.sbs&type=ws#CR🇨🇷
+
+vless://e1a928be-e289-4aef-b92e-4106fabdf42f@172.67.73.125:80?path=/?ed=2048&security=none&encryption=none&host=mahi.kosnanatfilterchi.eu.org&type=ws#US🇺🇸
+
+vless://e1a928be-e289-4aef-b92e-4106fabdf42f@172.67.73.119:80?path=/?ed=2048&security=none&encryption=none&host=mahi.kosnanatfilterchi.eu.org&type=ws#US🇺🇸
 
 vless://e1a928be-e289-4aef-b92e-4106fabdf42f@104.16.229.153:80?path=/?ed=2048&security=none&encryption=none&host=mahi.kosnanatfilterchi.eu.org&type=ws#INT🌍
 
