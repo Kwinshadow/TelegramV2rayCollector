@@ -20,19 +20,19 @@ vless://f57e437d-fa74-4c77-9978-3cfac41fec33@ph--join.outline-vpn.cloud:443?path
 
 vless://98d50790-31ec-47d5-b2ed-493fd21accc6@fri-join.outline-vpn.cloud:2082?path=/&security=none&encryption=none&host=p1.abrarvan.xyz&type=ws#US🇺🇸
 
-vless://e1a928be-e289-4aef-b92e-4106fabdf42f@90--join.outline-vpn.cloud:80?path=/?ed=2048&security=none&encryption=none&host=mahi.kosnanatfilterchi.eu.org&type=ws#CA🇨🇦
+vless://e1a928be-e289-4aef-b92e-4106fabdf42f@90--join.outline-vpn.cloud:80?path=/?ed=2048&security=none&encryption=none&host=mahi.kosnanatfilterchi.eu.org&type=ws#US🇺🇸
 
 vless://89420825-e589-4735-bee1-6dc636fca343@w3.sylarsun.eu.org:443?path=/?ed=2048&security=tls&encryption=none&host=w3.sylarsun.eu.org&type=ws&sni=w3.sylarsun.eu.org#NL🇳🇱
 
-vless://dfb18c6f-731a-4898-a1c4-cc36c6055a90@w2.sylarsun.eu.org:443?path=/?ed=2048&security=tls&encryption=none&host=w2.sylarsun.eu.org&type=ws&sni=w2.sylarsun.eu.org#CA🇨🇦
+vless://dfb18c6f-731a-4898-a1c4-cc36c6055a90@w2.sylarsun.eu.org:443?path=/?ed=2048&security=tls&encryption=none&host=w2.sylarsun.eu.org&type=ws&sni=w2.sylarsun.eu.org#NL🇳🇱
 
-vless://04a93bb8-0a5b-4aa8-ab7f-31fc7adab1c1@edgu.pureboy.eu.org:443?path=/?ed=2048&security=tls&encryption=none&host=edgu.pureboy.eu.org&fp=chrome&type=ws&sni=edgu.pureboy.eu.org#US🇺🇸
+vless://04a93bb8-0a5b-4aa8-ab7f-31fc7adab1c1@edgu.pureboy.eu.org:443?path=/?ed=2048&security=tls&encryption=none&host=edgu.pureboy.eu.org&fp=chrome&type=ws&sni=edgu.pureboy.eu.org#CA🇨🇦
 
 vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@3k.pureboy.eu.org:443?path=/?ed=2048&security=tls&encryption=none&host=3k.pureboy.eu.org&type=ws&sni=3k.pureboy.eu.org#CA🇨🇦
 
 vless://29f8ad12-ea84-431b-bf32-9d3fb5cf2aa2@w1.sylar8.eu.org:443?path=/?ed=2048&security=tls&encryption=none&host=w1.sylar8.eu.org&type=ws&sni=w1.sylar8.eu.org#CA🇨🇦
 
-vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@advailo.com:443?path=/?ed=2048&security=tls&encryption=none&host=3k.pureboy.eu.org&type=ws&sni=3k.pureboy.eu.org#US🇺🇸
+vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@advailo.com:443?path=/?ed=2048&security=tls&encryption=none&host=3k.pureboy.eu.org&type=ws&sni=3k.pureboy.eu.org#NL🇳🇱
 
 vless://e1a928be-e289-4aef-b92e-4106fabdf42f@zula.ir:80?path=/?ed=2048&security=none&encryption=none&host=mahi.kosnanatfilterchi.eu.org&type=ws#NL🇳🇱
 
@@ -85,14 +85,6 @@ vless://9dfe4105-ee73-4586-9d53-f0889a3767e6@new-join-too.outline-vpn.cloud:2052
 vless://Parsashonam-0@www.speedtest.net:443?path=/Parsashonam&security=tls&encryption=none&alpn=h2,http/1.1&host=same-jones-huntington-ll.trycloudflare.com&fp=chrome&type=ws&sni=same-jones-huntington-ll.trycloudflare.com#CA🇨🇦
 
 vless://68835c56-e57e-4a3c-910a-52961b3161fe@srv2.hamedgeek.sbs:2096?path=/&security=tls&encryption=none&alpn=h2,http/1.1&host=kingoo.hamedgeek.sbs&fp=chrome&type=ws&sni=kingoo.hamedgeek.sbs#CA🇨🇦
-
-vless://bb219c48-9cc0-4054-9c54-9b7da8f4282c@190.93.247.155:2083?mode=gun&security=tls&encryption=none&alpn=@mehrosaboran,@mehrosaboran&fp=chrome&type=grpc&serviceName=@LIGHTNING6&sni=liV2helg.LIGHTNING6.IR#CR🇨🇷
-
-vless://09594d3e-8c8c-4917-ea58-74dedc3e131a@190.93.247.155:8880?path=/@LIGHTNING6&security=none&encryption=none&host=liV2helm.善良的闪电.monster&type=ws#CR🇨🇷
-
-vless://a499a66c-99d0-44e5-bc2f-7221909b98b5@172.67.204.84:8443?type=ws&encryption=none&flow=&host=rez1vpn.quickvpn.shop&path=/?ed=2048&security=tls&sni=rez1vpn.quickvpn.shop&alpn=http/1.1&fp=chrome#CA🇨🇦
-
-vless://01ddaa51-54f2-403c-b9e0-670184f9b9a5@172.234.96.194:18830?mode=gun&security=none&encryption=none&type=grpc&serviceName=#SE🇸🇪
 
 vless://e1a928be-e289-4aef-b92e-4106fabdf42f@190.93.247.155:80?path=path/TELEGRAM-PROXY_MTM?ed=2048&security=none&encryption=none&host=mahi.kosnanatfilterchi.eu.org&type=ws#CR🇨🇷
 
