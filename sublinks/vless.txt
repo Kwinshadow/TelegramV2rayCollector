@@ -38,11 +38,11 @@ vless://89420825-e589-4735-bee1-6dc636fca343@w3.sylarsun.eu.org:443?path=/?ed=20
 
 vless://dfb18c6f-731a-4898-a1c4-cc36c6055a90@w2.sylarsun.eu.org:443?path=/?ed=2048&security=tls&encryption=none&host=w2.sylarsun.eu.org&type=ws&sni=w2.sylarsun.eu.org#NL🇳🇱
 
-vless://04a93bb8-0a5b-4aa8-ab7f-31fc7adab1c1@edgu.pureboy.eu.org:443?path=/?ed=2048&security=tls&encryption=none&host=edgu.pureboy.eu.org&fp=chrome&type=ws&sni=edgu.pureboy.eu.org#INT🌍
+vless://04a93bb8-0a5b-4aa8-ab7f-31fc7adab1c1@edgu.pureboy.eu.org:443?path=/?ed=2048&security=tls&encryption=none&host=edgu.pureboy.eu.org&fp=chrome&type=ws&sni=edgu.pureboy.eu.org#US🇺🇸
 
 vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@3k.pureboy.eu.org:443?path=/?ed=2048&security=tls&encryption=none&host=3k.pureboy.eu.org&type=ws&sni=3k.pureboy.eu.org#INT🌍
 
-vless://29f8ad12-ea84-431b-bf32-9d3fb5cf2aa2@w1.sylar8.eu.org:443?path=/?ed=2048&security=tls&encryption=none&host=w1.sylar8.eu.org&type=ws&sni=w1.sylar8.eu.org#INT🌍
+vless://29f8ad12-ea84-431b-bf32-9d3fb5cf2aa2@w1.sylar8.eu.org:443?path=/?ed=2048&security=tls&encryption=none&host=w1.sylar8.eu.org&type=ws&sni=w1.sylar8.eu.org#US🇺🇸
 
 vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@advailo.com:443?path=/?ed=2048&security=tls&encryption=none&host=3k.pureboy.eu.org&type=ws&sni=3k.pureboy.eu.org#NL🇳🇱
 
@@ -64,9 +64,9 @@ vless://23ca8a29-5605-4dbe-9be3-137772c16aec@104.16.67.38:2086?path=/&security=n
 
 vless://4e9860f0-ecbd-46bb-93b2-9378c1296b05@173.245.59.16:8080?path=/backup&security=none&encryption=none&host=home.telewebion.network&type=ws#US🇺🇸
 
-vless://c61c6f73-2049-4710-8515-8375ff406213@LIGHTNING6-joinbede.liV2ray.xyz:8880?path=/@LIGHTNING6&security=none&encryption=none&host=liV2hele.善良的闪电.monster&type=ws#US🇺🇸
+vless://c61c6f73-2049-4710-8515-8375ff406213@LIGHTNING6-joinbede.liV2ray.xyz:8880?path=/@LIGHTNING6&security=none&encryption=none&host=liV2hele.善良的闪电.monster&type=ws#CR🇨🇷
 
-vless://34f25e9c-209a-4024-999f-90929d386a1b@LIGHTNING6-joinbede.liV2ray.xyz:2083?mode=gun&security=tls&encryption=none&alpn=h2&fp=chrome&type=grpc&serviceName=@LIGHTNING6&sni=liV2held.LIGHTNING6.IR#CR🇨🇷
+vless://34f25e9c-209a-4024-999f-90929d386a1b@LIGHTNING6-joinbede.liV2ray.xyz:2083?mode=gun&security=tls&encryption=none&alpn=h2&fp=chrome&type=grpc&serviceName=@LIGHTNING6&sni=liV2held.LIGHTNING6.IR#US🇺🇸
 
 vless://e1a928be-e289-4aef-b92e-4106fabdf42f@190.93.247.155:80?path=path/TELEGRAM-PROXY_MTM?ed=2048&security=none&encryption=none&host=mahi.kosnanatfilterchi.eu.org&type=ws#CR🇨🇷
 
