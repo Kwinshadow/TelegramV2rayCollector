@@ -24,15 +24,15 @@ vless://e45e1c74-937c-4dc7-b1fd-3305c64ac1cc@de.melov2ray.shop:443?path=/melov2r
 
 vless://60813b9d-aa0e-4a5c-88b8-ed231058e82a@swq--join.outline-vpn.cloud:443?path=/?ed&security=tls&encryption=none&host=pages.20230619.love&type=ws&sni=pages.20230619.love#US🇺🇸
 
-vless://9c6d57bd-9590-4646-9dc4-e832a54b27ea@ye--join.outline-vpn.cloud:2086?path=/&security=none&encryption=none&host=p100.abrarvan.xyz&type=ws#US🇺🇸
+vless://9c6d57bd-9590-4646-9dc4-e832a54b27ea@ye--join.outline-vpn.cloud:2086?path=/&security=none&encryption=none&host=p100.abrarvan.xyz&type=ws#CA🇨🇦
 
 vless://96fb18a1-4a47-464c-8963-f5a9fba11e72@xir--join.outline-vpn.cloud:80?path=/&security=none&encryption=none&host=new-V2ray.斯涅過濾器69.website&type=ws#US🇺🇸
 
 vless://446a093c-2fe9-4c39-bcab-969fb2ca7fe8@ph--join.outline-vpn.cloud:8880?path=/@LIGHTNING6&security=none&encryption=none&host=liV2helc.善良的闪电.monster&type=ws#CR🇨🇷
 
-vless://b75b3034-36ab-4979-beae-3d02db1b11ec@cxc--join.outline-vpn.cloud:443?path=/?ed&security=tls&encryption=none&host=always-online1.lp-airdrop.top&type=ws&sni=always-online1.lp-airdrop.top#CA🇨🇦
+vless://b75b3034-36ab-4979-beae-3d02db1b11ec@cxc--join.outline-vpn.cloud:443?path=/?ed&security=tls&encryption=none&host=always-online1.lp-airdrop.top&type=ws&sni=always-online1.lp-airdrop.top#US🇺🇸
 
-vless://b75b3034-36ab-4979-beae-3d02db1b11ec@test--join.outline-vpn.cloud:443?path=/?ed&security=tls&encryption=none&host=always-online1.lp-airdrop.top&fp=randomized&type=ws&sni=always-online1.lp-airdrop.top#CA🇨🇦
+vless://b75b3034-36ab-4979-beae-3d02db1b11ec@test--join.outline-vpn.cloud:443?path=/?ed&security=tls&encryption=none&host=always-online1.lp-airdrop.top&fp=randomized&type=ws&sni=always-online1.lp-airdrop.top#US🇺🇸
 
 vless://98d50790-31ec-47d5-b2ed-493fd21accc6@new-join-too.outline-vpn.cloud:2082?path=/&security=none&encryption=none&host=p1.abrarvan.xyz&type=ws#US🇺🇸
 
@@ -83,6 +83,18 @@ vless://e45e1c74-937c-4dc7-b1fd-3305c64ac1cc@de.melov2ray.shop:443?path=/melov2r
 vless://cede337b-9ea5-40e5-a8b1-690bf49ff41d@storeships.toptechnonews.com:443?path=/nimws&security=tls&encryption=none&host=storeships.toptechnonews.com&type=ws&sni=storeships.toptechnonews.com#CA🇨🇦
 
 vless://b75b3034-36ab-4979-beae-3d02db1b11ec@172.67.71.160:443?path=/?ed&security=tls&encryption=none&host=always-online1.lp-airdrop.top&fp=randomized&type=ws&sni=always-online1.lp-airdrop.top#CA🇨🇦
+
+vless://15c169bd-1b95-4c5e-ae44-c9e59fd80d07@www.speedtest.net:8443?mode=gun&security=tls&encryption=none&fp=random&type=grpc&serviceName=@melov2ray&sni=FIn.Melov2ray.Shop#CA🇨🇦
+
+vless://b75b3034-36ab-4979-beae-3d02db1b11ec@172.67.71.160:443?path=/?ed=2048&security=tls&encryption=none&host=always-online1.lp-airdrop.top&fp=randomized&type=ws&sni=always-online1.lp-airdrop.top#CA🇨🇦
+
+vless://bda4be04-48bf-4df1-aaf2-6d42522eab6b@CDN.user.com:80?path=/?ed=2048&security=none&encryption=none&host=ehda.sajaditsme.com&type=ws#CA🇨🇦
+
+vless://15c169bd-1b95-4c5e-ae44-c9e59fd80d07@fin.melov2ray.shop:8443?mode=gun&security=tls&encryption=none&fp=random&type=grpc&serviceName=@melov2ray&sni=FIn.Melov2ray.Shop#CA🇨🇦
+
+vless://15c169bd-1b95-4c5e-ae44-c9e59fd80d07@zula.ir:8443?mode=gun&security=tls&encryption=none&fp=random&type=grpc&serviceName=@melov2ray&sni=FIn.Melov2ray.Shop#NL🇳🇱
+
+vless://b75b3034-36ab-4979-beae-3d02db1b11ec@172.67.71.160:443?path=/?ed=2048&security=tls&encryption=none&host=always-online1.lp-airdrop.top&fp=randomized&type=ws&sni=always-online1.lp-airdrop.top#CA🇨🇦
 
 vless://3ac5cf2a-f480-4f03-b84b-785224f5e5cb@104.31.16.84:2087?encryption=none&fp=chrome&mode=multi&security=tls&serviceName=@Polproxy,@Polproxy,@Polproxy,@Polproxy,@Polproxy,@Polproxy,@Polproxy,@Polproxy,@Polproxy,@Polproxy,@Polproxy,&sni=Dns1.Polproxy-Moien.site&type=grpc#CA🇨🇦
 
