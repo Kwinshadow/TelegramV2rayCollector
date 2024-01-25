@@ -22,15 +22,15 @@ vless://15c169bd-1b95-4c5e-ae44-c9e59fd80d07@zula.ir:8443?mode=gun&security=tls&
 
 vless://15c169bd-1b95-4c5e-ae44-c9e59fd80d07@www.speedtest.net:8443?mode=gun&security=tls&encryption=none&fp=random&type=grpc&serviceName=@melov2ray&sni=FIn.Melov2ray.Shop#US🇺🇸
 
-vless://e45e1c74-937c-4dc7-b1fd-3305c64ac1cc@de.melov2ray.shop:443?path=/melov2ray&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=ws&sni=De.Melov2ray.Shop#CA🇨🇦
+vless://e45e1c74-937c-4dc7-b1fd-3305c64ac1cc@de.melov2ray.shop:443?path=/melov2ray&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=ws&sni=De.Melov2ray.Shop#US🇺🇸
 
 vless://e45e1c74-937c-4dc7-b1fd-3305c64ac1cc@de.melov2ray.shop:443?path=/melov2ray&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=ws&sni=De.Melov2ray.Shop#CA🇨🇦
 
 vless://b75b3034-36ab-4979-beae-3d02db1b11ec@test--join.outline-vpn.cloud:443?path=/?ed&security=tls&encryption=none&host=always-online1.lp-airdrop.top&fp=randomized&type=ws&sni=always-online1.lp-airdrop.top#CA🇨🇦
 
-vless://bda4be04-48bf-4df1-aaf2-6d42522eab6b@CDN.user.com:80?path=/?ed=2048&security=none&encryption=none&host=ehda.sajaditsme.com&type=ws#CA🇨🇦
+vless://bda4be04-48bf-4df1-aaf2-6d42522eab6b@CDN.user.com:80?path=/?ed=2048&security=none&encryption=none&host=ehda.sajaditsme.com&type=ws#US🇺🇸
 
-vless://b75b3034-36ab-4979-beae-3d02db1b11ec@172.67.71.160:443?path=/?ed=2048&security=tls&encryption=none&host=always-online1.lp-airdrop.top&fp=randomized&type=ws&sni=always-online1.lp-airdrop.top#US🇺🇸
+vless://b75b3034-36ab-4979-beae-3d02db1b11ec@172.67.71.160:443?path=/?ed=2048&security=tls&encryption=none&host=always-online1.lp-airdrop.top&fp=randomized&type=ws&sni=always-online1.lp-airdrop.top#CA🇨🇦
 
 vless://15c169bd-1b95-4c5e-ae44-c9e59fd80d07@www.speedtest.net:8443?mode=gun&security=tls&encryption=none&fp=random&type=grpc&serviceName=@melov2ray&sni=FIn.Melov2ray.Shop#CA🇨🇦
 
@@ -38,7 +38,7 @@ vless://b75b3034-36ab-4979-beae-3d02db1b11ec@172.67.71.160:443?path=/?ed=2048&se
 
 vless://15c169bd-1b95-4c5e-ae44-c9e59fd80d07@zula.ir:8443?mode=gun&security=tls&encryption=none&fp=random&type=grpc&serviceName=@melov2ray&sni=FIn.Melov2ray.Shop#NL🇳🇱
 
-vless://15c169bd-1b95-4c5e-ae44-c9e59fd80d07@fin.melov2ray.shop:8443?mode=gun&security=tls&encryption=none&fp=random&type=grpc&serviceName=@melov2ray&sni=FIn.Melov2ray.Shop#US🇺🇸
+vless://15c169bd-1b95-4c5e-ae44-c9e59fd80d07@fin.melov2ray.shop:8443?mode=gun&security=tls&encryption=none&fp=random&type=grpc&serviceName=@melov2ray&sni=FIn.Melov2ray.Shop#CA🇨🇦
 
 vless://f5421bc0-4dd8-4413-8764-cd2a62890236@iran-011-join.outline-vpn.cloud:2053?path=/&security=tls&encryption=none&host=boon.joinbede.sbs&fp=chrome&type=ws&sni=boon.joinbede.sbs#US🇺🇸
 
