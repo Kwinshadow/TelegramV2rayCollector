@@ -30,19 +30,19 @@ vless://15c169bd-1b95-4c5e-ae44-c9e59fd80d07@www.speedtest.net:8443?mode=gun&sec
 
 vless://e45e1c74-937c-4dc7-b1fd-3305c64ac1cc@de.melov2ray.shop:443?path=/melov2ray&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=ws&sni=De.Melov2ray.Shop#US🇺🇸
 
-vless://e45e1c74-937c-4dc7-b1fd-3305c64ac1cc@de.melov2ray.shop:443?path=/melov2ray&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=ws&sni=De.Melov2ray.Shop#US🇺🇸
+vless://e45e1c74-937c-4dc7-b1fd-3305c64ac1cc@de.melov2ray.shop:443?path=/melov2ray&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=ws&sni=De.Melov2ray.Shop#CA🇨🇦
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.samanehha.co:443#GB🇬🇧
 
-vless://b75b3034-36ab-4979-beae-3d02db1b11ec@test--join.outline-vpn.cloud:443?path=/?ed&security=tls&encryption=none&host=always-online1.lp-airdrop.top&fp=randomized&type=ws&sni=always-online1.lp-airdrop.top#CA🇨🇦
+vless://b75b3034-36ab-4979-beae-3d02db1b11ec@test--join.outline-vpn.cloud:443?path=/?ed&security=tls&encryption=none&host=always-online1.lp-airdrop.top&fp=randomized&type=ws&sni=always-online1.lp-airdrop.top#US🇺🇸
 
-vless://bda4be04-48bf-4df1-aaf2-6d42522eab6b@CDN.user.com:80?path=/?ed=2048&security=none&encryption=none&host=ehda.sajaditsme.com&type=ws#CA🇨🇦
-
-vless://b75b3034-36ab-4979-beae-3d02db1b11ec@172.67.71.160:443?path=/?ed=2048&security=tls&encryption=none&host=always-online1.lp-airdrop.top&fp=randomized&type=ws&sni=always-online1.lp-airdrop.top#US🇺🇸
-
-vless://15c169bd-1b95-4c5e-ae44-c9e59fd80d07@www.speedtest.net:8443?mode=gun&security=tls&encryption=none&fp=random&type=grpc&serviceName=@melov2ray&sni=FIn.Melov2ray.Shop#US🇺🇸
+vless://bda4be04-48bf-4df1-aaf2-6d42522eab6b@CDN.user.com:80?path=/?ed=2048&security=none&encryption=none&host=ehda.sajaditsme.com&type=ws#US🇺🇸
 
 vless://b75b3034-36ab-4979-beae-3d02db1b11ec@172.67.71.160:443?path=/?ed=2048&security=tls&encryption=none&host=always-online1.lp-airdrop.top&fp=randomized&type=ws&sni=always-online1.lp-airdrop.top#CA🇨🇦
+
+vless://15c169bd-1b95-4c5e-ae44-c9e59fd80d07@www.speedtest.net:8443?mode=gun&security=tls&encryption=none&fp=random&type=grpc&serviceName=@melov2ray&sni=FIn.Melov2ray.Shop#CA🇨🇦
+
+vless://b75b3034-36ab-4979-beae-3d02db1b11ec@172.67.71.160:443?path=/?ed=2048&security=tls&encryption=none&host=always-online1.lp-airdrop.top&fp=randomized&type=ws&sni=always-online1.lp-airdrop.top#US🇺🇸
 
 vless://15c169bd-1b95-4c5e-ae44-c9e59fd80d07@zula.ir:8443?mode=gun&security=tls&encryption=none&fp=random&type=grpc&serviceName=@melov2ray&sni=FIn.Melov2ray.Shop#NL🇳🇱
 
@@ -86,7 +86,7 @@ vless://0ea35600-f4af-4dd1-a8b6-bb9de90a7105@per--join.outline-vpn.cloud:80?path
 
 vless://15c169bd-1b95-4c5e-ae44-c9e59fd80d07@fin.melov2ray.shop:8443?mode=gun&security=tls&encryption=none&fp=random&type=grpc&serviceName=@melov2ray&sni=FIn.Melov2ray.Shop#CA🇨🇦
 
-vmess://eyJhZGQiOiJhLmZwbHV1dXh0b29wZ29sLnNob3AiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiNWRiNGM1MWMtNzMwNC00ZjBhLWJiZDgtMDgzZDI1OGMwNGViIiwibmV0IjoiZ3JwYyIsInBhdGgiOiJkZmdoIiwicG9ydCI6IjIwODciLCJwcyI6Ik5MXHVkODNjXHVkZGYzXHVkODNjXHVkZGYxIiwic2N5IjoiYXV0byIsInNuaSI6InJ5b2dwbGZmY25zZGd2dnV3ZnV3dGJnZWhkc2dzZ3Nnc2dzZmdlZ3Nnc2dzZ2hoZGRoZGhkYmhkZGhodGpzZmpmanRqZndxZGh3cmphZmphZmphZGhhZmhxZmpxZGhxZGdkcWhkcWdlZ3NvZnduZmlhbmZhb2Zuc2lmbmFvZm5xZm9zamZzaWZqd2Zvc21mYW9rZnNvZm13b2ZzbmZvc21nc29rZnNvZmFvZnNtZm93bWZ3b2Zud29mbnNjb2Fub3dqZndvZndvZm13b2Zud29mbmVjaXdiY3V3YnNvZ2pzb2ZzaW5hLmZwbHV1dXh0b29wZ29sLnNob3AiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiZ3VuIiwidiI6IjIifQ==
+vmess://eyJhZGQiOiJhLmZwbHV1dXh0b29wZ29sLnNob3AiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiNWRiNGM1MWMtNzMwNC00ZjBhLWJiZDgtMDgzZDI1OGMwNGViIiwibmV0IjoiZ3JwYyIsInBhdGgiOiJkZmdoIiwicG9ydCI6IjIwODciLCJwcyI6IkNBXHVkODNjXHVkZGU4XHVkODNjXHVkZGU2Iiwic2N5IjoiYXV0byIsInNuaSI6InJ5b2dwbGZmY25zZGd2dnV3ZnV3dGJnZWhkc2dzZ3Nnc2dzZmdlZ3Nnc2dzZ2hoZGRoZGhkYmhkZGhodGpzZmpmanRqZndxZGh3cmphZmphZmphZGhhZmhxZmpxZGhxZGdkcWhkcWdlZ3NvZnduZmlhbmZhb2Zuc2lmbmFvZm5xZm9zamZzaWZqd2Zvc21mYW9rZnNvZm13b2ZzbmZvc21nc29rZnNvZmFvZnNtZm93bWZ3b2Zud29mbnNjb2Fub3dqZndvZndvZm13b2Zud29mbmVjaXdiY3V3YnNvZ2pzb2ZzaW5hLmZwbHV1dXh0b29wZ29sLnNob3AiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiZ3VuIiwidiI6IjIifQ==
 
 vmess://eyJhZGQiOiJ4d2EtLS1qb2luLm91dGxpbmUtdnBuLmNsb3VkIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjVkYjRjNTFjLTczMDQtNGYwYS1iYmQ4LTA4M2QyNThjMDRlYiIsIm5ldCI6ImdycGMiLCJwYXRoIjoiZGZnaCIsInBvcnQiOiIyMDg3IiwicHMiOiJDQVx1ZDgzY1x1ZGRlOFx1ZDgzY1x1ZGRlNiIsInNjeSI6ImF1dG8iLCJzbmkiOiJyeW9ncGxmZmNuc2RndnZ1d2Z1d3RiZ2VoZHNnc2dzZ3Nnc2ZnZWdzZ3Nnc2doaGRkaGRoZGJoZGRoaHRqc2ZqZmp0amZ3cWRod3JqYWZqYWZqYWRoYWZocWZqcWRocWRnZHFoZHFnZWdzb2Z3bmZpYW5mYW9mbnNpZm5hb2ZucWZvc2pmc2lmandmb3NtZmFva2Zzb2Ztd29mc25mb3NtZ3Nva2Zzb2Zhb2ZzbWZvd21md29mbndvZm5zY29hbm93amZ3b2Z3b2Ztd29mbndvZm5lY2l3YmN1d2Jzb2dqc29mc2luYS5mcGx1dXV4dG9vcGdvbC5zaG9wIiwidGxzIjoidGxzIiwidHlwZSI6Imd1biIsInYiOiIyIn0=
 
@@ -105,6 +105,22 @@ vless://b75b3034-36ab-4979-beae-3d02db1b11ec@cxc--join.outline-vpn.cloud:443?pat
 vless://e45e1c74-937c-4dc7-b1fd-3305c64ac1cc@de.melov2ray.shop:443?path=/melov2ray&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=ws&sni=De.Melov2ray.Shop#CA🇨🇦
 
 vless://e4a52f75-474e-449e-bcd2-05ea177f1403@vcv-join.outline-vpn.cloud:80?path=/&security=none&encryption=none&host=59.维子足球19.tech&type=ws#CA🇨🇦
+
+trojan://telegram-id-privatevpns@34.246.126.130:22222?alpn=http/1.1&headerType=none&security=tls&sni=trojan.miwan.co.uk&type=tcp#IE🇮🇪
+
+trojan://telegram-id-privatevpns@16.16.235.240:22222?alpn=http/1.1&headerType=none&security=tls&sni=trojan.miwan.co.uk&type=tcp#SE🇸🇪
+
+vless://VPNCUSTOMiZE@190.93.247.247:8080?alpn=TELEGRAM: @proxy_mtm | TELEGRAM: @proxy_mtm &encryption=none&host=VPNCUSTOMIZE-V2ray.列列男事的事列上赛男78.tech&path=/?ed=2048&security=none&type=ws#CR🇨🇷
+
+vless://2ccb14c6-6616-4992-a584-63d4fcba02d8@joinsevernett1.numalla.top:2053?alpn=h2,http/1.1&encryption=none&fp=chrome&mode=gun&security=tls&serviceName=@ServerNett,@ServerNett@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett&sni=joinsevernett1.numalla.top&type=grpc#CA🇨🇦
+
+trojan://telegram-id-directvpn@46.51.191.156:22222?alpn=http/1.1&headerType=none&security=tls&sni=trojan.miwan.co.uk&type=tcp#IE🇮🇪
+
+trojan://telegram-id-directvpn@13.51.203.69:22222?alpn=http/1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#SE🇸🇪
+
+trojan://telegram-id-directvpn@52.57.241.185:22222?alpn=http/1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#DE🇩🇪
+
+trojan://telegram-id-privatevpns@54.216.15.144:22222?alpn=http/1.1&headerType=none&security=tls&sni=trojan.miwan.co.uk&type=tcp#IE🇮🇪
 
 trojan://telegram-id-privatevpns@18.134.194.250:22222?alpn=http/1.1&headerType=none&security=tls&sni=trojan.miwan.co.uk&type=tcp#GB🇬🇧
 
@@ -145,22 +161,6 @@ vless://8601d969-84c4-499f-e342-1bd82d10146f@104.17.237.22:443?alpn=@mehrosabora
 vless://8601d969-84c4-499f-e342-1bd82d10146f@190.93.247.155:443?alpn=@mehrosaboran,@mehrosaboran&encryption=none&fp=safari&mode=gun&security=tls&serviceName=@AfV2ray @AfV2ray @AfV2ray @AfV2ray @AfV2ray @AfV2ray @AfV2ray @AfV2ray @AfV2ray @AfV2ray @AfV2ray @AfV2ray&sni=all-AfV2raygg-mtn-mci.iranlovee.top&type=grpc#CR🇨🇷
 
 vless://f140adc8-f107-4385-a2ed-f9511b72afea@198.41.202.5:2053?encryption=none&fp=chrome&host=vpnbigbang-mtn-mci.joinbede.sbs&path=/&security=tls&sni=vpnbigbang-mtn-mci.joinbede.sbs&type=ws#US🇺🇸
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQMnp4WFBld2xWM0JsZnFxWWlTdGh2dExj@212.113.106.243:12949#AT🇦🇹
-
-ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206bDQrR21zWXVZaFdJMWdqWFBhOHdtSHB6Z2VDb2hzOEgrbmdUNTVGcWQvVT0=@us1.dart-vpn.com:443#DE🇩🇪
-
-trojan://telegram-id-privatevpns@3.77.77.31:22222?alpn=http/1.1&headerType=none&security=tls&sni=trojan.miwan.co.uk&type=tcp#DE🇩🇪
-
-vless://fa5d0f68-9c5f-4436-896f-e8a4cc588623@190.93.247.155:8443?alpn=@bored_vpn,@bored_vpn&encryption=none&fp=chrome&mode=gun&security=tls&serviceName=@VPNCUSTOMIZE,@VPNCUSTOMIZE&sni=20ns2-V2ray.Vpncustomize.Com&type=grpc#CR🇨🇷
-
-ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@38.75.136.21:6697#US🇺🇸
-
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@54.36.174.181:7001#PL🇵🇱
-
-ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@145.239.1.100:7306#DE🇩🇪
-
-trojan://telegram-id-directvpn@51.20.97.241:22222?alpn=http/1.1&headerType=none&security=tls&sni=trojan.miwan.co.uk&type=tcp#SE🇸🇪
 
 vless://6cc5b6b6-b3d2-4c60-8197-5defdc8d6aa1@104.16.30.241:80?path=/&security=none&encryption=none&host=public.列列男事的事列上赛男85.shop&type=ws#CA🇨🇦
 
