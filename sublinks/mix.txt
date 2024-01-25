@@ -32,7 +32,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.samanehh
 
 vless://15c169bd-1b95-4c5e-ae44-c9e59fd80d07@www.speedtest.net:8443?mode=gun&security=tls&encryption=none&fp=random&type=grpc&serviceName=@melov2ray&sni=FIn.Melov2ray.Shop#US🇺🇸
 
-vless://e45e1c74-937c-4dc7-b1fd-3305c64ac1cc@de.melov2ray.shop:443?path=/melov2ray&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=ws&sni=De.Melov2ray.Shop#CA🇨🇦
+vless://e45e1c74-937c-4dc7-b1fd-3305c64ac1cc@de.melov2ray.shop:443?path=/melov2ray&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=ws&sni=De.Melov2ray.Shop#US🇺🇸
 
 vless://e45e1c74-937c-4dc7-b1fd-3305c64ac1cc@de.melov2ray.shop:443?path=/melov2ray&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=ws&sni=De.Melov2ray.Shop#CA🇨🇦
 
@@ -40,9 +40,9 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.samanehha
 
 vless://b75b3034-36ab-4979-beae-3d02db1b11ec@test--join.outline-vpn.cloud:443?path=/?ed&security=tls&encryption=none&host=always-online1.lp-airdrop.top&fp=randomized&type=ws&sni=always-online1.lp-airdrop.top#CA🇨🇦
 
-vless://bda4be04-48bf-4df1-aaf2-6d42522eab6b@CDN.user.com:80?path=/?ed=2048&security=none&encryption=none&host=ehda.sajaditsme.com&type=ws#CA🇨🇦
+vless://bda4be04-48bf-4df1-aaf2-6d42522eab6b@CDN.user.com:80?path=/?ed=2048&security=none&encryption=none&host=ehda.sajaditsme.com&type=ws#US🇺🇸
 
-vless://b75b3034-36ab-4979-beae-3d02db1b11ec@172.67.71.160:443?path=/?ed=2048&security=tls&encryption=none&host=always-online1.lp-airdrop.top&fp=randomized&type=ws&sni=always-online1.lp-airdrop.top#US🇺🇸
+vless://b75b3034-36ab-4979-beae-3d02db1b11ec@172.67.71.160:443?path=/?ed=2048&security=tls&encryption=none&host=always-online1.lp-airdrop.top&fp=randomized&type=ws&sni=always-online1.lp-airdrop.top#CA🇨🇦
 
 vless://15c169bd-1b95-4c5e-ae44-c9e59fd80d07@www.speedtest.net:8443?mode=gun&security=tls&encryption=none&fp=random&type=grpc&serviceName=@melov2ray&sni=FIn.Melov2ray.Shop#CA🇨🇦
 
@@ -50,9 +50,9 @@ vless://b75b3034-36ab-4979-beae-3d02db1b11ec@172.67.71.160:443?path=/?ed=2048&se
 
 vless://15c169bd-1b95-4c5e-ae44-c9e59fd80d07@zula.ir:8443?mode=gun&security=tls&encryption=none&fp=random&type=grpc&serviceName=@melov2ray&sni=FIn.Melov2ray.Shop#NL🇳🇱
 
-vless://15c169bd-1b95-4c5e-ae44-c9e59fd80d07@fin.melov2ray.shop:8443?mode=gun&security=tls&encryption=none&fp=random&type=grpc&serviceName=@melov2ray&sni=FIn.Melov2ray.Shop#US🇺🇸
+vless://15c169bd-1b95-4c5e-ae44-c9e59fd80d07@fin.melov2ray.shop:8443?mode=gun&security=tls&encryption=none&fp=random&type=grpc&serviceName=@melov2ray&sni=FIn.Melov2ray.Shop#CA🇨🇦
 
-vmess://eyJhZGQiOiIxMDQuMjEuMTUuMzYiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImxpbmRlMDYuaW5kaWF2aWRlby5zYnMiLCJpZCI6ImVkYmIxMDU5LTE2MzMtNDI3MS1iNjZlLWVkNGZiYTQ3YTFiZiIsIm5ldCI6IndzIiwicGF0aCI6IlwvbGlua3dzIiwicG9ydCI6IjQ0MyIsInBzIjoiVVNcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjgiLCJzY3kiOiJhdXRvIiwic25pIjoibGluZGUwNi5pbmRpYXZpZGVvLnNicyIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9
+vmess://eyJhZGQiOiIxMDQuMjEuMTUuMzYiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImxpbmRlMDYuaW5kaWF2aWRlby5zYnMiLCJpZCI6ImVkYmIxMDU5LTE2MzMtNDI3MS1iNjZlLWVkNGZiYTQ3YTFiZiIsIm5ldCI6IndzIiwicGF0aCI6IlwvbGlua3dzIiwicG9ydCI6IjQ0MyIsInBzIjoiQ0FcdWQ4M2NcdWRkZThcdWQ4M2NcdWRkZTYiLCJzY3kiOiJhdXRvIiwic25pIjoibGluZGUwNi5pbmRpYXZpZGVvLnNicyIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.samanehha.co:443#GB🇬🇧
 
@@ -110,6 +110,22 @@ vless://e45e1c74-937c-4dc7-b1fd-3305c64ac1cc@de.melov2ray.shop:443?path=/melov2r
 
 vless://e4a52f75-474e-449e-bcd2-05ea177f1403@vcv-join.outline-vpn.cloud:80?path=/&security=none&encryption=none&host=59.维子足球19.tech&type=ws#CA🇨🇦
 
+vmess://eyJhZGQiOiIxMDQuMjEuMjYuMTUyIiwiYWlkIjoiMCIsImFscG4iOiJoMixodHRwXC8xLjEiLCJmcCI6ImNocm9tZSIsImhvc3QiOiIiLCJpZCI6ImI2OTVjYmE2LTI4ZWQtNGVlMy04ZWVlLWJjMGRjZjEzOTU5MyIsIm5ldCI6IndzIiwicGF0aCI6IlwvQEFUT1ZQTiBAQVRPVlBOIiwicG9ydCI6Ijg0NDMiLCJwcyI6IkNBXHVkODNjXHVkZGU4XHVkODNjXHVkZGU2Iiwic2N5IjoiYXV0byIsInNuaSI6ImhtLnNocmVrdG0udG9wIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=
+
+vmess://eyJhZGQiOiIxMDQuMTguMjAyLjIzMiIsImFpZCI6IjAiLCJob3N0IjoiZXRjLnRlbGxzcy5pciIsImlkIjoiMWFhOTg4MmYtYzEwNy00MjJkLTg5ZGQtZmNkMDcyMjY2ZDljIiwibmV0Ijoid3MiLCJwYXRoIjoiXC8iLCJwb3J0IjoyMDUyLCJwcyI6IkNBXHVkODNjXHVkZGU4XHVkODNjXHVkZGU2Iiwic2N5IjoiYXV0byIsInRscyI6Im5vbmUiLCJ0eXBlIjoiIiwidiI6IjIifQ==
+
+vmess://eyJhZGQiOiIxNzIuNjcuMTc0LjYzIiwiYWlkIjowLCJob3N0IjoibmluYS5ib25kIiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJuZXQiOiJ3cyIsInBhdGgiOiJcL2xpbmt2d3MiLCJwb3J0Ijo0NDMsInBzIjoiQ0FcdWQ4M2NcdWRkZThcdWQ4M2NcdWRkZTYiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6Im5pbmEuYm9uZCIsImFsbG93aW5zZWN1cmUiOjF9
+
+vmess://eyJhZGQiOiIxMDQuMTcuMjMyLjExNCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiJjaHJvbWUiLCJob3N0IjoidnBuZXRpcmFuLmhhbWVkZ2Vlay5zYnMiLCJpZCI6ImQ3OTI0ZmU2LWJjNGQtNDgwOS1hMWMwLTMzYWQ1ZDhlZjVlZCIsIm5ldCI6IndzIiwicGF0aCI6IlwvIiwicG9ydCI6IjIwODMiLCJwcyI6IkNBXHVkODNjXHVkZGU4XHVkODNjXHVkZGU2Iiwic2N5IjoiYXV0byIsInNuaSI6InZwbmV0aXJhbi5oYW1lZGdlZWsuc2JzIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=
+
+vmess://eyJhZGQiOiIxMjcuMC4wLjEiLCJhaWQiOiIwIiwiaG9zdCI6IiIsImlkIjoiYmFjY2JhYS1hYmFjLWFiYWMtYmFkYy1iYmJhYWFjYmFjY2MiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6ODA4MCwicHMiOiJJTlRcdWQ4M2NcdWRmMGQiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
+
+vmess://eyJhZGQiOiIxMDQuMjEuOC4xNTciLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6InMxYy52Mi52MDAxc3NzLnh5eiIsImlkIjoiMTEyYWMzNmYtM2Y1My00ZTI2LTgzNzEtZDI1YzAyOGUxYjlhIiwibmV0Ijoid3MiLCJwYXRoIjoiXC8iLCJwb3J0IjoiMjA4MiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIiLCJwcyI6IkNBXHVkODNjXHVkZGU4XHVkODNjXHVkZGU2In0=
+
+vmess://eyJhZGQiOiIxNzIuNjcuMTY3LjIyMCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI1ZGI0YzUxYy03MzA0LTRmMGEtYmJkOC0wODNkMjU4YzA0ZWIiLCJuZXQiOiJncnBjIiwicGF0aCI6ImRmZ2giLCJwb3J0IjoiMjA4NyIsInBzIjoiQ0FcdWQ4M2NcdWRkZThcdWQ4M2NcdWRkZTYiLCJzY3kiOiJhdXRvIiwic25pIjoicnlvZ3BsZmZjbnNkZ3Z2dXdmdXd0YmdlaGRzZ3Nnc2dzZ3NmZ2Vnc2dzZ3NnaGhkZGhkaGRiaGRkaGh0anNmamZqdGpmd3FkaHdyamFmamFmamFkaGFmaHFmanFkaHFkZ2RxaGRxZ2Vnc29md25maWFuZmFvZm5zaWZuYW9mbnFmb3NqZnNpZmp3Zm9zbWZhb2tmc29mbXdvZnNuZm9zbWdzb2tmc29mYW9mc21mb3dtZndvZm53b2Zuc2NvYW5vd2pmd29md29mbXdvZm53b2ZuZWNpd2JjdXdic29nanNvZnNpbmEuZnBsdXV1eHRvb3Bnb2wuc2hvcCIsInRscyI6InRscyIsInR5cGUiOiJndW4iLCJ2IjoiMiJ9
+
+vmess://eyJhZGQiOiIxMDQuMTcuMTg0LjI0MSIsInYiOiIyIiwicHMiOiJDQVx1ZDgzY1x1ZGRlOFx1ZDgzY1x1ZGRlNiIsInBvcnQiOjIwOTUsImlkIjoiMGY0MmEwNjMtMzE1Yi00NTI0LTg1MDEtNDY5YzUxODM4YmI2IiwiYWlkIjoiMCIsIm5ldCI6IndzIiwidHlwZSI6IiIsImhvc3QiOiJtZ29uZV9jZG4ueXVuamlzdWFuLmNmIiwicGF0aCI6IlwvIiwidGxzIjoiIn0=
+
 vless://--VPNCUSTOMIZE--@190.93.247.155:8080?encryption=none&host=VPNCUSTOMIZE-V2ray.列列男事的事列上赛男78.tech&path=/?ed=2048&security=none&type=ws#CR🇨🇷
 
 vless://8601d969-84c4-499f-e342-1bd82d10146f@104.17.237.22:443?alpn=@mehrosaboran,@mehrosaboran&encryption=none&fp=safari&mode=gun&security=tls&serviceName=@AfV2ray @AfV2ray @AfV2ray @AfV2ray @AfV2ray @AfV2ray @AfV2ray @AfV2ray @AfV2ray @AfV2ray @AfV2ray @AfV2ray&sni=all-AfV2raygg-mtn-mci.iranlovee.top&type=grpc#CA🇨🇦
@@ -149,22 +165,6 @@ vless://e1a928be-e289-4aef-b92e-4106fabdf42f@172.67.204.84:80?encryption=none&ho
 vless://e1a928be-e289-4aef-b92e-4106fabdf42f@104.16.229.153:80?encryption=none&host=mahi.kosnanatfilterchi.eu.org&path=path/TELEGRAM-PROXY_MTM?ed=2048&security=none&type=ws#CA🇨🇦
 
 vless://e1a928be-e289-4aef-b92e-4106fabdf42f@172.67.73.108:80?encryption=none&host=mahi.kosnanatfilterchi.eu.org&path=path/TELEGRAM-PROXY_MTM?ed=2048&security=none&type=ws#CA🇨🇦
-
-ss://Y2hhY2hhMjAtcG9seTEzMDU6Qm9nMEVMbU1NOURTeERkUQ==@series-a2-me.samanehha.co:443#GB🇬🇧
-
-trojan://telegram-id-directvpn@3.73.238.119:22222?alpn=http/1.1&headerType=none&security=tls&sni=trojan.miwan.co.uk&type=tcp#DE🇩🇪
-
-trojan://telegram-id-directvpn@13.50.172.121:22222?alpn=http/1.1&headerType=none&security=tls&sni=trojan.miwan.co.uk&type=tcp#SE🇸🇪
-
-trojan://telegram-id-privatevpns@16.16.231.248:22222?alpn=http/1.1&headerType=none&security=tls&sni=trojan.miwan.co.uk&type=tcp#SE🇸🇪
-
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@54.36.174.181:5001#PL🇵🇱
-
-ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@38.75.137.71:6679#US🇺🇸
-
-ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@38.75.136.21:6697#US🇺🇸
-
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@54.36.174.181:7001#PL🇵🇱
 
 vless://6cc5b6b6-b3d2-4c60-8197-5defdc8d6aa1@104.16.30.241:80?path=/&security=none&encryption=none&host=public.列列男事的事列上赛男85.shop&type=ws#CA🇨🇦
 
