@@ -34,9 +34,9 @@ vless://b75b3034-36ab-4979-beae-3d02db1b11ec@172.67.71.160:443?path=/?ed=2048&se
 
 vless://15c169bd-1b95-4c5e-ae44-c9e59fd80d07@zula.ir:8443?mode=gun&security=tls&encryption=none&fp=random&type=grpc&serviceName=@melov2ray&sni=FIn.Melov2ray.Shop#US🇺🇸
 
-vless://15c169bd-1b95-4c5e-ae44-c9e59fd80d07@fin.melov2ray.shop:8443?mode=gun&security=tls&encryption=none&fp=random&type=grpc&serviceName=@melov2ray&sni=FIn.Melov2ray.Shop#CA🇨🇦
+vless://15c169bd-1b95-4c5e-ae44-c9e59fd80d07@fin.melov2ray.shop:8443?mode=gun&security=tls&encryption=none&fp=random&type=grpc&serviceName=@melov2ray&sni=FIn.Melov2ray.Shop#US🇺🇸
 
-vmess://eyJhZGQiOiIxMDQuMjEuMTUuMzYiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImxpbmRlMDYuaW5kaWF2aWRlby5zYnMiLCJpZCI6ImVkYmIxMDU5LTE2MzMtNDI3MS1iNjZlLWVkNGZiYTQ3YTFiZiIsIm5ldCI6IndzIiwicGF0aCI6IlwvbGlua3dzIiwicG9ydCI6IjQ0MyIsInBzIjoiQ0FcdWQ4M2NcdWRkZThcdWQ4M2NcdWRkZTYiLCJzY3kiOiJhdXRvIiwic25pIjoibGluZGUwNi5pbmRpYXZpZGVvLnNicyIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9
+vmess://eyJhZGQiOiIxMDQuMjEuMTUuMzYiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImxpbmRlMDYuaW5kaWF2aWRlby5zYnMiLCJpZCI6ImVkYmIxMDU5LTE2MzMtNDI3MS1iNjZlLWVkNGZiYTQ3YTFiZiIsIm5ldCI6IndzIiwicGF0aCI6IlwvbGlua3dzIiwicG9ydCI6IjQ0MyIsInBzIjoiVVNcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjgiLCJzY3kiOiJhdXRvIiwic25pIjoibGluZGUwNi5pbmRpYXZpZGVvLnNicyIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.samanehha.co:443#GB🇬🇧
 
@@ -112,6 +112,22 @@ vless://60813b9d-aa0e-4a5c-88b8-ed231058e82a@www.butech.pp.ua:2087?path=telegram
 
 vless://e4a52f75-474e-449e-bcd2-05ea177f1403@vcv-join.outline-vpn.cloud:80?path=/&security=none&encryption=none&host=59.维子足球19.tech&type=ws#CA🇨🇦
 
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@54.36.174.181:5001#PL🇵🇱
+
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@38.75.137.71:6679#US🇺🇸
+
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@38.75.136.21:6697#US🇺🇸
+
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@54.36.174.181:7001#PL🇵🇱
+
+ss://Y2hhY2hhMjAtcG9seTEzMDU6Qm9nMEVMbU1NOURTeERkUQ==@series-a2-me.samanehha.co:443#GB🇬🇧
+
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@145.239.1.100:8090#DE🇩🇪
+
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@38.75.137.66:8091#US🇺🇸
+
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.121.43.97:8119#US🇺🇸
+
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpJTVhWRWZYU3NSOEJ4cGZGaDNFdGVT@toronto.telegavpn.org:31024#CA🇨🇦
 
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@167.88.61.175:8080#US🇺🇸
@@ -151,22 +167,6 @@ trojan://telegram-id-privatevpns@15.236.97.67:22222?alpn=http/1.1&headerType=non
 vless://1657f8b4-621a-4dbc-c865-9ecbd8322727@160.153.0.179:8880?encryption=none&host=liV2held.善良的闪电.monster&path=/@LIGHTNING6&security=none&type=ws#US🇺🇸
 
 vless://6cc5b6b6-b3d2-4c60-8197-5defdc8d6aa1@104.16.30.241:80?encryption=none&host=public.列列男事的事列上赛男85.shop&path=/&security=none&type=ws#CA🇨🇦
-
-trojan://telegram-id-directvpn@54.228.6.170:22222?alpn=http/1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#IE🇮🇪
-
-trojan://telegram-id-directvpn@52.10.34.186:22222?alpn=http/1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#US🇺🇸
-
-trojan://telegram-id-directvpn@3.140.108.178:22222?alpn=http/1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#US🇺🇸
-
-trojan://telegram-id-privatevpns@3.78.191.16:22222?alpn=http/1.1&headerType=none&security=tls&sni=trojan.miwan.co.uk&type=tcp#DE🇩🇪
-
-vmess://eyJhZGQiOiIxMDQuMTcuMTg0LjI0MSIsInYiOiIyIiwicHMiOiJDQVx1ZDgzY1x1ZGRlOFx1ZDgzY1x1ZGRlNiIsInBvcnQiOjIwOTUsImlkIjoiMGY0MmEwNjMtMzE1Yi00NTI0LTg1MDEtNDY5YzUxODM4YmI2IiwiYWlkIjoiMCIsIm5ldCI6IndzIiwidHlwZSI6IiIsImhvc3QiOiJtZ29uZV9jZG4ueXVuamlzdWFuLmNmIiwicGF0aCI6IlwvIiwidGxzIjoiIn0=
-
-vmess://eyJ2IjoiMiIsInBzIjoiQ0FcdWQ4M2NcdWRkZThcdWQ4M2NcdWRkZTYiLCJhZGQiOiIxMDQuMTcuMjMyLjExNCIsInBvcnQiOjIwODMsImlkIjoiZDc5MjRmZTYtYmM0ZC00ODA5LWExYzAtMzNhZDVkOGVmNWVkIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsInRscyI6InRscyIsInBhdGgiOiJcLyIsImhvc3QiOiJ2cG5ldGlyYW4uaGFtZWRnZWVrLnNicyIsInNuaSI6InZwbmV0aXJhbi5oYW1lZGdlZWsuc2JzIiwiZnAiOiJjaHJvbWUiLCJhbHBuIjoiaHR0cFwvMS4xLGgyIn0=
-
-vmess://eyJhZGQiOiIxOTkuNTkuMjQzLjIyNSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiY2EyLnh2MnJheS5uZXQiLCJpZCI6ImY2MTIwM2JkLWYzODYtNGQxMi05ODUzLWNjODI5ZDZiN2M5ZCIsIm5ldCI6IndzIiwicGF0aCI6Ilwvdm1lc3MiLCJwb3J0IjoiODAiLCJzY3kiOiJhdXRvIiwic25pIjoiY2EyLnh2MnJheS5uZXQiLCJ0bHMiOiJub25lIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInBzIjoiVVNcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjgifQ==
-
-vmess://eyJhZGQiOiIxNzIuNjcuMjA1LjEzOSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiZm9vZC56aGFhbC5pciIsImlkIjoiMGQxYmYyNmEtY2U5Ny00NzA3LWEyNzAtN2Y0ZDJhZTM3MzM0IiwibmV0Ijoid3MiLCJwYXRoIjoiXC8iLCJwb3J0IjoiODg4MCIsInBzIjoiQ0FcdWQ4M2NcdWRkZThcdWQ4M2NcdWRkZTYiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
 
 vless://e4a52f75-474e-449e-bcd2-05ea177f1403@104.31.16.160:80?path=/&security=none&encryption=none&host=56.表维基百科16.tech&type=ws#CA🇨🇦
 
