@@ -26,21 +26,21 @@ vless://15c169bd-1b95-4c5e-ae44-c9e59fd80d07@zula.ir:8443?mode=gun&security=tls&
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.samanehha.co:443#GB🇬🇧
 
-vless://15c169bd-1b95-4c5e-ae44-c9e59fd80d07@www.speedtest.net:8443?mode=gun&security=tls&encryption=none&fp=random&type=grpc&serviceName=@melov2ray&sni=FIn.Melov2ray.Shop#US🇺🇸
+vless://15c169bd-1b95-4c5e-ae44-c9e59fd80d07@www.speedtest.net:8443?mode=gun&security=tls&encryption=none&fp=random&type=grpc&serviceName=@melov2ray&sni=FIn.Melov2ray.Shop#CA🇨🇦
 
-vless://e45e1c74-937c-4dc7-b1fd-3305c64ac1cc@de.melov2ray.shop:443?path=/melov2ray&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=ws&sni=De.Melov2ray.Shop#US🇺🇸
+vless://e45e1c74-937c-4dc7-b1fd-3305c64ac1cc@de.melov2ray.shop:443?path=/melov2ray&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=ws&sni=De.Melov2ray.Shop#CA🇨🇦
 
-vless://e45e1c74-937c-4dc7-b1fd-3305c64ac1cc@de.melov2ray.shop:443?path=/melov2ray&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=ws&sni=De.Melov2ray.Shop#US🇺🇸
+vless://e45e1c74-937c-4dc7-b1fd-3305c64ac1cc@de.melov2ray.shop:443?path=/melov2ray&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=ws&sni=De.Melov2ray.Shop#CA🇨🇦
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.samanehha.co:443#GB🇬🇧
 
 vless://b75b3034-36ab-4979-beae-3d02db1b11ec@test--join.outline-vpn.cloud:443?path=/?ed&security=tls&encryption=none&host=always-online1.lp-airdrop.top&fp=randomized&type=ws&sni=always-online1.lp-airdrop.top#US🇺🇸
 
-vless://bda4be04-48bf-4df1-aaf2-6d42522eab6b@CDN.user.com:80?path=/?ed=2048&security=none&encryption=none&host=ehda.sajaditsme.com&type=ws#US🇺🇸
+vless://bda4be04-48bf-4df1-aaf2-6d42522eab6b@CDN.user.com:80?path=/?ed=2048&security=none&encryption=none&host=ehda.sajaditsme.com&type=ws#CA🇨🇦
 
 vless://b75b3034-36ab-4979-beae-3d02db1b11ec@172.67.71.160:443?path=/?ed=2048&security=tls&encryption=none&host=always-online1.lp-airdrop.top&fp=randomized&type=ws&sni=always-online1.lp-airdrop.top#CA🇨🇦
 
-vless://15c169bd-1b95-4c5e-ae44-c9e59fd80d07@www.speedtest.net:8443?mode=gun&security=tls&encryption=none&fp=random&type=grpc&serviceName=@melov2ray&sni=FIn.Melov2ray.Shop#CA🇨🇦
+vless://15c169bd-1b95-4c5e-ae44-c9e59fd80d07@www.speedtest.net:8443?mode=gun&security=tls&encryption=none&fp=random&type=grpc&serviceName=@melov2ray&sni=FIn.Melov2ray.Shop#US🇺🇸
 
 vless://b75b3034-36ab-4979-beae-3d02db1b11ec@172.67.71.160:443?path=/?ed=2048&security=tls&encryption=none&host=always-online1.lp-airdrop.top&fp=randomized&type=ws&sni=always-online1.lp-airdrop.top#CA🇨🇦
 
@@ -48,7 +48,7 @@ vless://15c169bd-1b95-4c5e-ae44-c9e59fd80d07@zula.ir:8443?mode=gun&security=tls&
 
 vless://15c169bd-1b95-4c5e-ae44-c9e59fd80d07@fin.melov2ray.shop:8443?mode=gun&security=tls&encryption=none&fp=random&type=grpc&serviceName=@melov2ray&sni=FIn.Melov2ray.Shop#CA🇨🇦
 
-vmess://eyJhZGQiOiIxMDQuMjEuMTUuMzYiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImxpbmRlMDYuaW5kaWF2aWRlby5zYnMiLCJpZCI6ImVkYmIxMDU5LTE2MzMtNDI3MS1iNjZlLWVkNGZiYTQ3YTFiZiIsIm5ldCI6IndzIiwicGF0aCI6IlwvbGlua3dzIiwicG9ydCI6IjQ0MyIsInBzIjoiQ0FcdWQ4M2NcdWRkZThcdWQ4M2NcdWRkZTYiLCJzY3kiOiJhdXRvIiwic25pIjoibGluZGUwNi5pbmRpYXZpZGVvLnNicyIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9
+vmess://eyJhZGQiOiIxMDQuMjEuMTUuMzYiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImxpbmRlMDYuaW5kaWF2aWRlby5zYnMiLCJpZCI6ImVkYmIxMDU5LTE2MzMtNDI3MS1iNjZlLWVkNGZiYTQ3YTFiZiIsIm5ldCI6IndzIiwicGF0aCI6IlwvbGlua3dzIiwicG9ydCI6IjQ0MyIsInBzIjoiVVNcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjgiLCJzY3kiOiJhdXRvIiwic25pIjoibGluZGUwNi5pbmRpYXZpZGVvLnNicyIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.samanehha.co:443#GB🇬🇧
 
@@ -60,7 +60,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.samanehh
 
 vless://f5421bc0-4dd8-4413-8764-cd2a62890236@iran-011-join.outline-vpn.cloud:2053?path=/&security=tls&encryption=none&host=boon.joinbede.sbs&fp=chrome&type=ws&sni=boon.joinbede.sbs#US🇺🇸
 
-vless://b75b3034-36ab-4979-beae-3d02db1b11ec@test--join.outline-vpn.cloud:443?path=/?ed&security=tls&encryption=none&host=always-online1.lp-airdrop.top&fp=randomized&type=ws&sni=always-online1.lp-airdrop.top#CA🇨🇦
+vless://b75b3034-36ab-4979-beae-3d02db1b11ec@test--join.outline-vpn.cloud:443?path=/?ed&security=tls&encryption=none&host=always-online1.lp-airdrop.top&fp=randomized&type=ws&sni=always-online1.lp-airdrop.top#US🇺🇸
 
 vless://e4a52f75-474e-449e-bcd2-05ea177f1403@vcv-join.outline-vpn.cloud:80?path=/&security=none&encryption=none&host=56.表维基百科16.tech&type=ws#CA🇨🇦
 
@@ -106,6 +106,22 @@ vless://e45e1c74-937c-4dc7-b1fd-3305c64ac1cc@de.melov2ray.shop:443?path=/melov2r
 
 vless://e4a52f75-474e-449e-bcd2-05ea177f1403@vcv-join.outline-vpn.cloud:80?path=/&security=none&encryption=none&host=59.维子足球19.tech&type=ws#CA🇨🇦
 
+vmess://eyJhZGQiOiIxMDQuMjEuOC4xNTciLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6InMxYy52Mi52MDAxc3NzLnh5eiIsImlkIjoiMTEyYWMzNmYtM2Y1My00ZTI2LTgzNzEtZDI1YzAyOGUxYjlhIiwibmV0Ijoid3MiLCJwYXRoIjoiXC8iLCJwb3J0IjoiMjA4MiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIiLCJwcyI6IkNBXHVkODNjXHVkZGU4XHVkODNjXHVkZGU2In0=
+
+vmess://eyJhZGQiOiIxNzIuNjcuMjAzLjE2OSIsImFpZCI6IjAiLCJob3N0IjoiIiwiaWQiOiI0YjVlNDU2NS0zMjJmLTQyMjMtYTg5MS03OGE4NGYxODk3MjYiLCJuZXQiOiJ3cyIsInBhdGgiOiJcL3I4eWt3aWY1cmZmaXFKZUo0OXpMUXRBVUVTbWthN1BiaFd6M3dpSHM4Y1NlaVJ5WkwiLCJwb3J0IjoiODg4MCIsInNjeSI6ImF1dG8iLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwicHMiOiJDQVx1ZDgzY1x1ZGRlOFx1ZDgzY1x1ZGRlNiJ9
+
+vmess://eyJhZGQiOiIxNzMuMjQ1LjU4LjUxIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjVhZTRiNDAwLWQ1MmEtNDAzZi1iMzljLTZiZDM4MTk2NDU0OCIsIm5ldCI6ImdycGMiLCJwYXRoIjoiIiwicG9ydCI6IjIwOTYiLCJwcyI6IlVTXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4Iiwic2N5IjoiYXV0byIsInNuaSI6IlwvIiwidGxzIjoidGxzIiwidHlwZSI6Imd1biIsInYiOiIyIn0=
+
+vmess://eyJ2IjoiMiIsInBzIjoiQ0FcdWQ4M2NcdWRkZThcdWQ4M2NcdWRkZTYiLCJhZGQiOiIxNzIuNjcuMTM5LjE1MCIsInBvcnQiOiI4MDgwIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsInRscyI6IiIsImlkIjoiNWUyMDM4NjQtNjE3MC00MDU2LWZhOTAtYjFmZGJkYTNhM2NhIiwic25pIjoiIiwiaG9zdCI6ImV1NC5vcGVueGFpLmxpbmsiLCJwYXRoIjoiXC8/ZWQ9MjA0OCJ9
+
+vmess://eyJhZGQiOiIxMjcuMC4wLjEiLCJhaWQiOiIwIiwiaG9zdCI6IiIsImlkIjoiY2JhY2FiYS1jYWJhLWNhYmEtYmFjZC1iYmNhY2FjYmFhY2IiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6ODA4MCwicHMiOiJJTlRcdWQ4M2NcdWRmMGQiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
+
+vmess://eyJhZGQiOiIxMDQuMTcuMTQxLjg2IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJtZ2ZvdXJfY2RuLnl1bmppc3Vhbi5jZiIsImlkIjoiMzM4Yzk1NGYtNDgyYS00YjU5LTgxZTMtODAzMGQ2Mzk5OGEyIiwibmV0Ijoid3MiLCJwYXRoIjoiXC9tY3NuLnl1bmppc3Vhbi5ncT9lZD0xMDI0IiwicG9ydCI6IjIwNTIiLCJwcyI6IkNBXHVkODNjXHVkZGU4XHVkODNjXHVkZGU2Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
+
+vmess://eyJhZGQiOiIxMDQuMjEuNDcuMTEwIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjVkYjRjNTFjLTczMDQtNGYwYS1iYmQ4LTA4M2QyNThjMDRlYiIsIm5ldCI6ImdycGMiLCJwYXRoIjoiZGZnaCIsInBvcnQiOiIyMDg3IiwicHMiOiJDQVx1ZDgzY1x1ZGRlOFx1ZDgzY1x1ZGRlNiIsInNjeSI6ImF1dG8iLCJzbmkiOiJoamtncGZwbGxsZGFmcmV0NjZqY2NqZmRpZmZqc3NpNjU1NjQzODY1MTY4NTY1NTZqZmZqZmlkc2xmamZlanhpZGp3Zm5manNqa2RpZ2pyZGo2NTY4MTY4NjQ5YS50b29vb29uZWxsbGhvb2tvMDEuc3RvcmUiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiZ3VuIiwidiI6IjIifQ==
+
+vmess://eyJhZGQiOiIxMDQuMTcuMjMyLjExNCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiJjaHJvbWUiLCJob3N0IjoidnBuZXRpcmFuLmhhbWVkZ2Vlay5zYnMiLCJpZCI6ImQ3OTI0ZmU2LWJjNGQtNDgwOS1hMWMwLTMzYWQ1ZDhlZjVlZCIsIm5ldCI6IndzIiwicGF0aCI6IlwvIiwicG9ydCI6IjIwODMiLCJwcyI6IkNBXHVkODNjXHVkZGU4XHVkODNjXHVkZGU2Iiwic2N5IjoiYXV0byIsInNuaSI6InZwbmV0aXJhbi5oYW1lZGdlZWsuc2JzIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=
+
 vless://91cf0cb2-fab4-4e3c-b66c-d2a57eea53ab@mciii.cdn-mci.online:2052?security=none&encryption=none&type=ws&host=ACMMKU.KHaMeNEi.bio&path=/#CA🇨🇦
 
 vless://dde861b9-6917-4cf3-80e7-cc9849eb9f1e@128.140.73.174:5468?type=tcp&path=/&host=medium.com&headerType=http&security=none#DE🇩🇪
@@ -145,22 +161,6 @@ vless://60813b9d-aa0e-4a5c-88b8-ed231058e82a@hk09.yscard.gq:2053?encryption=none
 vless://009bdc31-71c1-46db-88be-83dfd24328c2@190.93.246.225:2083?alpn=h2&encryption=none&fp=chrome&mode=gun&security=tls&serviceName=@LIGHTNING6&sni=liV2helo.LIGHTNING6.IR&type=grpc#CR🇨🇷
 
 vless://c590b9cb-0e05-426d-9d48-eb8d6606e166@join60.numalla.top:2053?alpn=h2,http/1.1&encryption=none&fp=chrome&mode=gun&security=tls&serviceName=@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett&sni=join60.numalla.top&type=grpc#CA🇨🇦
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOQzdqT1JWTnJydVYvKzMrUHdPSnJubk9lRzduNzVYMQ==@89.19.216.18:8388#NL🇳🇱
-
-vless://60813b9d-aa0e-4a5c-88b8-ed231058e82a@a1.nttkk.com:443?encryption=none&host=pages.20230619.love&path=fuck_yes&security=tls&sni=pages.20230619.love&type=ws#CA🇨🇦
-
-vless://e1a928be-e289-4aef-b92e-4106fabdf42f@ip.sb:80?encryption=none&host=mahi.kosnanatfilterchi.eu.org&path=/?ed=2048&security=none&type=ws#CA🇨🇦
-
-vless://26fd76cd-7da5-4c03-aa7a-3403929bf61c@104.25.254.88:8443?alpn=h2,http/1.1&encryption=none&fp=chrome&security=tls&serviceName=@AnGuS_VPN,@AnGuS_VPN,@AnGuS_VPN,@AnGuS_VPN,@AnGuS_VPN,@AnGuS_VPN,@AnGuS_VPN,@AnGuS_VPN&sni=freedom.freoce.life&type=grpc#CA🇨🇦
-
-vless://8b717d9e-d6b9-4b7d-e49e-716bc6822c0b@104.20.27.27:8443?alpn=@bored_vpn,@bored_vpn&encryption=none&fp=chrome&mode=gun&security=tls&serviceName=@AfV2ray @AfV2ray @AfV2ray @AfV2ray @AfV2ray @AfV2ray @AfV2ray @AfV2ray @AfV2ray @AfV2ray @AfV2ray @AfV2ray&sni=vpnbigbang-mtn-mci.iranlovee.top&type=grpc#CA🇨🇦
-
-vless://VPNCUSTOMiZE@104.20.27.27:8080?encryption=none&host=VPNCUSTOMIZE-V2ray.列列男事的事列上赛男78.tech&path=/?ed=2048&security=none&type=ws#CA🇨🇦
-
-vless://2ed7b41d-c6bb-4c3c-dc07-3323a88754e5@190.93.246.225:8880?encryption=none&host=liV2heli.善良的闪电.monster&path=/@LIGHTNING6&security=none&type=ws#CR🇨🇷
-
-vless://8cc0bd5f-a9df-49d1-a2ab-8a463e72234a@104.18.203.232:443?alpn=http/1.1,h2&encryption=none&mode=gun&security=tls&serviceName=@XsV2ray,@XsV2ray,@XsV2ray&sni=you-me.vipxali.cfd&type=grpc#CA🇨🇦
 
 vless://6cc5b6b6-b3d2-4c60-8197-5defdc8d6aa1@104.16.30.241:80?path=/&security=none&encryption=none&host=public.列列男事的事列上赛男85.shop&type=ws#CA🇨🇦
 
