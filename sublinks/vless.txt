@@ -26,11 +26,11 @@ vless://e1a928be-e289-4aef-b92e-4106fabdf42f@zula.ir:80?path=/?ed=2048&security=
 
 vless://e1a928be-e289-4aef-b92e-4106fabdf42f@edgu.pureboy.eu.org:80?path=/?ed=2048&security=none&encryption=none&host=mahi.kosnanatfilterchi.eu.org&type=ws#US🇺🇸
 
-vless://e1a928be-e289-4aef-b92e-4106fabdf42f@ip.sb:80?path=/?ed=2048&security=none&encryption=none&host=mahi.kosnanatfilterchi.eu.org&type=ws#CA🇨🇦
+vless://e1a928be-e289-4aef-b92e-4106fabdf42f@ip.sb:80?path=/?ed=2048&security=none&encryption=none&host=mahi.kosnanatfilterchi.eu.org&type=ws#US🇺🇸
 
 vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@3k.pureboy.eu.org:443?path=/?ed&security=tls&encryption=none&type=ws&sni=3k.pureboy.eu.org#US🇺🇸
 
-vless://0895c839-54e8-4522-cfa0-d1a5b1b34827@mag.zhaal.ir:2086?path=/&security=none&encryption=none&type=ws#NL🇳🇱
+vless://0895c839-54e8-4522-cfa0-d1a5b1b34827@mag.zhaal.ir:2086?path=/&security=none&encryption=none&type=ws#US🇺🇸
 
 vless://120bfa52-2f7d-4b0e-ff4a-59ed8d436e17@fri--join.outline-vpn.cloud:80?path=/dl/index.php&security=none&encryption=none&host=JCYjrF.سیسی.WORlD&type=ws#US🇺🇸
 
@@ -66,6 +66,22 @@ vless://e45e1c74-937c-4dc7-b1fd-3305c64ac1cc@de.melov2ray.shop:443?path=/melov2r
 
 vless://b75b3034-36ab-4979-beae-3d02db1b11ec@test--join.outline-vpn.cloud:443?path=/?ed&security=tls&encryption=none&host=always-online1.lp-airdrop.top&fp=randomized&type=ws&sni=always-online1.lp-airdrop.top#CA🇨🇦
 
+vless://8b47aa53-0c2a-4dab-bf7e-3d75499841b8@190.93.247.155:8880?encryption=none&host=liV2helb.善良的闪电.monster&path=/@LIGHTNING6&security=none&type=ws#CR🇨🇷
+
+vless://3e26c7ff-d2e1-40bc-98e1-1324af689857@190.93.246.225:2053?alpn=h2&encryption=none&fp=chrome&mode=gun&security=tls&serviceName=@MainV2ry,@MainV2ry,@MainV2ry,@MainV2ry,@MainV2ry,@MainV2ry,@MainV2ry,@MainV2ry,@MainV2ry,@MainV2ry,@MainV2ry,@MainV2ry,@MainV2ry&sni=vipalpha.vitel-mobile.shop&type=grpc#CR🇨🇷
+
+vless://3e26c7ff-d2e1-40bc-98e1-1324af689857@104.18.203.232:2053?alpn=h2&encryption=none&fp=chrome&mode=gun&security=tls&serviceName=@MainV2ry,@MainV2ry,@MainV2ry,@MainV2ry,@MainV2ry,@MainV2ry,@MainV2ry,@MainV2ry,@MainV2ry,@MainV2ry,@MainV2ry,@MainV2ry,@MainV2ry&sni=main2.i-v2rayng.cam&type=grpc#CA🇨🇦
+
+vless://3e26c7ff-d2e1-40bc-98e1-1324af689857@188.114.97.0:2053?alpn=h2&encryption=none&fp=chrome&mode=gun&security=tls&serviceName=@MainV2ry,@MainV2ry,@MainV2ry,@MainV2ry,@MainV2ry,@MainV2ry,@MainV2ry,@MainV2ry,@MainV2ry,@MainV2ry,@MainV2ry,@MainV2ry,@MainV2ry&sni=website.mralpha-vpn.com&type=grpc#NL🇳🇱
+
+vless://28756369-6b62-4956-bcb6-302bf37bbb6f@shhproxy.varzesh3-cnd.site:80?encryption=none&host=SHHPROXY-V2ray.斯涅過濾器69.website&path=/?ed=2048&security=none&type=ws#CR🇨🇷
+
+vless://fafe7c29-63db-4481-af16-c5265393d211@jooin.golestan-vpn.link:2083?alpn=h2,http/1.1&encryption=none&fp=chrome&path=/ws&security=tls&sni=jooin.golestan-vpn.link&type=ws#NL🇳🇱
+
+vless://2eac0c31-23fa-461a-adfc-87d0b7512841@www.speedtest.net:443?encryption=none&fp=chrome&host=jooin.golestan-vpn.link&path=/goli&security=tls&sni=jooin.golestan-vpn.link&type=ws#CA🇨🇦
+
+vless://8d522e18-1bbd-434b-a28a-bb45a702ec68@190.93.246.241:2083?alpn=h2&encryption=none&fp=chrome&mode=gun&security=tls&serviceName=@LIGHTNING6&sni=liV2helg.LIGHTNING6.IR&type=grpc#CR🇨🇷
+
 vless://e1e07be7-28a9-43cb-f40b-290963af4cc6@www.GozargahVPN.top:443?alpn=h2,http/1.1&encryption=none&fp=chrome&host=sky.submub.sbs&path=/Telegram:,@GozargahVPN,@GozargahVPN,@GozargahVPN,@GozargahVPN,@GozargahVPN,@GozargahVPN,@GozargahVPN,@GozargahVPN,@GozargahVPN,@GozargahVPN,@GozargahVPN,@GozargahVPN,@GozargahVPN,@GozargahVPN,@GozargahVPN,@GozargahVPN,@GozargahVPN,?ed=2048&security=tls&sni=sky.submub.sbs&type=ws#US🇺🇸
 
 vless://e1e07be7-28a9-43cb-f40b-290963af4cc6@www.GozargahVPN.top:443?alpn=h2,http/1.1&encryption=none&fp=chrome&host=Agha.GorgAli.tech&path=/Telegram:,@GozargahVPN,@GozargahVPN,@GozargahVPN,@GozargahVPN,@GozargahVPN,@GozargahVPN,@GozargahVPN,@GozargahVPN,@GozargahVPN,@GozargahVPN,@GozargahVPN,@GozargahVPN,@GozargahVPN,@GozargahVPN,@GozargahVPN,@GozargahVPN,@GozargahVPN,?ed=2048&security=tls&sni=Agha.GorgAli.tech&type=ws#US🇺🇸
@@ -73,14 +89,6 @@ vless://e1e07be7-28a9-43cb-f40b-290963af4cc6@www.GozargahVPN.top:443?alpn=h2,htt
 vless://dfb18c6f-731a-4898-a1c4-cc36c6055a90@104.21.80.134:443?encryption=none&host=w2.sylarsun.eu.org&path=/?ed=2048&security=tls&sni=w2.sylarsun.eu.org&type=ws#CA🇨🇦
 
 vless://config-injectorV2@104.17.66.67:443?encryption=none&fp=firefox&mode=gun&security=tls&serviceName=@https_config_injector&sni=GinV2rayK.snaapppfree.com&type=grpc#CA🇨🇦
-
-vless://bfcfcb30-2ab0-46b1-9ed6-373a55119511@104.16.133.168:443?alpn=h2&encryption=none&fp=chrome&mode=gun&security=tls&serviceName=@Digiv2ray , @Digiv2ray , @Digiv2ray , @Digiv2ray , @Digiv2ray , @Digiv2ray , @Digiv2ray , @Digiv2ray, @Digiv2ray&servicename=@bored_vpn,@bored_vpn&sni=ConneCtion-ir-021.digiv2ray1.store&type=grpc#CA🇨🇦
-
-vless://bfcfcb30-2ab0-46b1-9ed6-373a55119511@104.19.255.51:443?alpn=h2&encryption=none&fp=chrome&mode=gun&security=tls&serviceName=@Digiv2ray , @Digiv2ray , @Digiv2ray , @Digiv2ray , @Digiv2ray , @Digiv2ray , @Digiv2ray , @Digiv2ray, @Digiv2ray&servicename=@bored_vpn,@bored_vpn&sni=ConneCtion-ir-021.digiv2ray1.store&type=grpc#CA🇨🇦
-
-vless://bfcfcb30-2ab0-46b1-9ed6-373a55119511@104.22.13.192:443?alpn=h2&encryption=none&fp=chrome&mode=gun&security=tls&serviceName=@Digiv2ray , @Digiv2ray , @Digiv2ray , @Digiv2ray , @Digiv2ray , @Digiv2ray , @Digiv2ray , @Digiv2ray, @Digiv2ray&servicename=@bored_vpn,@bored_vpn&sni=ConneCtion-ir-021.digiv2ray1.store&type=grpc#CA🇨🇦
-
-vless://bfcfcb30-2ab0-46b1-9ed6-373a55119511@104.19.54.50:443?alpn=h2&encryption=none&fp=chrome&mode=gun&security=tls&serviceName=@Digiv2ray , @Digiv2ray , @Digiv2ray , @Digiv2ray , @Digiv2ray , @Digiv2ray , @Digiv2ray , @Digiv2ray, @Digiv2ray&servicename=@bored_vpn,@bored_vpn&sni=ConneCtion-ir-021.digiv2ray1.store&type=grpc#CA🇨🇦
 
 vless://e1a928be-e289-4aef-b92e-4106fabdf42f@104.21.59.100:80?path=/?ed=2048&security=none&encryption=none&host=mahi.kosnanatfilterchi.eu.org&type=ws#CA🇨🇦
 
