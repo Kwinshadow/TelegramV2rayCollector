@@ -38,7 +38,7 @@ vless://6cc5b6b6-b3d2-4c60-8197-5defdc8d6aa1@0010-join.outline-vpn.cloud:80?path
 
 vless://e4a52f75-474e-449e-bcd2-05ea177f1403@vcv-join.outline-vpn.cloud:80?path=/&security=none&encryption=none&host=56.表维基百科16.tech&type=ws#CA🇨🇦
 
-vless://e1a928be-e289-4aef-b92e-4106fabdf42f@upload.ir:80?path=/?ed=2048&security=none&encryption=none&host=mahi.kosnanatfilterchi.eu.org&type=ws#NL🇳🇱
+vless://e1a928be-e289-4aef-b92e-4106fabdf42f@upload.ir:80?path=/?ed=2048&security=none&encryption=none&host=mahi.kosnanatfilterchi.eu.org&type=ws#US🇺🇸
 
 vless://b75b3034-36ab-4979-beae-3d02db1b11ec@cxc--join.outline-vpn.cloud:443?path=/?ed=2048&security=tls&encryption=none&host=always-online1.lp-airdrop.top&fp=randomized&type=ws&sni=always-online1.lp-airdrop.top#CA🇨🇦
 
@@ -66,6 +66,10 @@ vless://e45e1c74-937c-4dc7-b1fd-3305c64ac1cc@de.melov2ray.shop:443?path=/melov2r
 
 vless://b75b3034-36ab-4979-beae-3d02db1b11ec@test--join.outline-vpn.cloud:443?path=/?ed&security=tls&encryption=none&host=always-online1.lp-airdrop.top&fp=randomized&type=ws&sni=always-online1.lp-airdrop.top#CA🇨🇦
 
+vless://dfb18c6f-731a-4898-a1c4-cc36c6055a90@104.21.80.134:443?encryption=none&host=w2.sylarsun.eu.org&path=/?ed=2048&security=tls&sni=w2.sylarsun.eu.org&type=ws#CA🇨🇦
+
+vless://config-injectorV2@104.17.66.67:443?encryption=none&fp=firefox&mode=gun&security=tls&serviceName=@https_config_injector&sni=GinV2rayK.snaapppfree.com&type=grpc#CA🇨🇦
+
 vless://bfcfcb30-2ab0-46b1-9ed6-373a55119511@104.16.133.168:443?alpn=h2&encryption=none&fp=chrome&mode=gun&security=tls&serviceName=@Digiv2ray , @Digiv2ray , @Digiv2ray , @Digiv2ray , @Digiv2ray , @Digiv2ray , @Digiv2ray , @Digiv2ray, @Digiv2ray&servicename=@bored_vpn,@bored_vpn&sni=ConneCtion-ir-021.digiv2ray1.store&type=grpc#CA🇨🇦
 
 vless://bfcfcb30-2ab0-46b1-9ed6-373a55119511@104.19.255.51:443?alpn=h2&encryption=none&fp=chrome&mode=gun&security=tls&serviceName=@Digiv2ray , @Digiv2ray , @Digiv2ray , @Digiv2ray , @Digiv2ray , @Digiv2ray , @Digiv2ray , @Digiv2ray, @Digiv2ray&servicename=@bored_vpn,@bored_vpn&sni=ConneCtion-ir-021.digiv2ray1.store&type=grpc#CA🇨🇦
@@ -90,12 +94,6 @@ vless://d36a0662-2e6f-4092-b7f6-be8ac20aeccb@190.93.247.155:8443?encryption=none
 
 vless://6dedb3aa-0c36-4488-ba88-650f0f18453c@190.93.247.155:8880?encryption=none&host=liV2helc.善良的闪电.monster&path=/@LIGHTNING6&security=none&type=ws#CR🇨🇷
 
-vless://6cc5b6b6-b3d2-4c60-8197-5defdc8d6aa1@www.speedtest.net:80?encryption=none&host=public.列列男事的事列上赛男85.shop&path=/&security=none&type=ws#CA🇨🇦
-
-vless://Telegram--TUNELSERVER@Tunelserver.myelf.me:8443?encryption=none&mode=gun&security=tls&serviceName=@TUNELSERVER&sni=sdgsgsgfs--24--24---76---zun.mrv2ray.com&type=grpc#CA🇨🇦
-
-vless://---TUnELSERVER---@reza.mrv2ray.com:443?encryption=none&headerType=http&security=none&type=tcp#FI🇫🇮
-
 vless://e1a928be-e289-4aef-b92e-4106fabdf42f@104.21.59.100:80?path=/?ed=2048&security=none&encryption=none&host=mahi.kosnanatfilterchi.eu.org&type=ws#CA🇨🇦
 
 vless://e1a928be-e289-4aef-b92e-4106fabdf42f@104.16.229.153:80?path=/?ed=2048&security=none&encryption=none&host=mahi.kosnanatfilterchi.eu.org&type=ws#CA🇨🇦
@@ -113,8 +111,6 @@ vless://bd4711d3-961f-4421-a4c6-75818c708b30@104.22.51.162:443?security=tls&encr
 vless://bd4711d3-961f-4421-a4c6-75818c708b30@www.speedtest.net:443?security=tls&encryption=none&type=grpc&sni=kamy.FastServer.tech&fp=chrome&serviceName=@Fnet00&alpn=h2,http/1.1#CA🇨🇦
 
 vless://353dd351-8ff1-4be2-99c8-5b9852349e46@www.tozedmodeon.store:8880?path=/ZEDMODEON-JOIN-ZEDMODEON-JOIN-ZEDMODEON-BIA-ZEDMODEON&security=none&encryption=none&host=hello-man.列列上列列上列列上.tech&type=ws#CR🇨🇷
-
-vless://6cc5b6b6-b3d2-4c60-8197-5defdc8d6aa1@104.16.30.241:80?path=/&security=none&encryption=none&host=public.列列男事的事列上赛男85.shop&type=ws#CA🇨🇦
 
 vless://---Parsashonam--4-@www.speedtest.net:8080?path=/Telegram:@Parsashonam,Telegram:@Parsashonam,Telegram:@Parsashonam,Telegram:@Parsashonam,Telegram:@Parsashonam&security=none&encryption=none&host=test1.我们累了.website&type=ws#CA🇨🇦
 
