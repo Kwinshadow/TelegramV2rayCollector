@@ -16,7 +16,7 @@ vless://15c169bd-1b95-4c5e-ae44-c9e59fd80d07@fin.melov2ray.shop:8443?mode=gun&se
 
 vless://15c169bd-1b95-4c5e-ae44-c9e59fd80d07@zula.ir:8443?mode=gun&security=tls&encryption=none&fp=random&type=grpc&serviceName=@melov2ray&sni=FIn.Melov2ray.Shop#US🇺🇸
 
-vless://15c169bd-1b95-4c5e-ae44-c9e59fd80d07@www.speedtest.net:8443?mode=gun&security=tls&encryption=none&fp=random&type=grpc&serviceName=@melov2ray&sni=FIn.Melov2ray.Shop#INT🌍
+vless://15c169bd-1b95-4c5e-ae44-c9e59fd80d07@www.speedtest.net:8443?mode=gun&security=tls&encryption=none&fp=random&type=grpc&serviceName=@melov2ray&sni=FIn.Melov2ray.Shop#US🇺🇸
 
 vless://e45e1c74-937c-4dc7-b1fd-3305c64ac1cc@de.melov2ray.shop:443?path=/melov2ray&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=ws&sni=De.Melov2ray.Shop#US🇺🇸
 
@@ -28,13 +28,13 @@ vless://bda4be04-48bf-4df1-aaf2-6d42522eab6b@CDN.user.com:80?path=/?ed=2048&secu
 
 vless://b75b3034-36ab-4979-beae-3d02db1b11ec@172.67.71.160:443?path=/?ed=2048&security=tls&encryption=none&host=always-online1.lp-airdrop.top&fp=randomized&type=ws&sni=always-online1.lp-airdrop.top#US🇺🇸
 
-vless://15c169bd-1b95-4c5e-ae44-c9e59fd80d07@www.speedtest.net:8443?mode=gun&security=tls&encryption=none&fp=random&type=grpc&serviceName=@melov2ray&sni=FIn.Melov2ray.Shop#US🇺🇸
+vless://15c169bd-1b95-4c5e-ae44-c9e59fd80d07@www.speedtest.net:8443?mode=gun&security=tls&encryption=none&fp=random&type=grpc&serviceName=@melov2ray&sni=FIn.Melov2ray.Shop#INT🌍
 
 vless://b75b3034-36ab-4979-beae-3d02db1b11ec@172.67.71.160:443?path=/?ed=2048&security=tls&encryption=none&host=always-online1.lp-airdrop.top&fp=randomized&type=ws&sni=always-online1.lp-airdrop.top#US🇺🇸
 
 vless://15c169bd-1b95-4c5e-ae44-c9e59fd80d07@zula.ir:8443?mode=gun&security=tls&encryption=none&fp=random&type=grpc&serviceName=@melov2ray&sni=FIn.Melov2ray.Shop#NL🇳🇱
 
-vless://15c169bd-1b95-4c5e-ae44-c9e59fd80d07@fin.melov2ray.shop:8443?mode=gun&security=tls&encryption=none&fp=random&type=grpc&serviceName=@melov2ray&sni=FIn.Melov2ray.Shop#US🇺🇸
+vless://15c169bd-1b95-4c5e-ae44-c9e59fd80d07@fin.melov2ray.shop:8443?mode=gun&security=tls&encryption=none&fp=random&type=grpc&serviceName=@melov2ray&sni=FIn.Melov2ray.Shop#INT🌍
 
 vless://f5421bc0-4dd8-4413-8764-cd2a62890236@iran-011-join.outline-vpn.cloud:2053?path=/&security=tls&encryption=none&host=boon.joinbede.sbs&fp=chrome&type=ws&sni=boon.joinbede.sbs#INT🌍
 
@@ -60,7 +60,13 @@ vless://98d50790-31ec-47d5-b2ed-493fd21accc6@new-join-too.outline-vpn.cloud:2082
 
 vless://0ea35600-f4af-4dd1-a8b6-bb9de90a7105@per--join.outline-vpn.cloud:80?path=/NIM_VPN_ir&security=none&encryption=none&host=allgeus.cheetahmh45.shop&type=ws#INT🌍
 
-vless://15c169bd-1b95-4c5e-ae44-c9e59fd80d07@fin.melov2ray.shop:8443?mode=gun&security=tls&encryption=none&fp=random&type=grpc&serviceName=@melov2ray&sni=FIn.Melov2ray.Shop#US🇺🇸
+vless://15c169bd-1b95-4c5e-ae44-c9e59fd80d07@fin.melov2ray.shop:8443?mode=gun&security=tls&encryption=none&fp=random&type=grpc&serviceName=@melov2ray&sni=FIn.Melov2ray.Shop#INT🌍
+
+vless://16f78304-573c-4380-85e7-5d96ac816544@maz.maznet.cfd:2083?alpn=h3,h2,http/1.1&encryption=none&fp=chrome&host=join20.maznet.cfd&path=/@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet&security=tls&sni=join20.maznet.cfd&type=ws#INT🌍
+
+vless://813c1ff8-24fa-44e1-a9ef-23b2671c66e2@maz.promaznet.store:8080?encryption=none&host=maz.像鸟一样自由.online&path=/@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet&security=none&type=ws#INT🌍
+
+vless://570ea966-57bc-4922-bdb4-f0b79cc5737d@[::ffff:ac43:4675]:8443?encryption=none&mode=gun&security=tls&serviceName=@networknim&sni=fast.webobin.site&type=grpc#
 
 vless://7f09f313-b9fa-424d-f1cc-a77738ac49ae@66.filmotv.lol:443?encryption=none&headerType=none&security=none&type=tcp#IR🇮🇷
 
@@ -75,8 +81,6 @@ vless://ec908953-14b1-412f-9352-a408a7bd1d52@goldenvppn.bbbbbsdf.cfd:8443?encryp
 vless://7547422c-8022-47f6-a403-63bef9e30c44@goldenvppn.bbbbbsdf.cfd:8443?encryption=none&path=/&security=tls&sni=goldenvppn.bbbbbsdf.cfd&type=ws#NL🇳🇱
 
 vless://a200ff72-70f7-4863-f6cf-c8828f7e34a5@www.speedtest.net:2083?alpn=h2&encryption=none&fp=chrome&mode=gun&security=tls&serviceName=@FreakConfig @FreakConfig @FreakConfig @FreakConfig @FreakConfig @FreakConfig&sni=dont11neve2rg1veu1p.drapico.com&type=grpc#INT🌍
-
-vless://8889cab9-e608-419d-9aca-7469def3e40e@ukct.arvancode.eu.org:59033?encryption=none&headerType=http&host=vpnctvip.arvancode.eu.org&security=none&type=tcp#FI🇫🇮
 
 vless://6cc5b6b6-b3d2-4c60-8197-5defdc8d6aa1@104.16.30.241:80?path=/&security=none&encryption=none&host=public.列列男事的事列上赛男85.shop&type=ws#INT🌍
 
