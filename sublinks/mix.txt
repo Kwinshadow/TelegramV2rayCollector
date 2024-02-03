@@ -6,7 +6,7 @@ vless://c44d8f2f-cd29-4eac-b3da-3b9c9f255b84@104.24.176.7:8443?mode=gun&security
 
 vless://3709d9c3-0287-498a-8663-c476db86a6a3@167.235.194.0:20832?type=tcp&security=reality&pbk=ng6XQkeYA7Omk3Gbsj2famKYasixtk8mFpifFBRv8Qo&fp=firefox&sni=sourceforge.net&sid=914deebd&spx=/#DE🇩🇪
 
-vless://e1a928be-e289-4aef-b92e-4106fabdf42f@upload.ir:80?path=/?ed=2048&security=none&encryption=none&host=mahi.kosnanatfilterchi.eu.org&type=ws#CA🇨🇦
+vless://e1a928be-e289-4aef-b92e-4106fabdf42f@upload.ir:80?path=/?ed=2048&security=none&encryption=none&host=mahi.kosnanatfilterchi.eu.org&type=ws#US🇺🇸
 
 vless://e1a928be-e289-4aef-b92e-4106fabdf42f@zula.ir:80?path=/?ed=2048&security=none&encryption=none&host=mahi.kosnanatfilterchi.eu.org&type=ws#CA🇨🇦
 
@@ -118,6 +118,22 @@ vless://e1a928be-e289-4aef-b92e-4106fabdf42f@ye-join.outline-vpn.cloud:80?path=/
 
 vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@star--join.outline-vpn.cloud:443?path=/?ed=2048&security=tls&encryption=none&host=3k.pureboy.eu.org&type=ws&sni=3k.pureboy.eu.org#US🇺🇸
 
+trojan://telegram-id-directvpn@18.170.161.157:22222?alpn=http/1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#GB🇬🇧
+
+trojan://telegram-id-directvpn@54.247.187.154:22222?alpn=http/1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#IE🇮🇪
+
+trojan://telegram-id-privatevpns@18.193.96.19:22222?alpn=http/1.1&headerType=none&security=tls&sni=trojan.miwan.co.uk&type=tcp#DE🇩🇪
+
+trojan://telegram-id-privatevpns@3.70.41.199:22222?alpn=http/1.1&headerType=none&security=tls&sni=trojan.miwan.co.uk&type=tcp#DE🇩🇪
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsbFJRU3h3M2VySmhDRWxZZHdrczEy@45.159.249.7:31803#FI🇫🇮
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3bi9ORzlyNkx4d3BWNm9RSU5SUmZ3T1BmYnBvcUNtaG8xaStrcTgza1E4PQ==@16.16.79.191:8080#SE🇸🇪
+
+ss://YWVzLTEyOC1nY206cg==@110.42.99.55:1020#CN🇨🇳
+
+trojan://telegram-id-directvpn@13.53.233.16:22222?alpn=http/1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#SE🇸🇪
+
 vmess://eyJhZGQiOiIxMDQuMjAuMjMxLjMwIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJteTEudG9vdGVycy5pciIsImlkIjoiNzAyMjk4MmYtZGE0Yy00OGM5LWM2NjAtYjIzMTVhYmRjZjdlIiwibmV0Ijoid3MiLCJwYXRoIjoiXC8/ZWQ9MjA0OCIsInBvcnQiOiI4MCIsInBzIjoiVVNcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjgiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
 
 vmess://eyJhZGQiOiIxNzIuNjcuMTc0LjYzIiwiYWlkIjowLCJob3N0IjoibmluYS5ib25kIiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJuZXQiOiJ3cyIsInBhdGgiOiJcL2xpbmt2d3MiLCJwb3J0Ijo0NDMsInBzIjoiVVNcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjgiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6Im5pbmEuYm9uZCIsImFsbG93aW5zZWN1cmUiOjF9
@@ -157,22 +173,6 @@ vmess://eyJhZGQiOiI0NS4xMzEuMjExLjQ0IiwiYWlkIjoiMCIsImZwIjoiY2hyb21lIiwiaWQiOiIw
 vmess://eyJhZGQiOiIxMzAuNjEuMTExLjE2NyIsImFpZCI6IjAiLCJpZCI6IjlhN2E3NWQ0LWFiN2UtNGJhMC1iYmZhLWE0YWNkZGMxODA4NCIsIm5ldCI6InRjcCIsInBvcnQiOiIyMTg3MiIsInNjeSI6ImF1dG8iLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwicHMiOiJERVx1ZDgzY1x1ZGRlOVx1ZDgzY1x1ZGRlYSJ9
 
 vmess://eyJhZGQiOiI0Ny44OC4xMDYuNDciLCJhaWQiOiIwIiwiaG9zdCI6IjQ3Ljg4LjEwNi40NyIsImlkIjoiNTJmZTg2Y2MtZGI3Zi00M2QwLTgzZjgtN2U0YzkxYTYxZjM1IiwibmV0Ijoid3MiLCJwYXRoIjoiXC9xUlY4ek1NYWpReWV4NEtXVUJraWExdnZIIiwicG9ydCI6IjgwIiwic2N5IjoiYXV0byIsInR5cGUiOiJub25lIiwidiI6IjIiLCJwcyI6IlVTXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4In0=
-
-vless://e1a928be-e289-4aef-b92e-4106fabdf42f@104.21.59.125:80?encryption=none&host=mahi.kosnanatfilterchi.eu.org&nbsp;_@kingofilter_/?ed=2048=&path=&security=none&type=ws#US🇺🇸
-
-vless://04a93bb8-0a5b-4aa8-ab7f-31fc7adab1c1@172.67.170.103:443?encryption=none&fp=chrome&host=edgu.pureboy.eu.org&path=/?ed=2048&security=tls&sni=edgu.pureboy.eu.org&type=ws#US🇺🇸
-
-vmess://eyJhZGQiOiI0NS4xMzcuMTU1LjE5NSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI0OWM3NmJjZi0zYTU4LTQzZGYtYjFkNC0yYmZmZTljYTAzYjUiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjQ0MyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwicHMiOiJVQVx1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRlNiJ9
-
-vmess://eyJhZGQiOiIxMDQuMjEuNC42IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJnbHdlaWRmLmNmZCIsImlkIjoiMTA1MmYyNGUtN2IwOS00NWViLWIwYzUtZDg1OGViMTI0MTkyIiwibmV0Ijoid3MiLCJwYXRoIjoiXC9saW5rd3MiLCJwb3J0IjoiNDQzIiwic2N5IjoiYXV0byIsInNuaSI6Imdsd2VpZGYuY2ZkIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIiwicHMiOiJVU1x1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmOCJ9
-
-vless://d58ba7a8-0254-4921-bf07-86a61217b965@joinbede.vmessorg.online:80?encryption=none&host=vmessorg.joinbede.xn--8ey35nnyd.online&path=/&security=none&type=ws#US🇺🇸
-
-vless://d58ba7a8-0254-4921-bf07-86a61217b965@joinbede.be.vmessorg.online:80?encryption=none&host=vmessorg.joinbede.xn--8ey35nnyd.online&path=/&security=none&type=ws#US🇺🇸
-
-vless://448a7128-3f3d-40a1-9fcf-1f4ffaa08adf@joinbede.vmessorg.online:8880?encryption=none&host=vmessorg.joinbede.xn--8ey35nnyd.online&path=/Telegram:@vmessorg-Telegram:@vmessorg&security=none&type=ws#US🇺🇸
-
-vmess://eyJhZGQiOiIxNzIuNjcuMTQ3LjExNiIsImFpZCI6IjAiLCJhbHBuIjoiaDIsaHR0cFwvMS4xIiwiZnAiOiJjaHJvbWUiLCJob3N0IjoiIiwiaWQiOiI3MDZmOWQ1My1iY2YzLTQ4ZmYtOTMwMi03OGQwY2VhZTRjNGYiLCJuZXQiOiJ3cyIsInBhdGgiOiJcLyIsInBvcnQiOiIyMDgzIiwic2N5IjoiYXV0byIsInNuaSI6InR1cmtleS5yYXZlbnhlci5zaG9wIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIiwicHMiOiJVU1x1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmOCJ9
 
 vless://e4a52f75-474e-449e-bcd2-05ea177f1403@104.31.16.168:80?path=/&security=none&encryption=none&host=24.足球足子子足男子足球4.tech&type=ws#US🇺🇸
 
