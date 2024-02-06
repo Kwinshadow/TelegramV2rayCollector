@@ -20,21 +20,21 @@ vless://e512d9ba-3639-476c-888b-734d050bfed5@fri--join.outline-vpn.cloud:2052?pa
 
 vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@star--join.outline-vpn.cloud:443?path=/?ed=2048&security=tls&encryption=none&host=3k.pureboy.eu.org&type=ws&sni=3k.pureboy.eu.org#US🇺🇸
 
-vless://04a93bb8-0a5b-4aa8-ab7f-31fc7adab1c1@edgu.pureboy.eu.org:443?path=/?ed&security=tls&encryption=none&fp=chrome&type=ws&sni=edgu.pureboy.eu.org#US🇺🇸
+vless://04a93bb8-0a5b-4aa8-ab7f-31fc7adab1c1@edgu.pureboy.eu.org:443?path=/?ed&security=tls&encryption=none&fp=chrome&type=ws&sni=edgu.pureboy.eu.org#CA🇨🇦
 
-vless://a75789e4-7c1c-4450-80fe-f0bd5a7b0515@mci---join.outline-vpn.cloud:80?path=/&security=none&encryption=none&host=frankfurt.heydasip.com&type=ws#US🇺🇸
+vless://a75789e4-7c1c-4450-80fe-f0bd5a7b0515@mci---join.outline-vpn.cloud:80?path=/&security=none&encryption=none&host=frankfurt.heydasip.com&type=ws#CA🇨🇦
 
-vless://bda4be04-48bf-4df1-aaf2-6d42522eab6b@cdn.user.com:80?path=/?ed=2048&security=none&encryption=none&host=ehda.sajaditsme.com&type=ws#US🇺🇸
+vless://bda4be04-48bf-4df1-aaf2-6d42522eab6b@cdn.user.com:80?path=/?ed=2048&security=none&encryption=none&host=ehda.sajaditsme.com&type=ws#CA🇨🇦
 
 vless://e512d9ba-3639-476c-888b-734d050bfed5@fri--join.outline-vpn.cloud:2052?path=/&security=none&encryption=none&host=yhRGsP.CINiMo.ApP&type=ws#US🇺🇸
 
-vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@star--join.outline-vpn.cloud:443?path=/?ed=2048&security=tls&encryption=none&host=3k.pureboy.eu.org&type=ws&sni=3k.pureboy.eu.org#US🇺🇸
+vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@star--join.outline-vpn.cloud:443?path=/?ed=2048&security=tls&encryption=none&host=3k.pureboy.eu.org&type=ws&sni=3k.pureboy.eu.org#CA🇨🇦
 
-vless://9ae86998-777e-4e6f-9c37-8ed88a4c24eb@www.speedtest.net:443?path=/smarthome&security=tls&encryption=none&host=cdn00.cc2.maroon-shimi.ir&type=ws&sni=cdn00.cc2.maroon-shimi.ir#US🇺🇸
+vless://9ae86998-777e-4e6f-9c37-8ed88a4c24eb@www.speedtest.net:443?path=/smarthome&security=tls&encryption=none&host=cdn00.cc2.maroon-shimi.ir&type=ws&sni=cdn00.cc2.maroon-shimi.ir#CA🇨🇦
 
-vless://04a93bb8-0a5b-4aa8-ab7f-31fc7adab1c1@edgu.pureboy.eu.org:443?path=/?ed&security=tls&encryption=none&fp=chrome&type=ws&sni=edgu.pureboy.eu.org#US🇺🇸
+vless://04a93bb8-0a5b-4aa8-ab7f-31fc7adab1c1@edgu.pureboy.eu.org:443?path=/?ed&security=tls&encryption=none&fp=chrome&type=ws&sni=edgu.pureboy.eu.org#CA🇨🇦
 
-vless://a75789e4-7c1c-4450-80fe-f0bd5a7b0515@mci---join.outline-vpn.cloud:80?path=/&security=none&encryption=none&host=frankfurt.heydasip.com&type=ws#US🇺🇸
+vless://a75789e4-7c1c-4450-80fe-f0bd5a7b0515@mci---join.outline-vpn.cloud:80?path=/&security=none&encryption=none&host=frankfurt.heydasip.com&type=ws#CA🇨🇦
 
 vless://e4a52f75-474e-449e-bcd2-05ea177f1403@mcis-join.outline-vpn.cloud:80?path=/&security=none&encryption=none&host=dhdjd79b.表维基百科16.tech&type=ws#CA🇨🇦
 
@@ -77,12 +77,6 @@ vless://7d9d2eae-a2c5-44df-b30d-b98598007877@zula.ir:443?alpn=h2,http/1.1&encryp
 vless://VPNCUSTOMIZE-VPNCUSTOMIZE@162.159.196.138:8080?encryption=none&host=VPNCUSTOMIZE-V2ray.列列男事的事列上赛男78.tech&path=/?ed=2048&security=none&type=ws#CA🇨🇦
 
 vless://VPNCUSTOMIZE-VPNCUSTOMIZE@104.24.177.7:8443?alpn=@mehrosaboran,@mehrosaboran&encryption=none&fp=chrome&mode=gun&security=tls&serviceName=@VPNCUSTOMIZE,@VPNCUSTOMIZE&sni=gr-V2rayng.vpncustomize.com&type=grpc#CA🇨🇦
-
-vless://For-Freedom@lol.ps:443?alpn=h2,http/1.1&encryption=none&fp=chrome&host=apps.x4azadi.com&path=X4azadi?ed=1024&security=tls&sni=apps.x4azadi.com&type=ws#CA🇨🇦
-
-vless://X4azadi-mci@lol.ps:8880?encryption=none&host=mci.嗚嗚嗚男.tech&path=X4azadi?ed=2048&security=none&type=ws#CA🇨🇦
-
-vless://For-Freedom@lol.ps:443?alpn=h2,http/1.1&encryption=none&fp=chrome&host=apps.x4azadi.com&path=X4azadi?ed=1024&security=tls&sni=apps.x4azadi.com&type=ws=@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN#CA🇨🇦
 
 vless://347f8a8e-db25-4208-8168-c58240ac8f50@104.17.45.62:80?path=/@Vpn_Mikey،@Vpn_Mikey&security=none&encryption=none&host=MCI-Vpn-Mikey.欢迎访欢迎访问中.website&type=ws#CA🇨🇦
 
