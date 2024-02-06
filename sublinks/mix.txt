@@ -28,7 +28,7 @@ vless://6bc2a57c-a9ad-480d-9153-63bcc56194c8@zula.ir:2096?mode=gun&security=tls&
 
 vless://For-Freedom@lol.ps:443?path=X4azadi?ed&security=tls&encryption=none&alpn=h2,http/1.1&host=apps.x4azadi.com&fp=chrome&type=ws&sni=apps.x4azadi.com#US🇺🇸
 
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@mtn---irancell---join.outline-vpn.cloud:2087?path=/freecodes&security=tls&encryption=none&host=edgood.king361.cf&type=ws&sni=edgood.king361.cf#CA🇨🇦
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@mtn---irancell---join.outline-vpn.cloud:2087?path=/freecodes&security=tls&encryption=none&host=edgood.king361.cf&type=ws&sni=edgood.king361.cf#US🇺🇸
 
 vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@mtn--join.outline-vpn.cloud:443?path=/?ed=2048&security=tls&encryption=none&host=3k.pureboy.eu.org&type=ws&sni=3k.pureboy.eu.org#US🇺🇸
 
@@ -36,9 +36,9 @@ vless://bda4be04-48bf-4df1-aaf2-6d42522eab6b@cdn.user.com:80?path=/?ed=2048&secu
 
 vless://e512d9ba-3639-476c-888b-734d050bfed5@fri--join.outline-vpn.cloud:2052?path=/&security=none&encryption=none&host=yhRGsP.CINiMo.ApP&type=ws#US🇺🇸
 
-vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@star--join.outline-vpn.cloud:443?path=/?ed=2048&security=tls&encryption=none&host=3k.pureboy.eu.org&type=ws&sni=3k.pureboy.eu.org#US🇺🇸
+vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@star--join.outline-vpn.cloud:443?path=/?ed=2048&security=tls&encryption=none&host=3k.pureboy.eu.org&type=ws&sni=3k.pureboy.eu.org#CA🇨🇦
 
-vless://04a93bb8-0a5b-4aa8-ab7f-31fc7adab1c1@edgu.pureboy.eu.org:443?path=/?ed&security=tls&encryption=none&fp=chrome&type=ws&sni=edgu.pureboy.eu.org#US🇺🇸
+vless://04a93bb8-0a5b-4aa8-ab7f-31fc7adab1c1@edgu.pureboy.eu.org:443?path=/?ed&security=tls&encryption=none&fp=chrome&type=ws&sni=edgu.pureboy.eu.org#CA🇨🇦
 
 vless://a75789e4-7c1c-4450-80fe-f0bd5a7b0515@mci---join.outline-vpn.cloud:80?path=/&security=none&encryption=none&host=frankfurt.heydasip.com&type=ws#CA🇨🇦
 
@@ -52,7 +52,7 @@ vless://9ae86998-777e-4e6f-9c37-8ed88a4c24eb@www.speedtest.net:443?path=/smartho
 
 vless://04a93bb8-0a5b-4aa8-ab7f-31fc7adab1c1@edgu.pureboy.eu.org:443?path=/?ed&security=tls&encryption=none&fp=chrome&type=ws&sni=edgu.pureboy.eu.org#CA🇨🇦
 
-vless://a75789e4-7c1c-4450-80fe-f0bd5a7b0515@mci---join.outline-vpn.cloud:80?path=/&security=none&encryption=none&host=frankfurt.heydasip.com&type=ws#US🇺🇸
+vless://a75789e4-7c1c-4450-80fe-f0bd5a7b0515@mci---join.outline-vpn.cloud:80?path=/&security=none&encryption=none&host=frankfurt.heydasip.com&type=ws#CA🇨🇦
 
 vmess://eyJhZGQiOiJiYS0tam9pbi5vdXRsaW5lLXZwbi5jbG91ZCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0Ijoic2VydmVyNi5iZWhlc2h0YmFuZWguY29tIiwiaWQiOiJjNTYyNmIxNi00YzU3LTRkN2UtODY2OC02YjFlY2RhNWM4YjUiLCJuZXQiOiJ3cyIsInBhdGgiOiJcLyIsInBvcnQiOiI4ODgwIiwicHMiOiJDQVx1ZDgzY1x1ZGRlOFx1ZDgzY1x1ZGRlNiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==
 
@@ -96,6 +96,22 @@ vmess://eyJhZGQiOiJzZXJ2ZXIzLmJlaGVzaHRiYW5laC5jb20iLCJhaWQiOiIwIiwiYWxwbiI6IiIs
 
 vmess://eyJhZGQiOiJzZXJ2ZXIxMC5iZWhlc2h0YmFuZWguY29tIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjY2ZDRhZjFjLWZjYzMtNDc5Yi04NDdjLTMyNjAyNTNlMWZhYSIsIm5ldCI6IndzIiwicGF0aCI6IlwvIiwicG9ydCI6Ijg4ODAiLCJwcyI6IkNBXHVkODNjXHVkZGU4XHVkODNjXHVkZGU2Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
 
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.49.62.108:22222?encryption=none&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws&security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws#SE🇸🇪
+
+vless://bda4be04-48bf-4df1-aaf2-6d42522eab6b@172.67.38.130:80?encryption=none&host=ehda.sajaditsme.com&path=/?ed=2048&type=ws#CA🇨🇦
+
+vless://dd37b4dd-19f1-4bf2-db29-2d957c4146ae@64.176.164.138:443?encryption=none&fp=firefox&mode=gun&pbk=wSeHOEe3TaFfX4MafiImkGV1Q2Sj3C8pCpr1khLRnCc&security=reality&serviceName=&sni=microsoft.com&spx=/@ELiV2RAY-@ELiV2RAY-@ELiV2RAY-@ELiV2RAY&type=grpc#IL🇮🇱
+
+vless://e4527384-4f20-4378-95dc-403996f12588@128.140.101.103:2087?encryption=none&fp=firefox&mode=gun&pbk=GicA8fPbS9LksttApqa8gzOstomRFncKNoYGLCOqQF8&security=reality&serviceName=&sid=fc805835&sni=dash.cloudflare.com&spx=/@ELiV2RAY-@ELiV2RAY-@ELiV2RAY-@ELiV2RAY&type=grpc#DE🇩🇪
+
+vless://5a8528e3-d1d3-42a9-c13f-b5f9a947f06d@190.93.244.103:2083?alpn=h2&encryption=none&fp=chrome&mode=gun&security=tls&serviceName=@LIGHTNING6&sni=liV2rayd.xn--mgbg0fka44dhgc.com&type=grpc#US🇺🇸
+
+vless://2e262584-092d-4d20-e1ec-6b3bc4368c2a@190.93.247.155:8880?encryption=none&host=liV2rayb.善良的闪电.monster&path=/@LIGHTNING6&security=none&type=ws#CR🇨🇷
+
+vless://f5daa9f0-eb6b-4ce0-a4ab-4e99339ed42d@37.32.7.236:4444?encryption=none&headerType=http&security=none&type=tcp#IR🇮🇷
+
+vless://afe5f5f2-4ad4-4047-ab62-5c9506f8cca1@mc5.alwaysbeyonders.sbs:2086?headerType=http&host=telewebion.com,sourceforge.net&path=/&security=none&type=tcp#FI🇫🇮
+
 vless://For-Freedom@lol.ps:443?alpn=h2,http/1.1&encryption=none&fp=chrome&host=apps.x4azadi.com&path=X4azadi?ed&security=tls&sni=apps.x4azadi.com&type=ws#CA🇨🇦
 
 vless://bb5490a2-883d-47a6-e418-badade93ccba@reryretjetjethe.ryeunegerwgbnwerghwrhrw.erhente.rovamask.top:443?encryption=none&fp=chrome&mode=multi&pbk=RtItUBzRjrYg054MeFKTBv4fpsN358uECTGeNTyNex0&security=reality&serviceName=///v2raymask&sid=315b&sni=dash.cloudflare.com&spx=/&type=grpc#DE🇩🇪
@@ -106,7 +122,7 @@ vmess://eyJhZGQiOiIxMDQuMjEuMjAuMTU1IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6InNhZmFy
 
 vless://5a8528e3-d1d3-42a9-c13f-b5f9a947f06d@190.93.246.241:2083?alpn=h2&encryption=none&fp=chrome&mode=gun&security=tls&serviceName=@LIGHTNING6&sni=liV2rayc.xn--mgbg0fka44dhgc.com&type=grpc#CR🇨🇷
 
-vless://0a487bbc-1d66-43f2-f7ec-525f60c54b1b@LIGHTNING6-joinbede.liV2ray.xyz:2083?alpn=h2&encryption=none&fp=chrome&mode=gun&security=tls&serviceName=@LIGHTNING6&sni=liV2rayf.xn--mgbg0fka44dhgc.com&type=grpc#CR🇨🇷
+vless://0a487bbc-1d66-43f2-f7ec-525f60c54b1b@LIGHTNING6-joinbede.liV2ray.xyz:2083?alpn=h2&encryption=none&fp=chrome&mode=gun&security=tls&serviceName=@LIGHTNING6&sni=liV2rayf.xn--mgbg0fka44dhgc.com&type=grpc#US🇺🇸
 
 vless://0a487bbc-1d66-43f2-f7ec-525f60c54b1b@LIGHTNING6-joinbede.liV2ray.xyz:2083?alpn=h2&encryption=none&fp=chrome&mode=gun&security=tls&serviceName=@LIGHTNING6&sni=liV2rayg.xn--mgbg0fka44dhgc.com&type=grpc#CR🇨🇷
 
@@ -135,22 +151,6 @@ vless://b841c0e0-89f9-4291-9ca9-4b1cb14639a0@198.41.192.118:443?alpn=h2,http/1.1
 vless://352a3677-9d4a-4d5c-9c39-17a7e0db1273@www.speedtest.net:443?encryption=none&host=joooin.golestan-vpn.link&path=/goli&security=tls&sni=joooin.golestan-vpn.link&type=ws#CA🇨🇦
 
 vless://b841c0e0-89f9-4291-9ca9-4b1cb14639a0@172.67.186.42:443?alpn=h2,http/1.1&encryption=none&fp=chrome&mode=gun&security=tls&serviceName=@ipV2Ray&sni=dm.ipV2Ray2.shop&type=grpc#CA🇨🇦
-
-trojan://telegram-id-directvpn@3.99.93.0:22222?alpn=http/1.1&headerType=none&security=tls&sni=trojan.miwan.co.uk&type=tcp#CA🇨🇦
-
-trojan://telegram-id-privatevpns@35.181.208.108:22222?alpn=http/1.1&headerType=none&security=tls&sni=trojan.miwan.co.uk&type=tcp#FR🇫🇷
-
-trojan://telegram-id-privatevpns@13.36.181.146:22222?alpn=http/1.1&headerType=none&security=tls&sni=trojan.miwan.co.uk&type=tcp#FR🇫🇷
-
-vless://e2b7f6cf-286d-4ae7-838d-c85558b9c00f@138.68.70.18:443?encryption=none&host=cd.sepanta.click&path=/&security=tls&sni=cd.sepanta.click&type=ws#DE🇩🇪
-
-vless://VPNCUSTOMIZE-VPNCUSTOMIZE@190.93.247.155:8443?alpn=@mehrosaboran,@mehrosaboran&encryption=none&fp=chrome&mode=gun&security=tls&serviceName=@VPNCUSTOMIZE,@VPNCUSTOMIZE&sni=gr-V2rayng.vpncustomize.com&type=grpc#CR🇨🇷
-
-vless://0bdb1407-0554-4834-97cd-ba3487af59b5@190.93.247.155:2095?encryption=none&host=hi-sis.列列上列列上列列上.tech&path=@ZEDMODEON-ZEDMODEON-JOINZEDMODEON-@ZEDMODEON&security=none&type=ws#CR🇨🇷
-
-vless://b0bd8f69-f1bb-463b-9871-9c7430d061a3@198.244.211.128:26660?encryption=none&fp=chrome&mode=gun&pbk=HtcttM7t1OcuHNAtwnKH6XRmHyromTAy2yLapp9vamM&security=reality&serviceName=&sid=00bfc73e&sni=ea.com&type=grpc#GB🇬🇧
-
-vless://7d9d2eae-a2c5-44df-b30d-b98598007877@zula.ir:443?alpn=h2,http/1.1&encryption=none&fp=chrome&mode=gun&security=tls&serviceName=Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER&sni=ip-49.arashcamera.ir&type=grpc#NL🇳🇱
 
 vmess://eyJhZGQiOiJzZXJ2ZXIyLmJlaGVzaHRiYW5laC5jb20iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6InNlcnZlcjIuYmVoZXNodGJhbmVoLmNvbSIsImlkIjoiODQyMGVlMzgtNGNmNi00ZDc5LWE5ZWMtMjczMTIwN2NmODNhIiwibmV0Ijoid3MiLCJwYXRoIjoiXC8iLCJwb3J0IjoiODg4MCIsInBzIjoiQ0FcdWQ4M2NcdWRkZThcdWQ4M2NcdWRkZTYiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
 
