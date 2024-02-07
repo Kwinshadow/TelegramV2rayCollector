@@ -64,6 +64,10 @@ vless://e4a52f75-474e-449e-bcd2-05ea177f1403@mcis-join.outline-vpn.cloud:80?path
 
 vless://e4a52f75-474e-449e-bcd2-05ea177f1403@xn--21-pv2cn3nz8d5o7an4zda455qi36a.tech:80?path=/&security=none&encryption=none&host=dbdid89lh.事出场次以运7.tech&type=ws#NL🇳🇱
 
+vless://b404b4e8-9164-4c7e-acbd-ea8ec0aee464@www.RxV2ray.sbs:2087?encryption=none&fp=chrome&mode=gun&security=tls&serviceName=@RxV2ray,@RxV2ray,@RxV2ray,@RxV2ray,@RxV2ray,@RxV2ray,@RxV2ray,@RxV2ray,@RxV2ray&sni=www.RxV2ray.sbs&type=grpc#NL🇳🇱
+
+vless://e2ad77a5-1447-4a77-9524-19a47a832f55@104.24.176.7:8443?alpn=h2,http/1.1&encryption=none&mode=gun&security=tls&serviceName=&sni=chtest.puzzlemobile.info&type=grpc#CA🇨🇦
+
 vless://428290c7-1297-46d8-9ea3-cbc4ca62797d@check-host.net:443?alpn=h2,http/1.1&encryption=none&mode=gun&security=tls&serviceName=@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray&sni=tel.ArV2ray.host&type=grpc#NL🇳🇱
 
 vless://f0f3f5ce-527e-4071-8cc0-9cc3f064f4af@www.speedtest.net:443?alpn=h2,http/1.1&encryption=none&fp=firefox&mode=gun&security=tls&serviceName=@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray&sni=www.ArV2ray.host&type=grpc#CA🇨🇦
@@ -73,10 +77,6 @@ vless://-ArV2ray--ArV2ray--ArV2ray-@check-host.net:80?encryption=none&host=l.arv
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.60.141.69:22222?encryption=none&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws&security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws#CA🇨🇦
 
 vless://---Telegram-Parsashonam--2-@www.speedtest.net:8080?encryption=none&host=Parsashonam.我们累了.tech&path=/&security=none&type=ws#CA🇨🇦
-
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@34.231.213.238:22222?encryption=none&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws&security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws#US🇺🇸
-
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.183.159.238:22222?encryption=none&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws&security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws#CA🇨🇦
 
 vless://a93eacd2-2852-4d84-9355-fd1e6477dccc@104.20.109.195:80?path=/?ed=2048&security=none&encryption=none&host=tunn.free.hr&type=ws#CA🇨🇦
 
