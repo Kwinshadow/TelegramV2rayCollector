@@ -16,9 +16,9 @@ vless://b75b3034-36ab-4979-beae-3d02db1b11ec@test--join.outline-vpn.cloud:443?pa
 
 vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@mtn-----join.outline-vpn.cloud:443?path=/?ed=2048&security=tls&encryption=none&host=3k.pureboy.eu.org&type=ws&sni=3k.pureboy.eu.org#US🇺🇸
 
-vless://f4cec6cc-6177-423c-90f8-2ad9f0dd996b@iranserver.com:2096?path=/bShq2qgG8GnX8zqm/?ed=2048&security=tls&encryption=none&host=vpnct.arvancode.eu.org&fp=chrome&type=ws&sni=vpnct.arvancode.eu.org#US🇺🇸
+vless://f4cec6cc-6177-423c-90f8-2ad9f0dd996b@iranserver.com:2096?path=/bShq2qgG8GnX8zqm/?ed=2048&security=tls&encryption=none&host=vpnct.arvancode.eu.org&fp=chrome&type=ws&sni=vpnct.arvancode.eu.org#INT🌍
 
-vless://a75789e4-7c1c-4450-80fe-f0bd5a7b0515@mci---join.outline-vpn.cloud:80?path=/&security=none&encryption=none&host=frankfurt.heydasip.com&type=ws#US🇺🇸
+vless://a75789e4-7c1c-4450-80fe-f0bd5a7b0515@mci---join.outline-vpn.cloud:80?path=/&security=none&encryption=none&host=frankfurt.heydasip.com&type=ws#INT🌍
 
 vless://a28d5f6c-66a8-4d07-be9f-4414088aef59@172.67.75.172:8443?path=/?ed=2048&security=tls&encryption=none&host=0204ouk1.mmad.sbs&fp=chrome&type=ws&sni=0204ouk1.mmad.sbs#US🇺🇸
 
@@ -48,15 +48,9 @@ vless://For-Freedom@104.18.25.92:443?path=X4azadi?ed&security=tls&encryption=non
 
 vless://a28d5f6c-66a8-4d07-be9f-4414088aef59@172.67.75.172:8443?path=/?ed=2048&security=tls&encryption=none&host=0204ouk1.mmad.sbs&fp=chrome&type=ws&sni=0204ouk1.mmad.sbs#US🇺🇸
 
-vless://b62cd027-8773-48b8-b283-e4592e767417@nnew----join.outline-vpn.cloud:80?path=/?ed&security=none&encryption=none&host=googleapis.com&type=ws#SE🇸🇪
-
-vless://6bc2a57c-a9ad-480d-9153-63bcc56194c8@zula.ir:2096?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=&sni=gul5.ialbion.com#NL🇳🇱
-
-vless://For-Freedom@lol.ps:443?path=X4azadi?ed&security=tls&encryption=none&alpn=h2,http/1.1&host=apps.x4azadi.com&fp=chrome&type=ws&sni=apps.x4azadi.com#INT🌍
-
 vless://c4e46f2c-5fa4-4bf2-b8d4-69bb1544cee0@104.16.122.175:80?path=/backup&security=none&encryption=none&host=Gio4GI.TahaRAT.App&type=ws#INT🌍
 
-vless://0394ed9a-35e3-4b35-b2a7-d464b6360e55@snaptik.app:2087?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=@beris_one,@beris_one,@beris_one,@beris_one,@beris_one,@beris_one,@beris_one,@beris_one,@beris_one,@beris_one,@beris_one,@beris_one,@beris_one,@beris_one,@beris_one,@beris_one,@beris_one,@beris_one,&sni=low4.lowswol.com#US🇺🇸
+vless://0394ed9a-35e3-4b35-b2a7-d464b6360e55@snaptik.app:2087?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=@beris_one,@beris_one,@beris_one,@beris_one,@beris_one,@beris_one,@beris_one,@beris_one,@beris_one,@beris_one,@beris_one,@beris_one,@beris_one,@beris_one,@beris_one,@beris_one,@beris_one,@beris_one,&sni=low4.lowswol.com#INT🌍
 
 vless://b496ab0f-e8dc-4931-b555-83c9bfecac7d@157.245.43.54:7392?mode=gun&security=none&encryption=none&type=grpc&serviceName=7392vless#GB🇬🇧
 
