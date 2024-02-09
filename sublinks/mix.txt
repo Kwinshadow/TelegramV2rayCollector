@@ -34,7 +34,7 @@ vless://9e6e8844-5eca-4e7e-b02e-235234521658@fi-01.allhub.ltd:443?mode=gun&secur
 
 vless://26124ad5-8c5a-40a7-b7d0-3f0dafd75420@[2001:41d0:701:1100::8f5]:2083?security=reality&encryption=none&pbk=4nRhtmocfhQuIc46ET5rTSvz7NCz3o77DpzVmJHPmQo&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=reviews.androidcentral.com&sid=532245BA#INT🌍
 
-vless://97e54600-c205-4903-a228-b35f074f1f4e@parspack.com:443?path=/cdn&security=tls&encryption=none&host=de-01.allhub.ltd&fp=chrome&type=ws&sni=german-adsl.allhub.ltd#US🇺🇸
+vless://97e54600-c205-4903-a228-b35f074f1f4e@parspack.com:443?path=/cdn&security=tls&encryption=none&host=de-01.allhub.ltd&fp=chrome&type=ws&sni=german-adsl.allhub.ltd#CA🇨🇦
 
 vless://18e6f8cf-4f19-4408-9b24-9477e7900796@[2001:41d0:701:1100::8335]:2083?security=reality&encryption=none&pbk=OtpZFw9i0RX2a1qaD0xkUgEYuMa4LAY94MgRxqcx-jk&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=gaming.androidcentral.com&sid=BD34E983#INT🌍
 
@@ -86,13 +86,21 @@ vless://49ac899d-76ac-4189-fbd1-5880ef54dfe1@medium.com:443?path=/&security=tls&
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphNTAxYzgyYzcyZDc5MGI4@119.23.104.213:8474#CN🇨🇳
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.samanehha.co:443#GB🇬🇧
+vless://e6432c55-ed72-4beb-a0f3-d16edfb59b60@test-fr-02a.allhub.info:443?path=/DnbYOq80E9odVd8IxvdKowel&security=tls&encryption=none&alpn=http/1.1&host=test-fr-02a.allhub.info&fp=chrome&type=ws&sni=test-fr-02a.allhub.info#FR🇫🇷
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#GB🇬🇧
+vless://51905fd3-29de-4b4e-b351-83542f1d5390@parspack.com:443?path=/?ed=2048&security=tls&encryption=none&alpn=h2,http/1.1&host=biA.ALlhub.LTD&fp=random&type=ws&sni=Bia.alLhub.Ltd#CA🇨🇦
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#GB🇬🇧
+vless://51905fd3-29de-4b4e-b351-83542f1d5390@parspack.com:443?path=/?ed=2048&security=tls&encryption=none&alpn=h2,http/1.1&host=biA.ALlhub.LTD&fp=random&type=ws&sni=Bia.alLhub.Ltd#CA🇨🇦
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.samanehha.co:443#GB🇬🇧
+vless://5cba32d1-1de5-43cc-83aa-dd6acccb5386@parspack.com:443?path=/cdn&security=tls&encryption=none&alpn=h2,http/1.1&host=de-07p.allhub.ltd&fp=randomized&type=ws&sni=parspack.allhub.ltd#CA🇨🇦
+
+vless://18e6f8cf-4f19-4408-9b24-9477e7900796@[2001:41d0:701:1100::8335]:2083?security=reality&encryption=none&pbk=OtpZFw9i0RX2a1qaD0xkUgEYuMa4LAY94MgRxqcx-jk&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=gaming.androidcentral.com&sid=BD34E983#INT🌍
+
+vless://97e54600-c205-4903-a228-b35f074f1f4e@parspack.com:443?path=/cdn&security=tls&encryption=none&host=de-01.allhub.ltd&fp=chrome&type=ws&sni=german-adsl.allhub.ltd#CA🇨🇦
+
+vless://26124ad5-8c5a-40a7-b7d0-3f0dafd75420@[2001:41d0:701:1100::8f5]:2083?security=reality&encryption=none&pbk=4nRhtmocfhQuIc46ET5rTSvz7NCz3o77DpzVmJHPmQo&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=reviews.androidcentral.com&sid=532245BA#INT🌍
+
+vless://9e6e8844-5eca-4e7e-b02e-235234521658@fi-01.allhub.ltd:443?mode=gun&security=reality&encryption=none&pbk=MZdzrFI1TPMrqDmtAuEsQjGGe0scA9mmMSWevCY33h4&fp=randomized&type=grpc&serviceName=&sni=www.speedtest.net&sid=6c92dc78#FI🇫🇮
 
 vmess://eyJpZCI6IjEyMDA5ZTU3LTZmZDgtNDZkNi05NGFmLTUzOTUxNGE3ZTdjNyIsImZwIjoiIiwiYWRkIjoiMTkwLjkzLjI0Ni4xMzciLCJuZXQiOiJ3cyIsInBzIjoiQ1JcdWQ4M2NcdWRkZThcdWQ4M2NcdWRkZjciLCJzbmkiOiJzNTY3ODU0My5zaGFyZ2guc2hvcCIsInBhdGgiOiJcLyIsInRscyI6InRscyIsInNjeSI6ImF1dG8iLCJ0eXBlIjoiIiwiaG9zdCI6InMxLnNoYXJnaC5zaG9wIiwiYWxwbiI6ImgyLGh0dHBcLzEuMSIsInYiOiIyIiwicG9ydCI6IjIwOTYifQ==
 
@@ -133,22 +141,6 @@ vmess://eyJhZGQiOiIxNzIuNjcuMjA2Ljk0IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6ImNocm9t
 vmess://eyJ2IjoiMiIsInBzIjoiQ0FcdWQ4M2NcdWRkZThcdWQ4M2NcdWRkZTYiLCJhZGQiOiIxNzIuNjcuMjguMjQiLCJwb3J0IjoiODA4MCIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJ0bHMiOiIiLCJpZCI6ImMxOGJlYjg1LWM2N2ItNDZlZC1iOGNjLTRjYmZlYWU1ZjE5NCIsInNuaSI6IiIsImhvc3QiOiJldTEub3BlbnhhaS5saW5rIiwicGF0aCI6IlwvP2VkPTIwNDgifQ==
 
 vmess://eyJhZGQiOiIxMDQuMTguMjAyLjI1MCIsImFpZCI6IjAiLCJob3N0IjoiZXJmYW5uZXdmcmVlbm9kZXMudmRtbXN3eXptemlnb252bmprNDQzLndvcmtlcnMuZGV2IiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJuZXQiOiJ3cyIsInBhdGgiOiJcL25pbmEuYm9uZFwvbGlua3Z3cyIsInBvcnQiOiIyMDgyIiwic2N5IjoiYXV0byIsInR5cGUiOiJub25lIiwidiI6IjIiLCJwcyI6IkNBXHVkODNjXHVkZGU4XHVkODNjXHVkZGU2In0=
-
-vmess://eyJhZGQiOiIxMjcuMC4wLjEiLCJhaWQiOiIwIiwiaG9zdCI6IiIsImlkIjoiY2JhYWNiYS1hY2JhLWJjYWEtZGFiYy1hYmJhYWNjY2JjYmEiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6ODA4MCwicHMiOiJJTlRcdWQ4M2NcdWRmMGQiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
-
-vmess://eyJhZGQiOiI1MS44MS4xNDkuMTUxIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjlmZDExMTEwLTYyNWQtNGE5Ni05ZTNhLTA5MDYyNjEzYTA5OCIsIm5ldCI6InRjcCIsInBhdGgiOiJcLyIsInBvcnQiOiIyNzk3OCIsInBzIjoiVVNcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjgiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiJ9
-
-vmess://eyJhZGQiOiI5NC4xMzEuOTkuOCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI4MWIyYjYzMC04YjZhLTQwNGYtYjk5Ni1iMTJmMTNkYjU3ODYiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjQ3MTgyIiwicHMiOiJDSFx1ZDgzY1x1ZGRlOFx1ZDgzY1x1ZGRlZCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
-
-vmess://eyJhZGQiOiIxNDIuOTMuMTQ0Ljk5IiwiYWlkIjoiMCIsImlkIjoiOWMwNTBhODYtZDYxMi00OGYxLWVjMzItZTU3M2RmMDhhMWI3IiwibmV0IjoidGNwIiwicG9ydCI6IjMzODkiLCJzY3kiOiJhdXRvIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiIsInBzIjoiQ0FcdWQ4M2NcdWRkZThcdWQ4M2NcdWRkZTYifQ==
-
-vmess://eyJhZGQiOiIxMDQuMjEuMzAuMjU0IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJuaW5hLmJvbmQiLCJpZCI6IjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsIm5ldCI6IndzIiwicGF0aCI6IlwvbGlua3Z3cyIsInBvcnQiOiI0NDMiLCJwcyI6IkNBXHVkODNjXHVkZGU4XHVkODNjXHVkZGU2Iiwic2N5IjoiYXV0byIsInNuaSI6Im5pbmEuYm9uZCIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9
-
-vmess://eyJ2IjoiMiIsInBzIjoiVVNcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjgiLCJhZGQiOiIxNzIuNjQuMTk2LjI0NiIsInBvcnQiOiI4MDgwIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsInRscyI6IiIsImlkIjoiYzE4YmViODUtYzY3Yi00NmVkLWI4Y2MtNGNiZmVhZTVmMTk0Iiwic25pIjoiIiwiaG9zdCI6ImV1MS5vcGVueGFpLmxpbmsiLCJwYXRoIjoiXC8/ZWQ9MjA0OCJ9
-
-vmess://eyJhZGQiOiIxMDQuMjEuODIuMTgzIiwiYWlkIjowLCJob3N0Ijoic2VydmVyMjYuYmVoZXNodGJhbmVoLmNvbSIsImlkIjoiNWE3MDIxZTAtMjZiNC00NWQ2LWIxNzUtZmU1NTE2MDFjYTk3IiwibmV0Ijoid3MiLCJwYXRoIjoiXC8iLCJwb3J0Ijo4ODgwLCJwcyI6IkNBXHVkODNjXHVkZGU4XHVkODNjXHVkZGU2IiwidGxzIjoiIiwidHlwZSI6ImF1dG8iLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiIifQ==
-
-vmess://eyJhZGQiOiIxNzIuNjcuMTMzLjc4IiwiYWlkIjoiMCIsImFscG4iOiIiLCJob3N0IjoidjJyYXkuaWJnZncudG9wIiwiaWQiOiI1YTVhYWRjMi04ODM0LTRlN2ItODk1Yi03NGFkMTU1ZmJmMjQiLCJuZXQiOiJ3cyIsInBhdGgiOiJcL3ZWTlVKT2diXC8iLCJwb3J0IjoiMjA1MyIsInBzIjoiQ0FcdWQ4M2NcdWRkZThcdWQ4M2NcdWRkZTYiLCJzY3kiOiJhdXRvIiwic25pIjoidjJyYXkuaWJnZncudG9wIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=
 
 vless://c4e46f2c-5fa4-4bf2-b8d4-69bb1544cee0@104.16.122.175:80?path=/backup&security=none&encryption=none&host=Gio4GI.TahaRAT.App&type=ws#CA🇨🇦
 
