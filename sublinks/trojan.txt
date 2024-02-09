@@ -1,2 +1,10 @@
- trojan://qj1Dz1CJmFQRhWr1SP80aA@172.67.204.84:443?security=tls&serviceName=443trojan&sni=cdn-21.gsmxreality.com&type=grpc#CA🇨🇦
+ trojan://telegram-id-privatevpns@35.177.238.121:22222?alpn=http/1.1&headerType=none&security=tls&sni=trojan.miwan.co.uk&type=tcp#GB🇬🇧
+
+trojan://telegram-id-directvpn@15.236.112.227:22222?alpn=http/1.1&headerType=none&security=tls&sni=trojan.miwan.co.uk&type=tcp#FR🇫🇷
+
+trojan://telegram-id-privatevpns@15.237.80.92:22222?alpn=http/1.1&headerType=none&security=tls&sni=trojan.miwan.co.uk&type=tcp#FR🇫🇷
+
+trojan://telegram-id-privatevpns@18.170.187.167:22222?alpn=http/1.1&headerType=none&security=tls&sni=trojan.miwan.co.uk&type=tcp#GB🇬🇧
+
+trojan://qj1Dz1CJmFQRhWr1SP80aA@172.67.204.84:443?security=tls&serviceName=443trojan&sni=cdn-21.gsmxreality.com&type=grpc#CA🇨🇦
 
