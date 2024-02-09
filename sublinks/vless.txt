@@ -24,7 +24,7 @@ vless://05b5be13-d0d9-4a4f-9e25-22c3c49b7d9a@parspack.com:443?path=/cdn&security
 
 vless://0e81c1ad-e124-4a2d-94b3-fe0ffd1ad4be@parspack.com:443?path=/cdn&security=tls&encryption=none&alpn=http/1.1&host=de-03.allhub.ltd&fp=chrome&type=ws&sni=parspack.allhub.ltd#US🇺🇸
 
-vless://0e81c1ad-e124-4a2d-94b3-fe0ffd1ad4be@all.allhub.ltd:443?path=/cdn&security=tls&encryption=none&alpn=http/1.1&host=de-03.allhub.ltd&fp=chrome&type=ws&sni=parspack.allhub.ltd#US🇺🇸
+vless://0e81c1ad-e124-4a2d-94b3-fe0ffd1ad4be@all.allhub.ltd:443?path=/cdn&security=tls&encryption=none&alpn=http/1.1&host=de-03.allhub.ltd&fp=chrome&type=ws&sni=parspack.allhub.ltd#CA🇨🇦
 
 vless://0e81c1ad-e124-4a2d-94b3-fe0ffd1ad4be@all.allhub.ltd:443?path=/cdn&security=tls&encryption=none&alpn=http/1.1&host=de-03.allhub.ltd&fp=chrome&type=ws&sni=parspack.allhub.ltd#US🇺🇸
 
@@ -34,7 +34,7 @@ vless://15a5f488-032c-46df-bbed-3d8144cc559b@[2a01:4f8:c012:1f5f::1]:443?securit
 
 vless://15a5f488-032c-46df-bbed-3d8144cc559b@de-05.allhub.ltd:443?security=reality&encryption=none&pbk=EQNnqgZnVT7_4aHVfeP6esFb6NWJ4rVjFbI1hEZ0Qko&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=apps.androidcentral.com&sid=90FFB9F0#DE🇩🇪
 
-vless://f24904b6-c6fe-4379-8fd1-b97ee2139f86@parspack.com:2083?path=/cdn&security=tls&encryption=none&host=de-05.allhub.ltd&fp=chrome&type=ws&sni=parspack.allhub.ltd#CA🇨🇦
+vless://f24904b6-c6fe-4379-8fd1-b97ee2139f86@parspack.com:2083?path=/cdn&security=tls&encryption=none&host=de-05.allhub.ltd&fp=chrome&type=ws&sni=parspack.allhub.ltd#US🇺🇸
 
 vless://5cba32d1-1de5-43cc-83aa-dd6acccb5386@parspack.com:443?path=/cdn&security=tls&encryption=none&alpn=h2,http/1.1&host=de-07p.allhub.ltd&fp=randomized&type=ws&sni=parspack.allhub.ltd#CA🇨🇦
 
@@ -52,9 +52,13 @@ vless://97e54600-c205-4903-a228-b35f074f1f4e@parspack.com:443?path=/cdn&security
 
 vless://18e6f8cf-4f19-4408-9b24-9477e7900796@[2001:41d0:701:1100::8335]:2083?security=reality&encryption=none&pbk=OtpZFw9i0RX2a1qaD0xkUgEYuMa4LAY94MgRxqcx-jk&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=gaming.androidcentral.com&sid=BD34E983#INT🌍
 
-vless://kGdnBi0gES8BlBEWzfyacn@reo--join.outline-vpn.cloud:443?security=reality&encryption=none&pbk=N412ayfWBFVa61Lf7-pY3ksxQc9LzS3X3UBxNHcP1n4&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=microsoft.com&sid=deb1a9ce73014dac#NL🇳🇱
+vless://39e45469-36a5-4644-9bdb-681b28a7369d@172.67.186.42:2096?encryption=none&fp=edge&host=vpncustomizeV2ray.创优舍.org&path=/ws&security=tls&sni=vpncustomizeV2ray.XN--4oq36ed28d.org&type=ws#CA🇨🇦
 
-vless://X4azadi-mci@www.speedtest.net:8880?path=X4azadi?ed=2048&security=none&encryption=none&host=iran.x4azadi.com&type=ws#CA🇨🇦
+vless://39e45469-36a5-4644-9bdb-681b28a7369d@104.18.202.209:2096?encryption=none&fp=edge&host=vpncustomizeV2ray.创优舍.org&path=/ws&security=tls&sni=vpncustomizeV2ray.XN--4oq36ed28d.org&type=ws#CA🇨🇦
+
+vless://VPNCUSTOMIZE@190.93.247.155:2087?alpn=@mehrosaboran,@mehrosaboran&encryption=none&fp=chrome&mode=multi&security=tls&serviceName=@VPNCUSTOMIZE,@VPNCUSTOMIZE,@VPNCUSTOMIZE,@VPNCUSTOMIZE,@VPNCUSTOMIZE&sni=vpncustomizeV2ray.xn--4oq36ed28d.org&type=grpc#CR🇨🇷
+
+vless://VPNCUSTOMIZE@104.18.202.209:2087?alpn=@mehrosaboran,@mehrosaboran&encryption=none&fp=chrome&mode=multi&security=tls&serviceName=@VPNCUSTOMIZE,@VPNCUSTOMIZE,@VPNCUSTOMIZE,@VPNCUSTOMIZE,@VPNCUSTOMIZE&sni=vpncustomizeV2ray.xn--4oq36ed28d.org&type=grpc#CA🇨🇦
 
 vless://bda4be04-48bf-4df1-aaf2-6d42522eab6b@104.22.48.253:80?path=Path/Telegram@V2ray_alpha/?ed=2048&security=none&encryption=none&host=ehda.sajaditsme.com&type=ws#CA🇨🇦
 
@@ -62,9 +66,9 @@ vless://8e407e33-d65a-4e2f-b97b-dbe8ebc3d3ba@31.14.122.131:8081?security=none&en
 
 vless://c4e46f2c-5fa4-4bf2-b8d4-69bb1544cee0@104.16.122.175:80?path=/backup&security=none&encryption=none&host=Gio4GI.TahaRAT.App&type=ws#CA🇨🇦
 
-vless://0bdb1407-0554-4834-97cd-ba3487af59b5@190.93.247.155:2095?path=@ZEDMODEON-ZEDMODEON-JOINZEDMODEON-@ZEDMODEON&security=none&encryption=none&host=hi-sis.列列上列列上列列上.tech&type=ws#CR🇨🇷
+vless://b00b62d3-80a2-40f4-92f2-f93f6cbbc96e@de.meberplus.site:2082?path=/WS?ed=2098&security=none&encryption=none&host=iranserver.com&type=ws#GB🇬🇧
 
-vless://VPNCUSTOMIZE-VPNCUSTOMIZE@tel.VPNCUSTOMIZE.cam:8080?path=/?ed=2048&security=none&encryption=none&host=VPNCUSTOMIZE-V2ray.列列男事的事列上赛男78.tech&type=ws#CA🇨🇦
+vless://b00b62d3-80a2-40f4-92f2-f93f6cbbc96e@DE.MEBERPLUS.SITE:2082?path=/WS?ed=2098&security=none&encryption=none&host=iranserver.com&type=ws#GB🇬🇧
 
 vless://---Telegram-Parsashonam--3-@www.speedtest.net:8080?path=/&security=none&encryption=none&host=Parsashonam.我们累了.tech&type=ws#CA🇨🇦
 
@@ -73,6 +77,8 @@ vless://---Telegram-Parsashonam--3-@www.speedtest.net:8080?path=/&security=none&
 vless://---Telegram-Parsashonam--2-@www.speedtest.net:8080?path=/&security=none&encryption=none&host=Parsashonam.我们累了.tech&type=ws#CA🇨🇦
 
 vless://---Telegram-Parsashonam--1-@134.122.94.204:443?path=/Telegram:@Parsashonam,Telegram:@Parsashonam,Telegram:@Parsashonam,Telegram:@Parsashonam,Telegram:@Parsashonam,Telegram:@Parsashonam,Telegram:@Parsashonam&security=none&encryption=none&host=cloud.parsashonam.tech&type=ws#DE🇩🇪
+
+vless://49c3b3aa-149c-4ff5-a3f4-07feb599a3db@www.speedtest.net:2096?path=/&security=tls&encryption=none&host=ai.darya-signup.shop&type=ws&sni=ai.darya-signup.shop#CA🇨🇦
 
 vless://73653ecb-8abd-45a4-9409-2beef6e409e3@www.visa.com:2052?path=/?ed=2048&security=none&encryption=none&host=我能說什麼.程式設計語言.website&type=ws#CA🇨🇦
 
@@ -83,6 +89,4 @@ vless://49ac899d-76ac-4189-fbd1-5880ef54dfe1@medium.com:443?encryption=none&secu
 vless://SVNTEAMa@mtn.VPNPROSEC.com:2096/?type=grpc&serviceName=&security=tls&fp=chrome&alpn=h2,http/1.1&sni=SvnTeam-V2ray-One.snappfoodi.com#NL🇳🇱
 
 vless://SVNTEAMx@mtn.VPNPROSEC.com:2096/?type=grpc&serviceName=&security=tls&fp=chrome&alpn=h2,http/1.1&sni=SvnTeam-V2ray-One.snappfoodi.com#NL🇳🇱
-
-vless://c68982f6-c71a-11ee-a853-8b75d6ce6cd2@5.44.42.186:10004?path=/vpnjantit&security=none&encryption=none&type=ws#AE🇦🇪
 
