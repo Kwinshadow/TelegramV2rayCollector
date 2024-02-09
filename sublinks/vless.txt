@@ -20,11 +20,11 @@ vless://9e6e8844-5eca-4e7e-b02e-235234521658@fi-01.allhub.ltd:443?mode=gun&secur
 
 vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@3k.pureboy.eu.org:443?path=TELEGRAM...PROXY_MTM?ed=2048&security=tls&encryption=none&alpn=http/1.1&host=3k.pureboy.eu.org&fp=chrome&type=ws&sni=3k.pureboy.eu.org#US🇺🇸
 
-vless://05b5be13-d0d9-4a4f-9e25-22c3c49b7d9a@parspack.com:443?path=/cdn&security=tls&encryption=none&alpn=h2,http/1.1&host=de-02.allhub.ltd&fp=chrome&type=ws&sni=de02.allhub.ltd#INT🌍
+vless://05b5be13-d0d9-4a4f-9e25-22c3c49b7d9a@parspack.com:443?path=/cdn&security=tls&encryption=none&alpn=h2,http/1.1&host=de-02.allhub.ltd&fp=chrome&type=ws&sni=de02.allhub.ltd#US🇺🇸
 
 vless://0e81c1ad-e124-4a2d-94b3-fe0ffd1ad4be@parspack.com:443?path=/cdn&security=tls&encryption=none&alpn=http/1.1&host=de-03.allhub.ltd&fp=chrome&type=ws&sni=parspack.allhub.ltd#US🇺🇸
 
-vless://0e81c1ad-e124-4a2d-94b3-fe0ffd1ad4be@all.allhub.ltd:443?path=/cdn&security=tls&encryption=none&alpn=http/1.1&host=de-03.allhub.ltd&fp=chrome&type=ws&sni=parspack.allhub.ltd#INT🌍
+vless://0e81c1ad-e124-4a2d-94b3-fe0ffd1ad4be@all.allhub.ltd:443?path=/cdn&security=tls&encryption=none&alpn=http/1.1&host=de-03.allhub.ltd&fp=chrome&type=ws&sni=parspack.allhub.ltd#US🇺🇸
 
 vless://0e81c1ad-e124-4a2d-94b3-fe0ffd1ad4be@all.allhub.ltd:443?path=/cdn&security=tls&encryption=none&alpn=http/1.1&host=de-03.allhub.ltd&fp=chrome&type=ws&sni=parspack.allhub.ltd#INT🌍
 
@@ -88,7 +88,9 @@ vless://---Telegram-Parsashonam--2-@www.speedtest.net:8080?path=/&security=none&
 
 vless://---Telegram-Parsashonam--1-@134.122.94.204:443?path=/Telegram:@Parsashonam,Telegram:@Parsashonam,Telegram:@Parsashonam,Telegram:@Parsashonam,Telegram:@Parsashonam,Telegram:@Parsashonam,Telegram:@Parsashonam&security=none&encryption=none&host=cloud.parsashonam.tech&type=ws#DE🇩🇪
 
-vless://SVNTEAMa@mtn.VPNPROSEC.com:2096/?type=grpc&serviceName=&security=tls&fp=chrome&alpn=h2,http/1.1&sni=SvnTeam-V2ray-One.snappfoodi.com#NL🇳🇱
+vless://d376ea68-07bc-469e-ae25-99f3a5d90a5e@193.124.46.68:443?type=tcp&security=reality&pbk=ihyTs51u6z63GEvubkvH30ySgk3Vi3hV0b6fVmZJPF0&fp=random&sni=www.sciencedirect.com&sid=27fd55f5&spx=/browse/journals-and-books&flow=xtls-rprx-vision#TR🇹🇷
+
+vless://SVNTEAMa@mtn.VPNPROSEC.com:2096/?type=grpc&serviceName=&security=tls&fp=chrome&alpn=h2,http/1.1&sni=SvnTeam-V2ray-One.snappfoodi.com#US🇺🇸
 
 vless://49c3b3aa-149c-4ff5-a3f4-07feb599a3db@www.speedtest.net:2096?path=/&security=tls&encryption=none&host=ai.darya-signup.shop&type=ws&sni=ai.darya-signup.shop#INT🌍
 
