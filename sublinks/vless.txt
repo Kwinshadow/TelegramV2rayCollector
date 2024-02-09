@@ -22,7 +22,7 @@ vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@3k.pureboy.eu.org:443?path=TELEGRAM
 
 vless://05b5be13-d0d9-4a4f-9e25-22c3c49b7d9a@parspack.com:443?path=/cdn&security=tls&encryption=none&alpn=h2,http/1.1&host=de-02.allhub.ltd&fp=chrome&type=ws&sni=de02.allhub.ltd#US🇺🇸
 
-vless://0e81c1ad-e124-4a2d-94b3-fe0ffd1ad4be@parspack.com:443?path=/cdn&security=tls&encryption=none&alpn=http/1.1&host=de-03.allhub.ltd&fp=chrome&type=ws&sni=parspack.allhub.ltd#US🇺🇸
+vless://0e81c1ad-e124-4a2d-94b3-fe0ffd1ad4be@parspack.com:443?path=/cdn&security=tls&encryption=none&alpn=http/1.1&host=de-03.allhub.ltd&fp=chrome&type=ws&sni=parspack.allhub.ltd#CA🇨🇦
 
 vless://0e81c1ad-e124-4a2d-94b3-fe0ffd1ad4be@all.allhub.ltd:443?path=/cdn&security=tls&encryption=none&alpn=http/1.1&host=de-03.allhub.ltd&fp=chrome&type=ws&sni=parspack.allhub.ltd#CA🇨🇦
 
@@ -34,9 +34,9 @@ vless://15a5f488-032c-46df-bbed-3d8144cc559b@[2a01:4f8:c012:1f5f::1]:443?securit
 
 vless://15a5f488-032c-46df-bbed-3d8144cc559b@de-05.allhub.ltd:443?security=reality&encryption=none&pbk=EQNnqgZnVT7_4aHVfeP6esFb6NWJ4rVjFbI1hEZ0Qko&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=apps.androidcentral.com&sid=90FFB9F0#DE🇩🇪
 
-vless://f24904b6-c6fe-4379-8fd1-b97ee2139f86@parspack.com:2083?path=/cdn&security=tls&encryption=none&host=de-05.allhub.ltd&fp=chrome&type=ws&sni=parspack.allhub.ltd#US🇺🇸
+vless://f24904b6-c6fe-4379-8fd1-b97ee2139f86@parspack.com:2083?path=/cdn&security=tls&encryption=none&host=de-05.allhub.ltd&fp=chrome&type=ws&sni=parspack.allhub.ltd#CA🇨🇦
 
-vless://5cba32d1-1de5-43cc-83aa-dd6acccb5386@parspack.com:443?path=/cdn&security=tls&encryption=none&alpn=h2,http/1.1&host=de-07p.allhub.ltd&fp=randomized&type=ws&sni=parspack.allhub.ltd#CA🇨🇦
+vless://5cba32d1-1de5-43cc-83aa-dd6acccb5386@parspack.com:443?path=/cdn&security=tls&encryption=none&alpn=h2,http/1.1&host=de-07p.allhub.ltd&fp=randomized&type=ws&sni=parspack.allhub.ltd#US🇺🇸
 
 vless://51905fd3-29de-4b4e-b351-83542f1d5390@parspack.com:443?path=/?ed=2048&security=tls&encryption=none&alpn=h2,http/1.1&host=biA.ALlhub.LTD&fp=random&type=ws&sni=Bia.alLhub.Ltd#US🇺🇸
 
@@ -56,14 +56,6 @@ vless://kGdnBi0gES8BlBEWzfyacn@reo--join.outline-vpn.cloud:443?security=reality&
 
 vless://X4azadi-mci@www.speedtest.net:8880?path=X4azadi?ed=2048&security=none&encryption=none&host=iran.x4azadi.com&type=ws#CA🇨🇦
 
-vless://e6432c55-ed72-4beb-a0f3-d16edfb59b60@test-fr-02a.allhub.info:443?path=/DnbYOq80E9odVd8IxvdKowel&security=tls&encryption=none&alpn=http/1.1&host=test-fr-02a.allhub.info&fp=chrome&type=ws&sni=test-fr-02a.allhub.info#FR🇫🇷
-
-vless://51905fd3-29de-4b4e-b351-83542f1d5390@parspack.com:443?path=/?ed=2048&security=tls&encryption=none&alpn=h2,http/1.1&host=biA.ALlhub.LTD&fp=random&type=ws&sni=Bia.alLhub.Ltd#CA🇨🇦
-
-vless://51905fd3-29de-4b4e-b351-83542f1d5390@parspack.com:443?path=/?ed=2048&security=tls&encryption=none&alpn=h2,http/1.1&host=biA.ALlhub.LTD&fp=random&type=ws&sni=Bia.alLhub.Ltd#CA🇨🇦
-
-vless://5cba32d1-1de5-43cc-83aa-dd6acccb5386@parspack.com:443?path=/cdn&security=tls&encryption=none&alpn=h2,http/1.1&host=de-07p.allhub.ltd&fp=randomized&type=ws&sni=parspack.allhub.ltd#CA🇨🇦
-
 vless://bda4be04-48bf-4df1-aaf2-6d42522eab6b@104.22.48.253:80?path=Path/Telegram@V2ray_alpha/?ed=2048&security=none&encryption=none&host=ehda.sajaditsme.com&type=ws#CA🇨🇦
 
 vless://8e407e33-d65a-4e2f-b97b-dbe8ebc3d3ba@31.14.122.131:8081?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#IR🇮🇷
@@ -82,13 +74,13 @@ vless://---Telegram-Parsashonam--2-@www.speedtest.net:8080?path=/&security=none&
 
 vless://---Telegram-Parsashonam--1-@134.122.94.204:443?path=/Telegram:@Parsashonam,Telegram:@Parsashonam,Telegram:@Parsashonam,Telegram:@Parsashonam,Telegram:@Parsashonam,Telegram:@Parsashonam,Telegram:@Parsashonam&security=none&encryption=none&host=cloud.parsashonam.tech&type=ws#DE🇩🇪
 
+vless://16747acc-95c8-44ba-9b66-3d8a0c035347@f41.maryam1500.top:2096?mode=gun&security=reality&encryption=none&pbk=c3R5_lORnQd1X3A2E0ulHJn396G2X_ZYIs66ldEVQWI&fp=firefox&spx=/&type=grpc&serviceName=&sni=dash.cloudflare.com&sid=28f58957#DE🇩🇪
+
+vless://49ac899d-76ac-4189-fbd1-5880ef54dfe1@medium.com:443?encryption=none&security=tls&sni=nns.bestmoonlive.com&alpn=http/1.1&type=ws&host=nns.bestmoonlive.com&path=/#CA🇨🇦
+
 vless://SVNTEAMa@mtn.VPNPROSEC.com:2096/?type=grpc&serviceName=&security=tls&fp=chrome&alpn=h2,http/1.1&sni=SvnTeam-V2ray-One.snappfoodi.com#NL🇳🇱
 
 vless://SVNTEAMx@mtn.VPNPROSEC.com:2096/?type=grpc&serviceName=&security=tls&fp=chrome&alpn=h2,http/1.1&sni=SvnTeam-V2ray-One.snappfoodi.com#NL🇳🇱
 
 vless://c68982f6-c71a-11ee-a853-8b75d6ce6cd2@5.44.42.186:10004?path=/vpnjantit&security=none&encryption=none&type=ws#AE🇦🇪
-
-vless://bf7c0d9c-c717-11ee-ae31-0f19f620c87c@5.44.42.16:10004?path=/vpnjantit&security=none&encryption=none&type=ws#AE🇦🇪
-
-vless://5217206c-a329-404a-b5d6-bdd0288d52f5@45.84.196.179:59580?path=/&security=none&encryption=none&type=ws#DE🇩🇪
 
