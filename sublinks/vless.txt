@@ -1,5 +1,7 @@
  vless://e2ad77a5-1447-4a77-9524-19a47a832f55@104.24.176.7:8443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&type=grpc&serviceName=&sni=chtest.puzzlemobile.info#US🇺🇸
 
+vless://e2ad77a5-1447-4a77-9524-19a47a832f55@104.24.176.7:8443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&type=grpc&serviceName=&sni=chtest.puzzlemobile.info#US🇺🇸
+
 vless://1c47865c-90e9-4d0a-a27c-1d0c13edc230@ch1.puzzlemobile.info:2096?type=ws&path=/&security=tls&fp=&alpn=h2,http/1.1&sni=chtest.puzzlemobile.info#NL🇳🇱
 
 vless://e2ad77a5-1447-4a77-9524-19a47a832f55@104.24.176.7:8443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&type=grpc&serviceName=&sni=chtest.puzzlemobile.info#US🇺🇸
@@ -26,7 +28,7 @@ vless://0e81c1ad-e124-4a2d-94b3-fe0ffd1ad4be@parspack.com:443?path=/cdn&security
 
 vless://0e81c1ad-e124-4a2d-94b3-fe0ffd1ad4be@all.allhub.ltd:443?path=/cdn&security=tls&encryption=none&alpn=http/1.1&host=de-03.allhub.ltd&fp=chrome&type=ws&sni=parspack.allhub.ltd#US🇺🇸
 
-vless://0e81c1ad-e124-4a2d-94b3-fe0ffd1ad4be@all.allhub.ltd:443?path=/cdn&security=tls&encryption=none&alpn=http/1.1&host=de-03.allhub.ltd&fp=chrome&type=ws&sni=parspack.allhub.ltd#CA🇨🇦
+vless://0e81c1ad-e124-4a2d-94b3-fe0ffd1ad4be@all.allhub.ltd:443?path=/cdn&security=tls&encryption=none&alpn=http/1.1&host=de-03.allhub.ltd&fp=chrome&type=ws&sni=parspack.allhub.ltd#US🇺🇸
 
 vless://f176aa7c-e5be-40a9-a2c0-37c2a20d86e1@parspack.com:443?path=/cdn&security=tls&encryption=none&alpn=http/1.1&host=de-04.allhub.ltd&fp=chrome&type=ws&sni=parspack.allhub.ltd#CA🇨🇦
 
@@ -34,11 +36,11 @@ vless://15a5f488-032c-46df-bbed-3d8144cc559b@[2a01:4f8:c012:1f5f::1]:443?securit
 
 vless://15a5f488-032c-46df-bbed-3d8144cc559b@de-05.allhub.ltd:443?security=reality&encryption=none&pbk=EQNnqgZnVT7_4aHVfeP6esFb6NWJ4rVjFbI1hEZ0Qko&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=apps.androidcentral.com&sid=90FFB9F0#DE🇩🇪
 
-vless://f24904b6-c6fe-4379-8fd1-b97ee2139f86@parspack.com:2083?path=/cdn&security=tls&encryption=none&host=de-05.allhub.ltd&fp=chrome&type=ws&sni=parspack.allhub.ltd#US🇺🇸
+vless://f24904b6-c6fe-4379-8fd1-b97ee2139f86@parspack.com:2083?path=/cdn&security=tls&encryption=none&host=de-05.allhub.ltd&fp=chrome&type=ws&sni=parspack.allhub.ltd#CA🇨🇦
 
 vless://5cba32d1-1de5-43cc-83aa-dd6acccb5386@parspack.com:443?path=/cdn&security=tls&encryption=none&alpn=h2,http/1.1&host=de-07p.allhub.ltd&fp=randomized&type=ws&sni=parspack.allhub.ltd#CA🇨🇦
 
-vless://51905fd3-29de-4b4e-b351-83542f1d5390@parspack.com:443?path=/?ed=2048&security=tls&encryption=none&alpn=h2,http/1.1&host=biA.ALlhub.LTD&fp=random&type=ws&sni=Bia.alLhub.Ltd#US🇺🇸
+vless://51905fd3-29de-4b4e-b351-83542f1d5390@parspack.com:443?path=/?ed=2048&security=tls&encryption=none&alpn=h2,http/1.1&host=biA.ALlhub.LTD&fp=random&type=ws&sni=Bia.alLhub.Ltd#CA🇨🇦
 
 vless://51905fd3-29de-4b4e-b351-83542f1d5390@parspack.com:443?path=/?ed=2048&security=tls&encryption=none&alpn=h2,http/1.1&host=biA.ALlhub.LTD&fp=random&type=ws&sni=Bia.alLhub.Ltd#CA🇨🇦
 
@@ -60,16 +62,6 @@ vless://b00b62d3-80a2-40f4-92f2-f93f6cbbc96e@104.21.64.117:8080?headerType=&host
 
 vless://b00b62d3-80a2-40f4-92f2-f93f6cbbc96e@104.21.64.117:8080?headerType=&host=UK.AWLONE.EU.ORG&path=/@x2rayn_vpnCDN?ed=2090&security=none&type=ws#CA🇨🇦
 
-vless://b3d4f0de-8cb0-4c1d-fcbb-013971fb5761@check-host.net:443?alpn=h2,http/1.1&encryption=none&fp=chrome&mode=gun&security=tls&serviceName=Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@N&type=grpc#NL🇳🇱
-
-vless://04a93bb8-0a5b-4aa8-ab7f-31fc7adab1c1@172.67.174.190:443?encryption=none&host=edgu.pureboy.eu.org&path=Path/Telegram@V2ray_alpha/?ed=2048&security=tls&sni=edgu.pureboy.eu.org&type=ws#CA🇨🇦
-
-vless://db701871-ca88-4d0f-b15d-14f8d82fb8b0@104.16.12.140:443?encryption=none&host=special-funicular.pages.dev&path=【TG：@juzibaipiao】定时更新节点&security=tls&sni=special-funicular.pages.dev&type=ws#CA🇨🇦
-
-vless://30bacb3e-a515-42bc-9e0b-5241f32e8080@104.31.16.160:80?encryption=none&host=38.事出动列员18.tech&path=/&security=none&type=ws#CA🇨🇦
-
-vless://30bacb3e-a515-42bc-9e0b-5241f32e8080@104.31.16.160:80?encryption=none&host=84.足球足子子足男子足球4.tech&path=/&security=none&type=ws#CA🇨🇦
-
 vless://bda4be04-48bf-4df1-aaf2-6d42522eab6b@104.22.48.253:80?path=Path/Telegram@V2ray_alpha/?ed=2048&security=none&encryption=none&host=ehda.sajaditsme.com&type=ws#CA🇨🇦
 
 vless://8e407e33-d65a-4e2f-b97b-dbe8ebc3d3ba@31.14.122.131:8081?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#IR🇮🇷
@@ -80,13 +72,15 @@ vless://---Telegram-Parsashonam--3-@www.speedtest.net:8080?path=/&security=none&
 
 vless://---Telegram-Parsashonam--3-@www.speedtest.net:8080?path=/&security=none&encryption=none&host=www.malltina.blog&type=ws#CA🇨🇦
 
-vless://SVNTEAMa@mtn.VPNPROSEC.com:2096/?type=grpc&serviceName=&security=tls&fp=chrome&alpn=h2,http/1.1&sni=SvnTeam-V2ray-One.snappfoodi.com#NL🇳🇱
+vless://a4234bb1-95d7-4748-aa2b-dc6a8b56c6a2@45.84.196.179:59580?path=/&security=none&encryption=none&type=ws#DE🇩🇪
+
+vless://8613fbea-5c5b-41c3-b927-629fa0d52ccd@www.legendaryking.link:443?security=tls&sni=radar.snapfooding.com&alpn=h2,http/1.1&allowInsecure=1&fp=chrome&type=grpc&serviceName=Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram&encryption=none#CR🇨🇷
+
+vless://a9e0ff82-7700-471e-9f4f-9eef07d98d96@45.84.196.179:59580?path=/&security=none&encryption=none&type=ws#DE🇩🇪
+
+vless://03afa3aa-0a77-4b9c-88d7-0c70be490fa2@reza.mobiletak17.workers.dev:443?path=/&security=tls&encryption=none&host=reza.mobiletak17.workers.dev&fp=random&type=ws&sni=reza.mobiletak17.workers.dev#NL🇳🇱
 
 vless://SVNTEAMa@mtn.VPNPROSEC.com:2096/?type=grpc&serviceName=&security=tls&fp=chrome&alpn=h2,http/1.1&sni=SvnTeam-V2ray-One.snappfoodi.com#NL🇳🇱
-
-vless://52199cb4-6715-49ec-a120-c314be6acf58@lt8p6mi34j5ae06na09p.vs300ou0x21mzovvjkwq.workers.dev:443?encryption=none&security=tls&sni=pro.richscale.io&fp=chrome&type=grpc&serviceName=omegapro&mode=gun#CA🇨🇦
-
-vless://d376ea68-07bc-469e-ae25-99f3a5d90a5e@193.124.46.68:443?type=tcp&security=reality&pbk=ihyTs51u6z63GEvubkvH30ySgk3Vi3hV0b6fVmZJPF0&fp=random&sni=www.sciencedirect.com&sid=27fd55f5&spx=/browse/journals-and-books&flow=xtls-rprx-vision#TR🇹🇷
 
 vless://SVNTEAMa@mtn.VPNPROSEC.com:2096/?type=grpc&serviceName=&security=tls&fp=chrome&alpn=h2,http/1.1&sni=SvnTeam-V2ray-One.snappfoodi.com#NL🇳🇱
 
