@@ -20,7 +20,7 @@ vless://9e6e8844-5eca-4e7e-b02e-235234521658@fi-01.allhub.ltd:443?mode=gun&secur
 
 vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@3k.pureboy.eu.org:443?path=TELEGRAM...PROXY_MTM?ed=2048&security=tls&encryption=none&alpn=http/1.1&host=3k.pureboy.eu.org&fp=chrome&type=ws&sni=3k.pureboy.eu.org#US🇺🇸
 
-vless://05b5be13-d0d9-4a4f-9e25-22c3c49b7d9a@parspack.com:443?path=/cdn&security=tls&encryption=none&alpn=h2,http/1.1&host=de-02.allhub.ltd&fp=chrome&type=ws&sni=de02.allhub.ltd#US🇺🇸
+vless://05b5be13-d0d9-4a4f-9e25-22c3c49b7d9a@parspack.com:443?path=/cdn&security=tls&encryption=none&alpn=h2,http/1.1&host=de-02.allhub.ltd&fp=chrome&type=ws&sni=de02.allhub.ltd#INT🌍
 
 vless://0e81c1ad-e124-4a2d-94b3-fe0ffd1ad4be@parspack.com:443?path=/cdn&security=tls&encryption=none&alpn=http/1.1&host=de-03.allhub.ltd&fp=chrome&type=ws&sni=parspack.allhub.ltd#US🇺🇸
 
@@ -28,7 +28,7 @@ vless://0e81c1ad-e124-4a2d-94b3-fe0ffd1ad4be@all.allhub.ltd:443?path=/cdn&securi
 
 vless://0e81c1ad-e124-4a2d-94b3-fe0ffd1ad4be@all.allhub.ltd:443?path=/cdn&security=tls&encryption=none&alpn=http/1.1&host=de-03.allhub.ltd&fp=chrome&type=ws&sni=parspack.allhub.ltd#US🇺🇸
 
-vless://f176aa7c-e5be-40a9-a2c0-37c2a20d86e1@parspack.com:443?path=/cdn&security=tls&encryption=none&alpn=http/1.1&host=de-04.allhub.ltd&fp=chrome&type=ws&sni=parspack.allhub.ltd#US🇺🇸
+vless://f176aa7c-e5be-40a9-a2c0-37c2a20d86e1@parspack.com:443?path=/cdn&security=tls&encryption=none&alpn=http/1.1&host=de-04.allhub.ltd&fp=chrome&type=ws&sni=parspack.allhub.ltd#INT🌍
 
 vless://15a5f488-032c-46df-bbed-3d8144cc559b@[2a01:4f8:c012:1f5f::1]:443?security=reality&encryption=none&pbk=EQNnqgZnVT7_4aHVfeP6esFb6NWJ4rVjFbI1hEZ0Qko&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=apps.androidcentral.com&sid=90FFB9F0#INT🌍
 
@@ -36,9 +36,9 @@ vless://15a5f488-032c-46df-bbed-3d8144cc559b@de-05.allhub.ltd:443?security=reali
 
 vless://f24904b6-c6fe-4379-8fd1-b97ee2139f86@parspack.com:2083?path=/cdn&security=tls&encryption=none&host=de-05.allhub.ltd&fp=chrome&type=ws&sni=parspack.allhub.ltd#US🇺🇸
 
-vless://5cba32d1-1de5-43cc-83aa-dd6acccb5386@parspack.com:443?path=/cdn&security=tls&encryption=none&alpn=h2,http/1.1&host=de-07p.allhub.ltd&fp=randomized&type=ws&sni=parspack.allhub.ltd#INT🌍
+vless://5cba32d1-1de5-43cc-83aa-dd6acccb5386@parspack.com:443?path=/cdn&security=tls&encryption=none&alpn=h2,http/1.1&host=de-07p.allhub.ltd&fp=randomized&type=ws&sni=parspack.allhub.ltd#US🇺🇸
 
-vless://51905fd3-29de-4b4e-b351-83542f1d5390@parspack.com:443?path=/?ed=2048&security=tls&encryption=none&alpn=h2,http/1.1&host=biA.ALlhub.LTD&fp=random&type=ws&sni=Bia.alLhub.Ltd#INT🌍
+vless://51905fd3-29de-4b4e-b351-83542f1d5390@parspack.com:443?path=/?ed=2048&security=tls&encryption=none&alpn=h2,http/1.1&host=biA.ALlhub.LTD&fp=random&type=ws&sni=Bia.alLhub.Ltd#US🇺🇸
 
 vless://51905fd3-29de-4b4e-b351-83542f1d5390@parspack.com:443?path=/?ed=2048&security=tls&encryption=none&alpn=h2,http/1.1&host=biA.ALlhub.LTD&fp=random&type=ws&sni=Bia.alLhub.Ltd#INT🌍
 
@@ -48,7 +48,7 @@ vless://9e6e8844-5eca-4e7e-b02e-235234521658@fi-01.allhub.ltd:443?mode=gun&secur
 
 vless://26124ad5-8c5a-40a7-b7d0-3f0dafd75420@[2001:41d0:701:1100::8f5]:2083?security=reality&encryption=none&pbk=4nRhtmocfhQuIc46ET5rTSvz7NCz3o77DpzVmJHPmQo&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=reviews.androidcentral.com&sid=532245BA#INT🌍
 
-vless://97e54600-c205-4903-a228-b35f074f1f4e@parspack.com:443?path=/cdn&security=tls&encryption=none&host=de-01.allhub.ltd&fp=chrome&type=ws&sni=german-adsl.allhub.ltd#US🇺🇸
+vless://97e54600-c205-4903-a228-b35f074f1f4e@parspack.com:443?path=/cdn&security=tls&encryption=none&host=de-01.allhub.ltd&fp=chrome&type=ws&sni=german-adsl.allhub.ltd#INT🌍
 
 vless://18e6f8cf-4f19-4408-9b24-9477e7900796@[2001:41d0:701:1100::8335]:2083?security=reality&encryption=none&pbk=OtpZFw9i0RX2a1qaD0xkUgEYuMa4LAY94MgRxqcx-jk&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=gaming.androidcentral.com&sid=BD34E983#INT🌍
 
@@ -57,20 +57,6 @@ vless://bda4be04-48bf-4df1-aaf2-6d42522eab6b@104.27.5.173:80?encryption=none&hos
 vless://89420825-e589-4735-bee1-6dc636fca343@188.114.96.3:443?encryption=none&host=w3.sylarsun.eu.org&path=/?ed=2048&security=tls&sni=w3.sylarsun.eu.org&type=ws#NL🇳🇱
 
 vless://45ee6853-c3ae-4e12-b734-82e51d139441@fin.melov2ray.shop:443?alpn=h2,http/1.1,h3&fp=random&path=/@melov2ray,@melov2ray,@melov2ray,@melov2ray,@melov2ray,@melov2ray,@melov2ray,@melov2ray,@melov2ray,@melov2ray,@melov2ray,@melov2ray,@melov2ray,@melov2ray,@melov2ray,@melov2ray,@melov2ray,@melov2ray,@melov2ray,@melov2ray,@melov2ray,@melov2ray,@melov2ray,@melov2ray,@melov2ray,@melov2ray&security=tls&sni=FIn.Melov2ray.Shop&type=ws#US🇺🇸
-
-vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@104.21.59.184:443?encryption=none&host=3k.pureboy.eu.org&path=/?ed=2048&security=tls&sni=3k.pureboy.eu.org&type=ws#INT🌍
-
-vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@172.67.170.103:443?encryption=none&host=3k.pureboy.eu.org&path=path/telegramV2ray_Alpha/?ed=2048&security=tls&sni=3k.pureboy.eu.org&type=ws#US🇺🇸
-
-vless://bda4be04-48bf-4df1-aaf2-6d42522eab6b@141.101.113.110:80?encryption=none&host=ehda.sajaditsme.com&path=/?ed=2048&security=none&type=ws#INT🌍
-
-vless://a3ecfef3-f880-4047-b7cb-a3ceb6e94013@198.41.202.5:2083?alpn=@mehrosaboran,@mehrosaboran&encryption=none&fp=chrome&mode=gun&security=tls&serviceName=@LIGHTNING6, @LIGHTNING6&sni=liV2rayc.xn--mgbg0fka44dhgc.com&type=grpc#INT🌍
-
-vless://a3ecfef3-f880-4047-b7cb-a3ceb6e94013@104.18.202.209:2083?alpn=@mehrosaboran,@mehrosaboran&encryption=none&fp=chrome&mode=gun&security=tls&serviceName=@LIGHTNING6, @LIGHTNING6&sni=liV2rayc.xn--mgbg0fka44dhgc.com&type=grpc#INT🌍
-
-vless://a3ecfef3-f880-4047-b7cb-a3ceb6e94013@190.93.247.155:2083?alpn=@mehrosaboran,@mehrosaboran&encryption=none&fp=chrome&mode=gun&security=tls&serviceName=@LIGHTNING6, @LIGHTNING6&sni=liV2rayc.xn--mgbg0fka44dhgc.com&type=grpc#CR🇨🇷
-
-vless://a418712c-d895-4b01-a89d-86f9feafccea@190.93.247.155:8880?encryption=none&host=liV2rayb.善良的闪电.monster&path=/@LIGHTNING6, @LIGHTNING6&security=none&type=ws#CR🇨🇷
 
 vless://bda4be04-48bf-4df1-aaf2-6d42522eab6b@104.22.48.253:80?path=Path/Telegram@V2ray_alpha/?ed=2048&security=none&encryption=none&host=ehda.sajaditsme.com&type=ws#INT🌍
 
