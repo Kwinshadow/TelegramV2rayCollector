@@ -1,4 +1,8 @@
- trojan://telegram-id-privatevpns@52.208.191.117:22222?alpn=http/1.1&headerType=none&security=tls&sni=trojan.miwan.co.uk&type=tcp#IE🇮🇪
+ trojan://telegram-id-directvpn@15.222.156.11:22222?alpn=http/1.1&headerType=none&security=tls&sni=trojan.miwan.co.uk&type=tcp#CA🇨🇦
+
+trojan://telegram-id-privatevpns@13.48.90.61:22222?alpn=http/1.1&headerType=none&security=tls&sni=trojan.miwan.co.uk&type=tcp#SE🇸🇪
+
+trojan://telegram-id-privatevpns@52.208.191.117:22222?alpn=http/1.1&headerType=none&security=tls&sni=trojan.miwan.co.uk&type=tcp#IE🇮🇪
 
 trojan://ce8b8b30ebba45f2a38dd608b85e8628@104.16.159.9:443?host=bangladeshipatri.com&path=6b777a91&security=tls&sni=bangladeshipatri.com&type=ws#CA🇨🇦
 
