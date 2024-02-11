@@ -2,8 +2,6 @@
 
 vless://e2ad77a5-1447-4a77-9524-19a47a832f55@104.24.176.7:8443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&type=grpc&serviceName=&sni=chtest.puzzlemobile.info#US🇺🇸
 
-vless://e2ad77a5-1447-4a77-9524-19a47a832f55@104.24.176.7:8443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&type=grpc&serviceName=&sni=chtest.puzzlemobile.info#US🇺🇸
-
 vless://51905fd3-29de-4b4e-b351-83542f1d5390@parspack.com:443?path=/?ed=2048&security=tls&encryption=none&alpn=h2,http/1.1&host=biA.ALlhub.LTD&fp=random&type=ws&sni=Bia.alLhub.Ltd#US🇺🇸
 
 vless://51905fd3-29de-4b4e-b351-83542f1d5390@parspack.com:443?path=/?ed=2048&security=tls&encryption=none&alpn=h2,http/1.1&host=biA.ALlhub.LTD&fp=random&type=ws&sni=Bia.alLhub.Ltd#US🇺🇸
@@ -52,15 +50,15 @@ vless://de27bea3-5198-4772-be69-0da876f99101@[2001:41d0:601:1100::49d4]:2083?sec
 
 vless://51905fd3-29de-4b4e-b351-83542f1d5390@parspack.com:443?path=/?ed=2048&security=tls&encryption=none&alpn=h2,http/1.1&host=biA.ALlhub.LTD&fp=random&type=ws&sni=Bia.alLhub.Ltd#CA🇨🇦
 
-vless://f24904b6-c6fe-4379-8fd1-b97ee2139f86@parspack.com:2083?path=/cdn&security=tls&encryption=none&host=de-05.allhub.ltd&fp=chrome&type=ws&sni=parspack.allhub.ltd#INT🌍
+vless://f24904b6-c6fe-4379-8fd1-b97ee2139f86@parspack.com:2083?path=/cdn&security=tls&encryption=none&host=de-05.allhub.ltd&fp=chrome&type=ws&sni=parspack.allhub.ltd#CA🇨🇦
 
-vless://5cba32d1-1de5-43cc-83aa-dd6acccb5386@parspack.com:443?path=/cdn&security=tls&encryption=none&alpn=h2,http/1.1&host=de-07p.allhub.ltd&fp=randomized&type=ws&sni=parspack.allhub.ltd#CA🇨🇦
+vless://5cba32d1-1de5-43cc-83aa-dd6acccb5386@parspack.com:443?path=/cdn&security=tls&encryption=none&alpn=h2,http/1.1&host=de-07p.allhub.ltd&fp=randomized&type=ws&sni=parspack.allhub.ltd#US🇺🇸
 
 vless://5729aea2-67f0-4091-9c9d-2bf083eb35da@mcci--join.outline-vpn.cloud:8443?path=/gsmxserver&security=none&encryption=none&type=ws#IR🇮🇷
 
 vless://ca3ee03d-c4e8-4da0-b77e-b35b08b401cc@gh.popprime.shop:443?mode=gun&security=tls&encryption=none&fp=chrome&type=grpc&serviceName=&sni=server1.popprime.shop#NL🇳🇱
 
-vmess://eyJhZGQiOiJzdWJtZWh0aS5rYXJhajY4LnNob3AiLCJhaWQiOiIwIiwiYWxwbiI6ImgyLGh0dHBcLzEuMSIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiZGI1YWZhZTQtYWMyMy00MWE2LTgzNzgtZjMwN2E5YTQ3NDM2IiwibmV0IjoiZ3JwYyIsInBhdGgiOiIiLCJwb3J0IjoiMjA4NyIsInBzIjoiSU5UXHVkODNjXHVkZjBkIiwic2N5IjoiYXV0byIsInNuaSI6ImRkMjExNDZ5Z2ZkU05BOTE5MTI4MTI4MGtkbTIya2FzMjEyM0Fhd2RzZDEyMzRiYjU3NTE5NzE4NC5zZGZnaGpra2tra2tra2tra2poZ2Zkc2RmZ2gubmV0IiwidGxzIjoidGxzIiwidHlwZSI6Imd1biIsInYiOiIyIn0=
+vmess://eyJhZGQiOiJzdWJtZWh0aS5rYXJhajY4LnNob3AiLCJhaWQiOiIwIiwiYWxwbiI6ImgyLGh0dHBcLzEuMSIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiZGI1YWZhZTQtYWMyMy00MWE2LTgzNzgtZjMwN2E5YTQ3NDM2IiwibmV0IjoiZ3JwYyIsInBhdGgiOiIiLCJwb3J0IjoiMjA4NyIsInBzIjoiQ0FcdWQ4M2NcdWRkZThcdWQ4M2NcdWRkZTYiLCJzY3kiOiJhdXRvIiwic25pIjoiZGQyMTE0NnlnZmRTTkE5MTkxMjgxMjgwa2RtMjJrYXMyMTIzQWF3ZHNkMTIzNGJiNTc1MTk3MTg0LnNkZmdoamtra2tra2tra2tramhnZmRzZGZnaC5uZXQiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiZ3VuIiwidiI6IjIifQ==
 
 vmess://eyJhZGQiOiJtY2ktLWpvaW4ub3V0bGluZS12cG4uY2xvdWQiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImEucHJhcHQ1LmlyIiwiaWQiOiI3MDIyOTgyZi1kYTRjLTQ4YzktYzY2MC1iMjMxNWFiZGNmN2UiLCJuZXQiOiJ3cyIsInBhdGgiOiJcLz9lZD0yMDQ4IiwicG9ydCI6IjgwIiwicHMiOiJOTFx1ZDgzY1x1ZGRmM1x1ZDgzY1x1ZGRmMSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==
 
@@ -86,7 +84,7 @@ vmess://eyJhZGQiOiJtY2ktLWpvaW4ub3V0bGluZS12cG4uY2xvdWQiLCJhaWQiOiIwIiwiYWxwbiI6
 
 vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@mtn-----join.outline-vpn.cloud:443?path=/?ed=2048&security=tls&encryption=none&host=3k.pureboy.eu.org&type=ws&sni=3k.pureboy.eu.org#CA🇨🇦
 
-vless://49ac899d-76ac-4189-fbd1-5880ef54dfe1@medium.com:443?path=/&security=tls&encryption=none&alpn=http/1.1&host=nns.bestmoonlive.com&type=ws&sni=nns.bestmoonlive.com#INT🌍
+vless://49ac899d-76ac-4189-fbd1-5880ef54dfe1@medium.com:443?path=/&security=tls&encryption=none&alpn=http/1.1&host=nns.bestmoonlive.com&type=ws&sni=nns.bestmoonlive.com#CA🇨🇦
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.samanehha.co:443#GB🇬🇧
 
@@ -95,6 +93,22 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#GB🇬🇧
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.samanehha.co:443#GB🇬🇧
+
+vless://dfe4355c-9c09-43fe-f80c-a264ee438f64@190.93.247.155:2083?alpn=@mehrosaboran,@mehrosaboran&encryption=none&fp=chrome&mode=gun&security=tls&serviceName=@LIGHTNING6, @LIGHTNING6&sni=liV2rayg.xn--mgbg0fka44dhgc.com&type=grpc#CR🇨🇷
+
+vless://telegram-id-ArV2ray@198.41.202.5:80?encryption=none&host=WWW.应该改成LAN网卡.SItE&path=/Telegram:@ArV2ray-Telegram:@ArV2ray-Telegram:@ArV2ray-Telegram:@ArV2ray-Telegram:@ArV2ray-Telegram:@ArV2ray?ed=2048&security=none&type=ws#US🇺🇸
+
+vless://38ec9568-f806-4d96-c875-c85cbdf7b246@190.93.247.155:2083?alpn=h2&encryption=none&fp=chrome&mode=gun&security=tls&serviceName=@LIGHTNING6, @LIGHTNING6&sni=liV2rayb.xn--mgbg0fka44dhgc.com&type=grpc#CR🇨🇷
+
+vless://38ec9568-f806-4d96-c875-c85cbdf7b246@104.18.202.209:2083?alpn=@mehrosaboran,@mehrosaboran&encryption=none&fp=chrome&mode=gun&security=tls&serviceName=@LIGHTNING6, @LIGHTNING6&sni=liV2raya.xn--mgbg0fka44dhgc.com&type=grpc#CA🇨🇦
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptVXNMMlVZUmRlL0lQSzRrZ2RkUExDNXNKZ3ljejNHRjQ1UUY1Z3VHNzRNPQ==@51.20.32.89:8080#SE🇸🇪
+
+trojan://telegram-id-privatevpns@52.215.172.18:22222?alpn=http/1.1&headerType=none&security=tls&sni=trojan.miwan.co.uk&type=tcp#IE🇮🇪
+
+vless://dfe4355c-9c09-43fe-f80c-a264ee438f64@104.31.16.136:2083?alpn=@mehrosaboran,@mehrosaboran&encryption=none&fp=chrome&mode=gun&security=tls&serviceName=@LIGHTNING6, @LIGHTNING6&sni=liV2rayg.xn--mgbg0fka44dhgc.com&type=grpc#CA🇨🇦
+
+vless://dfe4355c-9c09-43fe-f80c-a264ee438f64@198.41.202.5:2083?alpn=@mehrosaboran,@mehrosaboran&encryption=none&fp=chrome&mode=gun&security=tls&serviceName=@LIGHTNING6, @LIGHTNING6&sni=liV2rayg.xn--mgbg0fka44dhgc.com&type=grpc#US🇺🇸
 
 trojan://telegram-id-privatevpns@18.170.131.9:22222?alpn=http/1.1&headerType=none&security=tls&sni=trojan.miwan.co.uk&type=tcp#GB🇬🇧
 
@@ -136,22 +150,6 @@ vless://f104d365-b21f-4ab2-97cb-7d90db5c94f3@159.223.234.160:443?encryption=none
 
 vless://48dd6bad-ab68-434c-9418-ea09e2f60cf3@104.24.172.7:80?encryption=none&host=fIltERgoZaRneT.ImanjAfAryI33.wOrKERs.dev&path=/cO1q-qHTweAcab--?ed=2048&security=none&type=ws#CA🇨🇦
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptVXNMMlVZUmRlL0lQSzRrZ2RkUExDNXNKZ3ljejNHRjQ1UUY1Z3VHNzRNPQ==@51.20.32.89:8080#SE🇸🇪
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0NC9OeldySGJzR3BiU2hla1lBL083VWRzZWFQbnZ5UDhzdHpOZ25yMHpVPQ==@51.20.42.216:8080#SE🇸🇪
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1TTcxdW9hbWpRd3hNZVQ3NmlET1lvdzFuRnp2NEV2RmE1ZC9mcFlKbDEwPQ==@16.170.235.194:8080#SE🇸🇪
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4bzNKUHZ2WkYydVUzMUYra1RrUGh4RlpFNitiaDQwdSsyYm1EYkhGYVVzPQ==@13.48.248.25:8080#SE🇸🇪
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0NC9OeldySGJzR3BiU2hla1lBL083VWRzZWFQbnZ5UDhzdHpOZ25yMHpVPQ==@51.20.42.216:8080#SE🇸🇪
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1TTcxdW9hbWpRd3hNZVQ3NmlET1lvdzFuRnp2NEV2RmE1ZC9mcFlKbDEwPQ==@16.170.235.194:8080#SE🇸🇪
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4bzNKUHZ2WkYydVUzMUYra1RrUGh4RlpFNitiaDQwdSsyYm1EYkhGYVVzPQ==@13.48.248.25:8080#SE🇸🇪
-
-vless://ac6d7dee-c2ce-4a7f-849a-18e70d8aca8f@check-host.net:443?alpn=h2,http/1.1&encryption=none&fp=firefox&mode=gun&security=tls&serviceName=@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray&sni=tl.ArV2ray.host&type=grpc#NL🇳🇱
-
 vless://SVNTEAMe@mtn.VPNPROSEC.com:2096?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=&sni=SvnTeam-V2rayNew-Two.SnappFoodi.Com#NL🇳🇱
 
 vmess://eyJhZGQiOiIxNzIuOTkuMTkwLjEyIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjA0NjIxYmFlLWFiMzYtMTFlYy1iOTA5LTAyNDJhYzEyMDAwMiIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMjIzMjQiLCJwcyI6IkdCXHVkODNjXHVkZGVjXHVkODNjXHVkZGU3Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
@@ -163,8 +161,6 @@ vmess://eyJhZGQiOiIxNzIuNjYuNDYuMzQiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiY2hyb21l
 vless://X4azadi-20TB@www.speedtest.net:8880?path=X4azadi?ed=2048&security=none&encryption=none&host=Iran.x4azadi.com&type=ws#CA🇨🇦
 
 vless://68b7c314-35cd-462f-bef8-18f235f1514a@188.114.96.0:8080?path=/Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER?ed=2048&security=none&encryption=none&host=hamin.alan.列列男事的事列上赛男78.wiki&type=ws#NL🇳🇱
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplemVzQlhlc2YzUktCQ3AxdnFLdUl4@172.233.57.5:8080#NL🇳🇱
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyTFZWRnh4SEpTQk1kR2Rs@series-a2-me.samanehha.co:443#GB🇬🇧
 
