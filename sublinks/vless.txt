@@ -2,8 +2,6 @@
 
 vless://e2ad77a5-1447-4a77-9524-19a47a832f55@104.24.176.7:8443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&type=grpc&serviceName=&sni=chtest.puzzlemobile.info#US🇺🇸
 
-vless://e2ad77a5-1447-4a77-9524-19a47a832f55@104.24.176.7:8443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&type=grpc&serviceName=&sni=chtest.puzzlemobile.info#US🇺🇸
-
 vless://51905fd3-29de-4b4e-b351-83542f1d5390@parspack.com:443?path=/?ed=2048&security=tls&encryption=none&alpn=h2,http/1.1&host=biA.ALlhub.LTD&fp=random&type=ws&sni=Bia.alLhub.Ltd#US🇺🇸
 
 vless://51905fd3-29de-4b4e-b351-83542f1d5390@parspack.com:443?path=/?ed=2048&security=tls&encryption=none&alpn=h2,http/1.1&host=biA.ALlhub.LTD&fp=random&type=ws&sni=Bia.alLhub.Ltd#US🇺🇸
@@ -44,9 +42,9 @@ vless://de27bea3-5198-4772-be69-0da876f99101@[2001:41d0:601:1100::49d4]:2083?sec
 
 vless://51905fd3-29de-4b4e-b351-83542f1d5390@parspack.com:443?path=/?ed=2048&security=tls&encryption=none&alpn=h2,http/1.1&host=biA.ALlhub.LTD&fp=random&type=ws&sni=Bia.alLhub.Ltd#CA🇨🇦
 
-vless://f24904b6-c6fe-4379-8fd1-b97ee2139f86@parspack.com:2083?path=/cdn&security=tls&encryption=none&host=de-05.allhub.ltd&fp=chrome&type=ws&sni=parspack.allhub.ltd#INT🌍
+vless://f24904b6-c6fe-4379-8fd1-b97ee2139f86@parspack.com:2083?path=/cdn&security=tls&encryption=none&host=de-05.allhub.ltd&fp=chrome&type=ws&sni=parspack.allhub.ltd#CA🇨🇦
 
-vless://5cba32d1-1de5-43cc-83aa-dd6acccb5386@parspack.com:443?path=/cdn&security=tls&encryption=none&alpn=h2,http/1.1&host=de-07p.allhub.ltd&fp=randomized&type=ws&sni=parspack.allhub.ltd#CA🇨🇦
+vless://5cba32d1-1de5-43cc-83aa-dd6acccb5386@parspack.com:443?path=/cdn&security=tls&encryption=none&alpn=h2,http/1.1&host=de-07p.allhub.ltd&fp=randomized&type=ws&sni=parspack.allhub.ltd#US🇺🇸
 
 vless://5729aea2-67f0-4091-9c9d-2bf083eb35da@mcci--join.outline-vpn.cloud:8443?path=/gsmxserver&security=none&encryption=none&type=ws#IR🇮🇷
 
@@ -70,7 +68,19 @@ vless://97e54600-c205-4903-a228-b35f074f1f4e@parspack.com:443?path=/cdn&security
 
 vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@mtn-----join.outline-vpn.cloud:443?path=/?ed=2048&security=tls&encryption=none&host=3k.pureboy.eu.org&type=ws&sni=3k.pureboy.eu.org#CA🇨🇦
 
-vless://49ac899d-76ac-4189-fbd1-5880ef54dfe1@medium.com:443?path=/&security=tls&encryption=none&alpn=http/1.1&host=nns.bestmoonlive.com&type=ws&sni=nns.bestmoonlive.com#INT🌍
+vless://49ac899d-76ac-4189-fbd1-5880ef54dfe1@medium.com:443?path=/&security=tls&encryption=none&alpn=http/1.1&host=nns.bestmoonlive.com&type=ws&sni=nns.bestmoonlive.com#CA🇨🇦
+
+vless://dfe4355c-9c09-43fe-f80c-a264ee438f64@190.93.247.155:2083?alpn=@mehrosaboran,@mehrosaboran&encryption=none&fp=chrome&mode=gun&security=tls&serviceName=@LIGHTNING6, @LIGHTNING6&sni=liV2rayg.xn--mgbg0fka44dhgc.com&type=grpc#CR🇨🇷
+
+vless://telegram-id-ArV2ray@198.41.202.5:80?encryption=none&host=WWW.应该改成LAN网卡.SItE&path=/Telegram:@ArV2ray-Telegram:@ArV2ray-Telegram:@ArV2ray-Telegram:@ArV2ray-Telegram:@ArV2ray-Telegram:@ArV2ray?ed=2048&security=none&type=ws#US🇺🇸
+
+vless://38ec9568-f806-4d96-c875-c85cbdf7b246@190.93.247.155:2083?alpn=h2&encryption=none&fp=chrome&mode=gun&security=tls&serviceName=@LIGHTNING6, @LIGHTNING6&sni=liV2rayb.xn--mgbg0fka44dhgc.com&type=grpc#CR🇨🇷
+
+vless://38ec9568-f806-4d96-c875-c85cbdf7b246@104.18.202.209:2083?alpn=@mehrosaboran,@mehrosaboran&encryption=none&fp=chrome&mode=gun&security=tls&serviceName=@LIGHTNING6, @LIGHTNING6&sni=liV2raya.xn--mgbg0fka44dhgc.com&type=grpc#CA🇨🇦
+
+vless://dfe4355c-9c09-43fe-f80c-a264ee438f64@104.31.16.136:2083?alpn=@mehrosaboran,@mehrosaboran&encryption=none&fp=chrome&mode=gun&security=tls&serviceName=@LIGHTNING6, @LIGHTNING6&sni=liV2rayg.xn--mgbg0fka44dhgc.com&type=grpc#CA🇨🇦
+
+vless://dfe4355c-9c09-43fe-f80c-a264ee438f64@198.41.202.5:2083?alpn=@mehrosaboran,@mehrosaboran&encryption=none&fp=chrome&mode=gun&security=tls&serviceName=@LIGHTNING6, @LIGHTNING6&sni=liV2rayg.xn--mgbg0fka44dhgc.com&type=grpc#US🇺🇸
 
 vless://d67d3042-6218-4125-87e9-d3b6014500d6@94.130.226.166:443?encryption=none&fp=firefox&mode=gun&pbk=QzgP7Qll9SWnLLQ4Ef0n-LdBFoI6jEr5gV0kUA0BKwA&security=reality&serviceName=@Hatunnel_vpn&sid=96fdd23e&sni=dnschecker.org&spx=/&type=grpc#DE🇩🇪
 
@@ -87,8 +97,6 @@ vless://b088beb7-e564-4480-8c2f-5482c6874c5e@198.41.202.5:8880?encryption=none&h
 vless://f104d365-b21f-4ab2-97cb-7d90db5c94f3@159.223.234.160:443?encryption=none&fp=firefox&mode=gun&pbk=xyRkkZVwf7z-1HDL41tsYVx5KTJ1_h3fbAXAZ_769Cw&security=reality&serviceName=@ipV2Ray&sid=055d0384&sni=kateihome.com&spx=/&type=grpc#NL🇳🇱
 
 vless://48dd6bad-ab68-434c-9418-ea09e2f60cf3@104.24.172.7:80?encryption=none&host=fIltERgoZaRneT.ImanjAfAryI33.wOrKERs.dev&path=/cO1q-qHTweAcab--?ed=2048&security=none&type=ws#CA🇨🇦
-
-vless://ac6d7dee-c2ce-4a7f-849a-18e70d8aca8f@check-host.net:443?alpn=h2,http/1.1&encryption=none&fp=firefox&mode=gun&security=tls&serviceName=@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray&sni=tl.ArV2ray.host&type=grpc#NL🇳🇱
 
 vless://SVNTEAMe@mtn.VPNPROSEC.com:2096?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=&sni=SvnTeam-V2rayNew-Two.SnappFoodi.Com#NL🇳🇱
 
