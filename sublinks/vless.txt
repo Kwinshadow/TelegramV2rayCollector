@@ -42,9 +42,9 @@ vless://de27bea3-5198-4772-be69-0da876f99101@[2001:41d0:601:1100::49d4]:2083?sec
 
 vless://51905fd3-29de-4b4e-b351-83542f1d5390@parspack.com:443?path=/?ed=2048&security=tls&encryption=none&alpn=h2,http/1.1&host=biA.ALlhub.LTD&fp=random&type=ws&sni=Bia.alLhub.Ltd#US🇺🇸
 
-vless://f24904b6-c6fe-4379-8fd1-b97ee2139f86@parspack.com:2083?path=/cdn&security=tls&encryption=none&host=de-05.allhub.ltd&fp=chrome&type=ws&sni=parspack.allhub.ltd#CA🇨🇦
+vless://f24904b6-c6fe-4379-8fd1-b97ee2139f86@parspack.com:2083?path=/cdn&security=tls&encryption=none&host=de-05.allhub.ltd&fp=chrome&type=ws&sni=parspack.allhub.ltd#US🇺🇸
 
-vless://5cba32d1-1de5-43cc-83aa-dd6acccb5386@parspack.com:443?path=/cdn&security=tls&encryption=none&alpn=h2,http/1.1&host=de-07p.allhub.ltd&fp=randomized&type=ws&sni=parspack.allhub.ltd#US🇺🇸
+vless://5cba32d1-1de5-43cc-83aa-dd6acccb5386@parspack.com:443?path=/cdn&security=tls&encryption=none&alpn=h2,http/1.1&host=de-07p.allhub.ltd&fp=randomized&type=ws&sni=parspack.allhub.ltd#CA🇨🇦
 
 vless://5729aea2-67f0-4091-9c9d-2bf083eb35da@mcci--join.outline-vpn.cloud:8443?path=/gsmxserver&security=none&encryption=none&type=ws#IR🇮🇷
 
@@ -85,14 +85,6 @@ vless://dfe4355c-9c09-43fe-f80c-a264ee438f64@198.41.202.5:2083?alpn=@mehrosabora
 vless://d67d3042-6218-4125-87e9-d3b6014500d6@94.130.226.166:443?encryption=none&fp=firefox&mode=gun&pbk=QzgP7Qll9SWnLLQ4Ef0n-LdBFoI6jEr5gV0kUA0BKwA&security=reality&serviceName=@Hatunnel_vpn&sid=96fdd23e&sni=dnschecker.org&spx=/&type=grpc#DE🇩🇪
 
 vless://1732c28e-9328-4246-bed6-de522bb6e102@104.22.41.69:8080?encryption=none&host=ylyvzl.khamenei.bio&path=/&security=none&type=ws#CA🇨🇦
-
-vless://WANCLOUDFA@104.31.16.136:443?alpn=http/1.1&encryption=none&mode=multi&security=tls&serviceName=@wancloudfa&sni=wanfrtyuoitywancloud.wertycvnur.ir&type=grpc#CA🇨🇦
-
-vless://WANCLOUDFA@190.93.247.155:443?alpn=http/1.1&encryption=none&mode=multi&security=tls&serviceName=@wancloudfa&sni=wanfrtyuoitywancloud.wertycvnur.ir&type=grpc#CR🇨🇷
-
-vless://b088beb7-e564-4480-8c2f-5482c6874c5e@190.93.247.155:8880?encryption=none&host=liV2rayf.善良的闪电.monster&path=/@LIGHTNING6, @LIGHTNING6&security=none&type=ws#CR🇨🇷
-
-vless://b088beb7-e564-4480-8c2f-5482c6874c5e@198.41.202.5:8880?encryption=none&host=liV2rayf.善良的闪电.monster&path=/@LIGHTNING6, @LIGHTNING6&security=none&type=ws#US🇺🇸
 
 vless://SVNTEAMe@mtn.VPNPROSEC.com:2096?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=&sni=SvnTeam-V2rayNew-Two.SnappFoodi.Com#NL🇳🇱
 
