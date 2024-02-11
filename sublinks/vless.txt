@@ -24,9 +24,9 @@ vless://dac5073a-bc2e-4ed8-9e37-1cf8d19f321b@parspack.com:443?path=/cdn&security
 
 vless://65ddfeae-22b1-41be-827b-88f4de6599b6@parspack.com:443?path=/cdn&security=tls&encryption=none&alpn=http/1.1&host=pl-02p.allhub.ltd&fp=chrome&type=ws&sni=parspack.allhub.ltd#US🇺🇸
 
-vless://5f0fd822-04c9-4678-b7cc-38ddcec9f566@parspack.com:443?path=/cdn&security=tls&encryption=none&host=uk-03.allhub.ltd&fp=chrome&type=ws&sni=parspack.allhub.ltd#US🇺🇸
+vless://5f0fd822-04c9-4678-b7cc-38ddcec9f566@parspack.com:443?path=/cdn&security=tls&encryption=none&host=uk-03.allhub.ltd&fp=chrome&type=ws&sni=parspack.allhub.ltd#CA🇨🇦
 
-vless://51905fd3-29de-4b4e-b351-83542f1d5390@parspack.com:443?path=/?ed=2048&security=tls&encryption=none&alpn=h2,http/1.1&host=biA.ALlhub.LTD&fp=random&type=ws&sni=Bia.alLhub.Ltd#US🇺🇸
+vless://51905fd3-29de-4b4e-b351-83542f1d5390@parspack.com:443?path=/?ed=2048&security=tls&encryption=none&alpn=h2,http/1.1&host=biA.ALlhub.LTD&fp=random&type=ws&sni=Bia.alLhub.Ltd#CA🇨🇦
 
 vless://5cba32d1-1de5-43cc-83aa-dd6acccb5386@parspack.com:443?path=/cdn&security=tls&encryption=none&alpn=http/1.1&host=de-08p.allhub.ltd&fp=randomized&type=ws&sni=parspack.allhub.ltd#US🇺🇸
 
@@ -71,6 +71,10 @@ vless://97e54600-c205-4903-a228-b35f074f1f4e@parspack.com:443?path=/cdn&security
 vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@mtn-----join.outline-vpn.cloud:443?path=/?ed=2048&security=tls&encryption=none&host=3k.pureboy.eu.org&type=ws&sni=3k.pureboy.eu.org#CA🇨🇦
 
 vless://49ac899d-76ac-4189-fbd1-5880ef54dfe1@medium.com:443?path=/&security=tls&encryption=none&alpn=http/1.1&host=nns.bestmoonlive.com&type=ws&sni=nns.bestmoonlive.com#CA🇨🇦
+
+vless://f104d365-b21f-4ab2-97cb-7d90db5c94f3@159.223.234.160:443?encryption=none&fp=firefox&mode=gun&pbk=xyRkkZVwf7z-1HDL41tsYVx5KTJ1_h3fbAXAZ_769Cw&security=reality&serviceName=@ipV2Ray&sid=055d0384&sni=kateihome.com&spx=/&type=grpc#NL🇳🇱
+
+vless://48dd6bad-ab68-434c-9418-ea09e2f60cf3@104.24.172.7:80?encryption=none&host=fIltERgoZaRneT.ImanjAfAryI33.wOrKERs.dev&path=/cO1q-qHTweAcab--?ed=2048&security=none&type=ws#CA🇨🇦
 
 vless://ac6d7dee-c2ce-4a7f-849a-18e70d8aca8f@check-host.net:443?alpn=h2,http/1.1&encryption=none&fp=firefox&mode=gun&security=tls&serviceName=@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray&sni=tl.ArV2ray.host&type=grpc#NL🇳🇱
 
