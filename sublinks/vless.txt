@@ -24,9 +24,9 @@ vless://dac5073a-bc2e-4ed8-9e37-1cf8d19f321b@parspack.com:443?path=/cdn&security
 
 vless://65ddfeae-22b1-41be-827b-88f4de6599b6@parspack.com:443?path=/cdn&security=tls&encryption=none&alpn=http/1.1&host=pl-02p.allhub.ltd&fp=chrome&type=ws&sni=parspack.allhub.ltd#US🇺🇸
 
-vless://5f0fd822-04c9-4678-b7cc-38ddcec9f566@parspack.com:443?path=/cdn&security=tls&encryption=none&host=uk-03.allhub.ltd&fp=chrome&type=ws&sni=parspack.allhub.ltd#CA🇨🇦
+vless://5f0fd822-04c9-4678-b7cc-38ddcec9f566@parspack.com:443?path=/cdn&security=tls&encryption=none&host=uk-03.allhub.ltd&fp=chrome&type=ws&sni=parspack.allhub.ltd#US🇺🇸
 
-vless://51905fd3-29de-4b4e-b351-83542f1d5390@parspack.com:443?path=/?ed=2048&security=tls&encryption=none&alpn=h2,http/1.1&host=biA.ALlhub.LTD&fp=random&type=ws&sni=Bia.alLhub.Ltd#CA🇨🇦
+vless://51905fd3-29de-4b4e-b351-83542f1d5390@parspack.com:443?path=/?ed=2048&security=tls&encryption=none&alpn=h2,http/1.1&host=biA.ALlhub.LTD&fp=random&type=ws&sni=Bia.alLhub.Ltd#US🇺🇸
 
 vless://5cba32d1-1de5-43cc-83aa-dd6acccb5386@parspack.com:443?path=/cdn&security=tls&encryption=none&alpn=http/1.1&host=de-08p.allhub.ltd&fp=randomized&type=ws&sni=parspack.allhub.ltd#US🇺🇸
 
@@ -44,9 +44,9 @@ vless://de27bea3-5198-4772-be69-0da876f99101@[2001:41d0:601:1100::49d4]:2083?sec
 
 vless://51905fd3-29de-4b4e-b351-83542f1d5390@parspack.com:443?path=/?ed=2048&security=tls&encryption=none&alpn=h2,http/1.1&host=biA.ALlhub.LTD&fp=random&type=ws&sni=Bia.alLhub.Ltd#US🇺🇸
 
-vless://f24904b6-c6fe-4379-8fd1-b97ee2139f86@parspack.com:2083?path=/cdn&security=tls&encryption=none&host=de-05.allhub.ltd&fp=chrome&type=ws&sni=parspack.allhub.ltd#US🇺🇸
+vless://f24904b6-c6fe-4379-8fd1-b97ee2139f86@parspack.com:2083?path=/cdn&security=tls&encryption=none&host=de-05.allhub.ltd&fp=chrome&type=ws&sni=parspack.allhub.ltd#CA🇨🇦
 
-vless://5cba32d1-1de5-43cc-83aa-dd6acccb5386@parspack.com:443?path=/cdn&security=tls&encryption=none&alpn=h2,http/1.1&host=de-07p.allhub.ltd&fp=randomized&type=ws&sni=parspack.allhub.ltd#CA🇨🇦
+vless://5cba32d1-1de5-43cc-83aa-dd6acccb5386@parspack.com:443?path=/cdn&security=tls&encryption=none&alpn=h2,http/1.1&host=de-07p.allhub.ltd&fp=randomized&type=ws&sni=parspack.allhub.ltd#US🇺🇸
 
 vless://5729aea2-67f0-4091-9c9d-2bf083eb35da@mcci--join.outline-vpn.cloud:8443?path=/gsmxserver&security=none&encryption=none&type=ws#IR🇮🇷
 
@@ -71,6 +71,14 @@ vless://97e54600-c205-4903-a228-b35f074f1f4e@parspack.com:443?path=/cdn&security
 vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@mtn-----join.outline-vpn.cloud:443?path=/?ed=2048&security=tls&encryption=none&host=3k.pureboy.eu.org&type=ws&sni=3k.pureboy.eu.org#CA🇨🇦
 
 vless://49ac899d-76ac-4189-fbd1-5880ef54dfe1@medium.com:443?path=/&security=tls&encryption=none&alpn=http/1.1&host=nns.bestmoonlive.com&type=ws&sni=nns.bestmoonlive.com#CA🇨🇦
+
+vless://WANCLOUDFA@104.31.16.136:443?alpn=http/1.1&encryption=none&mode=multi&security=tls&serviceName=@wancloudfa&sni=wanfrtyuoitywancloud.wertycvnur.ir&type=grpc#CA🇨🇦
+
+vless://WANCLOUDFA@190.93.247.155:443?alpn=http/1.1&encryption=none&mode=multi&security=tls&serviceName=@wancloudfa&sni=wanfrtyuoitywancloud.wertycvnur.ir&type=grpc#CR🇨🇷
+
+vless://b088beb7-e564-4480-8c2f-5482c6874c5e@190.93.247.155:8880?encryption=none&host=liV2rayf.善良的闪电.monster&path=/@LIGHTNING6, @LIGHTNING6&security=none&type=ws#CR🇨🇷
+
+vless://b088beb7-e564-4480-8c2f-5482c6874c5e@198.41.202.5:8880?encryption=none&host=liV2rayf.善良的闪电.monster&path=/@LIGHTNING6, @LIGHTNING6&security=none&type=ws#US🇺🇸
 
 vless://f104d365-b21f-4ab2-97cb-7d90db5c94f3@159.223.234.160:443?encryption=none&fp=firefox&mode=gun&pbk=xyRkkZVwf7z-1HDL41tsYVx5KTJ1_h3fbAXAZ_769Cw&security=reality&serviceName=@ipV2Ray&sid=055d0384&sni=kateihome.com&spx=/&type=grpc#NL🇳🇱
 
