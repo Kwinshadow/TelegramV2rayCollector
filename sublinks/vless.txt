@@ -36,11 +36,11 @@ vless://3a1550f6-eec2-4011-9689-7c64787e9904@[2001:41d0:801:2000::217c]:2083?sec
 
 vless://15a5f488-032c-46df-bbed-3d8144cc559b@[2a01:4f8:c012:1f5f::1]:443?security=reality&encryption=none&pbk=EQNnqgZnVT7_4aHVfeP6esFb6NWJ4rVjFbI1hEZ0Qko&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=apps.androidcentral.com&sid=90FFB9F0#INT🌍
 
-vless://dac5073a-bc2e-4ed8-9e37-1cf8d19f321b@parspack.com:443?path=/cdn&security=tls&encryption=none&host=pl-04p.allhub.ltd&fp=chrome&type=ws&sni=parspack.allhub.ltd#US🇺🇸
+vless://dac5073a-bc2e-4ed8-9e37-1cf8d19f321b@parspack.com:443?path=/cdn&security=tls&encryption=none&host=pl-04p.allhub.ltd&fp=chrome&type=ws&sni=parspack.allhub.ltd#CA🇨🇦
 
 vless://de27bea3-5198-4772-be69-0da876f99101@[2001:41d0:601:1100::49d4]:2083?security=reality&encryption=none&pbk=dDTybEKsyxUFpgEKEMLlJbgGLp6yuwNHR7kmIx52IW8&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=forums.androidcentral.com&sid=408368bb#INT🌍
 
-vless://51905fd3-29de-4b4e-b351-83542f1d5390@parspack.com:443?path=/?ed=2048&security=tls&encryption=none&alpn=h2,http/1.1&host=biA.ALlhub.LTD&fp=random&type=ws&sni=Bia.alLhub.Ltd#US🇺🇸
+vless://51905fd3-29de-4b4e-b351-83542f1d5390@parspack.com:443?path=/?ed=2048&security=tls&encryption=none&alpn=h2,http/1.1&host=biA.ALlhub.LTD&fp=random&type=ws&sni=Bia.alLhub.Ltd#CA🇨🇦
 
 vless://f24904b6-c6fe-4379-8fd1-b97ee2139f86@parspack.com:2083?path=/cdn&security=tls&encryption=none&host=de-05.allhub.ltd&fp=chrome&type=ws&sni=parspack.allhub.ltd#US🇺🇸
 
@@ -48,7 +48,7 @@ vless://5cba32d1-1de5-43cc-83aa-dd6acccb5386@parspack.com:443?path=/cdn&security
 
 vless://5729aea2-67f0-4091-9c9d-2bf083eb35da@mcci--join.outline-vpn.cloud:8443?path=/gsmxserver&security=none&encryption=none&type=ws#IR🇮🇷
 
-vless://ca3ee03d-c4e8-4da0-b77e-b35b08b401cc@gh.popprime.shop:443?mode=gun&security=tls&encryption=none&fp=chrome&type=grpc&serviceName=&sni=server1.popprime.shop#NL🇳🇱
+vless://ca3ee03d-c4e8-4da0-b77e-b35b08b401cc@gh.popprime.shop:443?mode=gun&security=tls&encryption=none&fp=chrome&type=grpc&serviceName=&sni=server1.popprime.shop#US🇺🇸
 
 vless://9e6e8844-5eca-4e7e-b02e-235234521658@fi-01.allhub.ltd:443?mode=gun&security=reality&encryption=none&pbk=MZdzrFI1TPMrqDmtAuEsQjGGe0scA9mmMSWevCY33h4&fp=randomized&type=grpc&serviceName=&sni=www.speedtest.net&sid=6c92dc78#FI🇫🇮
 
@@ -77,14 +77,6 @@ vless://telegram-id-ArV2ray@198.41.202.5:80?encryption=none&host=WWW.应该改�
 vless://38ec9568-f806-4d96-c875-c85cbdf7b246@190.93.247.155:2083?alpn=h2&encryption=none&fp=chrome&mode=gun&security=tls&serviceName=@LIGHTNING6, @LIGHTNING6&sni=liV2rayb.xn--mgbg0fka44dhgc.com&type=grpc#CR🇨🇷
 
 vless://38ec9568-f806-4d96-c875-c85cbdf7b246@104.18.202.209:2083?alpn=@mehrosaboran,@mehrosaboran&encryption=none&fp=chrome&mode=gun&security=tls&serviceName=@LIGHTNING6, @LIGHTNING6&sni=liV2raya.xn--mgbg0fka44dhgc.com&type=grpc#CA🇨🇦
-
-vless://dfe4355c-9c09-43fe-f80c-a264ee438f64@104.31.16.136:2083?alpn=@mehrosaboran,@mehrosaboran&encryption=none&fp=chrome&mode=gun&security=tls&serviceName=@LIGHTNING6, @LIGHTNING6&sni=liV2rayg.xn--mgbg0fka44dhgc.com&type=grpc#CA🇨🇦
-
-vless://dfe4355c-9c09-43fe-f80c-a264ee438f64@198.41.202.5:2083?alpn=@mehrosaboran,@mehrosaboran&encryption=none&fp=chrome&mode=gun&security=tls&serviceName=@LIGHTNING6, @LIGHTNING6&sni=liV2rayg.xn--mgbg0fka44dhgc.com&type=grpc#US🇺🇸
-
-vless://d67d3042-6218-4125-87e9-d3b6014500d6@94.130.226.166:443?encryption=none&fp=firefox&mode=gun&pbk=QzgP7Qll9SWnLLQ4Ef0n-LdBFoI6jEr5gV0kUA0BKwA&security=reality&serviceName=@Hatunnel_vpn&sid=96fdd23e&sni=dnschecker.org&spx=/&type=grpc#DE🇩🇪
-
-vless://1732c28e-9328-4246-bed6-de522bb6e102@104.22.41.69:8080?encryption=none&host=ylyvzl.khamenei.bio&path=/&security=none&type=ws#CA🇨🇦
 
 vless://SVNTEAMe@mtn.VPNPROSEC.com:2096?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=&sni=SvnTeam-V2rayNew-Two.SnappFoodi.Com#NL🇳🇱
 
