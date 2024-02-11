@@ -48,7 +48,7 @@ vless://f24904b6-c6fe-4379-8fd1-b97ee2139f86@parspack.com:2083?path=/cdn&securit
 
 vless://5cba32d1-1de5-43cc-83aa-dd6acccb5386@parspack.com:443?path=/cdn&security=tls&encryption=none&alpn=h2,http/1.1&host=de-07p.allhub.ltd&fp=randomized&type=ws&sni=parspack.allhub.ltd#US🇺🇸
 
-vless://51905fd3-29de-4b4e-b351-83542f1d5390@parspack.com:443?path=/?ed=2048&security=tls&encryption=none&alpn=h2,http/1.1&host=biA.ALlhub.LTD&fp=random&type=ws&sni=Bia.alLhub.Ltd#CA🇨🇦
+vless://51905fd3-29de-4b4e-b351-83542f1d5390@parspack.com:443?path=/?ed=2048&security=tls&encryption=none&alpn=h2,http/1.1&host=biA.ALlhub.LTD&fp=random&type=ws&sni=Bia.alLhub.Ltd#US🇺🇸
 
 vless://51905fd3-29de-4b4e-b351-83542f1d5390@parspack.com:443?path=/?ed=2048&security=tls&encryption=none&alpn=h2,http/1.1&host=biA.ALlhub.LTD&fp=random&type=ws&sni=Bia.alLhub.Ltd#CA🇨🇦
 
@@ -98,12 +98,6 @@ vless://9aa9091c-5726-4a11-b253-8890041e4b61@www.legendaryking.link:8080?encrypt
 
 vless://e9d12faf-ca43-479e-9eb4-d0481715d592@www.legendaryking.link:443?alpn=h2,http/1.1&encryption=none&fp=chrome&mode=gun&security=tls&serviceName=Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram&sni=radar.snapfooding.com&type=grpc#CR🇨🇷
 
-vless://16747acc-95c8-44ba-9b66-3d8a0c035347@91.107.216.210:2096?encryption=none&fp=firefox&pbk=c3R5_lORnQd1X3A2E0ulHJn396G2X_ZYIs66ldEVQWI&security=reality&sid=28f58957&sni=dash.cloudflare.com&spx=/@ELiV2RAY-@ELiV2RAY-@ELiV2RAY-@ELiV2RAY&type=grpc#DE🇩🇪
-
-vless://dfeb8c60-e9a2-425a-ad41-b0e417876e7e@shhproxy.varzesh3-cnd.site:2087?encryption=none=@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN&host=gmV2raybo.shhproxyfree.com&path=/&security=tls&sni=gmV2raybo.shhproxyfree.com&type=ws#CA🇨🇦
-
-vless://7e1e690b-8007-4f9a-a39a-f75f5c3e91e2@all.mdvpnsec.cfd:443?encryption=none=@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN&host=MdVpnSec-V2rayNg-Free.snappfoodd.site&path=/&security=tls&sni=MdVpnSec-V2rayNg-Free.snappfoodd.site&type=ws#CR🇨🇷
-
 vless://bda4be04-48bf-4df1-aaf2-6d42522eab6b@104.22.48.253:80?path=Path/Telegram@V2ray_alpha/?ed=2048&security=none&encryption=none&host=ehda.sajaditsme.com&type=ws#CA🇨🇦
 
 vless://8e407e33-d65a-4e2f-b97b-dbe8ebc3d3ba@31.14.122.131:8081?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#IR🇮🇷
@@ -115,6 +109,8 @@ vless://48dd6bad-ab68-434c-9418-ea09e2f60cf3@filterchanel.alwaysconnect.xyz:80?p
 vless://---Telegram-Parsashonam--3-@www.speedtest.net:8080?path=/&security=none&encryption=none&host=Parsashonam.我们累了.tech&type=ws#CA🇨🇦
 
 vless://---Telegram-Parsashonam--3-@www.speedtest.net:8080?path=/&security=none&encryption=none&host=www.malltina.blog&type=ws#CA🇨🇦
+
+vless://SVNTEAMe@mtn.VPNPROSEC.com:2096/?type=grpc&serviceName=&security=tls&fp=chrome&alpn=h2,http/1.1&sni=SvnTeam-V2rayNew-One.SnappFoodi.Com#NL🇳🇱
 
 vless://46def7d0-ac04-4b51-a748-4f79445a83c6@cdn-de3s.XN--WGB3B6T0D.COM:443?type=ws&path=/&security=tls&sni=cdn-de3w.XN--WGB3B6T0D.COM&host=cdn-de3w.XN--WGB3B6T0D.COM&alpn=h2,http/1.1&fp=chrome#CA🇨🇦
 
