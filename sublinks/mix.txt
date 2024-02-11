@@ -30,9 +30,9 @@ vless://65ddfeae-22b1-41be-827b-88f4de6599b6@parspack.com:443?path=/cdn&security
 
 trojan://5hHSYThRxb@[2001:41d0:801:2000::1456]:443?path=/TBHDjkhbgbygcvbjhbfrvVCTipoihbgwbenguyncbkjnsrfgFgYWgbunhgfdklerjfgjhkjnwfhXQWDefpmvfrtzvedfhurtg&security=tls&alpn=http/1.1&fp=chrome&type=ws&sni=uk-04.allhub.ltd#INT🌍
 
-vless://5f0fd822-04c9-4678-b7cc-38ddcec9f566@parspack.com:443?path=/cdn&security=tls&encryption=none&host=uk-03.allhub.ltd&fp=chrome&type=ws&sni=parspack.allhub.ltd#CA🇨🇦
+vless://5f0fd822-04c9-4678-b7cc-38ddcec9f566@parspack.com:443?path=/cdn&security=tls&encryption=none&host=uk-03.allhub.ltd&fp=chrome&type=ws&sni=parspack.allhub.ltd#US🇺🇸
 
-vless://51905fd3-29de-4b4e-b351-83542f1d5390@parspack.com:443?path=/?ed=2048&security=tls&encryption=none&alpn=h2,http/1.1&host=biA.ALlhub.LTD&fp=random&type=ws&sni=Bia.alLhub.Ltd#CA🇨🇦
+vless://51905fd3-29de-4b4e-b351-83542f1d5390@parspack.com:443?path=/?ed=2048&security=tls&encryption=none&alpn=h2,http/1.1&host=biA.ALlhub.LTD&fp=random&type=ws&sni=Bia.alLhub.Ltd#US🇺🇸
 
 trojan://5hHSYThRxb@uk-04.allhub.ltd:443?path=/TBHDjkhbgbygcvbjhbfrvVCTipoihbgwbenguyncbkjnsrfgFgYWgbunhgfdklerjfgjhkjnwfhXQWDefpmvfrtzvedfhurtg&security=tls&alpn=http/1.1&fp=chrome&type=ws&sni=uk-04.allhub.ltd#GB🇬🇧
 
@@ -52,19 +52,19 @@ vless://de27bea3-5198-4772-be69-0da876f99101@[2001:41d0:601:1100::49d4]:2083?sec
 
 vless://51905fd3-29de-4b4e-b351-83542f1d5390@parspack.com:443?path=/?ed=2048&security=tls&encryption=none&alpn=h2,http/1.1&host=biA.ALlhub.LTD&fp=random&type=ws&sni=Bia.alLhub.Ltd#US🇺🇸
 
-vless://f24904b6-c6fe-4379-8fd1-b97ee2139f86@parspack.com:2083?path=/cdn&security=tls&encryption=none&host=de-05.allhub.ltd&fp=chrome&type=ws&sni=parspack.allhub.ltd#US🇺🇸
+vless://f24904b6-c6fe-4379-8fd1-b97ee2139f86@parspack.com:2083?path=/cdn&security=tls&encryption=none&host=de-05.allhub.ltd&fp=chrome&type=ws&sni=parspack.allhub.ltd#CA🇨🇦
 
-vless://5cba32d1-1de5-43cc-83aa-dd6acccb5386@parspack.com:443?path=/cdn&security=tls&encryption=none&alpn=h2,http/1.1&host=de-07p.allhub.ltd&fp=randomized&type=ws&sni=parspack.allhub.ltd#CA🇨🇦
+vless://5cba32d1-1de5-43cc-83aa-dd6acccb5386@parspack.com:443?path=/cdn&security=tls&encryption=none&alpn=h2,http/1.1&host=de-07p.allhub.ltd&fp=randomized&type=ws&sni=parspack.allhub.ltd#US🇺🇸
 
 vless://5729aea2-67f0-4091-9c9d-2bf083eb35da@mcci--join.outline-vpn.cloud:8443?path=/gsmxserver&security=none&encryption=none&type=ws#IR🇮🇷
 
 vless://ca3ee03d-c4e8-4da0-b77e-b35b08b401cc@gh.popprime.shop:443?mode=gun&security=tls&encryption=none&fp=chrome&type=grpc&serviceName=&sni=server1.popprime.shop#NL🇳🇱
 
-vmess://eyJhZGQiOiJzdWJtZWh0aS5rYXJhajY4LnNob3AiLCJhaWQiOiIwIiwiYWxwbiI6ImgyLGh0dHBcLzEuMSIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiZGI1YWZhZTQtYWMyMy00MWE2LTgzNzgtZjMwN2E5YTQ3NDM2IiwibmV0IjoiZ3JwYyIsInBhdGgiOiIiLCJwb3J0IjoiMjA4NyIsInBzIjoiVVNcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjgiLCJzY3kiOiJhdXRvIiwic25pIjoiZGQyMTE0NnlnZmRTTkE5MTkxMjgxMjgwa2RtMjJrYXMyMTIzQWF3ZHNkMTIzNGJiNTc1MTk3MTg0LnNkZmdoamtra2tra2tra2tramhnZmRzZGZnaC5uZXQiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiZ3VuIiwidiI6IjIifQ==
+vmess://eyJhZGQiOiJzdWJtZWh0aS5rYXJhajY4LnNob3AiLCJhaWQiOiIwIiwiYWxwbiI6ImgyLGh0dHBcLzEuMSIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiZGI1YWZhZTQtYWMyMy00MWE2LTgzNzgtZjMwN2E5YTQ3NDM2IiwibmV0IjoiZ3JwYyIsInBhdGgiOiIiLCJwb3J0IjoiMjA4NyIsInBzIjoiQ0FcdWQ4M2NcdWRkZThcdWQ4M2NcdWRkZTYiLCJzY3kiOiJhdXRvIiwic25pIjoiZGQyMTE0NnlnZmRTTkE5MTkxMjgxMjgwa2RtMjJrYXMyMTIzQWF3ZHNkMTIzNGJiNTc1MTk3MTg0LnNkZmdoamtra2tra2tra2tramhnZmRzZGZnaC5uZXQiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiZ3VuIiwidiI6IjIifQ==
 
 vmess://eyJhZGQiOiJtY2ktLWpvaW4ub3V0bGluZS12cG4uY2xvdWQiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImEucHJhcHQ1LmlyIiwiaWQiOiI3MDIyOTgyZi1kYTRjLTQ4YzktYzY2MC1iMjMxNWFiZGNmN2UiLCJuZXQiOiJ3cyIsInBhdGgiOiJcLz9lZD0yMDQ4IiwicG9ydCI6IjgwIiwicHMiOiJOTFx1ZDgzY1x1ZGRmM1x1ZDgzY1x1ZGRmMSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==
 
-vmess://eyJhZGQiOiJzdWJtZWh0aS5rYXJhajY4LnNob3AiLCJhaWQiOiIwIiwiYWxwbiI6ImgyLGh0dHBcLzEuMSIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiZGI1YWZhZTQtYWMyMy00MWE2LTgzNzgtZjMwN2E5YTQ3NDM2IiwibmV0IjoiZ3JwYyIsInBhdGgiOiIiLCJwb3J0IjoiMjA4NyIsInBzIjoiVVNcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjgiLCJzY3kiOiJhdXRvIiwic25pIjoiZGQyMTE0NnlnZmRTTkE5MTkxMjgxMjgwa2RtMjJrYXMyMTIzQWF3ZHNkMTIzNGJiOTExMDcyNDY2NC5zZGZnaGpra2tra2tra2tra2poZ2Zkc2RmZ2gubmV0IiwidGxzIjoidGxzIiwidHlwZSI6Imd1biIsInYiOiIyIn0=
+vmess://eyJhZGQiOiJzdWJtZWh0aS5rYXJhajY4LnNob3AiLCJhaWQiOiIwIiwiYWxwbiI6ImgyLGh0dHBcLzEuMSIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiZGI1YWZhZTQtYWMyMy00MWE2LTgzNzgtZjMwN2E5YTQ3NDM2IiwibmV0IjoiZ3JwYyIsInBhdGgiOiIiLCJwb3J0IjoiMjA4NyIsInBzIjoiQ0FcdWQ4M2NcdWRkZThcdWQ4M2NcdWRkZTYiLCJzY3kiOiJhdXRvIiwic25pIjoiZGQyMTE0NnlnZmRTTkE5MTkxMjgxMjgwa2RtMjJrYXMyMTIzQWF3ZHNkMTIzNGJiOTExMDcyNDY2NC5zZGZnaGpra2tra2tra2tra2poZ2Zkc2RmZ2gubmV0IiwidGxzIjoidGxzIiwidHlwZSI6Imd1biIsInYiOiIyIn0=
 
 vless://9e6e8844-5eca-4e7e-b02e-235234521658@fi-01.allhub.ltd:443?mode=gun&security=reality&encryption=none&pbk=MZdzrFI1TPMrqDmtAuEsQjGGe0scA9mmMSWevCY33h4&fp=randomized&type=grpc&serviceName=&sni=www.speedtest.net&sid=6c92dc78#FI🇫🇮
 
@@ -95,6 +95,22 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#GB🇬🇧
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.samanehha.co:443#GB🇬🇧
+
+vless://WANCLOUDFA@104.31.16.136:443?alpn=http/1.1&encryption=none&mode=multi&security=tls&serviceName=@wancloudfa&sni=wanfrtyuoitywancloud.wertycvnur.ir&type=grpc#CA🇨🇦
+
+vless://WANCLOUDFA@190.93.247.155:443?alpn=http/1.1&encryption=none&mode=multi&security=tls&serviceName=@wancloudfa&sni=wanfrtyuoitywancloud.wertycvnur.ir&type=grpc#CR🇨🇷
+
+vless://b088beb7-e564-4480-8c2f-5482c6874c5e@190.93.247.155:8880?encryption=none&host=liV2rayf.善良的闪电.monster&path=/@LIGHTNING6, @LIGHTNING6&security=none&type=ws#CR🇨🇷
+
+vless://b088beb7-e564-4480-8c2f-5482c6874c5e@198.41.202.5:8880?encryption=none&host=liV2rayf.善良的闪电.monster&path=/@LIGHTNING6, @LIGHTNING6&security=none&type=ws#US🇺🇸
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#GB🇬🇧
+
+trojan://telegram-id-directvpn@35.153.188.254:22222?alpn=http/1.1&headerType=none&security=tls&sni=trojan.miwan.co.uk&type=tcp#US🇺🇸
+
+trojan://telegram-id-privatevpns@15.188.204.247:22222?alpn=http/1.1&headerType=none&security=tls&sni=trojan.miwan.co.uk&type=tcp#FR🇫🇷
+
+trojan://telegram-id-privatevpns@13.39.210.59:22222?alpn=http/1.1&headerType=none&security=tls&sni=trojan.miwan.co.uk&type=tcp#FR🇫🇷
 
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@190.120.230.9:989#CL🇨🇱
 
@@ -135,22 +151,6 @@ trojan://telegram-id-directvpn@3.131.17.227:22222?alpn=http/1.1&headerType=none&
 vless://30dcc727-983b-40c8-b102-e60f54bde8cb@45.58.44.119:25365?encryption=none&fp=chrome&mode=gun&pbk=TJKo90wwcMm5gly6tGIInFRAk-_uo3GzQLXwOE70k0c&security=reality&serviceName=@ZEDMODEONTECH&sid=ba5fb9f5&sni=sourceforge.net&spx=/&type=grpc#US🇺🇸
 
 vless://16a6a556-fef5-4e4f-83cf-b309ab506e4f@104.16.23.29:2052?encryption=none&host=ch4.sa5.shop&path=/?ed=2048&security=none&type=ws#CA🇨🇦
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTovV3dzbDVhR1pmZ1BmOC94N3U3dW5yaUpZMkN0WmlrMis1bmxxU28veHZBPQ==@ec2-aws-eu3-north-1.mufamily.cn:8080#SE🇸🇪
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0NC9OeldySGJzR3BiU2hla1lBL083VWRzZWFQbnZ5UDhzdHpOZ25yMHpVPQ==@51.20.42.216:8080#SE🇸🇪
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1TTcxdW9hbWpRd3hNZVQ3NmlET1lvdzFuRnp2NEV2RmE1ZC9mcFlKbDEwPQ==@16.170.235.194:8080#SE🇸🇪
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4bzNKUHZ2WkYydVUzMUYra1RrUGh4RlpFNitiaDQwdSsyYm1EYkhGYVVzPQ==@13.48.248.25:8080#SE🇸🇪
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpscUxzNFFUY2IzRGIwVDZUMk1KWXZQ@51.140.140.218:8585#GB🇬🇧
-
-trojan://telegram-id-directvpn@13.50.23.211:22222?alpn=http/1.1&headerType=none&security=tls&sni=trojan.miwan.co.uk&type=tcp#SE🇸🇪
-
-trojan://telegram-id-privatevpns@51.21.136.184:22222?alpn=http/1.1&headerType=none&security=tls&sni=trojan.miwan.co.uk&type=tcp#SE🇸🇪
-
-trojan://telegram-id-directvpn@3.136.3.199:22222?alpn=http/1.1&headerType=none&security=tls&sni=trojan.miwan.co.uk&type=tcp#US🇺🇸
 
 vless://SVNTEAMe@mtn.VPNPROSEC.com:2096?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=&sni=SvnTeam-V2rayNew-Two.SnappFoodi.Com#NL🇳🇱
 
