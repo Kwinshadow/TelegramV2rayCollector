@@ -42,11 +42,11 @@ vless://ca3ee03d-c4e8-4da0-b77e-b35b08b401cc@gh.popprime.shop:443?mode=gun&secur
 
 vless://9e6e8844-5eca-4e7e-b02e-235234521658@fi-01.allhub.ltd:443?mode=gun&security=reality&encryption=none&pbk=MZdzrFI1TPMrqDmtAuEsQjGGe0scA9mmMSWevCY33h4&fp=randomized&type=grpc&serviceName=&sni=www.speedtest.net&sid=6c92dc78#FI🇫🇮
 
-vless://49ac899d-76ac-4189-fbd1-5880ef54dfe1@medium.com:443?path=/&security=tls&encryption=none&alpn=http/1.1&host=nns.bestmoonlive.com&type=ws&sni=nns.bestmoonlive.com#US🇺🇸
+vless://49ac899d-76ac-4189-fbd1-5880ef54dfe1@medium.com:443?path=/&security=tls&encryption=none&alpn=http/1.1&host=nns.bestmoonlive.com&type=ws&sni=nns.bestmoonlive.com#CA🇨🇦
 
 vless://f24904b6-c6fe-4379-8fd1-b97ee2139f86@parspack.com:2083?path=/cdn&security=tls&encryption=none&host=de-05.allhub.ltd&fp=chrome&type=ws&sni=parspack.allhub.ltd#CA🇨🇦
 
-vless://5cba32d1-1de5-43cc-83aa-dd6acccb5386@parspack.com:443?path=/cdn&security=tls&encryption=none&alpn=h2,http/1.1&host=de-07p.allhub.ltd&fp=randomized&type=ws&sni=parspack.allhub.ltd#US🇺🇸
+vless://5cba32d1-1de5-43cc-83aa-dd6acccb5386@parspack.com:443?path=/cdn&security=tls&encryption=none&alpn=h2,http/1.1&host=de-07p.allhub.ltd&fp=randomized&type=ws&sni=parspack.allhub.ltd#CA🇨🇦
 
 vless://51905fd3-29de-4b4e-b351-83542f1d5390@parspack.com:443?path=/?ed=2048&security=tls&encryption=none&alpn=h2,http/1.1&host=biA.ALlhub.LTD&fp=random&type=ws&sni=Bia.alLhub.Ltd#CA🇨🇦
 
@@ -76,6 +76,20 @@ vless://9e6e8844-5eca-4e7e-b02e-235234521658@fi-01.allhub.ltd:443?mode=gun&secur
 
 vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@3k.pureboy.eu.org:443?path=TELEGRAM...PROXY_MTM?ed=2048&security=tls&encryption=none&alpn=http/1.1&host=3k.pureboy.eu.org&fp=chrome&type=ws&sni=3k.pureboy.eu.org#CA🇨🇦
 
+vless://7e539177-f3f2-45f0-b76a-1e261282a07d@Vpnmasi.savagev2ray.site:2083?encryption=none&host=all2.savagev2ray.site&path=/&security=tls&sni=all2.savagev2ray.site&type=ws#CR🇨🇷
+
+vless://d04363b7-306d-4f68-9ff3-46fed9eb693f@15.235.203.5:443?encryption=none&fp=firefox&mode=gun&pbk=rl3b7Kvk25jVW05W6bVTgwxKEflNPU2SnPYT6r6anCg&security=reality&serviceName=@ipV2Ray&sid=d9f06ec4&sni=kohchangartstudio.com&spx=/&type=grpc#SG🇸🇬
+
+vless://bda4be04-48bf-4df1-aaf2-6d42522eab6b@mtn---join.outline-vpn.cloud:80?encryption=none&host=ehda.sajaditsme.com&path=/?ed=2048&security=none&type=ws#CA🇨🇦
+
+vless://4cc1e052-d118-4ff9-8ea4-6ed8e1b49537@de.melov2ray.shop:2083?alpn=h2,http/1.1&encryption=none&fp=chrome&path=/@melov2ray,@melov2ray,@melov2ray,@melov2ray,@melov2ray,@melov2ray,@melov2ray,@melov2ray,@melov2ray,@melov2ray,@melov2ray,@melov2ray,@melov2ray,@melov2ray,@melov2ray,@melov2ray,@melov2ray,@melov2ray,@melov2ray,@melov2ray,@melov2ray,@melov2ray,@melov2ray,@melov2ray,@melov2ray,@melov2ray&security=tls&sni=De.Melov2ray.Shop&type=ws#CA🇨🇦
+
+vless://60813b9d-aa0e-4a5c-88b8-ed231058e82a@162.159.8.55:443?encryption=none&host=pages.20230619.love&path=fuck0yes!fuck0yes!&security=tls&sni=pages.20230619.love&type=ws#CA🇨🇦
+
+vless://edf2e2fd-a97d-4c06-be60-f339cca6a310@zula.ir:8443?encryption=none&fp=random&mode=gun&security=tls&serviceName=@melov2ray,@melov2ray,@melov2ray,@melov2ray,@melov2ray,@melov2ray,@melov2ray,@melov2ray,@melov2ray,@melov2ray,@melov2ray,@melov2ray,@melov2ray,@melov2ray&sni=FIn.Melov2ray.Shop&type=grpc#NL🇳🇱
+
+vless://60813b9d-aa0e-4a5c-88b8-ed231058e82a@104.21.0.227:2053?encryption=none&host=pages.20230619.love&path=/freecodes&security=tls&sni=pages.20230619.love&type=ws#CA🇨🇦
+
 vless://X4azadi-mci@www.speedtest.net:8880?encryption=none=@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN&host=iran.x4azadi.com&path=X4azadi?ed=2048&security=none&type=ws#CA🇨🇦
 
 vless://222e658d-e5bd-417f-9f56-2ecedd3a59db@zula.ir:80?host=hajimamad-channel-join-sho.golden-ping.ir&path=@HAJIMAMADVPN=@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN&security=none&type=ws#NL🇳🇱
@@ -90,10 +104,6 @@ vless://dfeb8c60-e9a2-425a-ad41-b0e417876e7e@shhproxy.varzesh3-cnd.site:2087?enc
 
 vless://7e1e690b-8007-4f9a-a39a-f75f5c3e91e2@all.mdvpnsec.cfd:443?encryption=none=@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN&host=MdVpnSec-V2rayNg-Free.snappfoodd.site&path=/&security=tls&sni=MdVpnSec-V2rayNg-Free.snappfoodd.site&type=ws#CR🇨🇷
 
-vless://dfa903d0-5477-4f37-99a7-e833ab5ce1c9@217.114.217.120:18947?security=none&type=tcp#DE🇩🇪
-
-vless://51d4c9b4-724e-427b-9689-9543d5133a66@XvProxy.savagev2ray.site:443?encryption=none&host=all4.savagev2ray.site&path=/&security=tls&sni=all4.savagev2ray.site&type=ws#CR🇨🇷
-
 vless://bda4be04-48bf-4df1-aaf2-6d42522eab6b@104.22.48.253:80?path=Path/Telegram@V2ray_alpha/?ed=2048&security=none&encryption=none&host=ehda.sajaditsme.com&type=ws#CA🇨🇦
 
 vless://8e407e33-d65a-4e2f-b97b-dbe8ebc3d3ba@31.14.122.131:8081?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#IR🇮🇷
@@ -106,13 +116,11 @@ vless://---Telegram-Parsashonam--3-@www.speedtest.net:8080?path=/&security=none&
 
 vless://---Telegram-Parsashonam--3-@www.speedtest.net:8080?path=/&security=none&encryption=none&host=www.malltina.blog&type=ws#CA🇨🇦
 
+vless://SVNTEAMe@mtn.VPNPROSEC.com:2096/?type=grpc&serviceName=&security=tls&fp=chrome&alpn=h2,http/1.1&sni=SvnTeam-V2rayNew-One.SnappFoodi.Com#NL🇳🇱
+
+vless://39c94e86-05be-4291-905d-b8ca1e387c11@104.16.4.103:8880?path=/Eahb-2lpTPQeMnUC?ed=2048&security=none&encryption=none&alpn=h2,http/1.1&host=wOrkeR-Novin.bOgiy44254.WoRKErS.dEV&fp=randomized&type=ws&sni=wOrkER-nOVIN.bogiy44254.WoRKers.DeV#CA🇨🇦
+
 vless://46def7d0-ac04-4b51-a748-4f79445a83c6@cdn-de3s.XN--WGB3B6T0D.COM:443?type=ws&path=/&security=tls&sni=cdn-de3w.XN--WGB3B6T0D.COM&host=cdn-de3w.XN--WGB3B6T0D.COM&alpn=h2,http/1.1&fp=chrome#CA🇨🇦
 
 vless://53e27317-71d4-49f6-a99e-eb47c2a3a6dc@www.speedtest.net:2087?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=&sni=mehdi3.drapico.com#CA🇨🇦
-
-vless://51905fd3-29de-4b4e-b351-83542f1d5390@parspack.com:443?path=/?ed=2048&security=tls&encryption=none&alpn=h2,http/1.1&host=biA.ALlhub.LTD&fp=random&type=ws&sni=Bia.alLhub.Ltd#CA🇨🇦
-
-vless://46def7d0-ac04-4b51-a748-4f79445a83c6@cdn-de3s.XN--WGB3B6T0D.COM:443?type=ws&path=/&security=tls&sni=cdn-de3w.XN--WGB3B6T0D.COM&host=cdn-de3w.XN--WGB3B6T0D.COM&alpn=h2,http/1.1&fp=chrome#CA🇨🇦
-
-vless://b0138d55-a493-4dc3-9932-c6f0391707c1@172.64.111.9:443?path=/vless/b0138d55-a493-4dc3-9932-c6f0391707c1?ed=2048&security=tls&encryption=none&host=edge.020770.xyz&type=ws&sni=edge.020770.xyz#US🇺🇸
 
