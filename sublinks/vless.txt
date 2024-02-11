@@ -40,7 +40,7 @@ vless://dac5073a-bc2e-4ed8-9e37-1cf8d19f321b@parspack.com:443?path=/cdn&security
 
 vless://de27bea3-5198-4772-be69-0da876f99101@[2001:41d0:601:1100::49d4]:2083?security=reality&encryption=none&pbk=dDTybEKsyxUFpgEKEMLlJbgGLp6yuwNHR7kmIx52IW8&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=forums.androidcentral.com&sid=408368bb#INT🌍
 
-vless://51905fd3-29de-4b4e-b351-83542f1d5390@parspack.com:443?path=/?ed=2048&security=tls&encryption=none&alpn=h2,http/1.1&host=biA.ALlhub.LTD&fp=random&type=ws&sni=Bia.alLhub.Ltd#CA🇨🇦
+vless://51905fd3-29de-4b4e-b351-83542f1d5390@parspack.com:443?path=/?ed=2048&security=tls&encryption=none&alpn=h2,http/1.1&host=biA.ALlhub.LTD&fp=random&type=ws&sni=Bia.alLhub.Ltd#US🇺🇸
 
 vless://f24904b6-c6fe-4379-8fd1-b97ee2139f86@parspack.com:2083?path=/cdn&security=tls&encryption=none&host=de-05.allhub.ltd&fp=chrome&type=ws&sni=parspack.allhub.ltd#CA🇨🇦
 
@@ -94,10 +94,6 @@ vless://b088beb7-e564-4480-8c2f-5482c6874c5e@190.93.247.155:8880?encryption=none
 
 vless://b088beb7-e564-4480-8c2f-5482c6874c5e@198.41.202.5:8880?encryption=none&host=liV2rayf.善良的闪电.monster&path=/@LIGHTNING6, @LIGHTNING6&security=none&type=ws#US🇺🇸
 
-vless://f104d365-b21f-4ab2-97cb-7d90db5c94f3@159.223.234.160:443?encryption=none&fp=firefox&mode=gun&pbk=xyRkkZVwf7z-1HDL41tsYVx5KTJ1_h3fbAXAZ_769Cw&security=reality&serviceName=@ipV2Ray&sid=055d0384&sni=kateihome.com&spx=/&type=grpc#NL🇳🇱
-
-vless://48dd6bad-ab68-434c-9418-ea09e2f60cf3@104.24.172.7:80?encryption=none&host=fIltERgoZaRneT.ImanjAfAryI33.wOrKERs.dev&path=/cO1q-qHTweAcab--?ed=2048&security=none&type=ws#CA🇨🇦
-
 vless://SVNTEAMe@mtn.VPNPROSEC.com:2096?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=&sni=SvnTeam-V2rayNew-Two.SnappFoodi.Com#NL🇳🇱
 
 vless://X4azadi-20TB@www.speedtest.net:8880?path=X4azadi?ed=2048&security=none&encryption=none&host=Iran.x4azadi.com&type=ws#CA🇨🇦
@@ -112,9 +108,13 @@ vless://---Telegram-Parsashonam--3-@www.speedtest.net:8080?path=/&security=none&
 
 vless://---Telegram-Parsashonam--3-@www.speedtest.net:8080?path=/&security=none&encryption=none&host=www.malltina.blog&type=ws#CA🇨🇦
 
-vless://SVNTEAMe@mtn.VPNPROSEC.com:2096/?type=grpc&serviceName=&security=tls&fp=chrome&alpn=h2,http/1.1&sni=SvnTeam-V2rayNew-One.SnappFoodi.Com#NL🇳🇱
+vless://52199cb4-6715-49ec-a120-c314be6acf58@cf.network383.online:443?encryption=none&security=tls&sni=pro.richscale.io&fp=chrome&type=grpc&serviceName=omegapro&mode=gun#NL🇳🇱
 
-vless://46def7d0-ac04-4b51-a748-4f79445a83c6@cdn-de3s.XN--WGB3B6T0D.COM:443?type=ws&path=/&security=tls&sni=cdn-de3w.XN--WGB3B6T0D.COM&host=cdn-de3w.XN--WGB3B6T0D.COM&alpn=h2,http/1.1&fp=chrome#CA🇨🇦
+vless://SVNTEAMx@mtn.VPNPROSEC.com:2096/?type=grpc&serviceName=&security=tls&fp=chrome&alpn=h2,http/1.1&sni=SvnTeam-V2rayNew-One.SnappFoodi.Com#NL🇳🇱
 
-vless://SVNTEAMe@mtn.VPNPROSEC.com:2096/?type=grpc&serviceName=&security=tls&fp=chrome&alpn=h2,http/1.1&sni=SvnTeam-V2rayNew-One.SnappFoodi.Com#NL🇳🇱
+vless://5da2b424-b40c-432f-8e94-9d84b9c5dd91@87.107.146.242:32447?type=tcp&path=/&headerType=http&security=none#IR🇮🇷
+
+vless://51e62a71-494c-484a-b442-2b9375e1ede5@87.107.164.151:48599?type=ws&path=/&security=none#IR🇮🇷
+
+vless://cec53b74-fbf2-4b6f-9652-86fb15f348a2@87.107.146.242:10768?type=ws&path=/&security=none#IR🇮🇷
 
