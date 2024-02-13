@@ -30,15 +30,15 @@ vless://1d86846c-5a27-43c8-8981-57bb75c82195@zula.ir:443?path=/paradise&security
 
 vless://1d86846c-5a27-43c8-8981-57bb75c82195@190.93.247.155:443?path=/paradise&security=tls&encryption=none&host=tjsre.ttvoffi.info&fp=chrome&type=ws&sni=tjsre.ttvoffi.info#US🇺🇸
 
-vless://1d86846c-5a27-43c8-8981-57bb75c82195@190.93.247.155:443?path=/paradise&security=tls&encryption=none&host=tjsre.ttvoffi.info&fp=chrome&type=ws&sni=tjsre.ttvoffi.info#CR🇨🇷
+vless://1d86846c-5a27-43c8-8981-57bb75c82195@190.93.247.155:443?path=/paradise&security=tls&encryption=none&host=tjsre.ttvoffi.info&fp=chrome&type=ws&sni=tjsre.ttvoffi.info#US🇺🇸
 
-vless://1d86846c-5a27-43c8-8981-57bb75c82195@172.67.204.84:443?path=/paradise&security=tls&encryption=none&host=tjsre.ttvoffi.info&fp=safari&type=ws&sni=tjsre.ttvoffi.info#US🇺🇸
+vless://1d86846c-5a27-43c8-8981-57bb75c82195@172.67.204.84:443?path=/paradise&security=tls&encryption=none&host=tjsre.ttvoffi.info&fp=safari&type=ws&sni=tjsre.ttvoffi.info#CA🇨🇦
 
 vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@3k.pureboy.eu.org:443?path=TELEGRAM...PROXY_MTM?ed=2048&security=tls&encryption=none&alpn=http/1.1&host=3k.pureboy.eu.org&fp=chrome&type=ws&sni=3k.pureboy.eu.org#CA🇨🇦
 
 vless://db0cd79e-5a22-4ce2-b784-03f8c9325cc4@104.21.61.188:2052?path=/&security=none&encryption=none&host=mijml3.hamedigold.com&type=ws#US🇺🇸
 
-vless://192ae379-a9a5-483b-b5ea-cb474e194347@donald.pydri.ir:8080?path=/&security=none&encryption=none&type=ws#US🇺🇸
+vless://192ae379-a9a5-483b-b5ea-cb474e194347@donald.pydri.ir:8080?path=/&security=none&encryption=none&type=ws#NL🇳🇱
 
 vless://1d86846c-5a27-43c8-8981-57bb75c82195@190.93.247.155:443?path=/paradise&security=tls&encryption=none&host=tjsre.ttvoffi.info&fp=chrome&type=ws&sni=tjsre.ttvoffi.info#CR🇨🇷
 
@@ -88,6 +88,24 @@ vless://5f0fd822-04c9-4678-b7cc-38ddcec9f566@parspack.com:443?path=/cdn&security
 
 vless://51905fd3-29de-4b4e-b351-83542f1d5390@parspack.com:443?path=/?ed=2048&security=tls&encryption=none&alpn=h2,http/1.1&host=biA.ALlhub.LTD&fp=random&type=ws&sni=Bia.alLhub.Ltd#CA🇨🇦
 
+vless://5cba32d1-1de5-43cc-83aa-dd6acccb5386@parspack.com:443?path=/cdn&security=tls&encryption=none&alpn=http/1.1&host=de-08p.allhub.ltd&fp=randomized&type=ws&sni=parspack.allhub.ltd#CA🇨🇦
+
+vless://37405634-5db1-4d2a-a0a1-85d006dbe35a@[2001:41d0:401:3000::3be1]:2083?security=reality&encryption=none&pbk=QBzDikCTIljaAPywseSeEkfvJ0snlAIXmrjTYKz7mQo&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=streaming.androidcentral.com&sid=43BB2438#INT🌍
+
+vless://9c3f7d5c-8a77-430f-85fc-b17c59247d8c@[2001:41d0:801:2000::470c]:2083?security=reality&encryption=none&pbk=x_qVBVwR4mS083F2U8olf_DqzAAdHrbdi4SmvDn7zy8&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.speedtest.net&sid=1B37FF03#INT🌍
+
+vless://3a1550f6-eec2-4011-9689-7c64787e9904@[2001:41d0:801:2000::217c]:2083?security=reality&encryption=none&pbk=7nZlbysMKS0eZxQ5f8bTsdJ-4XHUZw9w6ZzzeNYupyY&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=reviews.androidcentral.com&sid=1DACE357#INT🌍
+
+vless://15a5f488-032c-46df-bbed-3d8144cc559b@[2a01:4f8:c012:1f5f::1]:443?security=reality&encryption=none&pbk=EQNnqgZnVT7_4aHVfeP6esFb6NWJ4rVjFbI1hEZ0Qko&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=apps.androidcentral.com&sid=90FFB9F0#INT🌍
+
+vless://dac5073a-bc2e-4ed8-9e37-1cf8d19f321b@parspack.com:443?path=/cdn&security=tls&encryption=none&host=pl-04p.allhub.ltd&fp=chrome&type=ws&sni=parspack.allhub.ltd#CA🇨🇦
+
+vless://de27bea3-5198-4772-be69-0da876f99101@[2001:41d0:601:1100::49d4]:2083?security=reality&encryption=none&pbk=dDTybEKsyxUFpgEKEMLlJbgGLp6yuwNHR7kmIx52IW8&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=forums.androidcentral.com&sid=408368bb#INT🌍
+
+vless://38ec9568-f806-4d96-c875-c85cbdf7b246@LIGHTNING6-joinbede.liV2ray.xyz:2083?alpn=h2&encryption=none&fp=chrome&mode=gun&security=tls&serviceName=@LIGHTNING6, @LIGHTNING6&sni=liV2raya.xn--mgbg0fka44dhgc.com&type=grpc#CR🇨🇷
+
+vless://ecb40c8b-d96b-485c-be85-c3bc6f0172c7@shhproxy.varzesh3-cnd.site:80?encryption=none&host=sub.xn--4oq36ed28d.org&path=/&security=none&type=ws#NL🇳🇱
+
 vless://00c38785-6b20-4f91-d0bb-6abc91eaacd2@190.93.247.155:2083?alpn=@mehrosaboran,@mehrosaboran&encryption=none&fp=chrome&mode=gun&security=tls&serviceName=@LIGHTNING6, @LIGHTNING6&sni=liV2raya.xn--mgbg0fka44dhgc.com&type=grpc#CR🇨🇷
 
 vless://f79e51b8-66fa-4cf1-d21f-fe52f3df1209@190.93.247.155:8880?encryption=none&host=liV2raya.善良的闪电.monster&path=/@LIGHTNING6, @LIGHTNING6&security=none&type=ws#CR🇨🇷
@@ -116,9 +134,9 @@ vless://1649bd79-e0fe-4621-b186-1c2628120e6d@join344.numalla.top:2096?alpn=h2,ht
 
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@44.195.177.131:22222?encryption=none&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws&security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws#US🇺🇸
 
-vless://e2ad77a5-1447-4a77-9524-19a47a832f55@104.24.176.7:8443?encryption=none&mode=gun&security=tls&serviceName=&sni=chtest.puzzlemobile.info&type=grpc#CA🇨🇦
+vless://a25d797e-d528-48fa-9e43-6e22ec565026@check-host.net:8080?path=/Telegram:@POLPROXY-Telegram:@POLPROXY-Telegram:@POLPROXY-Telegram:@POLPROXY-Telegram:@POLPROXY-Telegram:@POLPROXY-Telegram:@POLPROXY-Telegram:@POLPROXY&security=none&encryption=none&host=moein.列列男事的事列上赛男78.wiki&type=ws#NL🇳🇱
 
-vless://29f8ad12-ea84-431b-bf32-9d3fb5cf2aa2@172.67.174.190:443?encryption=none&host=w1.sylar8.eu.org&path=/?ed&security=tls&sni=w1.sylar8.eu.org&type=ws#CA🇨🇦
+vless://telegram-id-ArV2ray@check-host.net:80?path=/telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray?ed=2048&security=none&encryption=none&host=SITe.应该改成lan网卡.SITe&type=ws#NL🇳🇱
 
 vless://edf2e2fd-a97d-4c06-be60-f339cca6a310@www.speedtest.net:8443?mode=gun&security=tls&encryption=none&fp=random&type=grpc&serviceName=@melov2ray,@melov2ray,@melov2ray,@melov2ray,@melov2ray,@melov2ray,@melov2ray,@melov2ray,@melov2ray,@melov2ray,@melov2ray,@melov2ray,@melov2ray,@melov2ray&sni=FIn.Melov2ray.Shop#CA🇨🇦
 
@@ -129,8 +147,6 @@ vless://ef30fe6e-15cf-4ad5-a049-8d85ac97336b@joinbede.vmessorg.site:8443?mode=mu
 vless://c214e3fb-92d5-4eda-d694-8e2ccb7ef9d8@mciv2pedia.sytes.net:8443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=@v2pedia,@v2pedia,@v2pedia,@v2pedia,@v2pedia,@v2pedia,@v2pedia,@v2pedia,@v2pedia,@v2pedia,@v2pedia,@v2pedia&sni=storevv7.v2logy.ir#NL🇳🇱
 
 vless://68b7c314-35cd-462f-bef8-18f235f1514a@188.114.96.0:8080?path=/Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER?ed=2048&security=none&encryption=none&host=hamin.alan.列列男事的事列上赛男78.wiki&type=ws#NL🇳🇱
-
-vless://SVNTEAMe@mtn.VPNPROSEC.com:2096?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=&sni=SvnTeam-V2rayNew-Two.SnappFoodi.Com#NL🇳🇱
 
 vless://5563d1dc-3e84-4e4b-e569-ecfb96e8732a@check-host.net:80?path=/@client-proo-@client-proo-@client-proo-@client-proo-@client-proo&security=none&encryption=none&host=a.列出男人的屁股他妈的哈梅内伊78.website&type=ws#NL🇳🇱
 
