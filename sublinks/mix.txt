@@ -1,5 +1,7 @@
  vless://6167111c-d5b2-4a31-a7a8-79b10b172a2e@104.24.176.7:8443?type=grpc&serviceName=&security=tls&fp=&alpn=h2,http/1.1&sni=chtest.puzzlemobile.info#US🇺🇸
 
+vless://6167111c-d5b2-4a31-a7a8-79b10b172a2e@104.24.176.7:8443?type=grpc&serviceName=&security=tls&fp=&alpn=h2,http/1.1&sni=chtest.puzzlemobile.info#US🇺🇸
+
 vless://e2ad77a5-1447-4a77-9524-19a47a832f55@104.24.176.7:8443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&type=grpc&serviceName=&sni=chtest.puzzlemobile.info#US🇺🇸
 
 vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@star--join.outline-vpn.cloud:443?path=/?ed=2048&security=tls&encryption=none&host=3k.pureboy.eu.org&type=ws&sni=3k.pureboy.eu.org#US🇺🇸
@@ -32,7 +34,7 @@ vless://b75b3034-36ab-4979-beae-3d02db1b11ec@172.67.71.160:443?path=/?ed&securit
 
 vless://b75b3034-36ab-4979-beae-3d02db1b11ec@172.64.80.150:443?path=/?ed&security=tls&encryption=none&host=always-online1.lp-airdrop.top&fp=randomized&type=ws&sni=always-online1.lp-airdrop.top#US🇺🇸
 
-vless://29f8ad12-ea84-431b-bf32-9d3fb5cf2aa2@172.67.174.190:443?path=/?ed&security=tls&encryption=none&host=w1.sylar8.eu.org&type=ws&sni=w1.sylar8.eu.org#US🇺🇸
+vless://29f8ad12-ea84-431b-bf32-9d3fb5cf2aa2@172.67.174.190:443?path=/?ed&security=tls&encryption=none&host=w1.sylar8.eu.org&type=ws&sni=w1.sylar8.eu.org#CA🇨🇦
 
 vmess://eyJhZGQiOiIxODguMTE0Ljk2LjExIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJhLnByYXB0NS5pciIsImlkIjoiNzAyMjk4MmYtZGE0Yy00OGM5LWM2NjAtYjIzMTVhYmRjZjdlIiwibmV0Ijoid3MiLCJwYXRoIjoiXC8/ZWQ9MjA0OCIsInBvcnQiOiI4MCIsInBzIjoiVVNcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjgiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
 
@@ -128,6 +130,22 @@ vless://51905fd3-29de-4b4e-b351-83542f1d5390@parspack.com:443?path=/?ed=2048&sec
 
 trojan://5hHSYThRxb@uk-04.allhub.ltd:443?path=/TBHDjkhbgbygcvbjhbfrvVCTipoihbgwbenguyncbkjnsrfgFgYWgbunhgfdklerjfgjhkjnwfhXQWDefpmvfrtzvedfhurtg&security=tls&alpn=http/1.1&fp=chrome&type=ws&sni=uk-04.allhub.ltd#GB🇬🇧
 
+trojan://telegram-id-privatevpns@51.20.225.57:22222?alpn=http/1.1&headerType=none&security=tls&sni=trojan.miwan.co.uk&type=tcp#SE🇸🇪
+
+trojan://telegram-id-privatevpns@15.188.29.11:22222?alpn=http/1.1&headerType=none&security=tls&sni=trojan.miwan.co.uk&type=tcp#FR🇫🇷
+
+trojan://telegram-id-privatevpns@13.43.116.159:22222?alpn=http/1.1&headerType=none&security=tls&sni=trojan.miwan.co.uk&type=tcp#GB🇬🇧
+
+trojan://telegram-id-privatevpns@3.255.55.114:22222?alpn=http/1.1&headerType=none&security=tls&sni=trojan.miwan.co.uk&type=tcp#IE🇮🇪
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZM0lFdmQxZzUxdmJHSlZpeVQ1TEpkb0lLTGs1L3RiMHUyNDd2R012akRnPQ==@16.171.143.15:8080#SE🇸🇪
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiNm9qVStIb1hLMWRKbXJWamxScU9VL0YzdWY0Um1hUWI0cklYNFd1K00wPQ==@16.171.15.83:8080#SE🇸🇪
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWMnhFTXB3WGp2eTQxcThGakZ0Y2ZmVnBiS1lHZmJIaTBxUGxFSklnajdFPQ==@13.48.44.73:8080#SE🇸🇪
+
+trojan://telegram-id-directvpn@15.157.76.9:22222?alpn=http/1.1&headerType=none&security=tls&sni=trojan.miwan.co.uk&type=tcp#CA🇨🇦
+
 ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@38.75.137.66:5004#US🇺🇸
 
 trojan://telegram-id-directvpn@54.74.114.84:22222?alpn=http/1.1&headerType=none&security=tls&sni=trojan.miwan.co.uk&type=tcp#IE🇮🇪
@@ -168,21 +186,11 @@ vmess://eyJhZGQiOiIxMjcuMC4wLjEiLCJhaWQiOiIwIiwiaG9zdCI6IiIsImlkIjoiYmJjY2FhYS1h
 
 vmess://eyJhZGQiOiIxNTEuMTAxLjEzMS4xMCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoibWlob3lvLmdvdi5rcCIsImlkIjoiMDQxZjBkNWItYzY0Ny00YThkLThlNGUtZmE3ZjM1MjZhNDkwIiwibmV0Ijoid3MiLCJwYXRoIjoiXC9hcmllcz9lZD0yMDQ4IiwicG9ydCI6IjgwIiwicHMiOiJVU1x1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmOCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==
 
-vless://38ec9568-f806-4d96-c875-c85cbdf7b246@LIGHTNING6-joinbede.liV2ray.xyz:2083?alpn=h2&encryption=none&fp=chrome&mode=gun&security=tls&serviceName=@LIGHTNING6, @LIGHTNING6&sni=liV2raya.xn--mgbg0fka44dhgc.com&type=grpc#CR🇨🇷
+vmess://eyJhZGQiOiIxNzIuNjcuNzEuMTYwIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJvYmRpaS5jZmQiLCJpZCI6IjA1NjQxY2Y1LTU4ZDItNGJhNC1hOWYxLWIzY2RhMGIxZmIxZCIsIm5ldCI6IndzIiwicGF0aCI6IlwvbGlua3dzIiwicG9ydCI6IjQ0MyIsInBzIjoiQ0FcdWQ4M2NcdWRkZThcdWQ4M2NcdWRkZTYiLCJzY3kiOiJhdXRvIiwic25pIjoib2JkaWkuY2ZkIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=
 
-vless://ecb40c8b-d96b-485c-be85-c3bc6f0172c7@shhproxy.varzesh3-cnd.site:80?encryption=none&host=sub.xn--4oq36ed28d.org&path=/&security=none&type=ws#NL🇳🇱
+vmess://eyJhZGQiOiIxNzIuNjcuMTUyLjIxNCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoibWVyb2l5LmljdSIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwibmV0Ijoid3MiLCJwYXRoIjoiXC9saW5rdndzIiwicG9ydCI6IjQ0MyIsInBzIjoiQ0FcdWQ4M2NcdWRkZThcdWQ4M2NcdWRkZTYiLCJzY3kiOiJhdXRvIiwic25pIjoibWVyb2l5LmljdSIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9
 
-vmess://eyJhZGQiOiJzZzItZnVsbC5wcml2YXRlaXAubmV0IiwiYWlkIjoiMCIsImhvc3QiOiIiLCJpZCI6IjgzZTZkYjQyLWEwYTQtNDI4MS1iZGM2LTdhNmUxNjFkMTM4MCIsIm5ldCI6IndzIiwicGF0aCI6IlwvUkFDRVZQTiIsInBvcnQiOiI0NDMiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwicHMiOiJTR1x1ZDgzY1x1ZGRmOFx1ZDgzY1x1ZGRlYyJ9
-
-vmess://eyJhZGQiOiIxNzIuNjYuNDYuMjE1IiwiYWlkIjoiMCIsImFsbG93SW5zZWN1cmUiOjEsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjA2MTk1YjViLTM4MTUtNGEwNy05NmY3LTQ3ZWVmYmIxYjE0MyIsIm5ldCI6IndzIiwicGF0aCI6IlwvdXJueGV3enZoLnNpdGU6NDQzXC9rd2htdndzIiwicG9ydCI6Ijg0NDMiLCJzY3kiOiJhdXRvIiwic25pIjoid2FycC1zdWIucGFnZXMuZGV2IiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIiwicHMiOiJDQVx1ZDgzY1x1ZGRlOFx1ZDgzY1x1ZGRlNiJ9
-
-vless://00c38785-6b20-4f91-d0bb-6abc91eaacd2@190.93.247.155:2083?alpn=@mehrosaboran,@mehrosaboran&encryption=none&fp=chrome&mode=gun&security=tls&serviceName=@LIGHTNING6, @LIGHTNING6&sni=liV2raya.xn--mgbg0fka44dhgc.com&type=grpc#CR🇨🇷
-
-vless://f79e51b8-66fa-4cf1-d21f-fe52f3df1209@190.93.247.155:8880?encryption=none&host=liV2raya.善良的闪电.monster&path=/@LIGHTNING6, @LIGHTNING6&security=none&type=ws#CR🇨🇷
-
-vless://1d59a2d4-91c8-4e04-873f-74408e2c46ac@104.31.16.85:443?encryption=none&fp=chrome&mode=gun&security=tls&serviceName=@afv2ray,@afv2ray,@afv2ray,@afv2ray,@afv2ray,@afv2ray,@afV2ray,@AfV2ray,@Afv2ray,@afv2ray,@afv2ray,@afv2ray&sni=ns1.jonedel.com&type=grpc#CA🇨🇦
-
-vless://e08cac97-16bc-4904-cd11-4dad0f7684d3@www.jonedel.com:443?alpn=h2,http/1.1&encryption=none&fp=firefox&mode=gun&security=tls&serviceName=@afv2ray,@afv2ray,@afv2ray,@afv2ray,@afv2ray,@afv2ray,@afV2ray,@AfV2ray,@Afv2ray,@afv2ray,@afv2ray,@afv2ray&sni=NS2.JONEDEL.COM&type=grpc#CA🇨🇦
+vmess://eyJhZGQiOiIxNzIuOTkuMTkwLjEyIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjA0NjIxYmFlLWFiMzYtMTFlYy1iOTA5LTAyNDJhYzEyMDAwMiIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMjIzMjQiLCJwcyI6IkdCXHVkODNjXHVkZGVjXHVkODNjXHVkZGU3Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
 
 vless://a25d797e-d528-48fa-9e43-6e22ec565026@check-host.net:8080?path=/Telegram:@POLPROXY-Telegram:@POLPROXY-Telegram:@POLPROXY-Telegram:@POLPROXY-Telegram:@POLPROXY-Telegram:@POLPROXY-Telegram:@POLPROXY-Telegram:@POLPROXY&security=none&encryption=none&host=moein.列列男事的事列上赛男78.wiki&type=ws#NL🇳🇱
 
@@ -192,12 +200,6 @@ vless://edf2e2fd-a97d-4c06-be60-f339cca6a310@www.speedtest.net:8443?mode=gun&sec
 
 vless://0d34c1a8-737c-4734-8c13-2c265ec5f569@www.speedtest.net:443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=firefox&type=grpc&serviceName=@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray&sni=www.ArV2ray.host#CA🇨🇦
 
-vless://ef30fe6e-15cf-4ad5-a049-8d85ac97336b@joinbede.vmessorg.site:8443?mode=multi&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=/Telegram:@vmessorg-Telegram:@vmessorg-Telegram:@vmessorg&sni=vmessorg.xn--54qv00ez5ar77g.co#CA🇨🇦
-
-vless://c214e3fb-92d5-4eda-d694-8e2ccb7ef9d8@mciv2pedia.sytes.net:8443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=@v2pedia,@v2pedia,@v2pedia,@v2pedia,@v2pedia,@v2pedia,@v2pedia,@v2pedia,@v2pedia,@v2pedia,@v2pedia,@v2pedia&sni=storevv7.v2logy.ir#NL🇳🇱
-
-vless://68b7c314-35cd-462f-bef8-18f235f1514a@188.114.96.0:8080?path=/Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER?ed=2048&security=none&encryption=none&host=hamin.alan.列列男事的事列上赛男78.wiki&type=ws#NL🇳🇱
-
 vless://5563d1dc-3e84-4e4b-e569-ecfb96e8732a@check-host.net:80?path=/@client-proo-@client-proo-@client-proo-@client-proo-@client-proo&security=none&encryption=none&host=a.列出男人的屁股他妈的哈梅内伊78.website&type=ws#NL🇳🇱
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWdmUrWmZySk9jTG1qKys4aU1qbWtrUXFNQmtra0IwaUZRcmZvWGtLYndVPQ==@16.171.129.203:8080#SE🇸🇪
@@ -205,6 +207,8 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWdmUrWmZySk9jTG1qKys4aU1qbWtrUXFNQmtra0IwaUZ
 vless://f538bb3c-6a84-4dc4-99ab-10a5b07e09b9@bia-to2.unlimiteddev.site:2096?mode=multi&security=tls&encryption=none&fp=chrome&type=grpc&serviceName=/Telegram:@UnlimitedDev-Telegram:@UnlimitedDev-Telegram:@UnlimitedDev&sni=unlimiteddev.xn--9iqr0tm1r4wg.co#CA🇨🇦
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkTExKWStuYVRFdGlyWjdURkRHUVg0NzExbytKT0pJZ1NJQ0Y4UCswZENNPQ==@13.60.13.70:8080#SE🇸🇪
+
+vless://baa84a55-dddd-43b5-8270-e8328b2bab42@finland.nodes.mrzb.artydev.ru:8443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cdn.discordapp.com#FI🇫🇮
 
 vless://44f3f9d5-4d4f-4090-8300-c74950118251@5.161.111.235:25365?mode=gun&security=reality&encryption=none&pbk=0Qi5_qb1aKCGax2eaV6mVx_-C8Ld7KDaKnSDAinpRgc&fp=chrome&spx=/&type=grpc&serviceName=@ZEDMODEON&sni=sourceforge.net&sid=eda784ac#US🇺🇸
 
@@ -217,6 +221,4 @@ vless://a25e8ff9-8650-4098-86af-b524e4ec72d8@5.75.236.28:443?path=/vYoLL0j3yXajA
 vless://44f3f9d5-4d4f-4090-8300-c74950118251@5.161.111.235:25365?mode=gun&security=reality&encryption=none&pbk=0Qi5_qb1aKCGax2eaV6mVx_-C8Ld7KDaKnSDAinpRgc&fp=chrome&spx=/&type=grpc&serviceName=@ZEDMODEON&sni=sourceforge.net&sid=eda784ac#US🇺🇸
 
 vless://4b157b8d-1198-4e56-b8df-5110569001ab@[::ffff:6ca2:c10a]:8443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=8443vless&sni=g.xbestspeed.cam#INT🌍
-
-vless://89420825-e589-4735-bee1-6dc636fca343@w3.sylarsun.eu.org:443?path=path/@V2rayN5?ed=2048&security=tls&encryption=none&host=w3.sylarsun.eu.org&type=ws&sni=w3.sylarsun.eu.org#NL🇳🇱
 
