@@ -30,7 +30,7 @@ vless://f2c11cf6-d550-4a23-bec0-9a68dc9e6f2b@www.speedtest.net:2095?path=/&secur
 
 vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@3k.pureboy.eu.org:443?path=TELEGRAM...PROXY_MTM?ed=2048&security=tls&encryption=none&alpn=http/1.1&host=3k.pureboy.eu.org&fp=chrome&type=ws&sni=3k.pureboy.eu.org#US🇺🇸
 
-vless://b75b3034-36ab-4979-beae-3d02db1b11ec@test--join.outline-vpn.cloud:443?path=/?ed=2048&security=tls&encryption=none&host=always-online1.lp-airdrop.top&type=ws&sni=always-online1.lp-airdrop.top#US🇺🇸
+vless://b75b3034-36ab-4979-beae-3d02db1b11ec@test--join.outline-vpn.cloud:443?path=/?ed=2048&security=tls&encryption=none&host=always-online1.lp-airdrop.top&type=ws&sni=always-online1.lp-airdrop.top#CA🇨🇦
 
 vless://a75789e4-7c1c-4450-80fe-f0bd5a7b0515@mci---join.outline-vpn.cloud:80?path=/&security=none&encryption=none&host=frankfurt.heydasip.com&type=ws#US🇺🇸
 
@@ -38,7 +38,7 @@ vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@mtn--join.outline-vpn.cloud:443?pat
 
 vless://f4cec6cc-6177-423c-90f8-2ad9f0dd996b@iranserver.com:2096?path=/bShq2qgG8GnX8zqm/?ed=2048&security=tls&encryption=none&host=vpnct.arvancode.eu.org&fp=chrome&type=ws&sni=vpnct.arvancode.eu.org#US🇺🇸
 
-vless://dbe804b8-de3f-447a-a004-2667d3db071b@104.21.21.36:2082?path=/MeW1NhSmoXNZ5DnDtIYiuDZo&security=none&encryption=none&host=mehr_vpn_iran_mehr_vpn_iranmehr_vpn.iran-mehr14.ir&type=ws#CA🇨🇦
+vless://dbe804b8-de3f-447a-a004-2667d3db071b@104.21.21.36:2082?path=/MeW1NhSmoXNZ5DnDtIYiuDZo&security=none&encryption=none&host=mehr_vpn_iran_mehr_vpn_iranmehr_vpn.iran-mehr14.ir&type=ws#US🇺🇸
 
 vless://a8203745-3ba7-4109-a481-5e313b804476@tsgnl.co:80?path=/?ed=2048&security=none&encryption=none&host=tiger.cafebazaarir.lol&type=ws#NL🇳🇱
 
@@ -109,24 +109,6 @@ vless://1d86846c-5a27-43c8-8981-57bb75c82195@190.93.247.155:443?path=/paradise&s
 vless://1d86846c-5a27-43c8-8981-57bb75c82195@172.67.204.84:443?path=/paradise&security=tls&encryption=none&host=tjsre.ttvoffi.info&fp=safari&type=ws&sni=tjsre.ttvoffi.info#CA🇨🇦
 
 vless://9bd4142c-7025-4405-9350-33851fdb4ecc@162.251.82.187:443?path=/ws&security=tls&encryption=none&host=de2pq.itsvpns.app&fp=firefox&type=ws&sni=de2pq.itsvpns.app#US🇺🇸
-
-vless://dfb59e80-b453-4ca0-91f3-0f791aeb728e@zula.ir:2087?mode=gun&security=tls&encryption=none&alpn=h2&fp=chrome&type=grpc&serviceName=&sni=mehdi33.drapico.com#NL🇳🇱
-
-vless://6ab2dd90-ac94-4ed1-8cd1-29a362ccdc4c@104.21.19.250:2087?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=&sni=academy.appclouddeveloper.com#CA🇨🇦
-
-vless://192ae379-a9a5-483b-b5ea-cb474e194347@donald.pydri.ir:8080?path=/&security=none&encryption=none&type=ws#NL🇳🇱
-
-vless://X4azadi-20TB@www.speedtest.net:8880?path=X4azadi?ed&security=none&encryption=none&host=Iran.x4azadi.com&type=ws#CA🇨🇦
-
-vless://1d86846c-5a27-43c8-8981-57bb75c82195@zula.ir:443?path=/paradise&security=tls&encryption=none&host=tjsre.ttvoffi.info&fp=chrome&type=ws&sni=tjsre.ttvoffi.info#NL🇳🇱
-
-vless://db192414-5fd8-4140-b151-ba997fa974d5@nl.mysubs.online:882?path=/&security=none&encryption=none&type=ws#IR🇮🇷
-
-vless://---Telegram-Parsashonam--3-@www.speedtest.net:8080?path=/&security=none&encryption=none&host=Parsashonam.我们累了.tech&type=ws#CA🇨🇦
-
-vless://0bdb1407-0554-4834-97cd-ba3487af59b5@190.93.246.137:2095?path=@ZEDMODEON-ZEDMODEON-JOINZEDMODEON-@ZEDMODEON&security=none&encryption=none&host=hi-sis.列列上列列上列列上.tech&type=ws#CR🇨🇷
-
-vless://416339cf-dadd-4831-987b-80f8434d2ebe@azarayjab1.g1.2.workers.dev:443?mode=gun&security=tls&encryption=none&fp=ios&type=grpc&serviceName=&sni=retf4.livingspringonline.com#NL🇳🇱
 
 vless://dfb18c6f-731a-4898-a1c4-cc36c6055a90@w2.sylarsun.eu.org:443?path=/?ed&security=tls&encryption=none&host=w2.sylarsun.eu.org&type=ws&sni=w2.sylarsun.eu.org#NL🇳🇱
 
