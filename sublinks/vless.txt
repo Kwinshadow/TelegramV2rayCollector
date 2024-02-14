@@ -26,7 +26,7 @@ vless://a93eacd2-2852-4d84-9355-fd1e6477dccc@mtn----join.outline-vpn.cloud:80?pa
 
 vless://b75b3034-36ab-4979-beae-3d02db1b11ec@172.67.71.160:443?path=/?ed&security=tls&encryption=none&host=always-online1.lp-airdrop.top&fp=randomized&type=ws&sni=always-online1.lp-airdrop.top#US🇺🇸
 
-vless://b75b3034-36ab-4979-beae-3d02db1b11ec@104.18.16.149:443?path=/?ed=2048&security=tls&encryption=none&host=always-online1.lp-airdrop.top&type=ws&sni=always-online1.lp-airdrop.top#INT🌍
+vless://b75b3034-36ab-4979-beae-3d02db1b11ec@104.18.16.149:443?path=/?ed=2048&security=tls&encryption=none&host=always-online1.lp-airdrop.top&type=ws&sni=always-online1.lp-airdrop.top#US🇺🇸
 
 vless://b75b3034-36ab-4979-beae-3d02db1b11ec@172.67.71.160:443?path=Path/Telegram@V2ray_alpha/?ed=2048&security=tls&encryption=none&host=always-online1.lp-airdrop.top&fp=randomized&type=ws&sni=always-online1.lp-airdrop.top#US🇺🇸
 
@@ -40,7 +40,7 @@ vless://b75b3034-36ab-4979-beae-3d02db1b11ec@172.64.80.150:443?path=/?ed&securit
 
 vless://b0138d55-a493-4dc3-9932-c6f0391707c1@172.64.111.9:443?path=/vless/b0138d55-a493-4dc3-9932-c6f0391707c1?ed&security=tls&encryption=none&host=edge.020770.xyz&type=ws&sni=edge.020770.xyz#US🇺🇸
 
-vless://b75b3034-36ab-4979-beae-3d02db1b11ec@104.18.16.149:443?path=/?ed=2048&security=tls&encryption=none&host=always-online1.lp-airdrop.top&type=ws&sni=always-online1.lp-airdrop.top#US🇺🇸
+vless://b75b3034-36ab-4979-beae-3d02db1b11ec@104.18.16.149:443?path=/?ed=2048&security=tls&encryption=none&host=always-online1.lp-airdrop.top&type=ws&sni=always-online1.lp-airdrop.top#INT🌍
 
 vless://b75b3034-36ab-4979-beae-3d02db1b11ec@172.67.71.160:443?path=/?ed&security=tls&encryption=none&host=always-online1.lp-airdrop.top&fp=randomized&type=ws&sni=always-online1.lp-airdrop.top#US🇺🇸
 
@@ -72,7 +72,7 @@ vless://1d86846c-5a27-43c8-8981-57bb75c82195@190.93.247.155:443?path=/paradise&s
 
 vless://1d86846c-5a27-43c8-8981-57bb75c82195@172.67.204.84:443?path=/paradise&security=tls&encryption=none&host=tjsre.ttvoffi.info&fp=safari&type=ws&sni=tjsre.ttvoffi.info#US🇺🇸
 
-vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@3k.pureboy.eu.org:443?path=TELEGRAM...PROXY_MTM?ed=2048&security=tls&encryption=none&alpn=http/1.1&host=3k.pureboy.eu.org&fp=chrome&type=ws&sni=3k.pureboy.eu.org#US🇺🇸
+vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@3k.pureboy.eu.org:443?path=TELEGRAM...PROXY_MTM?ed=2048&security=tls&encryption=none&alpn=http/1.1&host=3k.pureboy.eu.org&fp=chrome&type=ws&sni=3k.pureboy.eu.org#INT🌍
 
 vless://db0cd79e-5a22-4ce2-b784-03f8c9325cc4@104.21.61.188:2052?path=/&security=none&encryption=none&host=mijml3.hamedigold.com&type=ws#INT🌍
 
@@ -110,7 +110,7 @@ vless://416339cf-dadd-4831-987b-80f8434d2ebe@zula.ir:443?mode=gun&security=tls&e
 
 vless://48dd6bad-ab68-434c-9418-ea09e2f60cf3@filterchanel.alwaysconnect.xyz:80?path=/cO1q-qHTweAcab--?ed=2048&security=none&encryption=none&host=fIltERgoZaRneT.ImanjAfAryI33.wOrKERs.dev&type=ws#INT🌍
 
-vless://f15c3de2-99a8-4f9d-9e3c-a1c7a49adb7e@parspack.com:443?path=/cdn&security=tls&encryption=none&host=uk-01.allhub.ltd&fp=chrome&type=ws&sni=parspack.allhub.ltd#US🇺🇸
+vless://f15c3de2-99a8-4f9d-9e3c-a1c7a49adb7e@parspack.com:443?path=/cdn&security=tls&encryption=none&host=uk-01.allhub.ltd&fp=chrome&type=ws&sni=parspack.allhub.ltd#INT🌍
 
 vless://51905fd3-29de-4b4e-b351-83542f1d5390@parspack.com:443?path=/?ed=2048&security=tls&encryption=none&alpn=h2,http/1.1&host=biA.ALlhub.LTD&fp=random&type=ws&sni=Bia.alLhub.Ltd#INT🌍
 
