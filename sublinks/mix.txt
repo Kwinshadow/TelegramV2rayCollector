@@ -30,7 +30,7 @@ vless://b75b3034-36ab-4979-beae-3d02db1b11ec@cxc--join.outline-vpn.cloud:443?pat
 
 vless://b75b3034-36ab-4979-beae-3d02db1b11ec@free--join.outline-vpn.cloud:443?path=/?ed&security=tls&encryption=none&host=always-online1.lp-airdrop.top&type=ws&sni=always-online1.lp-airdrop.top#US🇺🇸
 
-vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@irancell.outline-vpn.cloud:443?path=/?ed=2048&security=tls&encryption=none&host=3k.pureboy.eu.org&type=ws&sni=3k.pureboy.eu.org#US🇺🇸
+vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@irancell.outline-vpn.cloud:443?path=/?ed=2048&security=tls&encryption=none&host=3k.pureboy.eu.org&type=ws&sni=3k.pureboy.eu.org#INT🌍
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@fast_2ray_telchannelll.fast2rayy.eu.org:443#INT🌍
 
@@ -38,11 +38,11 @@ vless://29f8ad12-ea84-431b-bf32-9d3fb5cf2aa2@172.67.174.190:443?path=/?ed=2048&s
 
 vless://709c6a7f-6187-4b18-cf5a-6cf7352746ab@104.18.189.219:2095?path=/&security=none&encryption=none&host=1.cutemember.ir&type=ws#US🇺🇸
 
-vless://bda4be04-48bf-4df1-aaf2-6d42522eab6b@cdn.user.com:80?path=/?ed=2048&security=none&encryption=none&host=ehda.sajaditsme.com&type=ws#US🇺🇸
+vless://bda4be04-48bf-4df1-aaf2-6d42522eab6b@cdn.user.com:80?path=/?ed=2048&security=none&encryption=none&host=ehda.sajaditsme.com&type=ws#INT🌍
 
-vless://bda4be04-48bf-4df1-aaf2-6d42522eab6b@for-irancell.outline-vpn.cloud:80?path=/?ed=2048&security=none&encryption=none&host=ehda.sajaditsme.com&type=ws#INT🌍
+vless://bda4be04-48bf-4df1-aaf2-6d42522eab6b@for-irancell.outline-vpn.cloud:80?path=/?ed=2048&security=none&encryption=none&host=ehda.sajaditsme.com&type=ws#US🇺🇸
 
-vless://bda4be04-48bf-4df1-aaf2-6d42522eab6b@oirancell.outline-vpn.cloud:80?path=Path/?ed=2048&security=none&encryption=none&host=ehda.sajaditsme.com&type=ws#INT🌍
+vless://bda4be04-48bf-4df1-aaf2-6d42522eab6b@oirancell.outline-vpn.cloud:80?path=Path/?ed=2048&security=none&encryption=none&host=ehda.sajaditsme.com&type=ws#US🇺🇸
 
 vless://bda4be04-48bf-4df1-aaf2-6d42522eab6b@oirancell.outline-vpn.cloud:80?path=Path/?ed=2048&security=none&encryption=none&host=ehda.sajaditsme.com&type=ws#INT🌍
 
@@ -54,7 +54,7 @@ vless://b75b3034-36ab-4979-beae-3d02db1b11ec@test--join.outline-vpn.cloud:443?pa
 
 vless://a75789e4-7c1c-4450-80fe-f0bd5a7b0515@mci---join.outline-vpn.cloud:80?path=/&security=none&encryption=none&host=frankfurt.heydasip.com&type=ws#INT🌍
 
-vless://1d86846c-5a27-43c8-8981-57bb75c82195@zula.ir:443?path=/paradise&security=tls&encryption=none&host=tjsre.ttvoffi.info&fp=chrome&type=ws&sni=tjsre.ttvoffi.info#NL🇳🇱
+vless://1d86846c-5a27-43c8-8981-57bb75c82195@zula.ir:443?path=/paradise&security=tls&encryption=none&host=tjsre.ttvoffi.info&fp=chrome&type=ws&sni=tjsre.ttvoffi.info#US🇺🇸
 
 vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@star--join.outline-vpn.cloud:443?path=/?ed=2048&security=tls&encryption=none&host=3k.pureboy.eu.org&type=ws&sni=3k.pureboy.eu.org#INT🌍
 
@@ -168,7 +168,7 @@ vmess://eyJhZGQiOiIxOTMuMTUxLjE0Mi4xOTYiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwi
 
 vless://d4d4028f-caee-48f0-a681-84dcbf58d536@104.17.243.121:2096?path=/ws&security=tls&encryption=none&host=proxystore11.adminwp.eu.org&fp=chrome&type=ws&sni=proxystore11.adminwp.eu.org#INT🌍
 
-vless://d4d4028f-caee-48f0-a681-84dcbf58d536@mtn.adminwp.eu.org:2096?type=ws&path=/ws&host=proxystore11.adminwp.eu.org&security=tls&fp=chrome&alpn=http/1.1,h2&sni=proxystore11.adminwp.eu.org#US🇺🇸
+vless://d4d4028f-caee-48f0-a681-84dcbf58d536@mtn.adminwp.eu.org:2096?type=ws&path=/ws&host=proxystore11.adminwp.eu.org&security=tls&fp=chrome&alpn=http/1.1,h2&sni=proxystore11.adminwp.eu.org#CR🇨🇷
 
 vless://38f30c94-7bb8-4fcc-8574-17fb02677d7e@[2a01:4f9:c010:6fb9::2e]:443?mode=gun&security=reality&encryption=none&pbk=AVesZ9rUbwnESVl0YSPs98oWmZbXlhDVjR4ssJAw6yw&fp=chrome&type=grpc&serviceName=@Everyday_VPN&sni=gsmarena.com&sid=32d7a82d#INT🌍
 
