@@ -110,6 +110,8 @@ vless://d4d4028f-caee-48f0-a681-84dcbf58d536@104.17.243.121:2096?path=/ws&securi
 
 vless://c41d0a2a-7dc7-4ae2-986a-afd340538176@172.233.40.189:46383?mode=gun&security=none&encryption=none&type=grpc&serviceName=#NL🇳🇱
 
+vless://02611471-2876-4c72-a06a-7c050fde0005@check-host.net:443?path=/wss8000?ed=2048&security=tls&encryption=none&alpn=h2&host=de2.1alphaomega.org&fp=chrome&type=ws&sni=de2.1alphaomega.org#NL🇳🇱
+
 #CN🇨🇳
 
 vless://f327a01e-6d8a-42a6-87de-4829989aca6d@check-host.net:2096?path=/wss8000?ed=2048&security=tls&encryption=none&alpn=h2&host=uk2.1alphaomega.org&fp=chrome&type=ws&sni=uk.1alphaomega.org#NL🇳🇱
@@ -121,6 +123,4 @@ vless://115c3c0b-cbad-49ed-aa36-c28db5a79e3f@www.speedtest.net:2096?path=/wss800
 #INT🌍
 
 #CN🇨🇳
-
-vless://1173dee3-489d-4646-868e-1c0853ebb3d5@www.speedtest.net:443?security=tls&sni=woRKEr-CAA-Chanel-JfHEHf-fnejbHFO-MoeiN-V2rAy.v2RAy1401.WORKErs.deV&alpn=h2,http/1.1&fp=randomized&type=ws&path=/r1fUv8LvHLP-_Jcu?ed=2048&host=wOrkER-cAA-CHAnEl-jfHEHF-FneJBhfo-moEIn-V2raY.v2rAY1401.WorKErS.dEV&encryption=none#INT🌍
 
