@@ -36,9 +36,9 @@ vless://6fd4a391-bc0e-4bbc-b460-880d89d4df7b@65.109.193.181:52195?security=reali
 
 vless://9da85cad-bb16-454c-a861-f665a9476f36@185.83.183.80:41278?security=none&encryption=none&headerType=none&type=tcp#IR🇮🇷
 
-vless://2305891e-b2f2-4c97-841c-c52d9d2c9631@104.26.15.85:2053?path=/?ed=2048&security=tls&encryption=none&host=nl-5d9b35039774515ef5a023ac9f0333dddffd.mitsonic.com&type=ws&sni=transaction-24385b2fdde5059057d092719877602e24a85e24fd2e6feb0e79eeeccbfd1024.mitsonic.com#INT🌍
+vless://2305891e-b2f2-4c97-841c-c52d9d2c9631@104.26.15.85:2053?path=/?ed=2048&security=tls&encryption=none&host=nl-5d9b35039774515ef5a023ac9f0333dddffd.mitsonic.com&type=ws&sni=transaction-24385b2fdde5059057d092719877602e24a85e24fd2e6feb0e79eeeccbfd1024.mitsonic.com#US🇺🇸
 
-vless://20bb38f0-aab8-49d1-8785-e0923eccbca6@discord.com:443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=storage_46896&sni=xxx.moshavere.group#US🇺🇸
+vless://20bb38f0-aab8-49d1-8785-e0923eccbca6@discord.com:443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=storage_46896&sni=xxx.moshavere.group#INT🌍
 
 vless://b1e10446-c06f-4b13-a0c8-ea66703373b0@162.159.136.234:80?path=/&security=none&encryption=none&host=SHHPROXY-free.xn--69-pv2cl2k5x3fipr.org.&type=ws#INT🌍
 
@@ -137,8 +137,6 @@ vless://ee0f0f94-69cb-4c89-b27a-c3306cf66fea@104.17.243.121:2096?path=/ws&securi
 vless://c41d0a2a-7dc7-4ae2-986a-afd340538176@172.233.40.189:46383?mode=gun&security=none&encryption=none&type=grpc&serviceName=#NL🇳🇱
 
 vless://51905fd3-29de-4b4e-b351-83542f1d5390@parspack.com:443?path=/?ed=2048&security=tls&encryption=none&alpn=h2,http/1.1&host=biA.ALlhub.LTD&fp=random&type=ws&sni=Bia.alLhub.Ltd#INT🌍
-
-vless://Parsashonam@37.27.10.189:443?mode=gun&security=reality&encryption=none&pbk=e2zZyOb9I5UEWxcNG-CzJ8o6sTxSzAB91f3Tx6L6li4&fp=firefox&spx=/&type=grpc&serviceName=@Parsashonam,@Parsashonam,@Parsashonam,@Parsashonam,@Parsashonam,@Parsashonam&sni=check-ipv6.trycloudflare.blog&sid=5f9dd06e#FI🇫🇮
 
 vless://64f4faca-8387-4511-adab-45300a332d27@104.17.254.239:8443?security=tls&sni=id067.v2net.work&fp=chrome&type=grpc&encryption=none#INT🌍
 
