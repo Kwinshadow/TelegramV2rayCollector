@@ -34,11 +34,11 @@ vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@star--join.outline-vpn.cloud:443?pa
 
 vless://b75b3034-36ab-4979-beae-3d02db1b11ec@cxc--join.outline-vpn.cloud:443?path=Path/Telegram@V2ray_alpha/?ed=2048&security=tls&encryption=none&host=always-online1.lp-airdrop.top&fp=randomized&type=ws&sni=always-online1.lp-airdrop.top#US🇺🇸
 
-vless://2305891e-b2f2-4c97-841c-c52d9d2c9631@104.26.15.85:2053?path=/?ed&security=tls&encryption=none&host=nl-5d9b35039774515ef5a023ac9f0333dddffd.mitsonic.com&type=ws&sni=transaction-24385b2fdde5059057d092719877602e24a85e24fd2e6feb0e79eeeccbfd1024.mitsonic.com#US🇺🇸
+vless://2305891e-b2f2-4c97-841c-c52d9d2c9631@104.26.15.85:2053?path=/?ed&security=tls&encryption=none&host=nl-5d9b35039774515ef5a023ac9f0333dddffd.mitsonic.com&type=ws&sni=transaction-24385b2fdde5059057d092719877602e24a85e24fd2e6feb0e79eeeccbfd1024.mitsonic.com#INT🌍
 
 vless://db342b2e-c973-4e58-870b-1c68d1370bfe@165.232.94.24:443?mode=gun&security=reality&encryption=none&pbk=rnmMHzLC7nr4Hxwu4JnFSYCem_QRLLVfUde170i8jCo&fp=firefox&spx=/&type=grpc&serviceName=@ipV2Ray&sni=*‌.brainsyrup.online&sid=ccbf78a1#NL🇳🇱
 
-vless://be39f2f6-a99d-4d7b-bf9f-ef8146fc9786@162.159.136.234:80?path=/&security=none&encryption=none&host=SHHPROXY-free.xn--69-pv2cl2k5x3fipr.org.&type=ws#US🇺🇸
+vless://be39f2f6-a99d-4d7b-bf9f-ef8146fc9786@162.159.136.234:80?path=/&security=none&encryption=none&host=SHHPROXY-free.xn--69-pv2cl2k5x3fipr.org.&type=ws#INT🌍
 
 vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@op.bilibili.ovh:80?path=/?ed=2048&security=none&encryption=none&host=binance.co.kp&type=ws#US🇺🇸
 
@@ -72,7 +72,7 @@ vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@mtn--join.outline-vpn.cloud:443?pat
 
 vless://a93eacd2-2852-4d84-9355-fd1e6477dccc@mtn----join.outline-vpn.cloud:80?path=/?ed=2048&security=none&encryption=none&host=tunn.free.hr&type=ws#INT🌍
 
-vless://dfb18c6f-731a-4898-a1c4-cc36c6055a90@w2.sylarsun.eu.org:443?path=/?ed&security=tls&encryption=none&host=w2.sylarsun.eu.org&type=ws&sni=w2.sylarsun.eu.org#NL🇳🇱
+vless://dfb18c6f-731a-4898-a1c4-cc36c6055a90@w2.sylarsun.eu.org:443?path=/?ed&security=tls&encryption=none&host=w2.sylarsun.eu.org&type=ws&sni=w2.sylarsun.eu.org#INT🌍
 
 vless://f2c11cf6-d550-4a23-bec0-9a68dc9e6f2b@www.speedtest.net:2095?path=/&security=none&encryption=none&host=Iranop.javadv2.ir&type=ws#INT🌍
 
