@@ -32,15 +32,15 @@ vless://b75b3034-36ab-4979-beae-3d02db1b11ec@free--join.outline-vpn.cloud:443?pa
 
 vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@star--join.outline-vpn.cloud:443?path=/?ed=2048&security=tls&encryption=none&host=3k.pureboy.eu.org&type=ws&sni=3k.pureboy.eu.org#US🇺🇸
 
-vless://b75b3034-36ab-4979-beae-3d02db1b11ec@cxc--join.outline-vpn.cloud:443?path=Path/Telegram@V2ray_alpha/?ed=2048&security=tls&encryption=none&host=always-online1.lp-airdrop.top&fp=randomized&type=ws&sni=always-online1.lp-airdrop.top#US🇺🇸
+vless://b75b3034-36ab-4979-beae-3d02db1b11ec@cxc--join.outline-vpn.cloud:443?path=Path/Telegram@V2ray_alpha/?ed=2048&security=tls&encryption=none&host=always-online1.lp-airdrop.top&fp=randomized&type=ws&sni=always-online1.lp-airdrop.top#CA🇨🇦
 
-vless://2305891e-b2f2-4c97-841c-c52d9d2c9631@104.26.15.85:2053?path=/?ed&security=tls&encryption=none&host=nl-5d9b35039774515ef5a023ac9f0333dddffd.mitsonic.com&type=ws&sni=transaction-24385b2fdde5059057d092719877602e24a85e24fd2e6feb0e79eeeccbfd1024.mitsonic.com#CA🇨🇦
+vless://2305891e-b2f2-4c97-841c-c52d9d2c9631@104.26.15.85:2053?path=/?ed&security=tls&encryption=none&host=nl-5d9b35039774515ef5a023ac9f0333dddffd.mitsonic.com&type=ws&sni=transaction-24385b2fdde5059057d092719877602e24a85e24fd2e6feb0e79eeeccbfd1024.mitsonic.com#US🇺🇸
 
 vless://db342b2e-c973-4e58-870b-1c68d1370bfe@165.232.94.24:443?mode=gun&security=reality&encryption=none&pbk=rnmMHzLC7nr4Hxwu4JnFSYCem_QRLLVfUde170i8jCo&fp=firefox&spx=/&type=grpc&serviceName=@ipV2Ray&sni=*‌.brainsyrup.online&sid=ccbf78a1#NL🇳🇱
 
 vless://be39f2f6-a99d-4d7b-bf9f-ef8146fc9786@162.159.136.234:80?path=/&security=none&encryption=none&host=SHHPROXY-free.xn--69-pv2cl2k5x3fipr.org.&type=ws#CA🇨🇦
 
-vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@op.bilibili.ovh:80?path=/?ed=2048&security=none&encryption=none&host=binance.co.kp&type=ws#CA🇨🇦
+vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@op.bilibili.ovh:80?path=/?ed=2048&security=none&encryption=none&host=binance.co.kp&type=ws#US🇺🇸
 
 vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@star--join.outline-vpn.cloud:443?path=/?ed=2048&security=tls&encryption=none&host=3k.pureboy.eu.org&type=ws&sni=3k.pureboy.eu.org#CA🇨🇦
 
@@ -48,7 +48,7 @@ vless://1d86846c-5a27-43c8-8981-57bb75c82195@zula.ir:443?path=/paradise&security
 
 vless://b75b3034-36ab-4979-beae-3d02db1b11ec@test--join.outline-vpn.cloud:443?path=/?ed=2048&security=tls&encryption=none&host=always-online1.lp-airdrop.top&type=ws&sni=always-online1.lp-airdrop.top#CA🇨🇦
 
-vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@op.bilibili.ovh:443?path=/?ed=2048&security=tls&encryption=none&host=k.kp&fp=randomized&type=ws&sni=GOV.UK#US🇺🇸
+vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@op.bilibili.ovh:443?path=/?ed=2048&security=tls&encryption=none&host=k.kp&fp=randomized&type=ws&sni=GOV.UK#CA🇨🇦
 
 vless://416339cf-dadd-4831-987b-80f8434d2ebe@zula.ir:443?mode=gun&security=tls&encryption=none&fp=chrome&type=grpc&serviceName=&sni=ty1.livingspringonline.com#NL🇳🇱
 
@@ -119,8 +119,6 @@ vless://3da7daf1-53a1-48f1-96eb-b14241eb68bf@www.speedtest.net:8880?path=/&secur
 vless://fc6ef02f-aaca-477d-8609-c7c1537f8a6f@oirancelllll.outline-vpn.cloud:443?mode=gun&security=reality&encryption=none&pbk=uvwIRRB8ZUmTdcXmRkonO6Dh23b0RDa2iPRgWQUMFBw&fp=chrome&type=grpc&serviceName=&sni=s13.norbertpro.site&sid=7e4444ac#FI🇫🇮
 
 vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@irancell.outline-vpn.cloud:443?path=/?ed=2048&security=tls&encryption=none&host=3k.pureboy.eu.org&type=ws&sni=3k.pureboy.eu.org#CA🇨🇦
-
-vless://ed321d10-4ba6-4f16-a8b3-1f11cdf9f228@lite.alwaysconnect.xyz:8443?path=/&security=tls&encryption=none&alpn=h2,http/1.1&fp=safari&type=ws&sni=lite.alwaysconnect.xyz#NL🇳🇱
 
 vless://ee0f0f94-69cb-4c89-b27a-c3306cf66fea@104.17.243.121:2096?path=/ws&security=tls&encryption=none&host=proxystore11.adminwp.eu.org&fp=chrome&type=ws&sni=proxystore11.adminwp.eu.org#CA🇨🇦
 
