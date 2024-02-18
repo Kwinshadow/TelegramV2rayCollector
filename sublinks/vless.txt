@@ -1,8 +1,8 @@
- vless://ac20f1bb-6786-449b-a4ca-978cad3fbdff@104.24.176.7:2096?type=grpc&serviceName=@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir&security=tls&fp=&alpn=h2,http/1.1&sni=grw.puzzlemobile.info#US🇺🇸
+ vless://69a75a84-31ab-46c4-8e42-fc4c6d320ba1@95.179.217.33:45712?type=tcp&security=reality&pbk=RsbT8HImgysmMNJaDi3x4yyrUdWpfk3EJEDVYQPvZRw&fp=chrome&sni=cdn.discordapp.com&sid=d55861e7&spx=/#FR🇫🇷
+
+vless://ac20f1bb-6786-449b-a4ca-978cad3fbdff@104.24.176.7:2096?type=grpc&serviceName=@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir&security=tls&fp=&alpn=h2,http/1.1&sni=grw.puzzlemobile.info#US🇺🇸
 
 vless://54ba7fe4-d712-4fcf-8fe1-2b67130fcac0@ch1222.puzzlemobile.info:2095?path=/&security=none&encryption=none&host=45.77.62.140&type=ws#FR🇫🇷
-
-vless://28655652-74d2-4126-8e52-7e03567e2231@104.24.176.7:2096?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&type=grpc&serviceName=@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir&sni=ch122.puzzlemobile.info.#US🇺🇸
 
 vless://b75b3034-36ab-4979-beae-3d02db1b11ec@185.16.110.214:443?path=/?ed=2048&security=tls&encryption=none&host=always-online1.lp-airdrop.top&type=ws&sni=always-online1.lp-airdrop.top#FR🇫🇷
 
@@ -44,7 +44,7 @@ vless://2305891e-b2f2-4c97-841c-c52d9d2c9631@104.26.15.85:2053?path=/?ed&securit
 
 vless://f010baba-5682-41b4-b383-c663c2c3946a@is.snappfoodd.top:8443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=&sni=mrz.snaapppfree.com#US🇺🇸
 
-vless://29f8ad12-ea84-431b-bf32-9d3fb5cf2aa2@172.67.174.190:443?path=/?ed&security=tls&encryption=none&host=w1.sylar8.eu.org&fp=chrome&type=ws&sni=w1.sylar8.eu.org#US🇺🇸
+vless://29f8ad12-ea84-431b-bf32-9d3fb5cf2aa2@172.67.174.190:443?path=/?ed&security=tls&encryption=none&host=w1.sylar8.eu.org&fp=chrome&type=ws&sni=w1.sylar8.eu.org#CA🇨🇦
 
 vless://26c4f33b-cca9-463c-ac7b-9f47f0765c5d@iranserver.com:8880?path=/Telegram:@UnlimitedDev?ed&security=none&encryption=none&host=unlimiteddev.xn--9iqr0tm1r4wg.co.&type=ws#CA🇨🇦
 
@@ -64,7 +64,7 @@ vless://db342b2e-c973-4e58-870b-1c68d1370bfe@165.232.94.24:443?mode=gun&security
 
 vless://be39f2f6-a99d-4d7b-bf9f-ef8146fc9786@162.159.136.234:80?path=/&security=none&encryption=none&host=SHHPROXY-free.xn--69-pv2cl2k5x3fipr.org.&type=ws#CA🇨🇦
 
-vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@op.bilibili.ovh:80?path=/?ed=2048&security=none&encryption=none&host=binance.co.kp&type=ws#CA🇨🇦
+vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@op.bilibili.ovh:80?path=/?ed=2048&security=none&encryption=none&host=binance.co.kp&type=ws#US🇺🇸
 
 vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@star--join.outline-vpn.cloud:443?path=/?ed=2048&security=tls&encryption=none&host=3k.pureboy.eu.org&type=ws&sni=3k.pureboy.eu.org#CA🇨🇦
 
@@ -136,6 +136,10 @@ vless://ee0f0f94-69cb-4c89-b27a-c3306cf66fea@104.17.243.121:2096?path=/ws&securi
 
 vless://c41d0a2a-7dc7-4ae2-986a-afd340538176@172.233.40.189:46383?mode=gun&security=none&encryption=none&type=grpc&serviceName=#NL🇳🇱
 
+vless://51905fd3-29de-4b4e-b351-83542f1d5390@parspack.com:443?path=/?ed=2048&security=tls&encryption=none&alpn=h2,http/1.1&host=biA.ALlhub.LTD&fp=random&type=ws&sni=Bia.alLhub.Ltd#CA🇨🇦
+
+vless://be0a43eb-9fc9-4692-da0f-a3187b4fdd9d@95.179.216.171:2096?type=ws&host=fast.com&path=/SvnTeam&security=none#FR🇫🇷
+
 vless://02611471-2876-4c72-a06a-7c050fde0005@check-host.net:443?path=/wss8000?ed=2048&security=tls&encryption=none&alpn=h2&host=de2.1alphaomega.org&fp=chrome&type=ws&sni=de2.1alphaomega.org#NL🇳🇱
 
 #CN🇨🇳
@@ -147,6 +151,4 @@ vless://f327a01e-6d8a-42a6-87de-4829989aca6d@check-host.net:2096?path=/wss8000?e
 vless://115c3c0b-cbad-49ed-aa36-c28db5a79e3f@www.speedtest.net:2096?path=/wss8000?ed=2048&security=tls&encryption=none&alpn=h2&host=nl2.1alphaomega.org&fp=chrome&type=ws&sni=nl2.1alphaomega.org#CA🇨🇦
 
 #CA🇨🇦
-
-#CN🇨🇳
 
