@@ -24,7 +24,7 @@ vless://20bb38f0-aab8-49d1-8785-e0923eccbca6@discord.com:443?mode=gun&security=t
 
 vless://b1e10446-c06f-4b13-a0c8-ea66703373b0@162.159.136.234:80?path=/&security=none&encryption=none&host=SHHPROXY-free.xn--69-pv2cl2k5x3fipr.org.&type=ws#US🇺🇸
 
-vless://f2008a4c-e4ed-4ddb-abfe-c6f7dcef5772@yoast.com:443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=&sni=m11.takaza.buzz#US🇺🇸
+vless://f2008a4c-e4ed-4ddb-abfe-c6f7dcef5772@yoast.com:443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=&sni=m11.takaza.buzz#CA🇨🇦
 
 vless://bda4be04-48bf-4df1-aaf2-6d42522eab6b@CDN.user.com:80?path=/?ed=2048&security=none&encryption=none&host=ehda.sajaditsme.com&type=ws#US🇺🇸
 
@@ -32,15 +32,15 @@ vless://a93eacd2-2852-4d84-9355-fd1e6477dccc@mtn----join.outline-vpn.cloud:80?pa
 
 vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@mtn--join.outline-vpn.cloud:443?path=/?ed=2048&security=tls&encryption=none&host=3k.pureboy.eu.org&type=ws&sni=3k.pureboy.eu.org#US🇺🇸
 
-vless://29f8ad12-ea84-431b-bf32-9d3fb5cf2aa2@freee.outline-vpn.cloud:443?path=/?ed&security=tls&encryption=none&host=w1.sylar8.eu.org&type=ws&sni=w1.sylar8.eu.org#US🇺🇸
+vless://29f8ad12-ea84-431b-bf32-9d3fb5cf2aa2@freee.outline-vpn.cloud:443?path=/?ed&security=tls&encryption=none&host=w1.sylar8.eu.org&type=ws&sni=w1.sylar8.eu.org#CA🇨🇦
 
-vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@irancell.outline-vpn.cloud:443?path=/?ed=2048&security=tls&encryption=none&host=3k.pureboy.eu.org&type=ws&sni=3k.pureboy.eu.org#US🇺🇸
+vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@irancell.outline-vpn.cloud:443?path=/?ed=2048&security=tls&encryption=none&host=3k.pureboy.eu.org&type=ws&sni=3k.pureboy.eu.org#CA🇨🇦
 
-vless://b75b3034-36ab-4979-beae-3d02db1b11ec@cxc--join.outline-vpn.cloud:443?path=Path/Telegram@V2ray_alpha/?ed=2048&security=tls&encryption=none&host=always-online1.lp-airdrop.top&fp=randomized&type=ws&sni=always-online1.lp-airdrop.top#CA🇨🇦
+vless://b75b3034-36ab-4979-beae-3d02db1b11ec@cxc--join.outline-vpn.cloud:443?path=Path/Telegram@V2ray_alpha/?ed=2048&security=tls&encryption=none&host=always-online1.lp-airdrop.top&fp=randomized&type=ws&sni=always-online1.lp-airdrop.top#US🇺🇸
 
 vless://630009a4-6c94-42e3-aa83-ae1f7ef502e8@188.121.113.211:45771?security=none&encryption=none&host=Hidata.org&headerType=http&type=tcp#IR🇮🇷
 
-vless://2305891e-b2f2-4c97-841c-c52d9d2c9631@104.26.15.85:2053?path=/?ed&security=tls&encryption=none&host=nl-5d9b35039774515ef5a023ac9f0333dddffd.mitsonic.com&type=ws&sni=transaction-24385b2fdde5059057d092719877602e24a85e24fd2e6feb0e79eeeccbfd1024.mitsonic.com#CA🇨🇦
+vless://2305891e-b2f2-4c97-841c-c52d9d2c9631@104.26.15.85:2053?path=/?ed&security=tls&encryption=none&host=nl-5d9b35039774515ef5a023ac9f0333dddffd.mitsonic.com&type=ws&sni=transaction-24385b2fdde5059057d092719877602e24a85e24fd2e6feb0e79eeeccbfd1024.mitsonic.com#US🇺🇸
 
 vless://f010baba-5682-41b4-b383-c663c2c3946a@is.snappfoodd.top:8443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=&sni=mrz.snaapppfree.com#US🇺🇸
 
@@ -72,7 +72,7 @@ vless://1d86846c-5a27-43c8-8981-57bb75c82195@zula.ir:443?path=/paradise&security
 
 vless://b75b3034-36ab-4979-beae-3d02db1b11ec@test--join.outline-vpn.cloud:443?path=/?ed=2048&security=tls&encryption=none&host=always-online1.lp-airdrop.top&type=ws&sni=always-online1.lp-airdrop.top#CA🇨🇦
 
-vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@op.bilibili.ovh:443?path=/?ed=2048&security=tls&encryption=none&host=k.kp&fp=randomized&type=ws&sni=GOV.UK#CA🇨🇦
+vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@op.bilibili.ovh:443?path=/?ed=2048&security=tls&encryption=none&host=k.kp&fp=randomized&type=ws&sni=GOV.UK#US🇺🇸
 
 vless://416339cf-dadd-4831-987b-80f8434d2ebe@zula.ir:443?mode=gun&security=tls&encryption=none&fp=chrome&type=grpc&serviceName=&sni=ty1.livingspringonline.com#NL🇳🇱
 
@@ -138,6 +138,8 @@ vless://c41d0a2a-7dc7-4ae2-986a-afd340538176@172.233.40.189:46383?mode=gun&secur
 
 vless://51905fd3-29de-4b4e-b351-83542f1d5390@parspack.com:443?path=/?ed=2048&security=tls&encryption=none&alpn=h2,http/1.1&host=biA.ALlhub.LTD&fp=random&type=ws&sni=Bia.alLhub.Ltd#CA🇨🇦
 
+vless://8a4518bf-2176-4f29-92b8-4b0dcf5c3b12@49.13.198.70:63936?security=reality&encryption=none&pbk=SQvKGIEoIAsTAGYtMROVBhNxLMGrNazFBrtSnZtUeVU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=80ed6f7cd7d95b5a#DE🇩🇪
+
 vless://be0a43eb-9fc9-4692-da0f-a3187b4fdd9d@95.179.216.171:2096?type=ws&host=fast.com&path=/SvnTeam&security=none#FR🇫🇷
 
 vless://02611471-2876-4c72-a06a-7c050fde0005@check-host.net:443?path=/wss8000?ed=2048&security=tls&encryption=none&alpn=h2&host=de2.1alphaomega.org&fp=chrome&type=ws&sni=de2.1alphaomega.org#NL🇳🇱
@@ -149,6 +151,4 @@ vless://f327a01e-6d8a-42a6-87de-4829989aca6d@check-host.net:2096?path=/wss8000?e
 #CN🇨🇳
 
 vless://115c3c0b-cbad-49ed-aa36-c28db5a79e3f@www.speedtest.net:2096?path=/wss8000?ed=2048&security=tls&encryption=none&alpn=h2&host=nl2.1alphaomega.org&fp=chrome&type=ws&sni=nl2.1alphaomega.org#CA🇨🇦
-
-#CA🇨🇦
 
