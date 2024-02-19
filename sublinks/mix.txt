@@ -116,7 +116,7 @@ vless://1d86846c-5a27-43c8-8981-57bb75c82195@zula.ir:443?path=/paradise&security
 
 vless://b75b3034-36ab-4979-beae-3d02db1b11ec@test--join.outline-vpn.cloud:443?path=/?ed=2048&security=tls&encryption=none&host=always-online1.lp-airdrop.top&type=ws&sni=always-online1.lp-airdrop.top#CA🇨🇦
 
-vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@op.bilibili.ovh:443?path=/?ed=2048&security=tls&encryption=none&host=k.kp&fp=randomized&type=ws&sni=GOV.UK#CA🇨🇦
+vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@op.bilibili.ovh:443?path=/?ed=2048&security=tls&encryption=none&host=k.kp&fp=randomized&type=ws&sni=GOV.UK#US🇺🇸
 
 vless://416339cf-dadd-4831-987b-80f8434d2ebe@zula.ir:443?mode=gun&security=tls&encryption=none&fp=chrome&type=grpc&serviceName=&sni=ty1.livingspringonline.com#NL🇳🇱
 
@@ -143,6 +143,22 @@ vmess://eyJhZGQiOiIxODguMTE0Ljk2LjExIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhv
 vmess://eyJhZGQiOiIxMDQuMjEuMjM2LjYzIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJhLnByYXB0NS5pciIsImlkIjoiNzAyMjk4MmYtZGE0Yy00OGM5LWM2NjAtYjIzMTVhYmRjZjdlIiwibmV0Ijoid3MiLCJwYXRoIjoiXC8/ZWQ9MjA0OCIsInBvcnQiOiI4MCIsInBzIjoiQ0FcdWQ4M2NcdWRkZThcdWQ4M2NcdWRkZTYiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
 
 vmess://eyJhZGQiOiIxMDQuMTYuNzcuNzQiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6Im15MS50b290ZXJzLmlyIiwiaWQiOiI3MDIyOTgyZi1kYTRjLTQ4YzktYzY2MC1iMjMxNWFiZGNmN2UiLCJuZXQiOiJ3cyIsInBhdGgiOiJcLz9lZD0yMDQ4IiwicG9ydCI6IjgwIiwicHMiOiJDQVx1ZDgzY1x1ZGRlOFx1ZDgzY1x1ZGRlNiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==
+
+vmess://eyJ2IjoiMiIsInBzIjoiQ0FcdWQ4M2NcdWRkZThcdWQ4M2NcdWRkZTYiLCJhZGQiOiJ5aG5zYjMuc2hhYmlqaWNoYW5nLmNvbSIsInBvcnQiOiI4MCIsImlkIjoiYzQ1ODY5NWQtNjkwOC00NWMzLTk1MTItZTBjNDY0MTg0NTRjIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwiaG9zdCI6InlobnNiMy5zaGFiaWppY2hhbmcuY29tIiwicGF0aCI6IlwvIiwidGxzIjoiIiwic25pIjoiIiwidGVzdF9uYW1lIjoiVVNcdTdmOGVcdTU2ZmQ1In0=
+
+trojan://telegram-id-directvpn@13.43.104.59:22222?security=tls&type=tcp&sni=trojan.miwan.co.uk#GB🇬🇧
+
+trojan://GIT5jEfQE6g0@54.92.157.6:13419?sni=www.myethblog.com#US🇺🇸
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozLS1WSUdQU0w3UnJHRTVLa0EtOVNn@89.23.103.224:5614#NL🇳🇱
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#GB🇬🇧
+
+trojan://f8d8882f-6b0f-4790-b951-fe6704ed4a92@185.22.154.254:30005?security=tls&headerType=none&type=tcp&sni=ru01.bsawc.shop#RU🇷🇺
+
+trojan://7b4066ae-accc-11eb-a8bf-f23c91cfbbc9@114.43.162.29:443?sni=85d7bf8d-s95wg0-0-zzkl.tw3.p5pv.com#TW🇹🇼
+
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@149.202.82.172:5600#FR🇫🇷
 
 vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.67.66.0:8080?security=none&type=ws&host=dash.irpick.sbs&path=/#CA🇨🇦
 
@@ -183,20 +199,6 @@ vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@104.26.15.228:2052?security=none&ty
 vless://4b843de7-efe2-40b4-994c-6ff94a00ef9b@172.67.157.200:8443?security=tls&sni=unlimiteddev.xn--9iqr0tm1r4wg.co&type=ws&host=unlimiteddev.xn--9iqr0tm1r4wg.co&path=/&fp=chrome#CA🇨🇦
 
 vless://b554d279-6ea0-4bb3-db34-289c5c8259cb@172.67.186.44:2087?security=tls&sni=*.v2shopvip.cfd&type=ws&path=/&fp=chrome&alpn=h2,http/1.1#CA🇨🇦
-
-vless://bcaabca-aacb-bcaa-cdba-bccabcabaabc@127.0.0.1:8080?security=tls&type=tcp#INT🌍
-
-vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.67.144.101:8080?security=none&type=ws&host=dash.irpick.sbs&path=/#CA🇨🇦
-
-vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.67.213.128:8080?security=none&type=ws&host=dash.irpick.sbs&path=/#CA🇨🇦
-
-vless://03b4e79c-2706-4ee5-ae56-2fc5dba9e906@104.18.202.232:2095?security=none&type=ws&host=l.i.l.i.l.i.l.lollololloolollolololiolloloolpppppppppppcggvvvvxc.atkfood.com&path=/wsssssssssrrrrrrjjjjj#CA🇨🇦
-
-vless://e30b9be7-e5a4-4210-cbdd-37cdc850c62e@104.16.4.103:2083?security=tls&sni=liV2rayh.xn--mgbg0fka44dhgc.com&type=grpc&serviceName=@LIGHTNING6, @LIGHTNING6&fp=chrome&alpn=@mehrosaboran,@mehrosaboran#CA🇨🇦
-
-vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.67.223.58:8080?security=none&type=ws&host=dash.irpick.sbs&path=/#CA🇨🇦
-
-vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.67.79.102:8080?security=none&type=ws&host=dash.irpick.sbs&path=/#CA🇨🇦
 
 vless://b75b3034-36ab-4979-beae-3d02db1b11ec@test--join.outline-vpn.cloud:443?path=/?ed&security=tls&encryption=none&host=always-online1.lp-airdrop.top&fp=randomized&type=ws&sni=always-online1.lp-airdrop.top#CA🇨🇦
 
