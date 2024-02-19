@@ -110,7 +110,7 @@ vless://1d86846c-5a27-43c8-8981-57bb75c82195@zula.ir:443?path=/paradise&security
 
 vless://b75b3034-36ab-4979-beae-3d02db1b11ec@test--join.outline-vpn.cloud:443?path=/?ed=2048&security=tls&encryption=none&host=always-online1.lp-airdrop.top&type=ws&sni=always-online1.lp-airdrop.top#CA🇨🇦
 
-vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@op.bilibili.ovh:443?path=/?ed=2048&security=tls&encryption=none&host=k.kp&fp=randomized&type=ws&sni=GOV.UK#CA🇨🇦
+vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@op.bilibili.ovh:443?path=/?ed=2048&security=tls&encryption=none&host=k.kp&fp=randomized&type=ws&sni=GOV.UK#US🇺🇸
 
 vless://416339cf-dadd-4831-987b-80f8434d2ebe@zula.ir:443?mode=gun&security=tls&encryption=none&fp=chrome&type=grpc&serviceName=&sni=ty1.livingspringonline.com#NL🇳🇱
 
@@ -167,20 +167,6 @@ vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@104.26.15.228:2052?security=none&ty
 vless://4b843de7-efe2-40b4-994c-6ff94a00ef9b@172.67.157.200:8443?security=tls&sni=unlimiteddev.xn--9iqr0tm1r4wg.co&type=ws&host=unlimiteddev.xn--9iqr0tm1r4wg.co&path=/&fp=chrome#CA🇨🇦
 
 vless://b554d279-6ea0-4bb3-db34-289c5c8259cb@172.67.186.44:2087?security=tls&sni=*.v2shopvip.cfd&type=ws&path=/&fp=chrome&alpn=h2,http/1.1#CA🇨🇦
-
-vless://bcaabca-aacb-bcaa-cdba-bccabcabaabc@127.0.0.1:8080?security=tls&type=tcp#INT🌍
-
-vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.67.144.101:8080?security=none&type=ws&host=dash.irpick.sbs&path=/#CA🇨🇦
-
-vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.67.213.128:8080?security=none&type=ws&host=dash.irpick.sbs&path=/#CA🇨🇦
-
-vless://03b4e79c-2706-4ee5-ae56-2fc5dba9e906@104.18.202.232:2095?security=none&type=ws&host=l.i.l.i.l.i.l.lollololloolollolololiolloloolpppppppppppcggvvvvxc.atkfood.com&path=/wsssssssssrrrrrrjjjjj#CA🇨🇦
-
-vless://e30b9be7-e5a4-4210-cbdd-37cdc850c62e@104.16.4.103:2083?security=tls&sni=liV2rayh.xn--mgbg0fka44dhgc.com&type=grpc&serviceName=@LIGHTNING6, @LIGHTNING6&fp=chrome&alpn=@mehrosaboran,@mehrosaboran#CA🇨🇦
-
-vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.67.223.58:8080?security=none&type=ws&host=dash.irpick.sbs&path=/#CA🇨🇦
-
-vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.67.79.102:8080?security=none&type=ws&host=dash.irpick.sbs&path=/#CA🇨🇦
 
 vless://b75b3034-36ab-4979-beae-3d02db1b11ec@test--join.outline-vpn.cloud:443?path=/?ed&security=tls&encryption=none&host=always-online1.lp-airdrop.top&fp=randomized&type=ws&sni=always-online1.lp-airdrop.top#CA🇨🇦
 
