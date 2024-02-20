@@ -222,17 +222,17 @@ vless://Parsashonam-2@www.speedtest.net:8080?path=/&security=none&encryption=non
 
 vless://Parsashonam-0@www.speedtest.net:443?path=/&security=tls&encryption=none&alpn=h2,http/1.1&host=mail.offch.blog&fp=chrome&type=ws&sni=mail.offch.blog#INT🌍
 
+vless://6166e778-760c-45bb-ae61-6d8775e5718d@ip.1alphaomega.org:2096?path=/wss8000?ed=2048&security=tls&encryption=none&alpn=h2&host=de2.1alphaomega.org&fp=chrome&type=ws&sni=de.1alphaomega.org#CR🇨🇷
+
+vless://60813b9d-aa0e-4a5c-88b8-ed231058e82a@104.16.45.12:443?path=/?ed=2048&security=tls&encryption=none&host=pages.20230619.love&type=ws&sni=pages.20230619.love#INT🌍
+
+vless://6166e778-760c-45bb-ae61-6d8775e5718d@ip.1alphaomega.org:2096?path=/wss8000?ed=2048&security=tls&encryption=none&alpn=h2&host=de2.1alphaomega.org&fp=chrome&type=ws&sni=de.1alphaomega.org#CR🇨🇷
+
+vless://64f4faca-8387-4511-adab-45300a332d27@104.17.254.239:8443?mode=gun&security=tls&encryption=none&fp=chrome&type=grpc&serviceName=&sni=id067.v2net.work#INT🌍
+
+vless://c0c2cf9b-9f27-452b-a71f-addca6836888@185.212.194.38:5050?security=none&encryption=none&headerType=none&type=tcp#IR🇮🇷
+
 vless://64f4faca-8387-4511-adab-45300a332d27@104.17.254.239:8443?mode=gun&security=tls&encryption=none&fp=chrome&type=grpc&serviceName=&sni=id067.v2net.work#INT🌍
 
 vmess://eyJhZGQiOiIxODUuMjEyLjE5NC40NSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiamF2YW4uaXIiLCJpZCI6IjRlMzdhNjI3LWM3MzktNGMwMy1iY2RmLWY3MGIyNWRhMzBkZiIsIm5ldCI6InRjcCIsInBhdGgiOiJcLyIsInBvcnQiOiI4MDgzIiwicHMiOiJJUlx1ZDgzY1x1ZGRlZVx1ZDgzY1x1ZGRmNyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0=
-
-vless://64f4faca-8387-4511-adab-45300a332d27@104.17.254.239:8443?mode=gun&security=tls&encryption=none&fp=chrome&type=grpc&serviceName=&sni=id067.v2net.work#INT🌍
-
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.67.68.191:443?path=Path/Telegram@SINABIGO/?ed=2048&security=tls&encryption=none&host=baipiao343.stunning-bassoon.pages.dev&fp=random&type=ws&sni=baipiao343.stunning-bassoon.pages.dev#US🇺🇸
-
-vless://b75b3034-36ab-4979-beae-3d02db1b11ec@104.18.16.149:443?path=Path/Telegram@SINABIGO/?ed=2048&security=tls&encryption=none&host=always-online1.lp-airdrop.top&type=ws&sni=always-online1.lp-airdrop.top#INT🌍
-
-vless://90cd4a77-141a-43c9-991b-08263cfe9c10@104.18.202.209:443?path=Path/Telegram@V2ray_alpha/?ed=2048&security=tls&encryption=none&alpn=h2,http/1.1&host=cmliu-edgetunnel.pages.dev&fp=chrome&type=ws&sni=cmliu-edgetunnel.pages.dev#INT🌍
-
-vless://e2743feb-5820-488b-9d77-80cd2cc2ddc2@190.93.247.155:2083?path=/&security=tls&encryption=none&host=allnet.deragv2ray.net&type=ws&sni=all.deragv2ray.net#CR🇨🇷
 
