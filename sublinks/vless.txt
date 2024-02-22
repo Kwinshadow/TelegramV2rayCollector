@@ -46,13 +46,13 @@ vless://cdd562e2-93bc-4541-8f74-28dd32ed52b4@skk.moe:2086?path=/?ed&security=non
 
 vless://9b76baa9-4269-4c46-aaec-4d884a305da0@[::ffff:681a:f50]:8443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=8443vless&sni=g.networknim.lol#INT🌍
 
-vless://f451c7bd-83e4-44a9-8c5a-809ca9df12b2@iranserver.com:8880?path=/Telegram:@UnlimitedDev?ed&security=none&encryption=none&host=unlimiteddev.xn--9iqr0tm1r4wg.co.&type=ws#US🇺🇸
+vless://f451c7bd-83e4-44a9-8c5a-809ca9df12b2@iranserver.com:8880?path=/Telegram:@UnlimitedDev?ed&security=none&encryption=none&host=unlimiteddev.xn--9iqr0tm1r4wg.co.&type=ws#INT🌍
 
 vless://a8f1f548-2d45-4ba2-8ec0-082aefebff9f@31.14.118.126:1050?security=none&encryption=none&host=ponisha.ir&headerType=http&type=tcp#IR🇮🇷
 
 vless://f451c7bd-83e4-44a9-8c5a-809ca9df12b2@162.159.17.160:8880?path=/Telegram:@UnlimitedDev?ed&security=none&encryption=none&host=unlimiteddev.xn--9iqr0tm1r4wg.co.&type=ws#INT🌍
 
-vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@star--join.outline-vpn.cloud:443?path=/?ed=2048&security=tls&encryption=none&host=3k.pureboy.eu.org&type=ws&sni=3k.pureboy.eu.org#US🇺🇸
+vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@star--join.outline-vpn.cloud:443?path=/?ed=2048&security=tls&encryption=none&host=3k.pureboy.eu.org&type=ws&sni=3k.pureboy.eu.org#INT🌍
 
 vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@star---join.outline-vpn.cloud:443?path=path/TELEGRAM...PROXY_MTM?ed=2048&security=tls&encryption=none&host=3k.pureboy.eu.org&type=ws&sni=3k.pureboy.eu.org#US🇺🇸
 
@@ -152,7 +152,7 @@ vless://15083cc4-e669-4263-ae8f-5a6e69bb439d@154.197.75.98:80?security=none&type
 
 vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@172.64.89.170:443?path=/?ed=2048&security=tls&encryption=none&host=3k.pureboy.eu.org&type=ws&sni=3k.pureboy.eu.org#US🇺🇸
 
-vless://51905fd3-29de-4b4e-b351-83542f1d5390@parspack.com:443?path=/?ed=2048&security=tls&encryption=none&alpn=h2,http/1.1&host=biA.ALlhub.LTD&fp=random&type=ws&sni=Bia.alLhub.Ltd#INT🌍
+vless://51905fd3-29de-4b4e-b351-83542f1d5390@parspack.com:443?path=/?ed=2048&security=tls&encryption=none&alpn=h2,http/1.1&host=biA.ALlhub.LTD&fp=random&type=ws&sni=Bia.alLhub.Ltd#US🇺🇸
 
 vless://b75b3034-36ab-4979-beae-3d02db1b11ec@172.64.80.150:443?path=/?ed=2048&security=tls&encryption=none&host=always-online1.lp-airdrop.top&fp=randomized&type=ws&sni=always-online1.lp-airdrop.top#US🇺🇸
 
@@ -175,6 +175,8 @@ vless://Parsashonam-3@www.speedtest.net:443?path=/&security=tls&encryption=none&
 vless://Parsashonam-4@www.speedtest.net:8080?path=/&security=none&encryption=none&host=Parsashonam.我们累了.tech.&type=ws#INT🌍
 
 vless://Parsashonam-2@www.speedtest.net:443?path=/&security=tls&encryption=none&alpn=h2,http/1.1&host=mail.offch.blog&fp=chrome&type=ws&sni=mail.offch.blog#INT🌍
+
+vless://82a86893-a8bb-4a2a-abe8-8e96bc68b215@web.bbv2ry.pics:443?type=ws&path=/&host=Skyy.bbv2ry.pics&security=tls&fp=chrome&alpn=http/1.1,h2&sni=Skyy.bbv2ry.pics#INT🌍
 
 vless://a0268c17-5072-4c1f-aacb-f191ba5fe21d@78.109.193.146:41784?security=none&encryption=none&headerType=none&type=tcp#IR🇮🇷
 
