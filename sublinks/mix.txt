@@ -32,7 +32,7 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.157.228.87:22222?path=/telegram-
 
 vless://79c5240c-ae96-453f-b357-8487c1a5a4f9@iranserver.com:8880?path=/Telegram:@UnlimitedDev?ed&security=none&encryption=none&host=unlimiteddev.xn--9iqr0tm1r4wg.co.&type=ws#US🇺🇸
 
-vless://20900ca2-2848-47d8-9577-be8ce112999f@104.18.202.232:80?path=/&security=none&encryption=none&host=SHHPROXY-free.xn--69-pv2cl2k5x3fipr.org.&type=ws#CA🇨🇦
+vless://20900ca2-2848-47d8-9577-be8ce112999f@104.18.202.232:80?path=/&security=none&encryption=none&host=SHHPROXY-free.xn--69-pv2cl2k5x3fipr.org.&type=ws#US🇺🇸
 
 vless://a7551511-e2b8-4a19-ac0c-1c320ce4afb5@103.25.85.38:443?security=reality&encryption=none&pbk=7OXAPa32fyCtzBapDtZ8DUj6Bb1M0xD7taJT0TpzI2s&headerType=none&fp=chrome&type=tcp&sni=addons.mozilla.org#SE🇸🇪
 
@@ -42,13 +42,13 @@ vless://ead839fa-88b0-4ff8-a5b2-f6697f11fd3e@104.25.255.254:443?mode=gun&securit
 
 vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@star--join.outline-vpn.cloud:443?path=/?ed=2048&security=tls&encryption=none&host=3k.pureboy.eu.org&type=ws&sni=3k.pureboy.eu.org#CA🇨🇦
 
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@for-irancell.outline-vpn.cloud:443?path=/?ed=2048&security=tls&encryption=none&host=baipiao55.stunning-bassoon.pages.dev&type=ws&sni=baipiao55.stunning-bassoon.pages.dev#US🇺🇸
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@for-irancell.outline-vpn.cloud:443?path=/?ed=2048&security=tls&encryption=none&host=baipiao55.stunning-bassoon.pages.dev&type=ws&sni=baipiao55.stunning-bassoon.pages.dev#CA🇨🇦
 
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@join--showwww.outline-vpn.cloud:443?path=/?ed=2048&security=tls&encryption=none&host=baipiao406.stunning-bassoon.pages.dev&type=ws&sni=baipiao406.stunning-bassoon.pages.dev#US🇺🇸
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@join--showwww.outline-vpn.cloud:443?path=/?ed=2048&security=tls&encryption=none&host=baipiao406.stunning-bassoon.pages.dev&type=ws&sni=baipiao406.stunning-bassoon.pages.dev#CA🇨🇦
 
 vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@dnsss-----join.outline-vpn.cloud:443?path=Path/Telegram@SINABIGO/?ed=2048&security=tls&encryption=none&host=3k.pureboy.eu.org&type=ws&sni=3k.pureboy.eu.org#CA🇨🇦
 
-vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@mtn--join.outline-vpn.cloud:443?path=/?ed=2048&security=tls&encryption=none&host=3k.pureboy.eu.org&type=ws&sni=3k.pureboy.eu.org#CA🇨🇦
+vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@mtn--join.outline-vpn.cloud:443?path=/?ed=2048&security=tls&encryption=none&host=3k.pureboy.eu.org&type=ws&sni=3k.pureboy.eu.org#US🇺🇸
 
 vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@mtn--join.outline-vpn.cloud:443?path=/?ed=2048&security=tls&encryption=none&host=3k.pureboy.eu.org&type=ws&sni=3k.pureboy.eu.org#CA🇨🇦
 
@@ -154,19 +154,19 @@ vless://ef1d268c-221e-4d7a-828e-3ade2fb26d11@104.21.19.195:443?security=tls&sni=
 
 vless://15083cc4-e669-4263-ae8f-5a6e69bb439d@154.197.75.98:80?security=none&type=ws&host=shhproxyfrees.xn--69-pv2cl2k5x3fipr.org.&path=/#DE🇩🇪
 
+vless://29f8ad12-ea84-431b-bf32-9d3fb5cf2aa2@172.67.174.190:443?path=/?ed&security=tls&encryption=none&host=w1.sylar8.eu.org&type=ws&sni=w1.sylar8.eu.org#CA🇨🇦
+
+vless://b0138d55-a493-4dc3-9932-c6f0391707c1@172.64.111.9:443?path=/vless/b0138d55-a493-4dc3-9932-c6f0391707c1?ed=2048&security=tls&encryption=none&host=edge.020770.xyz&type=ws&sni=edge.020770.xyz#US🇺🇸
+
+vmess://eyJhZGQiOiJtYWdnaXkuc2hvcCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoibWFnZ2l5LnNob3AiLCJpZCI6IjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsIm5ldCI6IndzIiwicGF0aCI6IlwvbGlua3Z3cyIsInBvcnQiOiI0NDMiLCJwcyI6IkNBXHVkODNjXHVkZGU4XHVkODNjXHVkZGU2Iiwic2N5IjoiYXV0byIsInNuaSI6Im1hZ2dpeS5zaG9wIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=
+
+vmess://eyJhZGQiOiJmMi5tYXJ5YW0xOTAwLmNvbSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJhZmU1NzU1Ny1kZjI0LTQzZTUtOWNlYS01ZDJhY2MyY2FkMDgiLCJuZXQiOiJncnBjIiwicGF0aCI6IiIsInBvcnQiOiI4NDQzIiwicHMiOiJERVx1ZDgzY1x1ZGRlOVx1ZDgzY1x1ZGRlYSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiZ3VuIiwidiI6IjIifQ==
+
 vmess://eyJhZGQiOiIxMDQuMjEuNTEuMjA4IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJuaW5hLmJvbmQiLCJpZCI6IjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsIm5ldCI6IndzIiwicGF0aCI6IlwvbGlua3Z3cyIsInBvcnQiOiI0NDMiLCJwcyI6IkNBXHVkODNjXHVkZGU4XHVkODNjXHVkZGU2Iiwic2N5IjoiYXV0byIsInNuaSI6Im5pbmEuYm9uZCIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9
 
 vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@172.64.89.170:443?path=/?ed=2048&security=tls&encryption=none&host=3k.pureboy.eu.org&type=ws&sni=3k.pureboy.eu.org#CA🇨🇦
 
 vless://51905fd3-29de-4b4e-b351-83542f1d5390@parspack.com:443?path=/?ed=2048&security=tls&encryption=none&alpn=h2,http/1.1&host=biA.ALlhub.LTD&fp=random&type=ws&sni=Bia.alLhub.Ltd#CA🇨🇦
-
-vless://b75b3034-36ab-4979-beae-3d02db1b11ec@172.64.80.150:443?path=/?ed=2048&security=tls&encryption=none&host=always-online1.lp-airdrop.top&fp=randomized&type=ws&sni=always-online1.lp-airdrop.top#CA🇨🇦
-
-vless://8c323d77-9458-4de6-a99c-8a805681bc46@104.18.202.232:443?mode=gun&security=tls&encryption=none&fp=firefox&type=grpc&serviceName=@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray&sni=www.ArV2ray.host#CA🇨🇦
-
-vless://b75b3034-36ab-4979-beae-3d02db1b11ec@zula.ir:443?path=/?ed=2048&security=tls&encryption=none&host=always-online1.lp-airdrop.top&fp=randomized&type=ws&sni=always-online1.lp-airdrop.top#NL🇳🇱
-
-vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@star--join.outline-vpn.cloud:443?path=/?ed=2048&security=tls&encryption=none&host=3k.pureboy.eu.org&type=ws&sni=3k.pureboy.eu.org#CA🇨🇦
 
 vless://SVNTEAMs@www.speedtest.net:8080?path=/SVNTEAM?ed&security=none&encryption=none&host=C.c.C.c.B.c.C.c.C.V2ray.列列男事的事列上赛男.com.&type=ws#CA🇨🇦
 
@@ -183,10 +183,6 @@ vless://Parsashonam-4@www.speedtest.net:443?path=/&security=tls&encryption=none&
 vless://Parsashonam-5@www.speedtest.net:8080?path=/&security=none&encryption=none&host=Parsashonam.我们累了.tech.&type=ws#CA🇨🇦
 
 vless://Parsashonam-3@www.speedtest.net:443?path=/&security=tls&encryption=none&alpn=h2,http/1.1&host=mail.offch.blog&fp=chrome&type=ws&sni=mail.offch.blog#CA🇨🇦
-
-vless://Parsashonam-4@www.speedtest.net:8080?path=/&security=none&encryption=none&host=Parsashonam.我们累了.tech.&type=ws#CA🇨🇦
-
-vless://Parsashonam-2@www.speedtest.net:443?path=/&security=tls&encryption=none&alpn=h2,http/1.1&host=mail.offch.blog&fp=chrome&type=ws&sni=mail.offch.blog#CA🇨🇦
 
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.17.114.51:443?path=/@V2VIPCHANNEL/@V2VIPCHANNEL/@V2VIPCHANNEL/@V2VIPCHANNEL/@V2VIPCHANNEL/@V2VIPCHANNEL/?ed=2048&security=tls&encryption=none&alpn=h3,h2,http/1.1&host=8b1694e170eb3ee4addb9e92ab75a6d435c982.ioynar.ir&fp=chrome&type=ws&sni=8B1694e170eb3ee4aDdb9E92aB75a6D435c982.ioYNar.ir#CA🇨🇦
 
