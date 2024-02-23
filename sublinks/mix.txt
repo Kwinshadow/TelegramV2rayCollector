@@ -30,13 +30,13 @@ vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@mtn--join.outline-vpn.cloud:443?pat
 
 vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@mtn--join.outline-vpn.cloud:443?path=/?ed=2048&security=tls&encryption=none&host=3k.pureboy.eu.org&type=ws&sni=3k.pureboy.eu.org#US🇺🇸
 
-vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@dnsss-----join.outline-vpn.cloud:443?path=Path/Telegram@SINABIGO/?ed=2048&security=tls&encryption=none&host=3k.pureboy.eu.org&type=ws&sni=3k.pureboy.eu.org#INT🌍
+vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@dnsss-----join.outline-vpn.cloud:443?path=Path/Telegram@SINABIGO/?ed=2048&security=tls&encryption=none&host=3k.pureboy.eu.org&type=ws&sni=3k.pureboy.eu.org#US🇺🇸
 
 vless://6b408331-0bd5-4a8e-bd27-aa18862c90e5@dnss-----join.outline-vpn.cloud:8080?path=/&security=none&encryption=none&host=tddu.nimserverr.xyz.&type=ws#GB🇬🇧
 
 vless://29f8ad12-ea84-431b-bf32-9d3fb5cf2aa2@freee.outline-vpn.cloud:443?path=/?ed=2048&security=tls&encryption=none&host=w1.sylar8.eu.org&type=ws&sni=w1.sylar8.eu.org#US🇺🇸
 
-vless://51905fd3-29de-4b4e-b351-83542f1d5390@dns-----join.outline-vpn.cloud:443?path=/?ed=2048&security=tls&encryption=none&alpn=h2,http/1.1&host=biA.ALlhub.LTD&fp=random&type=ws&sni=Bia.alLhub.Ltd#INT🌍
+vless://51905fd3-29de-4b4e-b351-83542f1d5390@dns-----join.outline-vpn.cloud:443?path=/?ed=2048&security=tls&encryption=none&alpn=h2,http/1.1&host=biA.ALlhub.LTD&fp=random&type=ws&sni=Bia.alLhub.Ltd#US🇺🇸
 
 vless://be0a43eb-9fc9-4692-da0f-a3187b4fdd9d@dnssss-----join.outline-vpn.cloud:2096?path=/SvnTeam&security=none&encryption=none&host=Fast.Com&type=ws#SE🇸🇪
 
@@ -64,7 +64,7 @@ vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@mtn--join.outline-vpn.cloud:443?pat
 
 vless://b75b3034-36ab-4979-beae-3d02db1b11ec@free--join.outline-vpn.cloud:443?path=/?ed&security=tls&encryption=none&host=always-online1.lp-airdrop.top&type=ws&sni=always-online1.lp-airdrop.top#INT🌍
 
-vless://d8cdb80d-0d2f-448b-9b5c-1398da227b2a@skk.moe:2086?path=/?ed&security=none&encryption=none&host=ignore.你有一个不光彩的问题.website.&type=ws#INT🌍
+vless://d8cdb80d-0d2f-448b-9b5c-1398da227b2a@skk.moe:2086?path=/?ed&security=none&encryption=none&host=ignore.你有一个不光彩的问题.website.&type=ws#US🇺🇸
 
 vless://Parsashonam-4@www.speedtest.net:8080?path=/&security=none&encryption=none&host=Parsashonam.我们累了.tech.&type=ws#INT🌍
 
@@ -74,7 +74,7 @@ vless://1dc1dde6-c83d-4b78-a9ad-524583675877@joinbede1.vmessorg.site:8080?path=/
 
 vless://telegram-id-ArV2ray@104.18.202.232:80?path=/telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray?ed&security=none&encryption=none&host=l.i.l.i.l.i.l.i.l.i.创优舍.Store.&type=ws#INT🌍
 
-vless://d8cdb80d-0d2f-448b-9b5c-1398da227b2a@skk.moe:2086?path=/?ed=2048&security=none&encryption=none&host=ignore.你有一个不光彩的问题.website.&type=ws#INT🌍
+vless://d8cdb80d-0d2f-448b-9b5c-1398da227b2a@skk.moe:2086?path=/?ed=2048&security=none&encryption=none&host=ignore.你有一个不光彩的问题.website.&type=ws#US🇺🇸
 
 vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@star--join.outline-vpn.cloud:443?path=/?ed=2048&security=tls&encryption=none&host=3k.pureboy.eu.org&type=ws&sni=3k.pureboy.eu.org#INT🌍
 
@@ -182,6 +182,8 @@ vless://Parsashonam-4@www.speedtest.net:8080?path=/&security=none&encryption=non
 
 vless://Parsashonam-2@www.speedtest.net:443?path=/&security=tls&encryption=none&alpn=h2,http/1.1&host=mail.offch.blog&fp=chrome&type=ws&sni=mail.offch.blog#INT🌍
 
+vless://d30bcb49-fca5-4b17-9863-3f9e8a9a1557@103.35.191.195:443?path=/&security=none&encryption=none&type=ws#US🇺🇸
+
 vless://82a86893-a8bb-4a2a-abe8-8e96bc68b215@web.bbv2ry.pics:443?type=ws&path=/&host=Skyy.bbv2ry.pics&security=tls&fp=chrome&alpn=http/1.1,h2&sni=Skyy.bbv2ry.pics#INT🌍
 
 vmess://eyJhZGQiOiIxMDQuMjEuNDQuNjQiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImtlbGxpZS5tYWtldXAiLCJpZCI6IjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsIm5ldCI6IndzIiwicGF0aCI6IlwvbGlua3Z3cyIsInBvcnQiOiI0NDMiLCJwcyI6IklOVFx1ZDgzY1x1ZGYwZCIsInNjeSI6ImF1dG8iLCJzbmkiOiJrZWxsaWUubWFrZXVwIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=
@@ -191,8 +193,6 @@ vless://a0268c17-5072-4c1f-aacb-f191ba5fe21d@78.109.193.146:41784?security=none&
 vmess://eyJhZGQiOiIxMDQuMjEuNDQuNjQiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImtlbGxpZS5tYWtldXAiLCJpZCI6IjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsIm5ldCI6IndzIiwicGF0aCI6IlwvbGlua3Z3cyIsInBvcnQiOiI0NDMiLCJwcyI6IklOVFx1ZDgzY1x1ZGYwZCIsInNjeSI6ImF1dG8iLCJzbmkiOiJrZWxsaWUubWFrZXVwIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=
 
 vmess://eyJhZGQiOiJuZWxseS5ob21lcyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoibmVsbHkuaG9tZXMiLCJpZCI6IjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsIm5ldCI6IndzIiwicGF0aCI6IlwvbGlua3Z3cyIsInBvcnQiOiI0NDMiLCJwcyI6Ik5MXHVkODNjXHVkZGYzXHVkODNjXHVkZGYxIiwic2N5IjoiYXV0byIsInNuaSI6Im5lbGx5LmhvbWVzIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=
-
-vmess://eyJhZGQiOiIxMDQuMjEuNDQuNjQiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImtlbGxpZS5tYWtldXAiLCJpZCI6IjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsIm5ldCI6IndzIiwicGF0aCI6IlwvbGlua3Z3cyIsInBvcnQiOiI0NDMiLCJwcyI6IklOVFx1ZDgzY1x1ZGYwZCIsInNjeSI6ImF1dG8iLCJzbmkiOiJrZWxsaWUubWFrZXVwIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=
 
 vmess://eyJhZGQiOiIxMDQuMjEuNDQuNjQiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImtlbGxpZS5tYWtldXAiLCJpZCI6IjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsIm5ldCI6IndzIiwicGF0aCI6IlwvbGlua3Z3cyIsInBvcnQiOiI0NDMiLCJwcyI6IklOVFx1ZDgzY1x1ZGYwZCIsInNjeSI6ImF1dG8iLCJzbmkiOiJrZWxsaWUubWFrZXVwIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=
 
