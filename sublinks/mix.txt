@@ -28,9 +28,9 @@ vless://d342d11e-d424-4583-b36e-524ab1f0afa4@for-irancell.outline-vpn.cloud:443?
 
 vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@mtn--join.outline-vpn.cloud:443?path=/?ed=2048&security=tls&encryption=none&host=3k.pureboy.eu.org&type=ws&sni=3k.pureboy.eu.org#US🇺🇸
 
-vless://b75b3034-36ab-4979-beae-3d02db1b11ec@free--join.outline-vpn.cloud:443?path=/?ed&security=tls&encryption=none&host=always-online1.lp-airdrop.top&type=ws&sni=always-online1.lp-airdrop.top#US🇺🇸
+vless://b75b3034-36ab-4979-beae-3d02db1b11ec@free--join.outline-vpn.cloud:443?path=/?ed&security=tls&encryption=none&host=always-online1.lp-airdrop.top&type=ws&sni=always-online1.lp-airdrop.top#CA🇨🇦
 
-vless://31223237-300c-492b-8fd8-8169b4dd18ae@lol.ps:2087?mode=gun&security=tls&encryption=none&alpn=h2&fp=chrome&type=grpc&serviceName=&sni=mehdi2.honarestan-hegmataneh.com#US🇺🇸
+vless://31223237-300c-492b-8fd8-8169b4dd18ae@lol.ps:2087?mode=gun&security=tls&encryption=none&alpn=h2&fp=chrome&type=grpc&serviceName=&sni=mehdi2.honarestan-hegmataneh.com#CA🇨🇦
 
 vless://352f8151-f56f-4858-a855-b338e3053e6d@85.9.96.131:2087?security=reality&encryption=none&pbk=2-t9uUzRV61JYk2SuEzWmNuKgh_lG5IteIJ_pHPcPWM&headerType=none&fp=chrome&type=tcp&sni=www.speedtest.net&sid=21e8adbf#IR🇮🇷
 
@@ -40,9 +40,9 @@ vless://1a57253c-9012-442d-b1e4-db4e2eb12a31@zula.ir:2087?mode=gun&security=tls&
 
 vless://bb52ebc6-97a2-4aac-bb8d-42e3bfcde9c6@skk.moe:2086?path=/?ed&security=none&encryption=none&host=mci.你有一个不光彩的问题.website.&type=ws#CA🇨🇦
 
-vless://cdd562e2-93bc-4541-8f74-28dd32ed52b4@skk.moe:2086?path=/?ed&security=none&encryption=none&host=mci.你有一个不光彩的问题.website.&type=ws#CA🇨🇦
+vless://cdd562e2-93bc-4541-8f74-28dd32ed52b4@skk.moe:2086?path=/?ed&security=none&encryption=none&host=mci.你有一个不光彩的问题.website.&type=ws#US🇺🇸
 
-vless://Parsashonam-5@www.speedtest.net:8080?path=/&security=none&encryption=none&host=Parsashonam.我们累了.tech.&type=ws#CA🇨🇦
+vless://Parsashonam-5@www.speedtest.net:8080?path=/&security=none&encryption=none&host=Parsashonam.我们累了.tech.&type=ws#US🇺🇸
 
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.157.228.87:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#DE🇩🇪
 
