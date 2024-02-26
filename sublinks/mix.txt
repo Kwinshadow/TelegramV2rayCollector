@@ -32,13 +32,13 @@ vless://d342d11e-d424-4583-b36e-524ab1f0afa4@for-irancell.outline-vpn.cloud:443?
 
 vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@mtn--join.outline-vpn.cloud:443?path=/?ed=2048&security=tls&encryption=none&host=3k.pureboy.eu.org&type=ws&sni=3k.pureboy.eu.org#US🇺🇸
 
-vless://b75b3034-36ab-4979-beae-3d02db1b11ec@free--join.outline-vpn.cloud:443?path=/?ed&security=tls&encryption=none&host=always-online1.lp-airdrop.top&type=ws&sni=always-online1.lp-airdrop.top#US🇺🇸
+vless://b75b3034-36ab-4979-beae-3d02db1b11ec@free--join.outline-vpn.cloud:443?path=/?ed&security=tls&encryption=none&host=always-online1.lp-airdrop.top&type=ws&sni=always-online1.lp-airdrop.top#CA🇨🇦
 
 vmess://eyJhZGQiOiIxOGFyY2ltcy5pciIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoibmwyLnh2MnJheS5uZXQiLCJpZCI6ImQ2ZTgwNmQ3LTI0NjMtNGNlNS1iMWNlLTVhNzBlNjcwYzU4MyIsIm5ldCI6IndzIiwicGF0aCI6Ilwvdm1lc3MiLCJwb3J0IjoiODAiLCJwcyI6IlVTXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
 
 vless://Parsashonam-8@www.speedtest.net:8080?path=/&security=none&encryption=none&host=Parsashonam.我们累了.tech.&type=ws#US🇺🇸
 
-vmess://eyJhZGQiOiJuZXhsb2FkLmlyIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJodTIueHYycmF5Lm5ldCIsImlkIjoiMTdhZThkYzItMDQyYS00MTMyLWI0OTQtYjJmNzFiZTBhYmNjIiwibmV0Ijoid3MiLCJwYXRoIjoiXC92bWVzcyIsInBvcnQiOiI4MCIsInBzIjoiQ0FcdWQ4M2NcdWRkZThcdWQ4M2NcdWRkZTYiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
+vmess://eyJhZGQiOiJuZXhsb2FkLmlyIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJodTIueHYycmF5Lm5ldCIsImlkIjoiMTdhZThkYzItMDQyYS00MTMyLWI0OTQtYjJmNzFiZTBhYmNjIiwibmV0Ijoid3MiLCJwYXRoIjoiXC92bWVzcyIsInBvcnQiOiI4MCIsInBzIjoiVVNcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjgiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
 
 vless://54ce1a74-7a13-470d-859b-88ffe8a9d234@mc.miladbeyranvndmobilmilad.cfd:2053?path=/&security=tls&encryption=none&alpn=h2,http/1.1&host=33707228dee0f23a.miladbeyranvndmobilmilad.cfd&fp=chrome&type=ws&sni=00f7e608b8c93f9b.miladbeyranvndmobilmilad.cfd#CA🇨🇦
 
@@ -158,6 +158,20 @@ vless://0f2e03ab-1916-4386-9dcf-2499512a929e@jpegwdzrw.xqc.best:20005?security=r
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphZmEyMmJiMTA1MDEzNGI4@213.226.68.147:57456#DE🇩🇪
 
+vless://88b0c4bd-17a8-4c30-862f-3fa0db673258@172.67.204.84:8080?security=none&type=ws&host=v2darkorg.還會長達達致死傷.online.&path=/V2darkOrg#CA🇨🇦
+
+vless://441347f3-23d6-4665-a4e0-ec9e0a13343d@205.233.181.27:2083?security=tls&sni=liV2rayd.xn--mgbg0fka44dhgc.com&type=grpc&serviceName=@LIGHTNING6, @LIGHTNING6&fp=chrome&alpn=@mehrosaboran,@mehrosaboran#US🇺🇸
+
+vless://1b807c00-25cc-407e-9056-60d80f39e16d@104.21.20.148:2053?security=tls&sni=clonaze_pam.sansorchi2.cloud&type=grpc&serviceName=VALdGZ9k#CA🇨🇦
+
+vless://1418d183-4e4a-4a9c-b3e5-e746e9274db9@162.159.134.234:80?security=none&type=ws&host=severnettg.xn--78-pv2cvta065cac9302fea377a148g.xyz.&path=/join--ServerNett--ServerNett?ed=1048#CA🇨🇦
+
+vless://cbec2cb9-ed0f-47a3-a024-fef368908ed3@104.18.202.232:80?security=none&type=ws&host=SHHPROXY-free.xn--69-pv2cl2k5x3fipr.org.&path=%2F#CA🇨🇦
+
+vless://fc03933c-9b0b-4eab-9c5f-626ea67c5bff@104.16.209.12:8443?security=tls&sni=nl.cypherpunks.fun&type=ws&host=nl.cypherpunks.fun&path=/#CA🇨🇦
+
+vless://274528a4-6ce6-40f4-ab50-a897c99298c2@162.159.135.234:8880?security=none&type=ws&host=xn--78-pv2cvta065cac9302fea377a148g.xyz.&path=/join--ServerNett--ServerNett?ed=1048#CA🇨🇦
+
 vless://82315956-65d3-4e6a-b658-55ad3a7f0639@162.159.136.234:443?security=tls&sni=red.aria0mani0shop.sbs&type=ws&host=red.aria0mani0shop.sbs&path=/&fp=chrome#CA🇨🇦
 
 vless://90c7e748-2e80-4372-b51f-1b64dfbc862f@104.21.66.61:8443?security=tls&sni=cloudflare-microsoft-b2n-apple-com-yahoo-net-800.io-com-de-dev.org&type=ws&host=gt80.io-com-de-dev.org&path=/Telegram @Netazad22 Telegram @Netazad22 Telegram @Netazad22 Telegram @Netazad22 Telegram @Netazad22 Telegram @Netazad22 Telegram @Netazad22 Telegram @Netazad22 Telegram @Netazad22 Telegram @Netazad22 Telegram @Netazad22 Telegram @Netazad22 Telegram @Netazad22 Telegram @Netazad22 Telegram @Netazad22 Telegram @Netazad22#CA🇨🇦
@@ -191,20 +205,6 @@ vless://3f32ecee-76ad-4adb-d298-904085817a09@162.159.133.233:443?security=tls&sn
 vless://5411ec2f-7e88-4025-b122-fc6888df9bb7@91.193.58.1:8080?security=none&type=ws&host=joinsevernettdd.xn--78-pv2cvta065cac9302fea377a148g.xyz.&path=/join--ServerNett--ServerNett?ed=1048#GB🇬🇧
 
 vless://60813b9d-aa0e-4a5c-88b8-ed231058e82a@162.159.248.10:2083?security=tls&sni=pages.20230619.love&type=ws&host=pages.20230619.love&path=telegram🇨🇳@wangcai_8/?ed=2048#US🇺🇸
-
-vless://60813b9d-aa0e-4a5c-88b8-ed231058e82a@162.159.244.108:2083?security=tls&sni=pages.20230619.love&type=ws&host=pages.20230619.love&path=telegram🇨🇳@wangcai_8/?ed=2048#US🇺🇸
-
-vless://60813b9d-aa0e-4a5c-88b8-ed231058e82a@173.245.58.100:443?security=tls&sni=pages.20230619.love&type=ws&host=pages.20230619.love&path=/freecodes#US🇺🇸
-
-vless://15840433-5142-44e8-be36-c6bc8439e5df@104.16.125.175:2052?security=none&type=ws&host=ch3.abpneumonoultramicroscopicsilicovolcanoconiosisclandestinen0004.website&path=/?ed=2048#CA🇨🇦
-
-vless://60813b9d-aa0e-4a5c-88b8-ed231058e82a@104.16.125.143:2083?security=tls&sni=pages.20230619.love&type=ws&host=pages.20230619.love&path=telegram🇨🇳@wangcai_8/?ed=2048#CA🇨🇦
-
-vless://60813b9d-aa0e-4a5c-88b8-ed231058e82a@104.21.235.230:2083?security=tls&sni=pages.20230619.love&type=ws&host=pages.20230619.love&path=telegram🇨🇳@wangcai_8/?ed=2048#CA🇨🇦
-
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@16.170.14.253:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#SE🇸🇪
-
-vless://abbacac-baac-bcaa-cbda-abcbcbabcaca@127.0.0.1:8080?security=tls&type=tcp#INT🌍
 
 vless://4389c3cb-f2b2-401e-a99b-6cdf59c1f4f9@www.speedtest.net:2083?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=2083vless&sni=gopl.pellitrans.de#CA🇨🇦
 
