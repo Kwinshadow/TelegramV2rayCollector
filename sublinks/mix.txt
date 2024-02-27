@@ -26,13 +26,13 @@ vless://88b0c4bd-17a8-4c30-862f-3fa0db673258@www.speedtest.net:8080?path=/V2dark
 
 vless://b75b3034-36ab-4979-beae-3d02db1b11ec@cxc--join.outline-vpn.cloud:443?path=Path/Telegram@V2ray_alpha/?ed=2048&security=tls&encryption=none&host=always-online1.lp-airdrop.top&fp=randomized&type=ws&sni=always-online1.lp-airdrop.top#US🇺🇸
 
-vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@dnsss-----join.outline-vpn.cloud:443?path=Path/Telegram@SINABIGO/?ed=2048&security=tls&encryption=none&host=3k.pureboy.eu.org&type=ws&sni=3k.pureboy.eu.org#US🇺🇸
+vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@dnsss-----join.outline-vpn.cloud:443?path=Path/Telegram@SINABIGO/?ed=2048&security=tls&encryption=none&host=3k.pureboy.eu.org&type=ws&sni=3k.pureboy.eu.org#CA🇨🇦
 
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@join--showwww.outline-vpn.cloud:443?path=/?ed=2048&security=tls&encryption=none&host=baipiao406.stunning-bassoon.pages.dev&type=ws&sni=baipiao406.stunning-bassoon.pages.dev#US🇺🇸
 
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@for-irancell.outline-vpn.cloud:443?path=/?ed=2048&security=tls&encryption=none&host=baipiao55.stunning-bassoon.pages.dev&type=ws&sni=baipiao55.stunning-bassoon.pages.dev#US🇺🇸
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@for-irancell.outline-vpn.cloud:443?path=/?ed=2048&security=tls&encryption=none&host=baipiao55.stunning-bassoon.pages.dev&type=ws&sni=baipiao55.stunning-bassoon.pages.dev#CA🇨🇦
 
-vless://Parsashonam-9@104.18.203.232:8080?path=/&security=none&encryption=none&host=Parsashonam.我们累了.tech.&type=ws#US🇺🇸
+vless://Parsashonam-9@104.18.203.232:8080?path=/&security=none&encryption=none&host=Parsashonam.我们累了.tech.&type=ws#CA🇨🇦
 
 vless://Parsashonam-9@www.speedtest.net:8080?path=/&security=none&encryption=none&host=Parsashonam.我们累了.tech.&type=ws#US🇺🇸
 
@@ -160,6 +160,22 @@ vless://c8ce2cf9-e311-412e-936b-730a11c4e560@www.speedtest.net:2087?mode=gun&sec
 
 vless://31223237-300c-492b-8fd8-8169b4dd18ae@lol.ps:2087?mode=gun&security=tls&encryption=none&alpn=h2&fp=chrome&type=grpc&serviceName=&sni=mehdi2.honarestan-hegmataneh.com#CA🇨🇦
 
+vless://60813b9d-aa0e-4a5c-88b8-ed231058e82a@104.18.27.179:2083?security=tls&sni=pages.20230619.love&type=ws&host=pages.20230619.love&path=telegram🇨🇳@wangcai_8/?ed=2048#CA🇨🇦
+
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@162.159.128.233:443?security=tls&sni=baipiao267.stunning-bassoon.pages.dev&type=ws&host=baipiao267.stunning-bassoon.pages.dev&path=Path/Telegram@V2ray_alpha/?ed=2048#CA🇨🇦
+
+vless://60813b9d-aa0e-4a5c-88b8-ed231058e82a@104.18.123.30:2083?security=tls&sni=pages.20230619.love&type=ws&host=pages.20230619.love&path=telegram🇨🇳@wangcai_8/?ed=2048#CA🇨🇦
+
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@162.159.136.232:443?security=tls&sni=baipiao267.stunning-bassoon.pages.dev&type=ws&host=baipiao267.stunning-bassoon.pages.dev&path=Path/Telegram@V2ray_alpha/?ed=2048#CA🇨🇦
+
+vless://118584c9-858f-4689-9243-a808bde1437b@104.18.203.232:443?security=tls&sni=WwW.SpEeDtEsT.NeT&type=grpc&serviceName=@Snap_Net&fp=chrome&alpn=h2,http/1.1&allowInsecure=1#CA🇨🇦
+
+vless://60813b9d-aa0e-4a5c-88b8-ed231058e82a@104.18.26.254:2083?security=tls&sni=pages.20230619.love&type=ws&host=pages.20230619.love&path=telegram🇨🇳@wangcai_8/?ed=2048#CA🇨🇦
+
+vless://e4e7b149-8bd8-4266-8cbb-0987604dbc87@31.43.179.131:443?security=tls&sni=toujiediansigema.5112233.xyz&type=ws&host=toujiediansigema.5112233.xyz&path=tg@juzibaipiao偷节点死吗#KZ🇰🇿
+
+vless://b0138d55-a493-4dc3-9932-c6f0391707c1@162.159.135.79:443?security=tls&sni=edge.020770.xyz&type=ws&host=edge.020770.xyz&path=/vless/b0138d55-a493-4dc3-9932-c6f0391707c1?ed=2048#CA🇨🇦
+
 vless://090ff872-e693-4046-ba72-810b49c80657@172.67.204.84:8443?security=tls&sni=elv.amshvip.ir&type=grpc&fp=chrome&alpn=h2,http/1.1#CA🇨🇦
 
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@162.159.136.232:443?security=tls&sni=baipiao406.stunning-bassoon.pages.dev&type=ws&host=baipiao406.stunning-bassoon.pages.dev&path=/#CA🇨🇦
@@ -197,22 +213,6 @@ vless://60813b9d-aa0e-4a5c-88b8-ed231058e82a@104.18.26.188:2083?security=tls&sni
 vless://0ea301a8-3078-41d1-9cba-84726d28093f@162.159.135.234:80?security=none&type=ws&host=severnettg.xn--78-pv2cvta065cac9302fea377a148g.xyz.&path=/join--ServerNett--ServerNett?ed=1048#CA🇨🇦
 
 vless://25e7c381-6534-460f-b59e-efb9ba1fb4e9@104.16.20.145:8880?security=none&type=ws&host=unlimiteddev.xn--9iqr0tm1r4wg.co.&path=/Telegram:@UnlimitedDev?ed#CA🇨🇦
-
-vless://60813b9d-aa0e-4a5c-88b8-ed231058e82a@104.19.136.22:2083?security=tls&sni=pages.20230619.love&type=ws&host=pages.20230619.love&path=telegram🇨🇳@wangcai_8/?ed=2048#CA🇨🇦
-
-vless://60813b9d-aa0e-4a5c-88b8-ed231058e82a@104.16.118.21:2083?security=tls&sni=pages.20230619.love&type=ws&host=pages.20230619.love&path=telegram🇨🇳@wangcai_8/?ed=2048#CA🇨🇦
-
-vless://60813b9d-aa0e-4a5c-88b8-ed231058e82a@162.159.243.205:2083?security=tls&sni=pages.20230619.love&type=ws&host=pages.20230619.love&path=telegram🇨🇳@wangcai_8/?ed=2048#US🇺🇸
-
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@190.93.247.155:443?security=tls&sni=baipiao414.stunning-bassoon.pages.dev&type=ws&host=baipiao414.stunning-bassoon.pages.dev&path=Path/Telegram@V2ray_Alpha/?ed=2048#CR🇨🇷
-
-vless://60813b9d-aa0e-4a5c-88b8-ed231058e82a@104.19.251.111:2083?security=tls&sni=pages.20230619.love&type=ws&host=pages.20230619.love&path=telegram🇨🇳@wangcai_8/?ed=2048#CA🇨🇦
-
-vless://ec2e8ff7-e794-4ac4-9585-7ad28f188269@216.205.52.33:2053?security=tls&sni=ec2e8ffV2ray7-e794-4ac4-9585-7ad28f188269btoche.pages.dev&type=ws&host=btoche.pages.dev&path=/?ed=2048#US🇺🇸
-
-vless://89420825-e589-4735-bee1-6dc636fca343@172.67.204.84:443?security=tls&sni=w3.sylarsun.eu.org&type=ws&host=w3.sylarsun.eu.org&path=Path/Telegram@V2ray_alpha/?ed=2048&alpn=h2,http/1.1#CA🇨🇦
-
-vless://60813b9d-aa0e-4a5c-88b8-ed231058e82a@162.159.249.135:2083?security=tls&sni=pages.20230619.love&type=ws&host=pages.20230619.love&path=telegram🇨🇳@wangcai_8/?ed=2048#US🇺🇸
 
 vless://4389c3cb-f2b2-401e-a99b-6cdf59c1f4f9@www.speedtest.net:2083?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=2083vless&sni=gopl.pellitrans.de#CA🇨🇦
 
