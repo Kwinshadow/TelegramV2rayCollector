@@ -162,6 +162,22 @@ vless://2ed92125-f761-4668-b5d8-9c59e3f250a1@iranserver.com:80?path=/Telegram:@v
 
 vless://e971e939-c844-4209-8720-e93db30210e3@104.18.200.220:443?mode=gun&security=tls&encryption=none&fp=chrome&type=grpc&serviceName=&sni=tara2.striside.com#US🇺🇸
 
+vmess://eyJhZGQiOiIxNDYuMTkwLjk3LjE1MCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoibS5pbnN0YWdyYW0uY29tIiwiaWQiOiIzZTFkYzE4ZS00ZTUyLTRhYjEtYjY3OS1iN2JkMWRjOThmYzgiLCJuZXQiOiJ3cyIsInBhdGgiOiJcL1NoYWxhbmEiLCJwb3J0IjoiNDI3MjIiLCJwcyI6IlNHXHVkODNjXHVkZGY4XHVkODNjXHVkZGVjIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
+
+vmess://eyJhZGQiOiJtdXJpZWwubWFrZXVwIiwiYWlkIjowLCJob3N0IjoibXVyaWVsLm1ha2V1cCIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwibmV0Ijoid3MiLCJwYXRoIjoiXC9saW5rdndzIiwicG9ydCI6NDQzLCJwcyI6IlVTXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4Iiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIiwidGxzIjoidGxzIiwidHlwZSI6ImF1dG8ifQ==
+
+vmess://eyJhZGQiOiJraXR0aXkuc2JzIiwiYWlkIjowLCJob3N0Ijoia2l0dGl5LnNicyIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwibmV0Ijoid3MiLCJwYXRoIjoiXC9saW5rdndzIiwicG9ydCI6NDQzLCJwcyI6IlVTXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4Iiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIiwidGxzIjoidGxzIiwidHlwZSI6ImF1dG8ifQ==
+
+vmess://eyJhZGQiOiJhZnJobXMxNnYuYmVzdHhyYXkuYnV6eiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiYWZyaG1zMTZ2LmJlc3R4cmF5LmJ1enoiLCJpZCI6ImY1ODRkZTE1LTIwMzQtNDE3MC1hNzIzLWY0OGMyYmFlNWUwZiIsIm5ldCI6IndzIiwicGF0aCI6IlwvbGlua3dzIiwicG9ydCI6IjQ0MyIsInBzIjoiVVNcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjgiLCJzY3kiOiJhdXRvIiwic25pIjoiYWZyaG1zMTZ2LmJlc3R4cmF5LmJ1enoiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ==
+
+vmess://eyJhZGQiOiIxNzIuNjcuMjA0Ljg0IiwiYWlkIjowLCJob3N0IjoiZmkyLXZtZXNzLnNzaG1heC54eXoiLCJpZCI6ImM5ZTk5MjEzLTE3MGItNDU4YS1iNDViLTc5NDU0YWM3Y2Y0YiIsIm5ldCI6IndzIiwicGF0aCI6Ilwvdm1lc3MiLCJwb3J0Ijo4MCwicHMiOiJVU1x1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmOCIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJhdXRvIn0=
+
+vmess://eyJhZGQiOiJqYXBhbi5weGl6LnNpdGUiLCJhaWQiOjAsImhvc3QiOiJiYWlkdS5jb20iLCJpZCI6IjJkYTY0ZGU0LTU0ZDAtNDYxMS1hYjE2LTM0MDFhOGQxNmYwYyIsIm5ldCI6IndzIiwicGF0aCI6IlwvP2VkPTIwNDgiLCJwb3J0Ijo1NDc1MiwicHMiOiJKUFx1ZDgzY1x1ZGRlZlx1ZDgzY1x1ZGRmNSIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJhdXRvIn0=
+
+vmess://eyJhZGQiOiJrcjAxLjM2cm91dGVzLm9ubGluZSIsImFpZCI6MCwiaG9zdCI6ImtyMDEuMzZyb3V0ZXMub25saW5lIiwiaWQiOiI3ZTBlYWMxNC0xYTBlLTQ2ZjEtOWU3ZS1kOWZiYzllYzJmMzEiLCJuZXQiOiJ3cyIsInBhdGgiOiJcLyIsInBvcnQiOjgwLCJwcyI6IktSXHVkODNjXHVkZGYwXHVkODNjXHVkZGY3Iiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6ImF1dG8ifQ==
+
+vmess://eyJhZGQiOiJzZzAzLmJlYXV0aWZ1bHByaW1hdmVyYS5vbmxpbmUiLCJhaWQiOjAsImhvc3QiOiJzZzAzLmJlYXV0aWZ1bHByaW1hdmVyYS5vbmxpbmUiLCJpZCI6IjA2NGM2N2MwLWJhMjItNGQ5NC05NmU4LWJlNDMyNDVmZDI5YiIsIm5ldCI6IndzIiwicGF0aCI6IlwvIiwicG9ydCI6ODAsInBzIjoiU0dcdWQ4M2NcdWRkZjhcdWQ4M2NcdWRkZWMiLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiYXV0byJ9
+
 vless://3c50bb4c-cf9d-44e7-b015-242b40776a3b@104.21.44.43:443?security=tls&sni=swedenhvgjeyhe5hye.may-the-force-be-with-you.sbs&type=ws&host=swedenhvgjeyhe5hye.may-the-force-be-with-you.sbs&path=/&alpn=http/1.1&allowInsecure=1#US🇺🇸
 
 vless://7f113923-9429-48b8-d5dd-b2906a583dfe@172.67.163.103:443?security=tls&sni=frr.kanal-tel-nufilter.site&type=grpc&serviceName=Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER&fp=chrome&alpn=@V2RayTz,@V2RayTz#US🇺🇸
@@ -191,22 +207,6 @@ vless://cac5e749-1da9-4108-9b4e-813b0fc944f1@159.69.29.156:443?security=reality&
 vless://cbcabaa-caab-aabc-dbca-bccababcbaac@127.0.0.1:1080?security=tls&type=tcp#
 
 trojan://ccbaaba-aacb-bcaa-dbac-baacbcabccba@127.0.0.1:8080?security=tls&type=tcp#
-
-vless://bc22f8b6-a366-4c09-812f-64da5a6a15b1@114.37.119.92:4433?security=reality&flow=xtls-rprx-vision&sni=www.yam.com&type=tcp&fp=chrome&pbk=GxqaLfP80Z3lt4rB-y1p3XQjexXCHAhOLQn9c0EdW04&sid=2d6c13f3#TW🇹🇼
-
-vless://bc22f8b6-a366-4c09-812f-64da5a6a15b1@118.165.45.152:4433?security=reality&flow=xtls-rprx-vision&sni=www.acer.com&type=tcp&fp=chrome&pbk=S48HROZ4R5JFMUt7DwNUYcDzq-3wGH4F3rrWG7skOk4&sid=692bbdcf#TW🇹🇼
-
-vless://bc22f8b6-a366-4c09-812f-64da5a6a15b1@36.226.132.194:8443?security=reality&flow=xtls-rprx-vision&sni=www.tsmc.com&type=tcp&fp=chrome&pbk=UJIFjxx5rKAtp3l74OdtnWCJ7CiJkBZJNQwoxoa8VSM&sid=7c2944d4#TW🇹🇼
-
-vless://578547e6-f06f-4a04-8283-4a13a56c9a82@52.221.244.216:20230?security=reality&flow=xtls-rprx-vision&sni=api.push.apple.com&type=tcp&fp=chrome&pbk=gKQ1iax36vjbOYLKLveiSn_OnlBVAf3ecHLpQnrC4jw&sid=a7464bff#SG🇸🇬
-
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@104.19.128.87:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&host=cfed.tgzdyz2.top&path=TG@ZDYZ2&fp=random#US🇺🇸
-
-vless://366b416c-feec-4204-b539-20cedaf6009b@162.159.135.232:2083?security=tls&sni=de2.v2vless.xyz&type=ws&host=de2.v2vless.xyz&path=/vless#US🇺🇸
-
-vless://229d3bee-feae-4b36-91ed-2145ad84e4a4@190.93.247.155:443?security=tls&sni=Punisher-V2rayCnc.radiotehran.org&type=grpc&serviceName=@puni_shop_v2rayNG،@puni_shop_v2rayNG&fp=chrome&alpn=h2,http/1.1#CR🇨🇷
-
-vless://37a4d7e2-ff98-4fcf-e414-b0455ed203cc@104.18.154.42:8080?security=none&type=ws&host=daily-configs.義務警員.online.&path=@daily_configs-@daily_configs-@daily_configs-@daily_configs-@daily_configs-@daily_configs-@daily_configs-@daily_configs#US🇺🇸
 
 vless://738f2f32-3bbe-4eff-9991-24e002b099de@pooo.mmdargon.top:2053?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=firefox&type=grpc&serviceName=@internetbrayhamh@internetbrayhamh@internetbrayhamh&sni=pouii.mmdargon.top#US🇺🇸
 
