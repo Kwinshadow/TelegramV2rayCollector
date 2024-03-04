@@ -162,6 +162,22 @@ vless://2ed92125-f761-4668-b5d8-9c59e3f250a1@iranserver.com:80?path=/Telegram:@v
 
 vless://e971e939-c844-4209-8720-e93db30210e3@104.18.200.220:443?mode=gun&security=tls&encryption=none&fp=chrome&type=grpc&serviceName=&sni=tara2.striside.com#US🇺🇸
 
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphOGJ0OWZZMFFzTFM2ZUxuWFVlMFlt@passconf.xyz:8080#US🇺🇸
+
+trojan://telegram-id-privatevpns@13.39.197.5:22222?alpn=http/1.1&headerType=none&security=tls&sni=trojan.miwan.co.uk&type=tcp#FR🇫🇷
+
+trojan://telegram-id-privatevpns@3.11.163.237:22222?alpn=http/1.1&headerType=none&security=tls&sni=trojan.miwan.co.uk&type=tcp#GB🇬🇧
+
+vless://c6b1307d-d58f-4ae4-a9b4-c65d2ca79eb5@discord.gg:8080?encryption=none&host=severnettgn.xn--78-pv2cvta065cac9302fea377a148g.xyz.&mode=multi&path=/join--ServerNett--ServerNett?ed=1048&security=none&serviceName=Telegram:@proxy_mtm &type=ws#US🇺🇸
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHRXNZdm5NTXo0dDRZS0sra2tlNWlmaHIvNGFCc0V4RnFvbFJEcTM3eTNrPQ==@18.157.179.61:8080#DE🇩🇪
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmNTd6VmJsVFFzNjBlZ1hVaXphcTRZ@51.142.173.34:27842#GB🇬🇧
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpEbU1RVW1JN3BnUURucldxTFhDMDBM@94.228.165.234:15214#SE🇸🇪
+
+ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@149.202.82.172:5004#FR🇫🇷
+
 ss://YWVzLTEyOC1nY206VEVMRUdSQU0=@zedmodeon-join-zedmodeon-zedmodeon-zedmodeon-zedmodeon.tozedmodeon.store:38818#DE🇩🇪
 
 ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@c001.panda003.net:53243#KR🇰🇷
@@ -197,18 +213,6 @@ vmess://eyJhZGQiOiJtdXJpZWwubWFrZXVwIiwiYWlkIjowLCJob3N0IjoibXVyaWVsLm1ha2V1cCIs
 vmess://eyJhZGQiOiJraXR0aXkuc2JzIiwiYWlkIjowLCJob3N0Ijoia2l0dGl5LnNicyIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwibmV0Ijoid3MiLCJwYXRoIjoiXC9saW5rdndzIiwicG9ydCI6NDQzLCJwcyI6IlVTXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4Iiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIiwidGxzIjoidGxzIiwidHlwZSI6ImF1dG8ifQ==
 
 vmess://eyJhZGQiOiJhZnJobXMxNnYuYmVzdHhyYXkuYnV6eiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiYWZyaG1zMTZ2LmJlc3R4cmF5LmJ1enoiLCJpZCI6ImY1ODRkZTE1LTIwMzQtNDE3MC1hNzIzLWY0OGMyYmFlNWUwZiIsIm5ldCI6IndzIiwicGF0aCI6IlwvbGlua3dzIiwicG9ydCI6IjQ0MyIsInBzIjoiVVNcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjgiLCJzY3kiOiJhdXRvIiwic25pIjoiYWZyaG1zMTZ2LmJlc3R4cmF5LmJ1enoiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ==
-
-vmess://eyJhZGQiOiIxNzIuNjcuMjA0Ljg0IiwiYWlkIjowLCJob3N0IjoiZmkyLXZtZXNzLnNzaG1heC54eXoiLCJpZCI6ImM5ZTk5MjEzLTE3MGItNDU4YS1iNDViLTc5NDU0YWM3Y2Y0YiIsIm5ldCI6IndzIiwicGF0aCI6Ilwvdm1lc3MiLCJwb3J0Ijo4MCwicHMiOiJVU1x1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmOCIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJhdXRvIn0=
-
-vmess://eyJhZGQiOiJqYXBhbi5weGl6LnNpdGUiLCJhaWQiOjAsImhvc3QiOiJiYWlkdS5jb20iLCJpZCI6IjJkYTY0ZGU0LTU0ZDAtNDYxMS1hYjE2LTM0MDFhOGQxNmYwYyIsIm5ldCI6IndzIiwicGF0aCI6IlwvP2VkPTIwNDgiLCJwb3J0Ijo1NDc1MiwicHMiOiJKUFx1ZDgzY1x1ZGRlZlx1ZDgzY1x1ZGRmNSIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJhdXRvIn0=
-
-vmess://eyJhZGQiOiJrcjAxLjM2cm91dGVzLm9ubGluZSIsImFpZCI6MCwiaG9zdCI6ImtyMDEuMzZyb3V0ZXMub25saW5lIiwiaWQiOiI3ZTBlYWMxNC0xYTBlLTQ2ZjEtOWU3ZS1kOWZiYzllYzJmMzEiLCJuZXQiOiJ3cyIsInBhdGgiOiJcLyIsInBvcnQiOjgwLCJwcyI6IktSXHVkODNjXHVkZGYwXHVkODNjXHVkZGY3Iiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6ImF1dG8ifQ==
-
-vmess://eyJhZGQiOiJzZzAzLmJlYXV0aWZ1bHByaW1hdmVyYS5vbmxpbmUiLCJhaWQiOjAsImhvc3QiOiJzZzAzLmJlYXV0aWZ1bHByaW1hdmVyYS5vbmxpbmUiLCJpZCI6IjA2NGM2N2MwLWJhMjItNGQ5NC05NmU4LWJlNDMyNDVmZDI5YiIsIm5ldCI6IndzIiwicGF0aCI6IlwvIiwicG9ydCI6ODAsInBzIjoiU0dcdWQ4M2NcdWRkZjhcdWQ4M2NcdWRkZWMiLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiYXV0byJ9
-
-vless://3c50bb4c-cf9d-44e7-b015-242b40776a3b@104.21.44.43:443?security=tls&sni=swedenhvgjeyhe5hye.may-the-force-be-with-you.sbs&type=ws&host=swedenhvgjeyhe5hye.may-the-force-be-with-you.sbs&path=/&alpn=http/1.1&allowInsecure=1#US🇺🇸
-
-vless://7f113923-9429-48b8-d5dd-b2906a583dfe@172.67.163.103:443?security=tls&sni=frr.kanal-tel-nufilter.site&type=grpc&serviceName=Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER&fp=chrome&alpn=@V2RayTz,@V2RayTz#US🇺🇸
 
 vless://738f2f32-3bbe-4eff-9991-24e002b099de@pooo.mmdargon.top:2053?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=firefox&type=grpc&serviceName=@internetbrayhamh@internetbrayhamh@internetbrayhamh&sni=pouii.mmdargon.top#US🇺🇸
 
