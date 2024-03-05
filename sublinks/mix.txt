@@ -148,6 +148,22 @@ vless://24ea4cdf-e8ef-4665-9edd-60af7f8a3de3@iranserver.com:80?path=/Telegram:@U
 
 vless://305f0fa2-0f65-4d8b-9fb8-6f1c8913f606@185.83.183.212:10001?security=none&encryption=none&host=upload.com&headerType=http&type=tcp#IR🇮🇷
 
+trojan://telegram-id-privatevpns@18.171.49.152:22222?alpn=http/1.1&headerType=none&security=tls&sni=trojan.miwan.co.uk&type=tcp#GB🇬🇧
+
+trojan://telegram-id-privatevpns@52.211.41.7:22222?alpn=http/1.1&headerType=none&security=tls&sni=trojan.miwan.co.uk&type=tcp#IE🇮🇪
+
+vless://6b23d161-43d5-45e7-b804-f4b023daf247@www.speedtest.net:443?alpn=@mehrosaboran,@mehrosaboran&encryption=none&fp=chrome&mode=gun&security=tls&serviceName=@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray&sni=1.agh9731.ir&type=grpc#US🇺🇸
+
+vless://telegram-id-ArV2ray@185.146.173.59:80?encryption=none&host=tel-ArV2ray.xn--4oq36ed28d.Store.&path=/telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray?ed=2048&security=none&type=ws#SE🇸🇪
+
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@51.68.206.229:8080#GB🇬🇧
+
+trojan://telegram-id-directvpn@3.9.237.20:22222?alpn=http/1.1&headerType=none&security=tls&sni=trojan.miwan.co.uk&type=tcp#GB🇬🇧
+
+trojan://telegram-id-directvpn@18.170.236.135:22222?alpn=http/1.1&headerType=none&security=tls&sni=trojan.miwan.co.uk&type=tcp#GB🇬🇧
+
+trojan://telegram-id-directvpn@54.247.142.218:22222?alpn=http/1.1&headerType=none&security=tls&sni=trojan.miwan.co.uk&type=tcp#IE🇮🇪
+
 trojan://telegram-id-privatevpns@18.169.58.219:22222?alpn=http/1.1&headerType=none&security=tls&sni=trojan.miwan.co.uk&type=tcp#GB🇬🇧
 
 vless://--DIGiV2RAY--@198.41.222.199:80?encryption=none&host=ædígí.RadioTeHran.oRG.&path=/Digiv2ray-&security=none&type=ws#US🇺🇸
@@ -187,22 +203,6 @@ vless://a1a64bf6-255f-4f10-a29c-4234eafaa4f3@www.discord.com:443?encryption=none
 vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@104.21.28.62:443?encryption=none&host=3k.pureboy.eu.org&path=fuck0yes!=2048&security=tls&sni=3k.pureboy.eu.org&type=ws#US🇺🇸
 
 vless://60813b9d-aa0e-4a5c-88b8-ed231058e82a@104.21.17.101:2053?encryption=none&host=pages.20230619.love&path=/freecodes&security=tls&sni=pages.20230619.love&type=ws#US🇺🇸
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKbldjRFdPbDBybGZaaVYwRGl3R2hV@kz.telegavpn.com:35152#KZ🇰🇿
-
-vless://370c3af5-e855-4109-8ff5-e902f2f4780d@104.31.16.85:8880?encryption=none&host=xn---qhantayawi--b-9wl9bqtr75a955a5b97asba44yjwac23607hkhja.lightning6.xyz.&path=/@LIGHTNING6, @LIGHTNING6&security=none&type=ws#US🇺🇸
-
-vless://370c3af5-e855-4109-8ff5-e902f2f4780d@198.41.202.5:8880?encryption=none&host=xn---qhantayawi--b-9wl9bqtr75a955a5b97asba44yjwac23607hkhja.lightning6.xyz.&path=/@LIGHTNING6, @LIGHTNING6&security=none&type=ws#US🇺🇸
-
-vless://5d0245cd-8412-4a32-b52c-ef810651e651@190.93.247.155:443?alpn=@bored_vpn,@bored_vpn&encryption=none&fp=chrome&mode=gun&security=tls&serviceName=@Digiv2ray,@Digiv2ray,@Digiv2ray,@Digiv2ray,&sni=digi--v2raycncfs.RadioTeHran.oRG&type=grpc#CR🇨🇷
-
-trojan://telegram-id-privatevpns@52.29.182.16:22222?alpn=http/1.1&headerType=none&security=tls&sni=trojan.miwan.co.uk&type=tcp#DE🇩🇪
-
-vless://0ef42bde-06d9-48c3-bbcf-c7b8e9fc2987@www.discord.com:443?encryption=none&host=de2.v2vless.xyz&path=Telegram : @TLS_v2ray - Telegram : @TLS_v2ray - Telegram : @TLS_v2ray - Telegram : @TLS_v2ray - Telegram : @TLS_v2ray - Telegram : @TLS_v2ray - Telegram : @TLS_v2ray - Telegram : @TLS_v2ray - Telegram : @TLS_v2ray - Telegram : @TLS_v2ray - Telegram : @TLS_v2ray - Telegram : @TLS_v2ray - Telegram : @TLS_v2ray - Telegram : @TLS_v2ray/vless&security=tls&sni=de2.v2vless.xyz&type=ws#US🇺🇸
-
-vless://0ef42bde-06d9-48c3-bbcf-c7b8e9fc2987@www.discord.com:443?path=Telegram#US🇺🇸
-
-vless://VPNCUSTOMIZE-VPNCUSTOMIZE@188.114.98.224:443?alpn=h2,http/1.1&encryption=none&fp=chrome&host=cp.kellekcollection.com&path=/account/cart/buy/payment&security=tls&sni=cp.kellekcollection.com&type=ws#US🇺🇸
 
 vless://8dd70557-3583-43cd-81d2-c0597037e9d2@discord.gg:8443?mode=gun&security=tls&encryption=none&alpn=h3,h2,http/1.1&fp=chrome&type=grpc&serviceName=@PROXYSTORE11-@PROXYSTORE11-@PROXYSTORE11-@PROXYSTORE11-@PROXYSTORE11-@PROXYSTORE11-&sni=prx11.adminwp.eu.org#US🇺🇸
 
