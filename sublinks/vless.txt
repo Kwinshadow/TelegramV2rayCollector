@@ -36,9 +36,9 @@ vless://51905fd3-29de-4b4e-b351-83542f1d5390@parspack.com:443?path=/?ed=2048&sec
 
 vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@172.67.183.230:443?path=TELEGRAM..?ed=2048&security=tls&encryption=none&host=3k.pureboy.eu.org&type=ws&sni=3k.pureboy.eu.org#US🇺🇸
 
-vless://9483c256-45d6-4589-89b2-be52b9b0661c@104.18.7.53:8443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=8443vless&sni=frt.networknim.lol#CA🇨🇦
+vless://9483c256-45d6-4589-89b2-be52b9b0661c@104.18.7.53:8443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=8443vless&sni=frt.networknim.lol#US🇺🇸
 
-vless://60813b9d-aa0e-4a5c-88b8-ed231058e82a@jp7.vlessx.us:8443?path=/freecodes&security=tls&encryption=none&host=pages.20230619.love&type=ws&sni=pages.20230619.love#US🇺🇸
+vless://60813b9d-aa0e-4a5c-88b8-ed231058e82a@jp7.vlessx.us:8443?path=/freecodes&security=tls&encryption=none&host=pages.20230619.love&type=ws&sni=pages.20230619.love#NL🇳🇱
 
 vless://Parsashonam-22@www.speedtest.net:8080?path=/&security=none&encryption=none&host=Parsashonam.我们累了.tech.&type=ws#CA🇨🇦
 
@@ -98,29 +98,37 @@ vless://Parsashonam-22@www.speedtest.net:8080?path=/&security=none&encryption=no
 
 vless://672b9eb0-2dd1-438a-b98f-f3f3cbdea480@195.88.208.210:36165?security=none&encryption=none&headerType=none&type=tcp#IR🇮🇷
 
+vless://68ac8334-a213-471a-a3aa-8d2eef67f6e3@visa.com:443?path=/@FreeIranWeb#US🇺🇸
+
+vless://9a9b8ba1-6124-4659-8e27-876f4436e199@visa.com:443?path=/@FreeIranWeb#US🇺🇸
+
+vless://376894fa-1fc3-4285-9684-71e103d859ee@23.227.60.13:80/?type=ws&encryption=none&flow=&host=JoiN-BeDe-HAJIMAMAD-ChAnNeL-1-2-3.tImeClAsSiC.iR&path=/?ed=2048#CA🇨🇦
+
+vless://f4cec6cc-6177-423c-90f8-2ad9f0dd996b@upload.ir:2096?path=TELEGRAM...PROXY_MTM?ed=2048&security=tls&encryption=none&host=vpnct.arvancode.eu.org&fp=chrome&type=ws&sni=vpnct.arvancode.eu.org#NL🇳🇱
+
+vless://2a2aca7c-b726-4934-8a8b-457928d3c748@104.17.134.84:8880?path=/?ed=2048&security=none&encryption=none&host=24hbihioaebdpkbvo55jb6bcibibaih4ib89dkbciviojribeikhxhofg1.445ts.ir&type=ws#CA🇨🇦
+
+vless://2a2aca7c-b726-4934-8a8b-457928d3c748@104.17.131.84:8443?path=/?ed=2048&security=tls&encryption=none&host=ihfuifwkg5kwighfihguo6kadihfoiug45hdihdigfgir34hwhifgi5uwfi6gf5.445ts.ir&fp=chrome&type=ws&sni=hrlhgfo5uighduvjo6uiduobuh9ohsjvio2gyxoijvjb45ghstyhvbndjiefou1.445ts.ir#CA🇨🇦
+
+vless://2a2aca7c-b726-4934-8a8b-457928d3c748@go.inmobi.com:8443?path=/?ed=2048&security=tls&encryption=none&alpn=http/1.1&host=ihfuifwkg5kwighfihguo6kadihfoiug45hdihdigfgir34hwhifgi5uwfi6gf5.445ts.ir&fp=chrome&type=ws&sni=hrlhgfo5uighduvjo6uiduobuh9ohsjvio2gyxoijvjb45ghstyhvbndjiefou1.445ts.ir#US🇺🇸
+
+vless://bx5BR3uAcEiAT5q6iq71Lo jQqgN3aZ6GGqTDXaDwzXMIy5oSHLvBi2PzgyMlJZsyGQWWhk54XOOl6KGW9X/JCff2ZdCxE2WYBTrMUip7cAQMc/FUzot0u06lSW47Z77cQyjcBaD5Y9LiKVgmZE2okks/cKDHyQvopeQL0RewoX3s7A1RGp/qVApKn U0DRZiW5ciM7LZVYtp4zA/7ShOHAh4 PnaGCK5eFNAg864iCI/v jJD8 98DHmYkE8WwDTILZU8yrfeqYgGEt/uujp6mYVnb4QYKirnhsPe0Se s=#INT🌍
+
+vless://7fd7c15d-95cd-4f5c-bf59-f21e5eb27580@172.64.89.170:2096?path=Path/?ed=2048&security=tls&encryption=none&alpn=h2,http/1.1&host=3k.dabee.top&fp=firefox&type=ws&sni=3k.dabee.top#CA🇨🇦
+
+vless://b75b3034-36ab-4979-beae-3d02db1b11ec@all-network.aparat.lol:443?path=Path/LOCKEY_VPN/?ed=2048&security=tls&encryption=none&alpn=h2,http/1.1&host=always-online1.lp-airdrop.top&fp=firefox&type=ws&sni=always-online1.lp-airdrop.top#US🇺🇸
+
+vless://7e29f2e2-e0ec-47c5-94ec-38ef90f7a106@104.24.0.28:2053?path=vless-ws?ed=2048&security=tls&encryption=none&alpn=http/1.1&host=guq22.oxnetwORKs.LiNK&fp=chrome&type=ws&sni=guq22.oxnetwORKs.LiNK#CA🇨🇦
+
+vless://44087573-b7b2-41e7-9932-752cf0131585@Zula.ir:443?type=ws&path=/pioop&host=lolbos.aria0mani0shop.sbs&security=tls&fp=chrome&alpn=h2,http/1.1&sni=lolbos.aria0mani0shop.sbs#NL🇳🇱
+
+vless://BugFreeNet1@Yourlasthost.com:2087?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@BugFreeNet#NL🇳🇱
+
+vless://BugFreeNet2@Yourlasthost.com:443?mode=multi&security=tls&encryption=none&type=grpc&serviceName=@BugFreeNet#NL🇳🇱
+
+vless://f4cec6cc-6177-423c-90f8-2ad9f0dd996b@172.67.84.80:2096?path=Path/Telegram@Alfred_Config/?ed=2048&security=tls&encryption=none&host=vpnct.arvancode.eu.org&fp=chrome&type=ws&sni=vpnct.arvancode.eu.org#US🇺🇸
+
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.203.63.11:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#IE🇮🇪
-
-vless://b0138d55-a493-4dc3-9932-c6f0391707c1@zula.ir:443?path=/vless/b0138d55-a493-4dc3-9932-c6f0391707c1?Telegram : @v2ray1_ng--@v2ray1_ng--@v2ray1_ng--@v2ray1_ng--@v2ray1_ng--@v2ray1_ng--@v2ray1_ng--@v2ray1_ng--@v2ray1_ng--@v2ray1_ng--@v2ray1_ng--@v2ray1_ng--@v2ray1_ng--@v2ray1_ng--@v2ray1_nged=2048&security=tls&encryption=none&host=edge.020770.xyz&fp=chrome&type=ws&sni=edge.020770.xyz#NL🇳🇱
-
-vless://SamyarConfing-21@190.93.247.247:443?path=/&security=tls&encryption=none&alpn=h2,http/1.1&host=mail.offch.blog&fp=chrome&type=ws&sni=mail.offch.blog#CR🇨🇷
-
-vless://SamyarConfing-23@www.speedtest.net:8080?path=/&security=none&encryption=none&host=SamyarConfing.我们累了.tech.&type=ws#CA🇨🇦
-
-vless://c699cb02-7ead-4c87-9bba-cd9be85f3ec4@a.hercule-caffee.ir:56924?type=tcp&security=reality&pbk=WKVJziEC-HrYBBbeBjxyY-O8ARFAz9ZNe92-bmAkTwU&fp=firefox&sni=yahoo.com&sid=fd513b70&spx=/#IE🇮🇪
-
-vless://60813b9d-aa0e-4a5c-88b8-ed231058e82a@172.67.44.123:8443?path=telegram🇨🇳 @vpn_proxy66 /?ed=2048&security=tls&encryption=none&host=pages.20230619.love&type=ws&sni=pages.20230619.love#CA🇨🇦
-
-vless://telegram-id-ArV2ray@www.speedtest.net:80?type=ws&host=1.ArV2ray.xn--48jyb6eya.Store.&path=/telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray?ed=2048&security=none#CA🇨🇦
-
-vless://telegram-id-ArV2ray@www.speedtest.net:80?path=/telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray?ed=2048&security=none&encryption=none&host=1.ArV2ray.xn--48jyb6eya.Store.&type=ws#CA🇨🇦
-
-vless://d0d60a17-4202-4642-b233-53ef77e85c14@All.msv2ray.online:2096?security=tls&type=grpc&host=&headerType=&serviceName=&sni=re4.v2logy.xyz&fp=chrome&alpn=http/1.1#CR🇨🇷
-
-vless://d0d60a17-4202-4642-b233-53ef77e85c14@49.13.192.157:5555?security=reality&type=grpc&host=&headerType=&serviceName=&sni=www.sourceforge.net&fp=randomized&pbk=vHlFJfSPB7t2b3NbFX-YFGB5sD5L6HeUehGBsWO12yY&sid=9d09dee45e5b7a86&spx=#DE🇩🇪
-
-vless://d0d60a17-4202-4642-b233-53ef77e85c14@49.13.116.247:4814?security=none&type=ws&host=Fast.com&headerType=&path=/#DE🇩🇪
-
-vless://d0d60a17-4202-4642-b233-53ef77e85c14@all.msv2ray.online:2087?security=tls&type=grpc&host=&headerType=&serviceName=&sni=re3.v2logy.xyz&fp=chrome&alpn=http/1.1#CR🇨🇷
 
 vless://cea1349e-1ee4-47b1-ad14-749705ca50c6@Zula.ir:443?path=/Proxystore11&security=tls&encryption=none&alpn=h2,http/1.1&host=prx11.adminwp.eu.org&fp=chrome&type=ws&sni=prx11.adminwp.eu.org#NL🇳🇱
 
@@ -150,13 +158,13 @@ vless://Parsashonam-21@www.speedtest.net:8080?path=/&security=none&encryption=no
 
 vless://Parsashonam-19@190.93.247.247:443?path=/&security=tls&encryption=none&alpn=h2,http/1.1&host=mail.offch.blog&fp=chrome&type=ws&sni=mail.offch.blog#CR🇨🇷
 
-vless://Venom-Servers@discord.com:443/?type=grpc&serviceName=Telegram-Channel@Venom_ServersTelegram-Channel@Venom_ServersTelegram-Channel@Venom_ServersTelegram-Channel@Venom_ServersTelegram-Channel@Venom_ServersTelegram-Channel@Venom_ServersTelegram-Channel@Venom_ServersTelegram-Channel@Venom_ServersTelegram-Channel@Venom_ServersTelegram-Channel@Venom_ServersTelegram-Channel@Venom_ServersTelegram-Channel@Venom_ServersTelegram-Channel@Venom_ServersTelegram-Channel@Venom_ServersTelegram-Channel@Venom_ServersTelegram-Channel@Venom_Servers&security=tls&fp=chrome&alpn=h2,http/1.1&sni=fs2.snowborn.ir#CA🇨🇦
+vless://Venom-Servers@discord.com:443/?type=grpc&serviceName=Telegram-Channel@Venom_ServersTelegram-Channel@Venom_ServersTelegram-Channel@Venom_ServersTelegram-Channel@Venom_ServersTelegram-Channel@Venom_ServersTelegram-Channel@Venom_ServersTelegram-Channel@Venom_ServersTelegram-Channel@Venom_ServersTelegram-Channel@Venom_ServersTelegram-Channel@Venom_ServersTelegram-Channel@Venom_ServersTelegram-Channel@Venom_ServersTelegram-Channel@Venom_ServersTelegram-Channel@Venom_ServersTelegram-Channel@Venom_ServersTelegram-Channel@Venom_Servers&security=tls&fp=chrome&alpn=h2,http/1.1&sni=fs2.snowborn.ir#US🇺🇸
 
 vless://Venom-Servers@discord.com:443/?type=grpc&serviceName=Telegram-Channel@Venom_ServersTelegram-Channel@Venom_ServersTelegram-Channel@Venom_ServersTelegram-Channel@Venom_ServersTelegram-Channel@Venom_ServersTelegram-Channel@Venom_ServersTelegram-Channel@Venom_ServersTelegram-Channel@Venom_ServersTelegram-Channel@Venom_ServersTelegram-Channel@Venom_ServersTelegram-Channel@Venom_ServersTelegram-Channel@Venom_ServersTelegram-Channel@Venom_ServersTelegram-Channel@Venom_ServersTelegram-Channel@Venom_ServersTelegram-Channel@Venom_Servers&security=tls&fp=chrome&alpn=h2,http/1.1&sni=fs2.snowborn.ir#CA🇨🇦
 
-vless://Venom-Servers@discord.com:443/?type=grpc&serviceName=Telegram-Channel@Venom_ServersTelegram-Channel@Venom_ServersTelegram-Channel@Venom_ServersTelegram-Channel@Venom_ServersTelegram-Channel@Venom_ServersTelegram-Channel@Venom_ServersTelegram-Channel@Venom_ServersTelegram-Channel@Venom_ServersTelegram-Channel@Venom_ServersTelegram-Channel@Venom_ServersTelegram-Channel@Venom_ServersTelegram-Channel@Venom_ServersTelegram-Channel@Venom_ServersTelegram-Channel@Venom_ServersTelegram-Channel@Venom_ServersTelegram-Channel@Venom_Servers&security=tls&fp=chrome&alpn=h2,http/1.1&sni=fs2.snowborn.ir#CA🇨🇦
+vless://Venom-Servers@discord.com:443/?type=grpc&serviceName=Telegram-Channel@Venom_ServersTelegram-Channel@Venom_ServersTelegram-Channel@Venom_ServersTelegram-Channel@Venom_ServersTelegram-Channel@Venom_ServersTelegram-Channel@Venom_ServersTelegram-Channel@Venom_ServersTelegram-Channel@Venom_ServersTelegram-Channel@Venom_ServersTelegram-Channel@Venom_ServersTelegram-Channel@Venom_ServersTelegram-Channel@Venom_ServersTelegram-Channel@Venom_ServersTelegram-Channel@Venom_ServersTelegram-Channel@Venom_ServersTelegram-Channel@Venom_Servers&security=tls&fp=chrome&alpn=h2,http/1.1&sni=fs2.snowborn.ir#US🇺🇸
 
-vless://Venom-Servers@discord.com:443/?type=grpc&serviceName=Telegram-Channel@Venom_ServersTelegram-Channel@Venom_ServersTelegram-Channel@Venom_ServersTelegram-Channel@Venom_ServersTelegram-Channel@Venom_ServersTelegram-Channel@Venom_ServersTelegram-Channel@Venom_ServersTelegram-Channel@Venom_ServersTelegram-Channel@Venom_ServersTelegram-Channel@Venom_ServersTelegram-Channel@Venom_ServersTelegram-Channel@Venom_ServersTelegram-Channel@Venom_ServersTelegram-Channel@Venom_ServersTelegram-Channel@Venom_ServersTelegram-Channel@Venom_Servers&security=tls&fp=chrome&alpn=h2,http/1.1&sni=fs2.snowborn.ir#CA🇨🇦
+vless://Venom-Servers@discord.com:443/?type=grpc&serviceName=Telegram-Channel@Venom_ServersTelegram-Channel@Venom_ServersTelegram-Channel@Venom_ServersTelegram-Channel@Venom_ServersTelegram-Channel@Venom_ServersTelegram-Channel@Venom_ServersTelegram-Channel@Venom_ServersTelegram-Channel@Venom_ServersTelegram-Channel@Venom_ServersTelegram-Channel@Venom_ServersTelegram-Channel@Venom_ServersTelegram-Channel@Venom_ServersTelegram-Channel@Venom_ServersTelegram-Channel@Venom_ServersTelegram-Channel@Venom_ServersTelegram-Channel@Venom_Servers&security=tls&fp=chrome&alpn=h2,http/1.1&sni=fs2.snowborn.ir#US🇺🇸
 
-vless://Venom-Servers@discord.com:443/?type=grpc&serviceName=Telegram-Channel@Venom_ServersTelegram-Channel@Venom_ServersTelegram-Channel@Venom_ServersTelegram-Channel@Venom_ServersTelegram-Channel@Venom_ServersTelegram-Channel@Venom_ServersTelegram-Channel@Venom_ServersTelegram-Channel@Venom_ServersTelegram-Channel@Venom_ServersTelegram-Channel@Venom_ServersTelegram-Channel@Venom_ServersTelegram-Channel@Venom_ServersTelegram-Channel@Venom_ServersTelegram-Channel@Venom_ServersTelegram-Channel@Venom_ServersTelegram-Channel@Venom_Servers&security=tls&fp=chrome&alpn=h2,http/1.1&sni=fs2.snowborn.ir#CA🇨🇦
+vless://Venom-Servers@discord.com:443/?type=grpc&serviceName=Telegram-Channel@Venom_ServersTelegram-Channel@Venom_ServersTelegram-Channel@Venom_ServersTelegram-Channel@Venom_ServersTelegram-Channel@Venom_ServersTelegram-Channel@Venom_ServersTelegram-Channel@Venom_ServersTelegram-Channel@Venom_ServersTelegram-Channel@Venom_ServersTelegram-Channel@Venom_ServersTelegram-Channel@Venom_ServersTelegram-Channel@Venom_ServersTelegram-Channel@Venom_ServersTelegram-Channel@Venom_ServersTelegram-Channel@Venom_ServersTelegram-Channel@Venom_Servers&security=tls&fp=chrome&alpn=h2,http/1.1&sni=fs2.snowborn.ir#US🇺🇸
 
