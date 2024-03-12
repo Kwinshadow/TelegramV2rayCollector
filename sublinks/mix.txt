@@ -36,7 +36,7 @@ vless://TMCUSTOMIZE--VPNCUSTOMIZE@www.speedtest.net:80?path=/&security=none&encr
 
 vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@104.21.28.62:443?path=/?ed&security=tls&encryption=none&host=3k.pureboy.eu.org&fp=chrome&type=ws&sni=3k.pureboy.eu.org#US🇺🇸
 
-vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@104.21.28.62:443?path=/?ed&security=tls&encryption=none&host=3k.pureboy.eu.org&type=ws&sni=3k.pureboy.eu.org#INT🌍
+vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@104.21.28.62:443?path=/?ed&security=tls&encryption=none&host=3k.pureboy.eu.org&type=ws&sni=3k.pureboy.eu.org#US🇺🇸
 
 vless://b0138d55-a493-4dc3-9932-c6f0391707c1@172.64.111.9:443?path=/vless/b0138d55-a493-4dc3-9932-c6f0391707c1?ed=2048&security=tls&encryption=none&host=edge.020770.xyz&fp=chrome&type=ws&sni=edge.020770.xyz#US🇺🇸
 
@@ -112,6 +112,22 @@ vless://----DIGiV2RAY-----@www.speedtest.net:80?path=/Digiv2ray-&security=none&e
 
 vless://686118d2-0e05-411b-937e-2a117d3aee3b@bia-to2.unlimiteddev.site:80?path=/Telegram:@UnlimitedDev-Telegram:@UnlimitedDev-Telegram:@UnlimitedDev&security=none&encryption=none&host=unlimiteddev.xn--9iqr0tm1r4wg.co.&type=ws#INT🌍
 
+vmess://eyJhZGQiOiIxNjIuMTU5LjExLjMyIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJ0dzFiUWlXU0U0eC5memJxZnJzZS54eXoiLCJpZCI6IjhlMGZjNmUwLTEzMTMtNDc2Ny1iNTFjLTU1MDY2ODBkNTM0ZSIsIm5ldCI6IndzIiwicGF0aCI6IlwvdmlkZW9cL0dRMnFFNVVzOWciLCJwb3J0IjoiMjA1MiIsInBzIjoiSU5UXHVkODNjXHVkZjBkIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
+
+vmess://eyJhZGQiOiI5NC4xNDAuMC4xMTAiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImhvc3QiOiJmb29kLnpoYWFsLmlyIiwiaWQiOiIwZDFiZjI2YS1jZTk3LTQ3MDctYTI3MC03ZjRkMmFlMzczMzQiLCJuZXQiOiJ3cyIsInBhdGgiOiJcLyIsInBvcnQiOiI4ODgwIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiIsInBzIjoiQUVcdWQ4M2NcdWRkZTZcdWQ4M2NcdWRkZWEifQ==
+
+vmess://eyJhZGQiOiIxMDQuMjYuMTAuNTYiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6Imtsb3AuXHU3YTBiXHU1ZjBmXHU4YTJkXHU4YTA4XHU4YTllXHU4YTAwLndlYnNpdGUuIiwiaWQiOiIzZmFiM2ZlMi03YmMzLTRiMjktYmU5Ni0yZGNjNzlkNTQ4YWQiLCJuZXQiOiJ3cyIsInBhdGgiOiJcLz9AdjJyYXlfZXZlcnlfMTJfaG91cnNlZD0yMDQ4IiwicG9ydCI6IjIwOTUiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIiwicHMiOiJJTlRcdWQ4M2NcdWRmMGQifQ==
+
+vmess://eyJhZGQiOiIxNzIuNjcuMTcxLjE3NSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoibmluZS5iNGEtZGV2cy5vcmciLCJpZCI6IjEwMTZjYmMwLTAzYzItNGUxMS1iNTkwLTI5NmIwMWYyNjlhYyIsIm5ldCI6IndzIiwicGF0aCI6IlwvbndzIiwicG9ydCI6IjIwODMiLCJwcyI6IlVTXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4Iiwic2N5IjoiYXV0byIsInNuaSI6Im5pbmUuYjRhLWRldnMub3JnIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=
+
+vmess://eyJhZGQiOiIxMjcuMC4wLjEiLCJhaWQiOiIwIiwiaG9zdCI6IiIsImlkIjoiYWNiY2FhYi1iYWFjLWJhY2EtYmRjYS1hY2NhYmJiYWNjYWIiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6ODA4MCwicHMiOiJJTlRcdWQ4M2NcdWRmMGQiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
+
+vmess://eyJhZGQiOiIxNzIuNjcuNzIuMzciLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6InN0dWZmLXJkLXJlZnVzZWQtY29uZGl0aW9uaW5nLnRyeWNsb3VkZmxhcmUuY29tIiwiaWQiOiI5MDBjZWFmYy0zMGI4LTQ1ODEtYTMwNS0zMTg1NGY1NjNlNGYiLCJuZXQiOiJ3cyIsInBhdGgiOiI5MDBjZWFmYy0zMGI4LTQ1ODEtYTMwNS0zMTg1NGY1NjNlNGYtdm0iLCJwb3J0IjoiMjA4NiIsInBzIjoiVVNcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjgiLCJzY3kiOiJub25lIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
+
+vmess://eyJhZGQiOiIxNzIuNjcuMTkzLjM2IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJubDEtdm1lc3MucmVhbHNzaC54eXoiLCJpZCI6ImVhZDU1MDI2LThhZjQtNDczMS1hMmJmLTE5MjYxODVmNGJlNyIsIm5ldCI6IndzIiwicGF0aCI6Ilwvdm1lc3MiLCJwb3J0IjoiMjA1MyIsInNjeSI6ImF1dG8iLCJzbmkiOiJubDEtdm1lc3MucmVhbHNzaC54eXoiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIiLCJwcyI6IlVTXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4In0=
+
+vmess://eyJhZGQiOiIxODguMTE0Ljk4LjIyNCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiaG9zdCI6IiIsImlkIjoiZTg1ZjIyZDItNTQyMy00ZDIyLWI0YjgtYTdlMzBhYjQ2ODRhIiwibmV0IjoiZ3JwYyIsInBhdGgiOiJcLyIsInBvcnQiOiI4NDQzIiwicHMiOiJOTFx1ZDgzY1x1ZGRmM1x1ZDgzY1x1ZGRmMSIsInNjeSI6ImF1dG8iLCJzbmkiOiJ3ZWFyZXN0YW5kLm9ubGluZSIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9
+
 vmess://eyJhZGQiOiIxMDQuMjEuMjI2LjMzIiwiYWlkIjowLCJob3N0IjoiYS5wcmFwdDEuaXIiLCJpZCI6IjcwMjI5ODJmLWRhNGMtNDhjOS1jNjYwLWIyMzE1YWJkY2Y3ZSIsIm5ldCI6IndzIiwicGF0aCI6IlwvP2VkPTIwNDgmVGVsZWdyYW1cdWQ4M2NcdWRkZThcdWQ4M2NcdWRkZjMgQFdhbmdDYWkwOCIsInBvcnQiOjgwLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInBzIjoiSU5UXHVkODNjXHVkZjBkIn0=
 
 vmess://eyJhZGQiOiIxMjA4LnNzZnJlZS5ydSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI2YWUyMjUxNi1kZmMwLTExZWUtOGJhNC0wMDE2M2U0OTIxOWUiLCJuZXQiOiJ3cyIsInBhdGgiOiJcL3NlYXJjaCIsInBvcnQiOiI0NDMiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIiwicHMiOiJOTFx1ZDgzY1x1ZGRmM1x1ZDgzY1x1ZGRmMSJ9
@@ -128,7 +144,7 @@ vmess://eyJhZGQiOiJuZWxseS5ob21lcyIsImFpZCI6IjAiLCJhbHBuIjoiaDIsaHR0cFwvMS4xIiwi
 
 vmess://eyJhZGQiOiI0NS4xNC4yNDQuMTMzIiwiYWlkIjoiMCIsImFscG4iOiIiLCJob3N0IjoiIiwiaWQiOiJiZjFkZDMyOC1hNjA1LTQ4ZmQtOTE4Zi00NGNjYTFjZmUwN2YiLCJuZXQiOiJ3cyIsInBhdGgiOiJcLyIsInBvcnQiOiIyMDI0Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiIsInBzIjoiUlVcdWQ4M2NcdWRkZjdcdWQ4M2NcdWRkZmEifQ==
 
-vmess://eyJhZGQiOiJobXMxODIuZ2x3ZWlkZi5zYnMiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImhvc3QiOiJnbHdlaWRmLnNicyIsImlkIjoiNzYyMjFiZmItZTkyZi00ZTgwLTgxYzUtNmZlNDhmNTBhYzBiIiwibmV0Ijoid3MiLCJwYXRoIjoiXC9saW5rd3MiLCJwb3J0IjoiNDQzIiwic2N5IjoiYXV0byIsInNuaSI6Imdsd2VpZGYuc2JzIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIiwicHMiOiJVU1x1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmOCJ9
+vmess://eyJhZGQiOiJobXMxODIuZ2x3ZWlkZi5zYnMiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImhvc3QiOiJnbHdlaWRmLnNicyIsImlkIjoiNzYyMjFiZmItZTkyZi00ZTgwLTgxYzUtNmZlNDhmNTBhYzBiIiwibmV0Ijoid3MiLCJwYXRoIjoiXC9saW5rd3MiLCJwb3J0IjoiNDQzIiwic2N5IjoiYXV0byIsInNuaSI6Imdsd2VpZGYuc2JzIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIiwicHMiOiJJTlRcdWQ4M2NcdWRmMGQifQ==
 
 trojan://telegram-id-directvpn@3.136.224.52:22222/?type=tcp&security=tls&sni=trojan.miwan.co.uk&allowInsecure=1#US🇺🇸
 
@@ -151,22 +167,6 @@ vless://Parsashonam-21@190.93.247.247:443?Telegram=@V2RayTz,@V2RayTz&alpn=@V2Ray
 vless://743a2c2e-d6de-4191-a3c3-89efafee9c0a@185.146.173.59:8880?Telegram=@V2RayTz,@V2RayTz&alpn=@V2RayTz,@V2RayTz&encryption=none&host=xn---qhantayawi--f-9wl9bqtr75a955a5b97asba44yjwac23607hkhja.lightning6.xyz.&path=/@LIGHTNING6, @LIGHTNING6&security=none&type=ws#SE🇸🇪
 
 vless://b0138d55-a493-4dc3-9932-c6f0391707c1@zula.ir:443?encryption=none&fp=chrome&host=edge.020770.xyz&path=/vless/b0138d55-a493-4dc3-9932-c6f0391707c1?Telegram : @v2ray1_ng--@v2ray1_ng--@v2ray1_ng--@v2ray1_ng--@v2ray1_ng--@v2ray1_ng--@v2ray1_ng--@v2ray1_ng--@v2ray1_ng--@v2ray1_ng--@v2ray1_ng--@v2ray1_ng--@v2ray1_ng--@v2ray1_ng--@v2ray1_nged=2048&security=tls&sni=edge.020770.xyz&type=ws#NL🇳🇱
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphMHl1Z3RZVUtqeTlFeVFPd1E1UGJy@vienna.telegavpn.com:61992#AT🇦🇹
-
-vless://945d1ed9-9948-41e7-8516-4aef221985b5@195.35.24.170:20975?security=none&type=tcp#DE🇩🇪
-
-vless://69d161fe-1192-4c73-826b-f2a6a6244146@185.146.173.59:8880?Telegram=@V2RayTz,@V2RayTz&alpn=@V2RayTz,@V2RayTz&encryption=none&host=xn---qhantayawi--b-9wl9bqtr75a955a5b97asba44yjwac23607hkhja.lightning6.xyz.&path=/@LIGHTNING6, @LIGHTNING6&security=none&type=ws#SE🇸🇪
-
-vless://69d161fe-1192-4c73-826b-f2a6a6244146@185.146.173.59:8880?Telegram=@V2RayTz,@V2RayTz&alpn=@V2RayTz,@V2RayTz&encryption=none&host=xn---qhantayawi--a-9wl9bqtr75a955a5b97asba44yjwac23607hkhja.lightning6.xyz.&path=/@LIGHTNING6, @LIGHTNING6&security=none&type=ws#SE🇸🇪
-
-vless://7e29f2e2-e0ec-47c5-94ec-38ef90f7a106@104.24.0.9:2053?path=vless-ws/?ed&security=tls&encryption=none&host=whmm.MeRLInnZ.linK&type=ws&sni=whmm.MeRLInnZ.linK#INT🌍
-
-vless://bda4be04-48bf-4df1-aaf2-6d42522eab6b@103.232.214.11:8443?path=Telegram🇨🇳 @WangCai_8 /?ed=2048&security=tls&encryption=none&host=ehda.sajaditsme.com&type=ws&sni=ehda.sajaditsme.com#JP🇯🇵
-
-vless://a0294497-22e7-487c-ad6f-086fc202d8b5@162.159.5.140:80?encryption=none&security=none&type=ws&host=vmessorg1.xn--54qv00ez5ar77g.co.&path=/Telegram:@vmessorg-Telegram:@vmessorg-Telegram:@vmessorg?ed=2048#INT🌍
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnb1BtNEFFWHNDME1YcG9TOEVoaG5P@moscow.telegavpn.com:60422#RU🇷🇺
 
 vless://cea1349e-1ee4-47b1-ad14-749705ca50c6@Zula.ir:443?path=/Proxystore11&security=tls&encryption=none&alpn=h2,http/1.1&host=prx11.adminwp.eu.org&fp=chrome&type=ws&sni=prx11.adminwp.eu.org#NL🇳🇱
 
