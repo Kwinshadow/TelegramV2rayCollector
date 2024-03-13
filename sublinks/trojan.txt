@@ -1,4 +1,14 @@
- trojan://6f10dc62-43b2-490a-97d8-2ba746706928@178.128.193.212:443?#DE🇩🇪
+ trojan://zpDwqDlIZq@146.190.107.80:443?security=tls&sni=aka,ms&type=tcp#SG🇸🇬
+
+trojan://60eb444d-a635-42eb-9897-67eb23f98c18@95.164.114.43:443?#KZ🇰🇿
+
+trojan://4681b3c5-8bd2-461e-ac9e-3d5764c88ffc@95.164.46.235:443?#IT🇮🇹
+
+trojan://telegram-id-directvpn@18.153.173.114:22222?sni=trojan.miwan.co.uk#DE🇩🇪
+
+trojan://cbbcaaa-bcaa-abac-badc-bbcacaaccabb@127.0.0.1:8080?security=tls&type=tcp#INT🌍
+
+trojan://6f10dc62-43b2-490a-97d8-2ba746706928@178.128.193.212:443?#DE🇩🇪
 
 trojan://telegram-id-directvpn@35.181.191.40:22222?security=tls&sni=trojan.miwan.co.uk&type=tcp&alpn=http/1.1#FR🇫🇷
 
@@ -21,10 +31,4 @@ trojan://e96f263f-8788-44fa-8bb1-25fb4a8c2a6d@141.94.115.231:443?#FR🇫🇷
 trojan://baccbaa-caab-acba-adbc-baabbacacbcc@127.0.0.1:8080?security=tls&type=tcp#INT🌍
 
 trojan://16ef2470-8aa4-4963-aba6-69f33ac6ced9@159.203.34.170:443?#CA🇨🇦
-
-trojan://aaabccb-aacb-baac-abdc-cacabbcbacba@127.0.0.1:8080?security=tls&type=tcp#INT🌍
-
-trojan://b14d7f30-e0a7-11ee-a14d-1239d0255272@104.21.69.44:443?sni=us1.test3.net&type=ws&host=us1.test3.net&path=/howdy#INT🌍
-
-trojan://daily-configs@162.159.152.2:443?security=tls&sni=dawn-botswana-inappropriate-registration.trycloudflare.com&type=ws&host=dawn-botswana-inappropriate-registration.trycloudflare.com&path=@daily_configs,@daily_configs,@daily_configs,@daily_configs,@daily_configs&fp=firefox&alpn=h2,http/1.1#INT🌍
 
