@@ -1,5 +1,7 @@
  vless://797cf965-fed9-4c84-a9d6-19a5da4598a7@78.46.233.103:59814?type=tcp&path=/@NIM_VPN_ir&host=speedtest.net&headerType=http&security=none#DE🇩🇪
 
+vless://797cf965-fed9-4c84-a9d6-19a5da4598a7@78.46.233.103:59814?type=tcp&path=/@NIM_VPN_ir&host=speedtest.net&headerType=http&security=none#DE🇩🇪
+
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.samanehha.co:443#BH🇧🇭
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.samanehha.co:443#GB🇬🇧
@@ -32,7 +34,7 @@ vless://51905fd3-29de-4b4e-b351-83542f1d5390@parspack.com:443?path=/?ed&security
 
 vless://29f8ad12-ea84-431b-bf32-9d3fb5cf2aa2@freee.outline-vpn.cloud:443?path=/?ed&security=tls&encryption=none&host=w1.sylar8.eu.org&type=ws&sni=w1.sylar8.eu.org#US🇺🇸
 
-vless://5d8569a9-a8cb-4c5e-9ea9-cc40de873a35@injaro.outline-vpn.cloud:443?path=/?ed&security=tls&encryption=none&host=FIltEr-1tg.pagEs.DeV&type=ws&sni=filTer-1tg.pAges.DeV#CA🇨🇦
+vless://5d8569a9-a8cb-4c5e-9ea9-cc40de873a35@injaro.outline-vpn.cloud:443?path=/?ed&security=tls&encryption=none&host=FIltEr-1tg.pagEs.DeV&type=ws&sni=filTer-1tg.pAges.DeV#US🇺🇸
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.samanehha.co:443#BH🇧🇭
 
@@ -40,7 +42,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.samanehh
 
 vless://b0138d55-a493-4dc3-9932-c6f0391707c1@172.64.111.9:443?path=/vless/b0138d55-a493-4dc3-9932-c6f0391707c1?ed=2048&security=tls&encryption=none&host=edge.020770.xyz&fp=chrome&type=ws&sni=edge.020770.xyz#US🇺🇸
 
-vless://b0138d55-a493-4dc3-9932-c6f0391707c1@172.67.56.140:443?path=/vless/b0138d55-a493-4dc3-9932-c6f0391707c1?ed=2048&security=tls&encryption=none&host=edge.020770.xyz&type=ws&sni=edge.020770.xyz#US🇺🇸
+vless://b0138d55-a493-4dc3-9932-c6f0391707c1@172.67.56.140:443?path=/vless/b0138d55-a493-4dc3-9932-c6f0391707c1?ed=2048&security=tls&encryption=none&host=edge.020770.xyz&type=ws&sni=edge.020770.xyz#CA🇨🇦
 
 vless://51905fd3-29de-4b4e-b351-83542f1d5390@172.67.24.121:443?path=/?ed&security=tls&encryption=none&alpn=h2,http/1.1&host=biA.ALlhub.LTD&fp=random&type=ws&sni=Bia.alLhub.Ltd#CA🇨🇦
 
@@ -110,6 +112,38 @@ vless://23ad11e8-d90e-4a6f-86f8-527d211a6de1@iranserver.com:80?path=/Telegram:@U
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpEbU1RVW1JN3BnUURucldxTFhDMDBM@94.228.165.234:15214#SE🇸🇪
 
+trojan://aacabbc-caab-acab-bdac-abcabacacbcb@127.0.0.1:8080?security=tls&type=tcp#INT🌍
+
+trojan://bcbaaac-aacb-baac-dcba-cbbccaacbaab@127.0.0.1:2080?security=tls&type=tcp#INT🌍
+
+trojan://cbaaabc-caab-acba-bdca-bccbabccbaaa@127.0.0.1:1080?security=tls&type=tcp#INT🌍
+
+vmess://eyJhZGQiOiIxMjcuMC4wLjEiLCJhaWQiOiIwIiwiaG9zdCI6IiIsImlkIjoiYWFjYWJiYy1jYWFiLWFjYWItYmRhYy1hYmNhYmFjYWNiY2IiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6ODA4MCwicHMiOiJJTlRcdWQ4M2NcdWRmMGQiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
+
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@54.180.143.252:443#KR🇰🇷
+
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@13.231.173.32:443#JP🇯🇵
+
+ss://bm9uZTpiY2JhYWFjLWFhY2ItYmFhYy1kY2JhLWNiYmNjYWFjYmFhYg==@127.0.0.1:2080#INT🌍
+
+ss://bm9uZTpjYmFhYWJjLWNhYWItYWNiYS1iZGNhLWJjY2JhYmNjYmFhYQ==@127.0.0.1:1080#INT🌍
+
+trojan://598d6250-e17f-11ee-a85b-1239d0255272@104.21.69.44:443?sni=us1.test3.net&type=ws&host=us1.test3.net&path=/howdy#CA🇨🇦
+
+trojan://24f10d2e-5c81-4606-b124-6aa830a55dbf@104.21.4.113:2096?security=tls&sni=channel.v2bamdad.tech&type=grpc&serviceName=lK1wclmJRbMxj4FxIzvwxUDoX&fp=chrome&alpn=h2#CA🇨🇦
+
+trojan://telegram-id-privatevpns@18.135.227.25:22222?sni=trojan.miwan.co.uk#GB🇬🇧
+
+trojan://aaabcbc-caba-aabc-dabc-bbccbacacbaa@127.0.0.1:2080?security=tls&type=tcp#INT🌍
+
+ss://bm9uZTphYWFiY2JjLWNhYmEtYWFiYy1kYWJjLWJiY2NiYWNhY2JhYQ==@127.0.0.1:2080#INT🌍
+
+ss://bm9uZTphYWFiYmNjLWJjYWEtY2FhYi1jYWRiLWNjYWJiYWFiYWJjYw==@127.0.0.1:1080#INT🌍
+
+trojan://bacbaac-abac-caab-cabd-ccacbcaaabbb@127.0.0.1:8080?security=tls&type=tcp#INT🌍
+
+trojan://24f10d2e-5c81-4606-b124-6aa830a55dbf@172.67.132.6:2096?security=tls&sni=channel.v2bamdad.tech&type=grpc&serviceName=lK1wclmJRbMxj4FxIzvwxUDoX&fp=chrome&alpn=h2#CA🇨🇦
+
 trojan://telegram-id-privatevpns@13.39.11.239:22222?security=tls&sni=trojan.miwan.co.uk&type=tcp#FR🇫🇷
 
 trojan://cbacbaa-aacb-abca-bdca-bcaabbaccabc@127.0.0.1:2080?security=tls&type=tcp#INT🌍
@@ -134,38 +168,6 @@ trojan://bbacaac-baac-aacb-dabc-cacacbcbbaab@127.0.0.1:1080?security=tls&type=tc
 
 vmess://eyJhZGQiOiIxMjcuMC4wLjEiLCJhaWQiOiIwIiwiaG9zdCI6IiIsImlkIjoiYWJhY2NiYS1iY2FhLWJhY2EtY2RhYi1jY2JhYWNiYWJiYWMiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6ODA4MCwicHMiOiJJTlRcdWQ4M2NcdWRmMGQiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@18.171.112.80:443#GB🇬🇧
-
-ss://bm9uZTpiYWNjYWJhLWJhYWMtY2JhYS1iY2FkLWJhY2JhYWJhY2NjYg==@127.0.0.1:2080#INT🌍
-
-ss://bm9uZTpiYmFjYWFjLWJhYWMtYWFjYi1kYWJjLWNhY2FjYmNiYmFhYg==@127.0.0.1:1080#INT🌍
-
-trojan://abaccba-bcaa-baca-cdab-ccbaacbabbac@127.0.0.1:8080?security=tls&type=tcp#INT🌍
-
-trojan://7b34bcf2-9ecf-4fc7-a5d3-ed84131d7950@45.33.5.244:443?#US🇺🇸
-
-trojan://10cbda28-0607-4d78-9c7b-0e0937e97f0f@192.46.213.145:443?#IN🇮🇳
-
-trojan://6a063257-a783-49e9-afc4-c699c49134d3@1.164.139.116:9755?security=tls&sni=b12.ntbq.dynu.net&type=tcp#TW🇹🇼
-
-trojan://cbb21f5d-c593-4929-8419-8a851d0e0eaa@172.104.56.11:443?#SG🇸🇬
-
-ss://bm9uZTpjYWJjYmFhLWJjYWEtYmFhYy1kYmFjLWNhYWJjYmNhYWNiYg==@127.0.0.1:2080#INT🌍
-
-ss://bm9uZTphYmFjYmNhLWNhYmEtYWFjYi1jYWJkLWFiY2FiY2FjY2FiYg==@127.0.0.1:1080#INT🌍
-
-trojan://bcbacaa-abac-acba-cadb-ccbbbacacbaa@127.0.0.1:8080?security=tls&type=tcp#INT🌍
-
-trojan://telegram-id-directvpn@3.133.53.134:22222?security=tls&sni=trojan.miwan.co.uk&type=tcp#US🇺🇸
-
-vmess://eyJhZGQiOiI4LjIyMi4xODcuMTE1IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImE2YzQzMjFhLTgzZmItNDkwYi1lY2FlLTJhNjM0MGM1NWQ5ZCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiNDcxMDQiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIiwicHMiOiJTR1x1ZDgzY1x1ZGRmOFx1ZDgzY1x1ZGRlYyJ9
-
-vmess://eyJhZGQiOiIxNDYuMTkwLjk3LjE1MCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoibS5pbnN0YWdyYW0uY29tIiwiaWQiOiIzZTFkYzE4ZS00ZTUyLTRhYjEtYjY3OS1iN2JkMWRjOThmYzgiLCJuZXQiOiJ3cyIsInBhdGgiOiJcL1NoYWxhbmEiLCJwb3J0IjoiNDI3MjIiLCJwcyI6IlNHXHVkODNjXHVkZGY4XHVkODNjXHVkZGVjIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
-
-vmess://eyJhZGQiOiIxMzguMi40NC4yMTEiLCJhaWQiOiI2NCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjU5M2I4NTI1LTBjNDgtNGIwZi1kOWFmLTJkNzNhOTE0ODk3MyIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMjAwODEiLCJwcyI6IkpQXHVkODNjXHVkZGVmXHVkODNjXHVkZGY1Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
-
-vmess://eyJhZGQiOiIxNTIuMzIuMTkwLjIzOSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiY2Zoay4zOTM5MzAueHl6IiwiaWQiOiI1ODQwYWIyZC1hYjU5LTRlYjAtOWRlYS0xMjJkMGZiYmQyZDkiLCJuZXQiOiJ3cyIsInBhdGgiOiJcLyIsInBvcnQiOiI0NDMxIiwicHMiOiJIS1x1ZDgzY1x1ZGRlZFx1ZDgzY1x1ZGRmMCIsInNjeSI6ImF1dG8iLCJzbmkiOiJjZmhrLjM5MzkzMC54eXoiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ==
-
 vless://cea1349e-1ee4-47b1-ad14-749705ca50c6@Zula.ir:443?path=/Proxystore11&security=tls&encryption=none&alpn=h2,http/1.1&host=prx11.adminwp.eu.org&fp=chrome&type=ws&sni=prx11.adminwp.eu.org#NL🇳🇱
 
 vless://5771f2c6-4c63-4344-9db7-f23e918a2dec@Zula.ir:8443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=@PROXYSTORE11-@PROXYSTORE11-@PROXYSTORE11-@PROXYSTORE11-@PROXYSTORE11-@PROXYSTORE11-&sni=prx11.adminwp.eu.org#NL🇳🇱
@@ -178,6 +180,10 @@ vless://1c3c61e6-752c-44cb-a736-8165fb4a4310@www.speedtest.net:8080?path=/@V_2ra
 
 vless://7f55b425-a623-439b-bbd5-0b1778162054@172.67.73.237:80?path=@V2ray_God=Telegram/?ed=2048&security=none&encryption=none&host=آیدی-چنل-تلگرام-ماV2rayGodVipهستش.Xn--oor7hj4iyes9ldmi6b99k5zcm7ge8wfuhdo4cd8m61eqretu4en5hcvkerw.Site.&type=ws#CA🇨🇦
 
+vless://fa3a9579-2d00-40dd-9ec0-1d0d2ab8ebb5@wolf404ir.royalmt.life:7060?path=/&security=none&encryption=none&type=ws#DE🇩🇪
+
+vless://a0294497-22e7-487c-ad6f-086fc202d8b5@162.159.5.140:80?path=/Telegram:@vmessorg-Telegram:@vmessorg-Telegram:@vmessorg?ed=2048&security=none&encryption=none&host=vmessorg1.xn--54qv00ez5ar77g.co.&type=ws#CA🇨🇦
+
 vless://Parsashonam-24@www.speedtest.net:8080?path=/&security=none&encryption=none&host=Parsashonam.我们累了.tech.&type=ws#CA🇨🇦
 
 vless://Parsashonam-22@190.93.247.247:443?path=/&security=tls&encryption=none&alpn=h2,http/1.1&host=mail.offch.blog&fp=chrome&type=ws&sni=mail.offch.blog#CR🇨🇷
@@ -186,13 +192,13 @@ vless://Parsashonam-23@www.speedtest.net:8080?path=/&security=none&encryption=no
 
 vless://Parsashonam-21@190.93.247.247:443?path=/&security=tls&encryption=none&alpn=h2,http/1.1&host=mail.offch.blog&fp=chrome&type=ws&sni=mail.offch.blog#CR🇨🇷
 
-vless://Venom-Servers@discord.com:443/?type=grpc&serviceName=Telegram-Channel@Venom_ServersTelegram-Channel@Venom_ServersTelegram-Channel@Venom_ServersTelegram-Channel@Venom_ServersTelegram-Channel@Venom_ServersTelegram-Channel@Venom_ServersTelegram-Channel@Venom_ServersTelegram-Channel@Venom_ServersTelegram-Channel@Venom_ServersTelegram-Channel@Venom_ServersTelegram-Channel@Venom_ServersTelegram-Channel@Venom_ServersTelegram-Channel@Venom_ServersTelegram-Channel@Venom_ServersTelegram-Channel@Venom_ServersTelegram-Channel@Venom_Servers&security=tls&fp=chrome&alpn=h2,http/1.1&sni=fs2.snowborn.ir#US🇺🇸
+vless://Venom-Servers@discord.com:443/?type=grpc&serviceName=Telegram-Channel@Venom_ServersTelegram-Channel@Venom_ServersTelegram-Channel@Venom_ServersTelegram-Channel@Venom_ServersTelegram-Channel@Venom_ServersTelegram-Channel@Venom_ServersTelegram-Channel@Venom_ServersTelegram-Channel@Venom_ServersTelegram-Channel@Venom_ServersTelegram-Channel@Venom_ServersTelegram-Channel@Venom_ServersTelegram-Channel@Venom_ServersTelegram-Channel@Venom_ServersTelegram-Channel@Venom_ServersTelegram-Channel@Venom_ServersTelegram-Channel@Venom_Servers&security=tls&fp=chrome&alpn=h2,http/1.1&sni=fs2.snowborn.ir#CA🇨🇦
 
 vless://Venom-Servers@discord.com:443/?type=grpc&serviceName=Telegram-Channel@Venom_ServersTelegram-Channel@Venom_ServersTelegram-Channel@Venom_ServersTelegram-Channel@Venom_ServersTelegram-Channel@Venom_ServersTelegram-Channel@Venom_ServersTelegram-Channel@Venom_ServersTelegram-Channel@Venom_ServersTelegram-Channel@Venom_ServersTelegram-Channel@Venom_ServersTelegram-Channel@Venom_ServersTelegram-Channel@Venom_ServersTelegram-Channel@Venom_ServersTelegram-Channel@Venom_ServersTelegram-Channel@Venom_ServersTelegram-Channel@Venom_Servers&security=tls&fp=chrome&alpn=h2,http/1.1&sni=fs2.snowborn.ir#US🇺🇸
 
 vmess://eyJhZGQiOiJpbm5hLmNmZCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiaW5uYS5jZmQiLCJpZCI6IjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsIm5ldCI6IndzIiwicGF0aCI6IlwvbGlua3Z3cyIsInBvcnQiOiI0NDMiLCJwcyI6IkNBXHVkODNjXHVkZGU4XHVkODNjXHVkZGU2Iiwic2N5IjoiYXV0byIsInNuaSI6ImlubmEuY2ZkIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=
 
-vless://Venom-Servers@discord.com:443/?type=grpc&serviceName=Telegram-Channel@Venom_ServersTelegram-Channel@Venom_ServersTelegram-Channel@Venom_ServersTelegram-Channel@Venom_ServersTelegram-Channel@Venom_ServersTelegram-Channel@Venom_ServersTelegram-Channel@Venom_ServersTelegram-Channel@Venom_ServersTelegram-Channel@Venom_ServersTelegram-Channel@Venom_ServersTelegram-Channel@Venom_ServersTelegram-Channel@Venom_ServersTelegram-Channel@Venom_ServersTelegram-Channel@Venom_ServersTelegram-Channel@Venom_ServersTelegram-Channel@Venom_Servers&security=tls&fp=chrome&alpn=h2,http/1.1&sni=fs2.snowborn.ir#US🇺🇸
+vless://Venom-Servers@discord.com:443/?type=grpc&serviceName=Telegram-Channel@Venom_ServersTelegram-Channel@Venom_ServersTelegram-Channel@Venom_ServersTelegram-Channel@Venom_ServersTelegram-Channel@Venom_ServersTelegram-Channel@Venom_ServersTelegram-Channel@Venom_ServersTelegram-Channel@Venom_ServersTelegram-Channel@Venom_ServersTelegram-Channel@Venom_ServersTelegram-Channel@Venom_ServersTelegram-Channel@Venom_ServersTelegram-Channel@Venom_ServersTelegram-Channel@Venom_ServersTelegram-Channel@Venom_ServersTelegram-Channel@Venom_Servers&security=tls&fp=chrome&alpn=h2,http/1.1&sni=fs2.snowborn.ir#CA🇨🇦
 
 vless://Venom-Servers@discord.com:443/?type=grpc&serviceName=Telegram-Channel@Venom_ServersTelegram-Channel@Venom_ServersTelegram-Channel@Venom_ServersTelegram-Channel@Venom_ServersTelegram-Channel@Venom_ServersTelegram-Channel@Venom_ServersTelegram-Channel@Venom_ServersTelegram-Channel@Venom_ServersTelegram-Channel@Venom_ServersTelegram-Channel@Venom_ServersTelegram-Channel@Venom_ServersTelegram-Channel@Venom_ServersTelegram-Channel@Venom_ServersTelegram-Channel@Venom_ServersTelegram-Channel@Venom_ServersTelegram-Channel@Venom_Servers&security=tls&fp=chrome&alpn=h2,http/1.1&sni=fs2.snowborn.ir#US🇺🇸
 
