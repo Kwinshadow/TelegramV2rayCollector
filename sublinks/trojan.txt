@@ -1,4 +1,14 @@
- trojan://4db45bb4-dcca-4d37-a639-cb55213ee406@172.67.132.6:2096?security=tls&sni=channel.v2bamdad.tech&type=grpc#CA🇨🇦
+ trojan://telegram-id-directvpn@3.17.106.39:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#US🇺🇸
+
+trojan://telegram-id-privatevpns@3.75.72.232:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#DE🇩🇪
+
+trojan://telegram-id-directvpn@35.177.142.70:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#GB🇬🇧
+
+trojan://cabacba-abac-baca-dacb-cbabbaacabcc@127.0.0.1:2080?security=tls&type=tcp#INT🌍
+
+trojan://aabcbac-caba-aabc-dcba-baccaaacbbbc@127.0.0.1:8080?security=tls&type=tcp#INT🌍
+
+trojan://4db45bb4-dcca-4d37-a639-cb55213ee406@172.67.132.6:2096?security=tls&sni=channel.v2bamdad.tech&type=grpc#CA🇨🇦
 
 trojan://87ca03e0-e3e5-11ee-8c3d-1239d0255272@104.21.69.44:443?sni=us1.test3.net&type=ws&host=us1.test3.net&path=/howdy#CA🇨🇦
 
@@ -23,16 +33,4 @@ trojan://telegram-id-privatevpns@51.21.77.215:22222?security=tls&sni=trojan.burg
 trojan://abcbcaa-acba-aabc-bcad-cabcbbaaaccb@127.0.0.1:2080?security=tls&type=tcp#INT🌍
 
 trojan://bcacbaa-aacb-caba-bcad-cabcbcacaabb@127.0.0.1:1080?security=tls&type=tcp#INT🌍
-
-trojan://accbaba-aabc-caab-dcba-bbacbcbaacca@127.0.0.1:8080?security=tls&type=tcp#INT🌍
-
-trojan://telegram-id-directvpn@13.50.57.122:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#SE🇸🇪
-
-trojan://aacbcab-aabc-cbaa-dcab-ccbcabaaacbb@127.0.0.1:8080?security=tls&type=tcp#INT🌍
-
-trojan://telegram-id-privatevpns@13.43.105.161:22222?sni=trojan.burgerip.co.uk&type=tcp&host=trojan.burgerip.co.uk&allowInsecure=1#GB🇬🇧
-
-trojan://telegram-id-directvpn@3.17.106.39:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&allowInsecure=1#US🇺🇸
-
-trojan://bacacba-baca-acba-dbca-acbbbacacacb@127.0.0.1:2080?security=tls&type=tcp#INT🌍
 
