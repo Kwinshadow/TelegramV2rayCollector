@@ -1,4 +1,16 @@
- trojan://39048cc0-e51e-11ee-a10b-1239d0255272@172.67.204.84:443?sni=us1.test3.net&type=ws&host=us1.test3.net&path=/howdy#US🇺🇸
+ trojan://telegram-id-privatevpns@51.21.40.32:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#SE🇸🇪
+
+trojan://telegram-id-privatevpns@3.11.220.184:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#GB🇬🇧
+
+trojan://acaacbb-caab-acba-dcab-aacbaabccbcb@127.0.0.1:2080?security=tls&type=tcp#INT🌍
+
+trojan://aabcabc-baca-acab-bacd-cbcabbabcaac@127.0.0.1:1080?security=tls&type=tcp#INT🌍
+
+trojan://baaccab-caab-abac-cabd-baacbcbacbca@127.0.0.1:8080?security=tls&type=tcp#INT🌍
+
+trojan://telegram-id-directvpn@15.157.2.6:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#CA🇨🇦
+
+trojan://39048cc0-e51e-11ee-a10b-1239d0255272@172.67.204.84:443?sni=us1.test3.net&type=ws&host=us1.test3.net&path=/howdy#US🇺🇸
 
 trojan://telegram-id-privatevpns@13.43.76.216:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#GB🇬🇧
 
@@ -15,14 +27,4 @@ trojan://a2673b60-aca1-48c2-a4ad-abeb518e18f9@183.236.51.54:16001?security=tls&s
 trojan://a2673b60-aca1-48c2-a4ad-abeb518e18f9@183.236.51.56:16002?security=tls&sni=cloudflare.node-ssl.cdn-alibaba.com&type=tcp#CN🇨🇳
 
 trojan://a2673b60-aca1-48c2-a4ad-abeb518e18f9@183.236.51.56:16001?security=tls&sni=cloudflare.node-ssl.cdn-alibaba.com&type=tcp#CN🇨🇳
-
-trojan://abbacac-acab-aacb-bacd-ababbcbaccac@127.0.0.1:8080?security=tls&type=tcp#INT🌍
-
-trojan://f0eb8c92ce8946aaba856569cff1a16b@104.16.159.8:443?security=tls&sni=bangladeshipatri.com&type=ws&host=bangladeshipatri.com&path=6b777a91#CA🇨🇦
-
-trojan://caacbab-baac-bcaa-dcba-accbbbabcaca@127.0.0.1:8080?security=tls&type=tcp#INT🌍
-
-trojan://telegram-id-directvpn@15.157.125.61:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#CA🇨🇦
-
-trojan://telegram-id-privatevpns@3.69.240.218:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#DE🇩🇪
 
