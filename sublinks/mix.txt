@@ -28,7 +28,7 @@ vless://29f8ad12-ea84-431b-bf32-9d3fb5cf2aa2@freee.outline-vpn.cloud:443?path=/?
 
 vless://b75b3034-36ab-4979-beae-3d02db1b11ec@test--join.outline-vpn.cloud:443?path=/?ed=2048&security=tls&encryption=none&host=always-online1.lp-airdrop.top&fp=randomized&type=ws&sni=always-online1.lp-airdrop.top#US🇺🇸
 
-vless://86cb987c-59dd-47fe-b127-c1a2ed7f96aa@tgju.org:8443?path=/?ed=2048&security=tls&encryption=none&host=tel-falcunargo-uk2.falcunar.uk.eu.org&fp=random&type=ws&sni=tel-falcunargo-uk2.falcunar.uk.eu.org#INT🌍
+vless://86cb987c-59dd-47fe-b127-c1a2ed7f96aa@tgju.org:8443?path=/?ed=2048&security=tls&encryption=none&host=tel-falcunargo-uk2.falcunar.uk.eu.org&fp=random&type=ws&sni=tel-falcunargo-uk2.falcunar.uk.eu.org#US🇺🇸
 
 vless://b0138d55-a493-4dc3-9932-c6f0391707c1@00-join.outline-vpn.cloud:443?path=/vless/b0138d55-a493-4dc3-9932-c6f0391707c1?ed=2048&security=tls&encryption=none&host=edge.020770.xyz&type=ws&sni=edge.020770.xyz#US🇺🇸
 
@@ -42,9 +42,9 @@ vless://51905fd3-29de-4b4e-b351-83542f1d5390@parspack.com:443?path=/?ed&security
 
 vless://29f8ad12-ea84-431b-bf32-9d3fb5cf2aa2@freee.outline-vpn.cloud:443?path=/?ed&security=tls&encryption=none&host=w1.sylar8.eu.org&type=ws&sni=w1.sylar8.eu.org#US🇺🇸
 
-vless://51905fd3-29de-4b4e-b351-83542f1d5390@parspack.com:443?path=/?ed=2048&security=tls&encryption=none&alpn=h2,http/1.1&host=biA.ALlhub.LTD&fp=random&type=ws&sni=Bia.alLhub.Ltd#INT🌍
+vless://51905fd3-29de-4b4e-b351-83542f1d5390@parspack.com:443?path=/?ed=2048&security=tls&encryption=none&alpn=h2,http/1.1&host=biA.ALlhub.LTD&fp=random&type=ws&sni=Bia.alLhub.Ltd#US🇺🇸
 
-vless://b0138d55-a493-4dc3-9932-c6f0391707c1@00-join.outline-vpn.cloud:443?path=/vless/b0138d55-a493-4dc3-9932-c6f0391707c1?ed&security=tls&encryption=none&host=edge.020770.xyz&type=ws&sni=edge.020770.xyz#INT🌍
+vless://b0138d55-a493-4dc3-9932-c6f0391707c1@00-join.outline-vpn.cloud:443?path=/vless/b0138d55-a493-4dc3-9932-c6f0391707c1?ed&security=tls&encryption=none&host=edge.020770.xyz&type=ws&sni=edge.020770.xyz#US🇺🇸
 
 vless://7e29f2e2-e0ec-47c5-94ec-38ef90f7a106@discord.gg:2053?path=vless-ws/?ed=2048&security=tls&encryption=none&alpn=h2,http/1.1&host=guq22.OXnETwoRkS.LInk&fp=ios&type=ws&sni=guq22.OXnETwoRkS.LInk#INT🌍
 
@@ -52,15 +52,15 @@ vless://83a306b9-7ead-49db-a60a-b09588b517bd@return.footballlovernews.com:443?pa
 
 vless://bda4be04-48bf-4df1-aaf2-6d42522eab6b@cdn.user.com:80?path=/?ed=2048&security=none&encryption=none&host=ehda.sajaditsme.com&type=ws#INT🌍
 
-vless://bda4be04-48bf-4df1-aaf2-6d42522eab6b@CDN.user.com:80?path=/?ed=2048&security=none&encryption=none&host=ehda.sajaditsme.com&type=ws#INT🌍
+vless://bda4be04-48bf-4df1-aaf2-6d42522eab6b@CDN.user.com:80?path=/?ed=2048&security=none&encryption=none&host=ehda.sajaditsme.com&type=ws#US🇺🇸
 
 vless://b0138d55-a493-4dc3-9932-c6f0391707c1@www.tegzitp.net:443?path=/vless/b0138d55-a493-4dc3-9932-c6f0391707c1?ed=2048&security=tls&encryption=none&alpn=h2,http/1.1&host=edge.020770.xyz&fp=chrome&type=ws&sni=edge.020770.xyz#INT🌍
 
-vless://d716b17b-f097-49ae-8367-ae84a3760659@www.you.com:8080?path=/&security=none&encryption=none&host=fan.kostala.org&type=ws#INT🌍
+vless://d716b17b-f097-49ae-8367-ae84a3760659@www.you.com:8080?path=/&security=none&encryption=none&host=fan.kostala.org&type=ws#US🇺🇸
 
 vless://467a7c8d-7758-430c-bd1d-d0aab6cc0869@www.unpkg.com:443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=&sni=dl8.shopvpremium.ir#INT🌍
 
-vmess://eyJhZGQiOiJpbm5hLmNmZCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiaW5uYS5jZmQiLCJpZCI6IjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsIm5ldCI6IndzIiwicGF0aCI6IlwvbGlua3Z3cyIsInBvcnQiOiI0NDMiLCJwcyI6IklOVFx1ZDgzY1x1ZGYwZCIsInNjeSI6ImF1dG8iLCJzbmkiOiJpbm5hLmNmZCIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9
+vmess://eyJhZGQiOiJpbm5hLmNmZCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiaW5uYS5jZmQiLCJpZCI6IjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsIm5ldCI6IndzIiwicGF0aCI6IlwvbGlua3Z3cyIsInBvcnQiOiI0NDMiLCJwcyI6IlVTXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4Iiwic2N5IjoiYXV0byIsInNuaSI6ImlubmEuY2ZkIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=
 
 vmess://eyJhZGQiOiJiZWZvcmUyLS1qb2luLm91dGxpbmUtdnBuLmNsb3VkIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJtZXJvaXkuaWN1IiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJuZXQiOiJ3cyIsInBhdGgiOiJcL2xpbmt2d3MiLCJwb3J0IjoiNDQzIiwicHMiOiJVU1x1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmOCIsInNjeSI6ImF1dG8iLCJzbmkiOiJtZXJvaXkuaWN1IiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=
 
@@ -108,61 +108,61 @@ vmess://eyJhZGQiOiJpcmFuLTAxMS1qb2luLm91dGxpbmUtdnBuLmNsb3VkIiwiYWlkIjoiMCIsImFs
 
 vmess://eyJhZGQiOiI4OTU1Lm91dGxpbmUtdnBuLmNsb3VkIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJsaW5kZTA2LmluZGlhdmlkZW8uc2JzIiwiaWQiOiJlZGJiMTA1OS0xNjMzLTQyNzEtYjY2ZS1lZDRmYmE0N2ExYmYiLCJuZXQiOiJ3cyIsInBhdGgiOiJcL2xpbmt3cyIsInBvcnQiOiI0NDMiLCJwcyI6IklOVFx1ZDgzY1x1ZGYwZCIsInNjeSI6ImF1dG8iLCJzbmkiOiJsaW5kZTA2LmluZGlhdmlkZW8uc2JzIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=
 
-trojan://FdiVDAituq@128.199.193.14:28856?security=none&type=ws&path=/#SG🇸🇬
+trojan://87f2224c-59b9-4e05-b9d4-7cacd8ff54c3@94.131.117.240:443?#ES🇪🇸
 
-trojan://telegram-id-privatevpns@15.188.230.153:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#FR🇫🇷
+trojan://7eaaa3c4-f971-4662-bfb3-e4477a8f4e6e@172.234.56.111:443?#FR🇫🇷
 
-trojan://7c252929-6ac0-4681-a835-e52af701f151@36.227.10.189:18912?security=tls&sni=ty12t.twty.dynu.net&type=tcp#TW🇹🇼
+trojan://05ba9aa4-8bfa-4bc8-8b17-8c99781f245d@178.128.193.212:443?#DE🇩🇪
 
-trojan://telegram-id-privatevpns@3.73.28.107:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#DE🇩🇪
+trojan://telegram-id-directvpn@18.202.87.142:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#IE🇮🇪
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpIYW1odnpYcVM2SGp4a0lwU3RGYUVT@92.243.27.51:9802#FR🇫🇷
+ss://bm9uZTpiYWFiYWNjLWJhY2EtY2JhYS1iY2RhLWNjYmJiYWFhYmFjYw==@127.0.0.1:2080#INT🌍
 
-ss://bm9uZTphY2JjYWFiLWFhY2ItYWJjYS1iYWNkLWNhYWJhY2JjYWNiYg==@127.0.0.1:2080#INT🌍
+ss://bm9uZTpiYWJhYWNjLWFiYWMtY2FiYS1jZGJhLWFjYmNiYWFjYWJiYw==@127.0.0.1:1080#INT🌍
 
-ss://bm9uZTphYmNhY2JhLWFiY2EtY2FhYi1hZGNiLWJiYWNiYWFjYWNiYw==@127.0.0.1:1080#INT🌍
+trojan://abaacbc-acab-bcaa-bacd-aababbbcccac@127.0.0.1:8080?security=tls&type=tcp#INT🌍
 
-trojan://aaacbbc-caab-caab-bacd-cbcbcaababac@127.0.0.1:8080?security=tls&type=tcp#INT🌍
+trojan://d7fb3267-4c65-4ff6-8c9d-7ee9df3b7a0d@159.203.34.170:443?#CA🇨🇦
 
-trojan://maXk1wnXyp@104.18.202.232:443?security=tls&sni=humanities-bytes-helped-shipments.trycloudflare.com&type=ws&host=humanities-bytes-helped-shipments.trycloudflare.com&path=@daily_configs,@daily_configs,@daily_configs,@daily_configs#INT🌍
+trojan://1a4303d0-e563-11ee-89c7-1239d0255272@104.21.41.21:443?sni=fr1.test3.net&type=ws&host=fr1.test3.net&path=/howdy#INT🌍
 
-trojan://telegram-id-privatevpns@13.37.76.17:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#FR🇫🇷
+trojan://1a4303d0-e563-11ee-89c7-1239d0255272@172.67.159.13:443?sni=fr1.test3.net&type=ws&host=fr1.test3.net&path=/howdy#US🇺🇸
 
-trojan://telegram-id-privatevpns@13.53.47.166:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#SE🇸🇪
+trojan://895afd17-1136-4ca2-9f8a-246f2c35d5ab@51.75.77.237:443?#DE🇩🇪
 
-trojan://telegram-id-privatevpns@3.70.76.132:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#DE🇩🇪
+trojan://telegram-id-privatevpns@35.179.99.56:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#GB🇬🇧
 
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@169.197.142.216:7002#US🇺🇸
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyNzhBanFLc3ZvNTdBS3oyV2w2Nm1n@162.221.207.62:443#CA🇨🇦
 
-ss://bm9uZTphY2FhYmNiLWFhY2ItYWFiYy1iYWRjLWNjYmNhYWNiYWFiYg==@127.0.0.1:2080#INT🌍
+ss://bm9uZTpiY2FhYWJjLWFiY2EtYWJhYy1kY2FiLWJiYmJhYWNjYWNhYw==@127.0.0.1:2080#INT🌍
 
-ss://bm9uZTphY2JhYWNiLWNhYWItY2FhYi1jYWJkLWFjYWJjYmNiYWNiYQ==@127.0.0.1:1080#INT🌍
+ss://bm9uZTphYmNjYWJhLWFiY2EtYWNhYi1iY2RhLWFiY2JhYWNjYmJjYQ==@127.0.0.1:1080#INT🌍
 
-trojan://accbaba-aabc-acba-bcda-bbaabcacccab@127.0.0.1:8080?security=tls&type=tcp#INT🌍
+trojan://bbcaaca-cbaa-acab-acdb-ccaaabbbabcc@127.0.0.1:8080?security=tls&type=tcp#INT🌍
 
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@167.88.63.61:5001#US🇺🇸
+trojan://5bdad6e0-e2bd-11ee-9298-1239d0255272@104.21.69.44:443?security=tls&sni=us1.test3.net&type=ws&host=us1.test3.net&path=/howdy#INT🌍
 
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@167.88.63.61:7001#US🇺🇸
+trojan://e4cd9fcd-a658-4972-a26a-06e7b419114c@72.14.189.185:443?#US🇺🇸
 
-ss://bm9uZTphYmNhYWJjLWJhYWMtY2JhYS1jZGJhLWFhY2JjYWNiYWNiYg==@127.0.0.1:2080#INT🌍
+trojan://867f9588-c514-49c5-bcd8-f6976219aeaa@172.235.9.254:443?#IN🇮🇳
 
-ss://bm9uZTphY2JhY2FiLWJjYWEtYWFiYy1iZGNhLWJhYmFiY2NiY2NhYQ==@127.0.0.1:1080#INT🌍
+trojan://261a27dd-f9be-4e43-a391-73af7f4e04f6@139.162.37.253:443?#SG🇸🇬
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpteTY5dVhybUZaU3RPMDFWbFprV2ls@195.2.76.71:60422#RU🇷🇺
+ss://bm9uZTphY2FhYmJjLWJhYWMtYWJhYy1iZGNhLWFjYWJjY2FiYWNiYg==@127.0.0.1:2080#INT🌍
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5OWYzcEdJUnN0MzhpUGdpU3RIM1dG@212.113.106.76:61992#AT🇦🇹
+ss://bm9uZTphYmNiY2FhLWFiYWMtYWNhYi1iZGFjLWJhYWJhYWNiY2NiYw==@127.0.0.1:1080#INT🌍
 
-ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@167.88.63.61:8118#US🇺🇸
+trojan://aaabccb-bcaa-baac-bcad-bccbaabcaacb@127.0.0.1:8080?security=tls&type=tcp#INT🌍
 
-ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@167.88.63.61:9102#US🇺🇸
+trojan://b4e8771997c94732acbc9ec4d19c2589@104.16.159.4:443?security=tls&sni=bangladeshipatri.com&type=ws&host=bangladeshipatri.com&path=6b777a91#INT🌍
 
-trojan://abcabac-abac-acba-dacb-acbababcbcca@127.0.0.1:8080?security=tls&type=tcp#INT🌍
+trojan://telegram-id-directvpn@16.170.9.33:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#RU🇷🇺
 
-trojan://o6d560ZYB2@172.64.146.80:80?security=tls&sni=vip.kostala.org&type=ws&host=vip.kostala.org&path=/#US🇺🇸
+trojan://telegram-id-directvpn@18.153.231.92:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#DE🇩🇪
 
-trojan://o6d560ZYB2@104.18.41.176:80?security=tls&sni=vip.kostala.org&type=ws&host=vip.kostala.org&path=/#INT🌍
+trojan://telegram-id-directvpn@13.36.20.73:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#FR🇫🇷
 
-trojan://6dCf6Syv1FwpjcAoCB2vfQ@104.21.25.193:2083?security=tls&sni=cdn15.cdn2cdn.com&type=ws&host=cdn15.cdn2cdn.com&path=/#INT🌍
+trojan://telegram-id-privatevpns@35.181.19.106:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#FR🇫🇷
 
 vless://311ef6aa-88b9-472a-8894-304fc9b935c4@Zula.ir:443?type=ws&path=/Proxystore11&host=prx11.adminwp.eu.org&security=tls&fp=chrome&alpn=h2,http/1.1&sni=prx11.adminwp.eu.org#NL🇳🇱
 
@@ -198,7 +198,7 @@ vless://Venom-Servers@discord.com:443/?type=grpc&serviceName=Telegram-Channel@Ve
 
 vless://Venom-Servers@discord.com:443/?type=grpc&serviceName=Telegram-Channel@Venom_ServersTelegram-Channel@Venom_ServersTelegram-Channel@Venom_ServersTelegram-Channel@Venom_ServersTelegram-Channel@Venom_ServersTelegram-Channel@Venom_ServersTelegram-Channel@Venom_ServersTelegram-Channel@Venom_ServersTelegram-Channel@Venom_ServersTelegram-Channel@Venom_ServersTelegram-Channel@Venom_ServersTelegram-Channel@Venom_ServersTelegram-Channel@Venom_ServersTelegram-Channel@Venom_ServersTelegram-Channel@Venom_ServersTelegram-Channel@Venom_Servers&security=tls&fp=chrome&alpn=h2,http/1.1&sni=fs2.snowborn.ir#INT🌍
 
-vmess://eyJhZGQiOiJpbm5hLmNmZCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiaW5uYS5jZmQiLCJpZCI6IjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsIm5ldCI6IndzIiwicGF0aCI6IlwvbGlua3Z3cyIsInBvcnQiOiI0NDMiLCJwcyI6IklOVFx1ZDgzY1x1ZGYwZCIsInNjeSI6ImF1dG8iLCJzbmkiOiJpbm5hLmNmZCIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9
+vmess://eyJhZGQiOiJpbm5hLmNmZCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiaW5uYS5jZmQiLCJpZCI6IjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsIm5ldCI6IndzIiwicGF0aCI6IlwvbGlua3Z3cyIsInBvcnQiOiI0NDMiLCJwcyI6IlVTXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4Iiwic2N5IjoiYXV0byIsInNuaSI6ImlubmEuY2ZkIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=
 
 vless://Venom-Servers@discord.com:443/?type=grpc&serviceName=Telegram-Channel@Venom_ServersTelegram-Channel@Venom_ServersTelegram-Channel@Venom_ServersTelegram-Channel@Venom_ServersTelegram-Channel@Venom_ServersTelegram-Channel@Venom_ServersTelegram-Channel@Venom_ServersTelegram-Channel@Venom_ServersTelegram-Channel@Venom_ServersTelegram-Channel@Venom_ServersTelegram-Channel@Venom_ServersTelegram-Channel@Venom_ServersTelegram-Channel@Venom_ServersTelegram-Channel@Venom_ServersTelegram-Channel@Venom_ServersTelegram-Channel@Venom_Servers&security=tls&fp=chrome&alpn=h2,http/1.1&sni=fs2.snowborn.ir#INT🌍
 
