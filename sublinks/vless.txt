@@ -14,7 +14,7 @@ vless://284fd6b7-8e4a-4fd6-b96a-0a9b806bac65@www.speedtest.net:2052?path=/&secur
 
 vless://3a3f6867-bd39-44f0-804f-feba88a5168e@www.visa.com:443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=&sni=pxr.snapfooding.com#US🇺🇸
 
-vless://b97cdd0e-bba9-4391-b265-b72f80b670db@dl.vds-server.ir:2052?path=/&security=none&encryption=none&type=ws#CA🇨🇦
+vless://b97cdd0e-bba9-4391-b265-b72f80b670db@dl.vds-server.ir:2052?path=/&security=none&encryption=none&type=ws#US🇺🇸
 
 vless://b0138d55-a493-4dc3-9932-c6f0391707c1@www.tegzitp.net:443?path=/vless/b0138d55-a493-4dc3-9932-c6f0391707c1?ed=2048&security=tls&encryption=none&alpn=h2,http/1.1&host=edge.020770.xyz&fp=chrome&type=ws&sni=edge.020770.xyz#CA🇨🇦
 
@@ -28,7 +28,7 @@ vless://b0138d55-a493-4dc3-9932-c6f0391707c1@www.tegzitp.net:443?path=/vless/b01
 
 vless://dc214e93-6c5a-419d-ba85-3080b8154c47@185.146.173.80:8080?encryption=none&host=azadi-az-inja-migzare.義務警員.online.&path=@daily_configs-@daily_configs-@daily_configs-@daily_configs&security=none&type=ws#SE🇸🇪
 
-vless://4decd6b1-e043-4050-8076-72823e5d6ef7@proxystore11.kodaksho.eu.org:443?path=/?ed=2048&security=tls&encryption=none&alpn=h2,http/1.1&host=proxystore11.kodaksho.eu.org&fp=randomized&type=ws&sni=proxystore11.kodaksho.eu.org#US🇺🇸
+vless://4decd6b1-e043-4050-8076-72823e5d6ef7@proxystore11.kodaksho.eu.org:443?path=/?ed=2048&security=tls&encryption=none&alpn=h2,http/1.1&host=proxystore11.kodaksho.eu.org&fp=randomized&type=ws&sni=proxystore11.kodaksho.eu.org#CA🇨🇦
 
 vless://b97cdd0e-bba9-4391-b265-b72f80b670db@dl.vds-server.ir:2052?path=/&security=none&encryption=none&type=ws#CA🇨🇦
 
