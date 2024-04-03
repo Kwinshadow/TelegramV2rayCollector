@@ -4,9 +4,13 @@ vless://15f986b7-33f7-40f5-8412-f6bb15765edf@103.184.44.4:443?mode=gun&security=
 
 vless://15f986b7-33f7-40f5-8412-f6bb15765edf@dnschecker.org:443?mode=gun&security=tls&encryption=none&fp=chrome&type=grpc&serviceName=@ipV2Ray&sni=dm.irandtehran.org#US🇺🇸
 
-vless://15f986b7-33f7-40f5-8412-f6bb15765edf@190.93.247.247:443?mode=gun&security=tls&encryption=none&fp=chrome&type=grpc&serviceName=@ipV2Ray&sni=dm.irandtehran.org#CR🇨🇷
+vless://77a571fb-4fd2-4b37-8596-2b7d9728bb5c@172.67.20.220:2096?path=/?ed=2048&security=tls&encryption=none&host=vpnxw.pages.dev&type=ws&sni=vpnxw.pages.dev#US🇺🇸
 
-vless://15f986b7-33f7-40f5-8412-f6bb15765edf@198.41.202.5:443?mode=gun&security=tls&encryption=none&fp=chrome&type=grpc&serviceName=@ipV2Ray&sni=dm.irandtehran.org#US🇺🇸
+vless://51905fd3-29de-4b4e-b351-83542f1d5390@104.22.33.78:443?path=/?ed=2048&security=tls&encryption=none&host=Bia.alLhub.Ltd&type=ws&sni=Bia.alLhub.Ltd#US🇺🇸
+
+vless://d672ec4f-afba-4f61-af09-eec872f97e99@104.21.192.45:443?path=/freecodes&security=tls&encryption=none&host=test57.pages.dev&type=ws&sni=test57.pages.dev#US🇺🇸
+
+vless://77a571fb-4fd2-4b37-8596-2b7d9728bb5c@ja.vivacello.org:8880?path=/?ed=2048&security=none&encryption=none&host=xw.r4d.workers.dev&type=ws#US🇺🇸
 
 vless://b97cdd0e-bba9-4391-b265-b72f80b670db@cafe.zhaal.ir:2052?path=/&security=none&encryption=none&type=ws#US🇺🇸
 
@@ -30,7 +34,17 @@ vless://29f8ad12-ea84-431b-bf32-9d3fb5cf2aa2@188.114.97.46:443?path=/freecodes&s
 
 vless://51905fd3-29de-4b4e-b351-83542f1d5390@104.22.33.78:443?path=/?ed=2048&security=tls&encryption=none&host=Bia.alLhub.Ltd&type=ws&sni=Bia.alLhub.Ltd#US🇺🇸
 
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.21.10.94:443?path=/&security=tls&encryption=none&host=baipiao406.stunning-bassoon.pages.dev&type=ws&sni=baipiao406.stunning-bassoon.pages.dev#US🇺🇸
+vless://db1eeace-797f-4d75-ac27-9a97acda853d@104.21.50.213:443?security=tls&sni=pikk.minusober.com&type=ws&path=/pikk&fp=chrome#US🇺🇸
+
+vless://7edd628a-46df-4a76-b727-ef3ed871deda@104.18.203.232:8443?security=tls&sni=all2.savagev2ray.site&type=grpc&serviceName=@Vpnmasi,@Vpnmasi,@Vpnmasi#US🇺🇸
+
+vless://bc62252c-8fed-4489-87f6-5d993a2f35c8@discord.gg:80?path=/&security=none&encryption=none&host=shhproxy-free.xn--85-pv2cl2k5x3fipr.org.&type=ws#US🇺🇸
+
+vless://ffffffff-bf32-4282-b875-eca220008daf@www.zula.ir:443?path=Path/Telegram@V2ray_Alpha/?ed=2048&security=tls&encryption=none&host=f.auto.r.exit.e.e.watashi-java.ir&fp=chrome&type=ws&sni=f.auto.r.exit.e.e.watashi-java.ir#US🇺🇸
+
+vless://2599cb50-a5b0-4f2c-9dff-71f3802406fd@198.41.208.1:2053?security=tls&sni=shakhle.jd-vpn.shop.&type=ws&host=shakhle.jd-vpn.shop.&path=/@Jd_Vpn&fp=chrome&alpn=h2,http/1.1,h3#US🇺🇸
+
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.98.111.58:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#CA🇨🇦
 
 vless://acababc-caab-aacb-dacb-bccaaabbaccb@127.0.0.1:1080?security=tls&type=tcp#
 
@@ -61,20 +75,6 @@ vless://d1816832-e14d-4434-8d2d-8dccf005b52c@162.159.134.234:80?security=none&ty
 vless://86cb9a9b-dc2e-45d6-b35d-7ce1daa32a15@172.64.229.28:8443?path=Path/Telegram@V2ray_Alpha/?ed=2048&security=tls&encryption=none&host=dns68.shift.cloudns.org&type=ws&sni=dns68.shift.cloudns.org#US🇺🇸
 
 vless://9110e2f1-88e5-4a58-8b10-982c5b8138ff@185.146.173.20:2052?type=ws&host=VAWdK0LmGtF4LOgCU5Hl.nIgC-ar.nEt&path=/#SE🇸🇪
-
-vless://babcaac-caab-bcaa-cabd-bcccaababacb@127.0.0.1:2080?security=tls&type=tcp#
-
-vless://3a52ffee-4d6f-4bef-97f1-149a984fcb49@172.67.73.216:443?security=tls&sni=xiv2ray.irandtehran.org&type=grpc&serviceName=@xiv2ray&fp=chrome&alpn=h2,http/1.1#US🇺🇸
-
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.209.37.194:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#US🇺🇸
-
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.50.207.221:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#SE🇸🇪
-
-vless://d3a12e79-ef42-4268-b367-42eeb3494e60@visa.com:443?path=Path/Telegram@V2ray_alpha/?ed=2048&security=tls&encryption=none&host=Hagh.PaGes.DEv&type=ws&sni=Hagh.PaGes.DEv#US🇺🇸
-
-vless://65b55419-6e49-4285-88fe-021e9f1cd919@162.159.128.233:443?security=tls&sni=Join-tElEGRAm-CHaNnEL-DisvPn.OnflaShDrIve.aPP&type=ws&host=JOin-tELEGram-CHAnNEl-diSVpn.ONfLASHdRIvE.ApP&path=@DisVpn,@DisVpn&fp=randomized&alpn=h2,http/1.1#US🇺🇸
-
-vless://53839bef-2c68-4c05-99d1-be778f1c7f8e@185.146.173.94:8880?path=/@LIGHTNING6,#SE🇸🇪
 
 vless://d6c077ae-4457-42a0-ad4a-6ad6b4536db9@172.67.218.147:80?path=/?ed=2048&security=none&encryption=none&host=proxystore11.kodaksho.eu.org&type=ws#US🇺🇸
 
