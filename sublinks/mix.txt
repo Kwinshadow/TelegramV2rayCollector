@@ -1,4 +1,8 @@
- vless://15f986b7-33f7-40f5-8412-f6bb15765edf@190.93.247.247:443?mode=gun&security=tls&encryption=none&fp=chrome&type=grpc&serviceName=@ipV2Ray&sni=dm.irandtehran.org#CR🇨🇷
+ vless://15f986b7-33f7-40f5-8412-f6bb15765edf@103.184.44.4:443?mode=gun&security=tls&encryption=none&fp=chrome&type=grpc&serviceName=@ipV2Ray&sni=dm.irandtehran.org#CN🇨🇳
+
+vless://15f986b7-33f7-40f5-8412-f6bb15765edf@dnschecker.org:443?mode=gun&security=tls&encryption=none&fp=chrome&type=grpc&serviceName=@ipV2Ray&sni=dm.irandtehran.org#US🇺🇸
+
+vless://15f986b7-33f7-40f5-8412-f6bb15765edf@190.93.247.247:443?mode=gun&security=tls&encryption=none&fp=chrome&type=grpc&serviceName=@ipV2Ray&sni=dm.irandtehran.org#CR🇨🇷
 
 vless://15f986b7-33f7-40f5-8412-f6bb15765edf@198.41.202.5:443?mode=gun&security=tls&encryption=none&fp=chrome&type=grpc&serviceName=@ipV2Ray&sni=dm.irandtehran.org#US🇺🇸
 
@@ -66,6 +70,18 @@ vmess://eyJhZGQiOiIxNzIuNjcuNjguMjQ2IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhv
 
 vmess://eyJhZGQiOiIxNzIuNjcuMTUyLjIwMCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoibWVyb2l5LmljdSIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwibmV0Ijoid3MiLCJwYXRoIjoiXC9saW5rdndzIiwicG9ydCI6IjQ0MyIsInBzIjoiVVNcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjgiLCJzY3kiOiJhdXRvIiwic25pIjoibWVyb2l5LmljdSIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9
 
+vless://86cb9a9b-dc2e-45d6-b35d-7ce1daa32a15@172.64.229.28:8443?path=Path/Telegram@V2ray_Alpha/?ed=2048&security=tls&encryption=none&host=dns68.shift.cloudns.org&type=ws&sni=dns68.shift.cloudns.org#US🇺🇸
+
+vless://9110e2f1-88e5-4a58-8b10-982c5b8138ff@185.146.173.20:2052?type=ws&host=VAWdK0LmGtF4LOgCU5Hl.nIgC-ar.nEt&path=/#SE🇸🇪
+
+vmess://eyJpZCI6IjA2YjAyNzkxLWFmNTAtNDZiZC04Njc5LWJjODRiNzU0ZjBhYSIsImhvc3QiOiIiLCJ0eXBlIjoiaHR0cCIsInBvcnQiOiI1MjYwIiwiYWRkIjoiNDkuMTMuMTM0LjY5Iiwic2N5IjoiYXV0byIsInBhdGgiOiJcLyIsIm5ldCI6InRjcCIsInBzIjoiREVcdWQ4M2NcdWRkZTlcdWQ4M2NcdWRkZWEifQ==
+
+vless://babcaac-caab-bcaa-cabd-bcccaababacb@127.0.0.1:2080?security=tls&type=tcp#
+
+vless://3a52ffee-4d6f-4bef-97f1-149a984fcb49@172.67.73.216:443?security=tls&sni=xiv2ray.irandtehran.org&type=grpc&serviceName=@xiv2ray&fp=chrome&alpn=h2,http/1.1#US🇺🇸
+
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.209.37.194:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#US🇺🇸
+
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.50.207.221:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#SE🇸🇪
 
 vless://d3a12e79-ef42-4268-b367-42eeb3494e60@visa.com:443?path=Path/Telegram@V2ray_alpha/?ed=2048&security=tls&encryption=none&host=Hagh.PaGes.DEv&type=ws&sni=Hagh.PaGes.DEv#US🇺🇸
@@ -99,22 +115,6 @@ vless://f4cec6cc-6177-423c-90f8-2ad9f0dd996b@104.21.13.125:2096?security=tls&sni
 vless://ffffffff-bf32-4282-b875-eca220008daf@www.zula.ir:443?path=Path/Telegram@@V2rayi_net#US🇺🇸
 
 vmess://eyJhZGQiOiJjZi5pZXBsLmxpdmUiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6InVzMDEuYXBwbGVpZC5iZiIsImlkIjoiMzk2MGYxMjgtMTE2My00MGEzLThkZDctN2M5MTE3NmUxNGE1IiwibmV0Ijoid3MiLCJwYXRoIjoiXC93cyIsInBvcnQiOiIyMDg2Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiIsInBzIjoiVVNcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjgifQ==
-
-trojan://telegram-id-directvpn@3.9.71.179:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#GB🇬🇧
-
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.39.43.19:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#FR🇫🇷
-
-vless://f4055312-3667-4bd9-981e-a381318e45a1@207.148.77.201:19687?type=ws&host=m.zoom.us&path=/#SG🇸🇬
-
-trojan://2cba4104747d49d18319e5ade1b93ab5@198.41.220.10:443?path=6b777a91&security=tls&host=jobscareerforstudent.com&type=ws&sni=jobscareerforstudent.com#US🇺🇸
-
-trojan://telegram-id-privatevpns@18.157.55.253:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#DE🇩🇪
-
-vmess://eyJhZGQiOiJjYXJldGFrZXIuY29tIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJtaWthc2EueWFlbWlrby5jbG91ZG5zLm9yZyIsImlkIjoiNDQxZGEzNDItY2U5MC00NDFlLWJmZjktZDJjZWI1NWU2OGNhIiwibmV0Ijoid3MiLCJwYXRoIjoiXC9pdmlkZW9zLnNic1wvbGlua3dzIiwicG9ydCI6IjQ0MyIsInNjeSI6ImF1dG8iLCJzbmkiOiJtaWthc2EueWFlbWlrby5jbG91ZG5zLm9yZyIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiIsInBzIjoiVVNcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjgifQ==
-
-vless://91d9b8d8-2aab-4e1a-9573-0d59e9cd7f8e@188.114.97.1:8880?security=none&type=ws&host=falcunargo-channel.be3374a836.workers.Dev&path=/?ed=2048#US🇺🇸
-
-vless://65b55419-6e49-4285-88fe-021e9f1cd919@162.159.138.232:443?security=tls&sni=Join-tElEGRAm-CHaNnEL-DisvPn.OnflaShDrIve.aPP&type=ws&host=JOin-tELEGram-CHAnNEl-diSVpn.ONfLASHdRIvE.ApP&path=@DisVpn,@DisVpn&fp=randomized&alpn=h2,http/1.1#US🇺🇸
 
 vless://d6c077ae-4457-42a0-ad4a-6ad6b4536db9@172.67.218.147:80?path=/?ed=2048&security=none&encryption=none&host=proxystore11.kodaksho.eu.org&type=ws#US🇺🇸
 
