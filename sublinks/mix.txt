@@ -72,6 +72,22 @@ vless://51905fd3-29de-4b4e-b351-83542f1d5390@104.22.33.78:443?path=/?ed=2048&sec
 
 vmess://eyJhZGQiOiJpbm5hLmNmZCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiJjaHJvbWUiLCJob3N0IjoiaW5uYS5jZmQiLCJpZCI6IjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsIm5ldCI6IndzIiwicGF0aCI6IlwvbGlua3Z3cyIsInBvcnQiOiI0NDMiLCJwcyI6IlVTXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4Iiwic2N5IjoiYXV0byIsInNuaSI6ImlubmEuY2ZkIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=
 
+vless://caacabb-acab-caab-cabd-bcbaaaacccbb@127.0.0.1:2080?security=tls&type=tcp#
+
+vless://53f27760-05f3-4c23-b31e-e71dc8cba606@162.159.136.232:8443?security=tls&sni=zU3-G6cd-seRVEr.onfLashDrIvE.APP&type=ws&host=zu3-G6CD-ServER.OnFLASHdriVE.ApP&path=@V2ray1_NG, @V2ray1_NG&fp=randomized&alpn=h2,http/1.1#US🇺🇸
+
+vless://ace6b95a-f554-4804-867b-bcb2289c49aa@2.189.130.78:43675?path=/&security=none&encryption=none&type=ws#IR🇮🇷
+
+vless://b01e3f02-d51b-43d8-af76-227a20fb0d0a@104.26.15.85:8443?security=tls&sni=1.irancloudflare.cab&type=ws&host=1.irancloudflare.cab&path=/?ed=2048#US🇺🇸
+
+vmess://eyJhZGQiOiJobXMwNC54bWl2aWRlby5jZmQiLCJhaWQiOjAsImhvc3QiOiJ4bWl2aWRlby5jZmQiLCJpZCI6IjkzZWE0ODZhLWJhZGEtNDJhNC1hYzM4LWQwODhiMzIwZmExZSIsIm5ldCI6IndzIiwicGF0aCI6IlwvbGlua3dzIiwicG9ydCI6NDQzLCJwcyI6IlVTXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4Iiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIiwidGxzIjoidGxzIiwidHlwZSI6ImF1dG8ifQ==
+
+vmess://eyJhZGQiOiJhZG1pbi5hcnpvbmhvc3QuaXIiLCJhaWQiOiIwIiwiaG9zdCI6ImFkbWluLmFyem9uaG9zdC5pciIsImlkIjoiN2Q5M2U5OTItNDhjZi00MmQ0LTg0ZjgtNzU3NjhlODE1YTRjIiwibmV0Ijoid3MiLCJwYXRoIjoiXC8iLCJwb3J0IjoiMjA4NiIsInBzIjoiVVNcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjgiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
+
+vless://bc62252c-8fed-4489-87f6-5d993a2f35c8@discord.gg:80?path=/&security=none&encryption=none&host=shhproxy-free.xn--85-pv2cl2k5x3fipr.org.&type=ws#US🇺🇸
+
+vmess://eyJhZGQiOiIxNzIuNjcuMjI5LjMzIiwiYWlkIjowLCJob3N0IjoiY2E2LnRlaG1lMTAwLmZ1biIsImlkIjoiNThmZTE1NDItNTI5MC00MGFkLTgxNWEtNzc3MDdhODFhZmU1IiwibmV0Ijoid3MiLCJwYXRoIjoiXC9JT2ViaExNaGwxQ1RiRkhiTDk1bXlmUlgyIiwicG9ydCI6MjA4NiwicHMiOiJVU1x1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmOCIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJhdXRvIn0=
+
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ@134.195.196.51:8000#CA🇨🇦
 
 vless://79436781-06d1-454f-adc3-1462e421b2e8@www.speedtest.net:8080?encryption=none&security=none&type=ws&host=mcii.过滤器.store.&path=/melov2ray#US🇺🇸
@@ -109,20 +125,6 @@ vmess://eyJhZGQiOiJ5aW5nLmFwcGxlaWQuYmYiLCJhaWQiOjAsImhvc3QiOiJ5aW5nLmFwcGxlaWQu
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.6.126.235:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#US🇺🇸
 
 vless://317bc743-5f80-42c0-8c56-c8439bf597f5@91.198.166.130:443?security=tls&sni=shopp.havafaza.shop&type=ws&path=/30075/zula&fp=safari&allowInsecure=1#NL🇳🇱
-
-vless://b01e3f02-d51b-43d8-af76-227a20fb0d0a@104.26.14.85:8443?security=tls&sni=1.irancloudflare.cab&type=ws&host=1.irancloudflare.cab&path=/?ed=2048#US🇺🇸
-
-vmess://eyJhZGQiOiIxNzIuNjcuMTUyLjIwMCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoibWVyb2l5LmljdSIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwibmV0Ijoid3MiLCJwYXRoIjoiXC9saW5rdndzIiwicG9ydCI6IjQ0MyIsInBzIjoiVVNcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjgiLCJzY3kiOiJhdXRvIiwic25pIjoibWVyb2l5LmljdSIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9
-
-vless://b66564cb-33ef-449a-94c1-8cb62a27a0ac@172.64.201.31:80?security=none&type=ws&host=ipchel.列列男事的事列上赛男78.com.&path=/Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER#US🇺🇸
-
-vless://15f986b7-33f7-40f5-8412-f6bb15765edf@190.93.247.247:443?mode=gun&security=tls&encryption=none&fp=chrome&type=grpc&serviceName=@ipV2Ray&sni=dm.irandtehran.org#CR🇨🇷
-
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.43.100.119:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#GB🇬🇧
-
-vless://b8540e00-1dfa-4c78-a77b-18bbaf7807c5@104.25.138.178:80?security=none&type=ws&host=unlimiteddev.xn--9iqr0tm1r4wg.co.&path=/Telegram:@UnlimitedDev-Telegram:@UnlimitedDev-Telegram:@UnlimitedDev#US🇺🇸
-
-vless://1052a560-7009-43ef-82ae-50065bfcf613@95.216.199.97:2096?security=none&type=grpc&serviceName=8282#FI🇫🇮
 
 vless://d6c077ae-4457-42a0-ad4a-6ad6b4536db9@172.67.218.147:80?path=/?ed=2048&security=none&encryption=none&host=proxystore11.kodaksho.eu.org&type=ws#US🇺🇸
 
