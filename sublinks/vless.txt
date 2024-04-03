@@ -34,6 +34,20 @@ vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.21.10.94:443?path=/&security=tl
 
 vless://dfb18c6f-731a-4898-a1c4-cc36c6055a90@w2.sylarsun.eu.org:443?path=/?ed&security=tls&encryption=none&host=w2.sylarsun.eu.org&type=ws&sni=w2.sylarsun.eu.org#US🇺🇸
 
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@162.159.200.1:443?security=tls&sni=xxx.donated001.workers.dev&type=ws#US🇺🇸
+
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@104.17.0.14:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg@zdyz2#US🇺🇸
+
+vless://ffffffff-17ad-45e7-aaa1-f2baaa08e930@172.64.33.100:443?security=tls&sni=watashi.free.jppublic.moh539.link&type=ws&host=watashi.free.jppublic.moh539.link&path=Path/Telegram@V2ray_Alpha/?ed=2048#US🇺🇸
+
+vless://c2d391d5-9f1e-4721-bd25-b335d14caf07@185.146.173.20:8080?security=none&type=ws&path=/backup#SE🇸🇪
+
+vless://aa2dc840-be38-4b4d-a002-ba234999fd55@104.18.163.116:8080?security=none&type=ws&path=/#US🇺🇸
+
+vless://d853c0f0-45cb-4d32-8017-3306af48c0a5@104.31.16.90:2052?security=none&type=ws&path=/#US🇺🇸
+
+vless://971b7cb1-3309-5fc0-9336-0a6a2d4eac9f@104.21.14.9:2053?security=tls&sni=h32.1.beROzHA.IR&type=ws&host=h32.1.beROzHA.IR&path=vless-ws/?ed=2048&fp=ios&alpn=http/1.1#US🇺🇸
+
 vless://b48ee0fe-db2c-4e32-9d57-ac70c88ffa8d@104.21.95.147:2053?security=tls&sni=t5.funlifea.shop&type=grpc&fp=chrome&alpn=http/1.1,h2,h3#US🇺🇸
 
 vless://16e3cc71-c99f-4ab5-bff3-6247ca6cbd80@104.25.254.188:2096?security=tls&sni=forward333.maryam1500.top&type=grpc&fp=firefox&alpn=http/1.1#US🇺🇸
