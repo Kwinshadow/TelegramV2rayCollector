@@ -68,6 +68,20 @@ vmess://eyJhZGQiOiIxNzIuNjcuNjguMjQ2IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhv
 
 vmess://eyJhZGQiOiIxNzIuNjcuMTUyLjIwMCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoibWVyb2l5LmljdSIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwibmV0Ijoid3MiLCJwYXRoIjoiXC9saW5rdndzIiwicG9ydCI6IjQ0MyIsInBzIjoiVVNcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjgiLCJzY3kiOiJhdXRvIiwic25pIjoibWVyb2l5LmljdSIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9
 
+vmess://eyJ2IjoiMiIsImFkZCI6IjQ2LjEwMS42OC4yMTciLCJwb3J0IjoyMDUzLCJpZCI6IjA3ZTZmMjM4LTZkNGEtNGNjNy1jYWIxLTdiYzc4OWQxNTk3NCIsIm5ldCI6ImdycGMiLCJ0eXBlIjoibXVsdGkiLCJ0bHMiOiJub25lIiwicGF0aCI6IiIsImF1dGhvcml0eSI6IiIsInBzIjoiREVcdWQ4M2NcdWRkZTlcdWQ4M2NcdWRkZWEifQ==
+
+vless://3a52ffee-4d6f-4bef-97f1-149a984fcb49@172.67.73.216:443?security=tls&sni=xiv2ray.irandtehran.org&type=grpc&serviceName=@xiv2ray&fp=chrome&alpn=h2,http/1.1#US🇺🇸
+
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.11.105.158:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#GB🇬🇧
+
+vmess://eyJhZGQiOiIxMDcuMTcyLjI1LjEzMiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJlMmNmZDUwNC1iNTFmLTQyYTQtY2MxOC02NjVmODJmMjU0OWMiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjE4MTE3Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIiLCJwcyI6IlVTXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4In0=
+
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.39.43.19:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#FR🇫🇷
+
+vless://d853c0f0-45cb-4d32-8017-3306af48c0a5@104.31.16.50:2052?type=ws&host=lq0p92TUBX6v4xirk2RQ.amOOzEshGaH-pC.COm&path=/#US🇺🇸
+
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.209.37.194:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#US🇺🇸
+
 vless://65b55419-6e49-4285-88fe-021e9f1cd919@190.93.247.155:2083?security=tls&sni=JOin-TelEgRAM-ChAnNEL-disVPn.OnflashDRIvE.APP&type=ws&host=JoIn-TELeGram-ChanNel-diSvPn.ONFlAsHDrIVe.apP&path=@DisVpn,@DisVpn&fp=chrome&alpn=h2,http/1.1#CR🇨🇷
 
 vless://f4cec6cc-6177-423c-90f8-2ad9f0dd996b@104.21.13.125:2096?security=tls&sni=vpnct.arvancode.eu.org&type=ws&host=vpnct.arvancode.eu.org&path=/bShq2qgG8GnX8zqm/?ed=2048&fp=chrome#US🇺🇸
@@ -107,22 +121,6 @@ vless://f119bc6c-7d80-4f06-8a0c-b3a204dbd249@104.21.1.239:443?security=tls&sni=a
 vless://0dcaa67f-90c2-42ca-8745-698465cf6655@172.67.192.224:2083?security=tls&sni=ho1.bestgameir.ir&type=ws&path=/ws&fp=chrome&alpn=h2,http/1.1#US🇺🇸
 
 vless://b0080418-ecc7-4b21-a395-c1a057bc3f87@104.25.255.25:443?security=tls&sni=xn--hgb3a0cs.irquran.shop&type=ws&path=Path/Telegram@V2ray_Alpha/?ed&fp=android#US🇺🇸
-
-vless://8f05e3ed-3a12-4eff-bf94-368e49340304@87.236.208.189:2052?security=none&type=tcp&host=fararu.com&path=/&headerType=http#GB🇬🇧
-
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@5.182.34.8:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg@zdyz2#IT🇮🇹
-
-vless://87e9bacf-df09-4bae-8d76-efe5639d1df5@63.141.128.17:443?security=tls&sni=classify11.appclouddeveloper.com&type=grpc&serviceName=438cb427&fp=firefox&alpn=h2#US🇺🇸
-
-vless://ee7eaf8a-29d5-4db2-a68f-d18abfe1ac3f@104.26.13.8:2053?security=tls&sni=ssl.sg-forum.info&type=grpc&fp=chrome#US🇺🇸
-
-vless://SVNTEAMm@185.146.173.59:80?type=ws&path=/SvnTeam-TeleGram-ChaNnel-VIP?ed=2048&host=SvnTeamV2rayEn7.7.7.7.ir.Com.Site.xn--fhq0laa256bac7403eea044azr5g.CoM.&security=none#SE🇸🇪
-
-vless://1391e412-0c95-4356-bd82-0136b9509496@141.95.110.169:443?type=grpc&encryption=none&flow=&serviceName=sePIcU3ww5havU8ZOApQ&security=tls&sni=141.95.110.169.sslip.io&alpn=h2&fp=chrome#DE🇩🇪
-
-vless://SVNTEAM@185.146.173.59:80?type=ws&path=/SvnTeam-TeleGram-ChaNnel-VIP?ed=2048&host=SvnTeamV2rayPo7.7.7.7.ir.Com.Site.xn--fhq0laa256bac7403eea044azr5g.CoM.&security=none#SE🇸🇪
-
-vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@172.67.174.190:443?type=ws&encryption=none&host=3k.pureboy.eu.org&path=/freecodes&security=tls&sni=3k.pureboy.eu.org#US🇺🇸
 
 vless://d6c077ae-4457-42a0-ad4a-6ad6b4536db9@172.67.218.147:80?path=/?ed=2048&security=none&encryption=none&host=proxystore11.kodaksho.eu.org&type=ws#US🇺🇸
 
