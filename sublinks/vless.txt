@@ -6,10 +6,6 @@ vless://29aec236-9399-4a68-8b42-fe79cd138d39@65.109.188.161:2093?security=none&e
 
 vless://cad36089-891d-47b6-a145-988bf051b837@65.109.188.161:2053?security=none&encryption=none&headerType=none&type=tcp#FI🇫🇮
 
-vless://9c1c996c-e926-475d-a03d-553ee124c6c4@65.109.188.161:22222?security=none&encryption=none&headerType=none&type=tcp#FI🇫🇮
-
-vless://ec41a264-5b59-4dcc-92f9-5b9e4474c123@65.109.188.161:80?security=none&encryption=none&headerType=none&type=tcp#FI🇫🇮
-
 vless://51905fd3-29de-4b4e-b351-83542f1d5390@104.22.33.78:443?path=/?ed=2048&security=tls&encryption=none&host=Bia.alLhub.Ltd&type=ws&sni=Bia.alLhub.Ltd#US🇺🇸
 
 vless://d672ec4f-afba-4f61-af09-eec872f97e99@104.21.192.45:443?path=/freecodes&security=tls&encryption=none&host=test57.pages.dev&type=ws&sni=test57.pages.dev#US🇺🇸
@@ -68,8 +64,6 @@ vless://e5ea23cb-b044-4513-9ccf-976d9255503c@63.141.128.8:2053?security=tls&sni=
 
 vless://51905fd3-29de-4b4e-b351-83542f1d5390@104.22.32.78:443?encryption=none&host=Bia.alLhub.Ltd&security=tls&sni=Bia.alLhub.Ltd&type=ws#US🇺🇸
 
-vless://291b202e-7afc-45a8-b39a-3802d7c5122e@162.159.134.234:80?security=none&type=ws&host=shhproxy.xn--85-pv2cl2k5x3fipr.org.&path=/#US🇺🇸
-
 vless://d6c077ae-4457-42a0-ad4a-6ad6b4536db9@172.67.218.147:80?path=/?ed=2048&security=none&encryption=none&host=proxystore11.kodaksho.eu.org&type=ws#US🇺🇸
 
 vless://d6c077ae-4457-42a0-ad4a-6ad6b4536db9@172.67.218.147:443?path=/?ed=2048&security=tls&encryption=none&host=proxystore11.kodaksho.eu.org&fp=randomized&type=ws&sni=proxystore11.kodaksho.eu.org#US🇺🇸
@@ -85,10 +79,6 @@ vless://8721355e-96d5-4bb9-a99b-b6119d6b1cd4@Www.ZULA.iR:8443?path=Path/Telegram
 vless://51905fd3-29de-4b4e-b351-83542f1d5390@zula.ir:443?path=telegram-channel-proxy_mtm/?ed=2048&security=tls&encryption=none&alpn=h2,http/1.1&host=biA.ALlhub.LTD&fp=random&type=ws&sni=Bia.alLhub.Ltd#US🇺🇸
 
 vless://51905fd3-29de-4b4e-b351-83542f1d5390@zula.ir:443?path=/?ed=2048&security=tls&encryption=none&host=biA.ALlhub.LTD&type=ws&sni=Bia.alLhub.Ltd#US🇺🇸
-
-vless://VPNCUSTOMIZE@join-vpncustomize.v2ray.motorcycles.:80?path=/&security=none&encryption=none&host=VPNCUSTOMIZE.V2ray.motorcycleS.&type=ws#SE🇸🇪
-
-vless://Parsashonam-36@www.visa.com:8080?path=/&security=none&encryption=none&host=Parsashonam.我们累了.tech.&type=ws#US🇺🇸
 
 vless://Parsashonam-36@www.visa.com:8080?path=/&security=none&encryption=none&host=Parsashonam.我们累了.tech.&type=ws#US🇺🇸
 
