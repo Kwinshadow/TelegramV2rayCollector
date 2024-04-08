@@ -64,8 +64,6 @@ vless://6d154bf6-d60c-11ee-aaa8-00505603e70d@st-fr-1.brocdn.com:443?path=/websoc
 
 vless://cede337b-9ea5-40e5-a8b1-690bf49ff41d@storeships.toptechnonews.com:443?path=/nimws&security=tls&encryption=none&type=ws&sni=storeships.toptechnonews.com#US🇺🇸
 
-vless://61cd74ce-d573-4ebb-810f-26f2544945e9@dnschecker.org:443?alpn=h2,http/1.1&encryption=none&fp=chrome&mode=gun&security=tls&serviceName=@ipV2Ray&sni=dm.irandtehran.org&type=grpc#US🇺🇸
-
 vless://d9fbb945-026e-496a-976b-574f8d1324db@104.19.212.113:80?path=/?ed=2048&security=none&encryption=none&host=proxystore11.kodaksho.eu.org&type=ws#US🇺🇸
 
 vless://d9fbb945-026e-496a-976b-574f8d1324db@104.19.212.113:443?path=/?ed=2048&security=tls&encryption=none&host=proxystore11.kodaksho.eu.org&fp=randomized&type=ws&sni=proxystore11.kodaksho.eu.org#US🇺🇸
