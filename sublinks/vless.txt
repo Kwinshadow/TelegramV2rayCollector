@@ -2,10 +2,6 @@
 
 vless://ae866812-cf3d-49c9-8331-4e7d0c6c51d1@190.93.247.247:443?mode=gun&security=tls&encryption=none&authority=&fp=chrome&type=grpc&serviceName=@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray&sni=tl.ArV2ray.host#CR🇨🇷
 
-vless://telegram-id-ArV2ray@185.146.173.59:80?path=/telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray?ed=2048&security=none&encryption=none&host=2.arv2ray.ir.ftp.debian.org.xn--48jyb6ec1ad.Tech.&type=ws#SE🇸🇪
-
-vless://telegram-id-ArV2ray@198.41.202.5:80?path=/telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray?ed=2048&security=none&encryption=none&host=2.arv2ray.ir.ftp.debian.org.xn--48jyb6ec1ad.Tech.&type=ws#US🇺🇸
-
 vless://d672ec4f-afba-4f61-af09-eec872f97e99@162.159.135.79:443?path=/&security=tls&encryption=none&alpn=h2,http/1.1&host=test38.pages.dev&fp=chrome&type=ws&sni=test38.pages.dev#US🇺🇸
 
 vless://ffffffff-bf32-4282-b875-eca220008daf@www.zula.ir:443?path=/?ed=2048&security=tls&encryption=none&host=f.auto.r.exit.e.e.watashi-java.ir&fp=chrome&type=ws&sni=f.auto.r.exit.e.e.watashi-java.ir#US🇺🇸
@@ -35,6 +31,8 @@ vless://b8f8ecd4-b3f1-4945-ad90-6953aa48f083@iranserver.com:80?path=/backup&secu
 vless://d672ec4f-afba-4f61-af09-eec872f97e99@162.159.135.79:443?path=/&security=tls&encryption=none&host=test30.pages.dev&type=ws&sni=test30.pages.dev#US🇺🇸
 
 vless://b01e3f02-d51b-43d8-af76-227a20fb0d0a@104.26.14.85:8443?path=/?ed=2048&security=tls&encryption=none&host=1.irancloudflare.cab&type=ws&sni=1.irancloudflare.cab#US🇺🇸
+
+vless://0c9b3f68-f2f2-4867-b895-bb59be981593@104.27.107.77:443?path=/?ed=2048&security=tls&encryption=none&host=proxystore11.kodaksho.eu.org&fp=randomized&type=ws&sni=proxystore11.kodaksho.eu.org#US🇺🇸
 
 vless://3cab1c4f-eaab-43d7-b40e-24b67ea55688@104.27.96.87:443?path=/?ed=2048&security=tls&encryption=none&host=free.proxystore11.site&fp=randomized&type=ws&sni=free.proxystore11.site#US🇺🇸
 
