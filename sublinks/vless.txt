@@ -26,9 +26,9 @@ vless://cc771b27-27ad-4bf3-bc42-f42cd673edbe@172.66.44.163:443?path=/?ed=2048&se
 
 vless://aabc3ef9-6968-4311-81b8-8cd0414c1904@104.24.177.7:80?path=Path//?ed=2048&security=none&encryption=none&host=luact.zahedan.eu.org&type=ws#US🇺🇸
 
-vless://aabc3ef9-6968-4311-81b8-8cd0414c1904@104.24.177.7:80?path=Path//?ed=2048&security=none&encryption=none&host=luact.zahedan.eu.org&type=ws#CA🇨🇦
+vless://aabc3ef9-6968-4311-81b8-8cd0414c1904@104.24.177.7:80?path=Path//?ed=2048&security=none&encryption=none&host=luact.zahedan.eu.org&type=ws#US🇺🇸
 
-vless://cc771b27-27ad-4bf3-bc42-f42cd673edbe@172.66.44.163:443?path=/?ed=2048&security=tls&encryption=none&alpn=http/1.1&host=ghazal7799.pages.dev&fp=chrome&type=ws&sni=ghazal7799.pages.dev#CA🇨🇦
+vless://cc771b27-27ad-4bf3-bc42-f42cd673edbe@172.66.44.163:443?path=/?ed=2048&security=tls&encryption=none&alpn=http/1.1&host=ghazal7799.pages.dev&fp=chrome&type=ws&sni=ghazal7799.pages.dev#US🇺🇸
 
 vless://436e7428-381d-404e-ad67-915e98ce357d@43b35ef5.aminitiger.pages.dev:443?path=/?ed=2048&security=tls&encryption=none&host=43b35ef5.aminitiger.pages.dev&fp=randomized&type=ws&sni=43b35ef5.aminitiger.pages.dev#CA🇨🇦
 
@@ -38,21 +38,13 @@ vless://cc771b27-27ad-4bf3-bc42-f42cd673edbe@172.66.44.163:443?path=/?ed=2048&se
 
 vless://98bb933c-921c-4c3c-84be-91aae07832b0@185.146.173.59:2082?path=/&security=none&encryption=none&host=cH.tOtFaRaNgHi.SbS&type=ws#SE🇸🇪
 
-vless://d672ec4f-afba-4f61-af09-eec872f97e99@188.114.97.43:443?path=/freecodes&security=tls&encryption=none&host=test57.pages.dev&type=ws&sni=test57.pages.dev#NL🇳🇱
-
-vless://d672ec4f-afba-4f61-af09-eec872f97e99@188.114.98.220:443?path=/freecodes&security=tls&encryption=none&host=test57.pages.dev&fp=chrome&type=ws&sni=test57.pages.dev#NL🇳🇱
+vless://c8aa3dce-77b8-4cca-b313-89ce5c015137@172.67.156.210:80?security=none&type=ws&host=369.xn--cr8haa.V2ray.xn--1ug4145pija8k.freeV2ray.onflashdrive.app.&path=/#CA🇨🇦
 
 vless://89cd187b-db2b-4e1a-a264-6abdc75bd5c3@190.93.247.155:443?security=tls&sni=Join-Telegram-Channel-Disvpn.OnflashdrIve.App&type=ws&host=Join-Telegram-Channel-Disvpn.OnflashdrIve.App&path=Telegram: @TLS_v2ray&fp=randomized&alpn=h2,http/1.1#CR🇨🇷
 
 vless://3fefc100-faed-43ad-b087-d47ddfe75121@23.227.60.7:443?security=tls&sni=s92qb78mnok7yh5ykir1ayugvc49aqclfapp4qmqvixdxyd8crqppthcfpsjmm2.esmpy.workers.Dev&type=ws&host=s92qb78mnok7yh5ykir1ayugvc49aqclfapp4qmqvixdxyd8crqppthcfpsjmm2.esmpy.workers.Dev&path=Path/Telegram@freevirgoolnet/?ed=2048#CA🇨🇦
 
 vless://bdc47e24-820a-4771-addd-3c7f85c5276b@104.26.15.85:2096?security=tls&sni=telgram-falcunargo-tr.falcunar.asso.eu.org&type=ws&host=telgram-falcunargo-tr.falcunar.asso.eu.org&path=Path/Telegram@SINABIGO/?ed=2048&fp=random#CA🇨🇦
-
-vless://99f18bdb-dc11-4eeb-8425-ea2ef055853e@172.66.44.57:443?security=tls&sni=de36777d.telbot.pages.dev&type=ws&host=de36777d.telbot.pages.dev&path=/?ed=2048&fp=randomized#CA🇨🇦
-
-vless://0ad6c579-428c-4df8-b78e-1ebe17326f07@198.41.202.5:443?security=tls&sni=dm.irandtehran.org&type=grpc&serviceName=@ipV2Ray&fp=chrome&alpn=h2,http/1.1#US🇺🇸
-
-vless://263aecbe-19e3-4458-8753-23270650eabc@162.159.130.234:80?security=none&type=ws&host=ShhProxyFreViP.免费上网85.org.&path=/#CA🇨🇦
 
 vless://d294366a-73ad-4ba8-ba96-5b249fec4089@172.67.97.9:443?path=/?ed=2048&security=tls&encryption=none&host=proxystorr1.kodaksho.eu.org&fp=randomized&type=ws&sni=proxystorr1.kodaksho.eu.org#CA🇨🇦
 
@@ -77,6 +69,10 @@ vless://8721355e-96d5-4bb9-a99b-b6119d6b1cd4@Www.ZULA.iR:8443?path=TELEGRAM_PROX
 vless://51905fd3-29de-4b4e-b351-83542f1d5390@zula.ir:443?path=/?ed=2048&security=tls&encryption=none&host=biA.ALlhub.LTD&type=ws&sni=Bia.alLhub.Ltd#NL🇳🇱
 
 vless://436e7428-381d-404e-ad67-915e98ce357d@www.visa.com:443?path=telegram @proxy_mtm&security=tls&encryption=none&alpn=h2,http/1.1&host=43b35ef5.aminitiger.pages.dev&fp=safari&type=ws&sni=43b35ef5.aminitiger.pages.dev#CA🇨🇦
+
+vless://Parsashonam-43@www.visa.com:8080?path=/&security=none&encryption=none&host=Parsashonam.我们累了.tech.&type=ws#CA🇨🇦
+
+vless://Parsashonam-41@www.visa.com:443?path=/&security=tls&encryption=none&alpn=h2,http/1.1&host=mail.offch.blog&fp=chrome&type=ws&sni=mail.offch.blog#CA🇨🇦
 
 vless://Parsashonam-42@www.visa.com:8080?path=/&security=none&encryption=none&host=Parsashonam.我们累了.tech.&type=ws#CA🇨🇦
 
