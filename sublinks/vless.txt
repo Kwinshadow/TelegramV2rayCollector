@@ -6,6 +6,10 @@ vless://be901a93-0c11-41d1-ad1c-ffd324608333@172.66.213.38:443?path=/&security=t
 
 vless://e3aacb83-1066-435f-a2b0-0a2b1ab7ed59@Join-VPNCUSTOMIZE.V2ray.motorcycles.:80?path=/&security=none&encryption=none&host=VPNCUSTOMIZE.V2ray.motorcycleS.&type=ws#SE🇸🇪
 
+vless://aabc3ef9-6968-4311-81b8-8cd0414c1904@104.24.177.7:80?path=Path//?ed=2048&security=none&encryption=none&host=luact.zahedan.eu.org&type=ws#US🇺🇸
+
+vless://cc771b27-27ad-4bf3-bc42-f42cd673edbe@172.66.44.163:443?path=/?ed=2048&security=tls&encryption=none&alpn=http/1.1&host=ghazal7799.pages.dev&fp=chrome&type=ws&sni=ghazal7799.pages.dev#US🇺🇸
+
 vless://436e7428-381d-404e-ad67-915e98ce357d@43b35ef5.aminitiger.pages.dev:443?path=/?ed=2048&security=tls&encryption=none&host=43b35ef5.aminitiger.pages.dev&fp=randomized&type=ws&sni=43b35ef5.aminitiger.pages.dev#US🇺🇸
 
 vless://aabc3ef9-6968-4311-81b8-8cd0414c1904@104.24.177.7:80?path=Path//?ed=2048&security=none&encryption=none&host=luact.zahedan.eu.org&type=ws#US🇺🇸
@@ -20,11 +24,15 @@ vless://d672ec4f-afba-4f61-af09-eec872f97e99@188.114.98.220:443?path=/freecodes&
 
 vless://ffffffff-bf32-4282-b875-eca220008daf@www.zula.ir:443?path=Path/Telegram@proxy_mtm/?ed=2048&security=tls&encryption=none&host=f.auto.r.exit.e.e.watashi-java.ir&fp=chrome&type=ws&sni=f.auto.r.exit.e.e.watashi-java.ir#NL🇳🇱
 
-vless://51905fd3-29de-4b4e-b351-83542f1d5390@zula.ir:443?path=/?ed=2048&security=tls&encryption=none&host=biA.ALlhub.LTD&type=ws&sni=Bia.alLhub.Ltd#US🇺🇸
+vless://51905fd3-29de-4b4e-b351-83542f1d5390@zula.ir:443?path=/?ed=2048&security=tls&encryption=none&host=biA.ALlhub.LTD&type=ws&sni=Bia.alLhub.Ltd#NL🇳🇱
 
 vless://ffffffff-bf32-4282-b875-eca220008daf@www.zula.ir:443?path=/&security=tls&encryption=none&host=f.auto.r.exit.e.e.watashi-java.ir&fp=chrome&type=ws&sni=f.auto.r.exit.e.e.watashi-java.ir#NL🇳🇱
 
 vless://1da545b0-2395-4d5c-abe8-8aee6671c859@www.discord.gg:443?path=/&security=tls&encryption=none&alpn=h2,http/1.1&host=BpB-WOrkEr-panEl-aqx.paGES.Dev&fp=randomized&type=ws&sni=BPB-worKEr-paNel-aQX.paGES.DEV#CA🇨🇦
+
+vless://238b38af-6a41-4c04-82b7-27cda3c463fe@85.9.99.191:52455?security=none&type=tcp&host=bwm.com&path=/&headerType=http#IR🇮🇷
+
+vless://7e29f2e2-e0ec-47c5-94ec-38ef90f7a106@162.159.133.234:2053?security=tls&sni=guq22.OXnETwoRkS.LInk&type=ws&host=guq22.OXnETwoRkS.LInk&path=vless-ws/?ed=2048/Telegram@V2ray_alpha/vless-ws/?ed=2048#CA🇨🇦
 
 vless://0d0245cd-8412-4a32-b52c-ef810651e628@185.146.173.59:443?security=tls&sni=digi--v2raycncfs.RadioTeHran.oRG&type=grpc&fp=chrome#SE🇸🇪
 
@@ -32,7 +40,9 @@ vless://0ebb1677-4902-476f-bc03-3e8c7ca6fd21@8.219.197.111:2096?security=tls&sni
 
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.51.247.112:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#SE🇸🇪
 
-vless://73b6dbd5-a27a-4c76-9ad1-42a82380dddb@162.159.129.96:443?security=tls&sni=cf.yuanwangokk.dynv6.net&type=ws&path=Telegram_@warphiddify/?ed&fp=random#CA🇨🇦
+vless://d294366a-73ad-4ba8-ba96-5b249fec4089@172.67.97.9:443?path=/?ed=2048&security=tls&encryption=none&host=proxystorr1.kodaksho.eu.org&fp=randomized&type=ws&sni=proxystorr1.kodaksho.eu.org#CA🇨🇦
+
+vless://d294366a-73ad-4ba8-ba96-5b249fec4089@172.67.97.9:80?path=/?ed=2048&security=none&encryption=none&host=proxystorr1.kodaksho.eu.org&type=ws#CA🇨🇦
 
 vless://91706b51-0848-5aec-bdb3-9a8be235bae5@104.22.43.115:2083?path=vless-ws/?ed=2048&security=tls&encryption=none&alpn=h2,http/1.1&host=vfarid.proxxystore11.WorkErs.DEV&fp=chrome&type=ws&sni=vfarid.proxxystore11.WorkErs.DEV#CA🇨🇦
 
