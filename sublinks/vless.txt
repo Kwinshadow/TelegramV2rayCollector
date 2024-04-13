@@ -6,17 +6,17 @@ vless://be901a93-0c11-41d1-ad1c-ffd324608333@172.66.213.38:443?path=/&security=t
 
 vless://e3aacb83-1066-435f-a2b0-0a2b1ab7ed59@Join-VPNCUSTOMIZE.V2ray.motorcycles.:80?path=/&security=none&encryption=none&host=VPNCUSTOMIZE.V2ray.motorcycleS.&type=ws#SE🇸🇪
 
-vless://436e7428-381d-404e-ad67-915e98ce357d@43b35ef5.aminitiger.pages.dev:443?path=/?ed=2048&security=tls&encryption=none&host=43b35ef5.aminitiger.pages.dev&fp=randomized&type=ws&sni=43b35ef5.aminitiger.pages.dev#CA🇨🇦
+vless://436e7428-381d-404e-ad67-915e98ce357d@43b35ef5.aminitiger.pages.dev:443?path=/?ed=2048&security=tls&encryption=none&host=43b35ef5.aminitiger.pages.dev&fp=randomized&type=ws&sni=43b35ef5.aminitiger.pages.dev#US🇺🇸
 
-vless://aabc3ef9-6968-4311-81b8-8cd0414c1904@104.24.177.7:80?path=Path//?ed=2048&security=none&encryption=none&host=luact.zahedan.eu.org&type=ws#CA🇨🇦
+vless://aabc3ef9-6968-4311-81b8-8cd0414c1904@104.24.177.7:80?path=Path//?ed=2048&security=none&encryption=none&host=luact.zahedan.eu.org&type=ws#US🇺🇸
 
-vless://cc771b27-27ad-4bf3-bc42-f42cd673edbe@172.66.44.163:443?path=/?ed=2048&security=tls&encryption=none&alpn=http/1.1&host=ghazal7799.pages.dev&fp=chrome&type=ws&sni=ghazal7799.pages.dev#CA🇨🇦
+vless://cc771b27-27ad-4bf3-bc42-f42cd673edbe@172.66.44.163:443?path=/?ed=2048&security=tls&encryption=none&alpn=http/1.1&host=ghazal7799.pages.dev&fp=chrome&type=ws&sni=ghazal7799.pages.dev#US🇺🇸
 
 vless://98bb933c-921c-4c3c-84be-91aae07832b0@185.146.173.59:2082?path=/&security=none&encryption=none&host=cH.tOtFaRaNgHi.SbS&type=ws#SE🇸🇪
 
-vless://d672ec4f-afba-4f61-af09-eec872f97e99@188.114.97.43:443?path=/freecodes&security=tls&encryption=none&host=test57.pages.dev&type=ws&sni=test57.pages.dev#NL🇳🇱
+vless://d672ec4f-afba-4f61-af09-eec872f97e99@188.114.97.43:443?path=/freecodes&security=tls&encryption=none&host=test57.pages.dev&type=ws&sni=test57.pages.dev#US🇺🇸
 
-vless://d672ec4f-afba-4f61-af09-eec872f97e99@188.114.98.220:443?path=/freecodes&security=tls&encryption=none&host=test57.pages.dev&fp=chrome&type=ws&sni=test57.pages.dev#NL🇳🇱
+vless://d672ec4f-afba-4f61-af09-eec872f97e99@188.114.98.220:443?path=/freecodes&security=tls&encryption=none&host=test57.pages.dev&fp=chrome&type=ws&sni=test57.pages.dev#US🇺🇸
 
 vless://ffffffff-bf32-4282-b875-eca220008daf@www.zula.ir:443?path=Path/Telegram@proxy_mtm/?ed=2048&security=tls&encryption=none&host=f.auto.r.exit.e.e.watashi-java.ir&fp=chrome&type=ws&sni=f.auto.r.exit.e.e.watashi-java.ir#NL🇳🇱
 
@@ -31,8 +31,6 @@ vless://284fd6b7-8e4a-4fd6-b96a-0a9b806bac65@www.speedtest.net:2052?path=/&secur
 vless://51905fd3-29de-4b4e-b351-83542f1d5390@172.67.24.121:443?path=/?ed=2048&security=tls&encryption=none&alpn=h2,http/1.1&host=biA.ALlhub.LTD&fp=random&type=ws&sni=Bia.alLhub.Ltd#CA🇨🇦
 
 vless://6fdde6db-6ae7-4d80-97ae-d1b358e49eb9@162.159.136.234:80?security=none&type=ws&host=ShhProxyFreViP.免费上网85.org.&path=/#CA🇨🇦
-
-vless://ffffffff-bf32-4282-b875-eca220008daf@162.159.133.234:443?security=tls&sni=f.auto.r.exit.e.e.watashi-java.ir&type=ws&host=f.auto.r.exit.e.e.watashi-java.ir&path=TELEGRAM...proxy_mtm&fp=safari#CA🇨🇦
 
 vless://91706b51-0848-5aec-bdb3-9a8be235bae5@104.22.43.115:2083?path=vless-ws/?ed=2048&security=tls&encryption=none&alpn=h2,http/1.1&host=vfarid.proxxystore11.WorkErs.DEV&fp=chrome&type=ws&sni=vfarid.proxxystore11.WorkErs.DEV#CA🇨🇦
 
