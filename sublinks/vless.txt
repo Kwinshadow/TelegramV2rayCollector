@@ -32,6 +32,8 @@ vless://cc771b27-27ad-4bf3-bc42-f42cd673edbe@172.66.44.163:443?path=/?ed=2048&se
 
 vless://436e7428-381d-404e-ad67-915e98ce357d@43b35ef5.aminitiger.pages.dev:443?path=/?ed=2048&security=tls&encryption=none&host=43b35ef5.aminitiger.pages.dev&fp=randomized&type=ws&sni=43b35ef5.aminitiger.pages.dev#CA🇨🇦
 
+vless://aabc3ef9-6968-4311-81b8-8cd0414c1904@162.159.135.234:80?security=none&type=ws&host=luact.zahedan.eu.org&path=Telegram-channel-proxy_mtm/?ed=2048#CA🇨🇦
+
 vless://a82d60dd-c8b2-420d-9b89-a89d36cbd4c8@162.159.136.234:443?security=tls&sni=zu3-g6cd-server.onflashdrive.app&type=ws&host=zu3-g6cd-server.onflashdrive.app&path=/@SiNABiGO&fp=randomized#CA🇨🇦
 
 vless://f4cec6cc-6177-423c-90f8-2ad9f0dd996b@104.21.13.125:2096?security=tls&sni=vpnct.arvancode.eu.org&type=ws&host=vpnct.arvancode.eu.org&fp=firefox&alpn=h2,http/1.1#CA🇨🇦
