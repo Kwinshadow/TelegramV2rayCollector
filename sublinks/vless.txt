@@ -26,13 +26,15 @@ vless://cc771b27-27ad-4bf3-bc42-f42cd673edbe@172.66.44.163:443?path=/?ed=2048&se
 
 vless://aabc3ef9-6968-4311-81b8-8cd0414c1904@104.24.177.7:80?path=Path//?ed=2048&security=none&encryption=none&host=luact.zahedan.eu.org&type=ws#US🇺🇸
 
-vless://aabc3ef9-6968-4311-81b8-8cd0414c1904@104.24.177.7:80?path=Path//?ed=2048&security=none&encryption=none&host=luact.zahedan.eu.org&type=ws#US🇺🇸
+vless://aabc3ef9-6968-4311-81b8-8cd0414c1904@104.24.177.7:80?path=Path//?ed=2048&security=none&encryption=none&host=luact.zahedan.eu.org&type=ws#CA🇨🇦
 
 vless://cc771b27-27ad-4bf3-bc42-f42cd673edbe@172.66.44.163:443?path=/?ed=2048&security=tls&encryption=none&alpn=http/1.1&host=ghazal7799.pages.dev&fp=chrome&type=ws&sni=ghazal7799.pages.dev#CA🇨🇦
 
 vless://436e7428-381d-404e-ad67-915e98ce357d@43b35ef5.aminitiger.pages.dev:443?path=/?ed=2048&security=tls&encryption=none&host=43b35ef5.aminitiger.pages.dev&fp=randomized&type=ws&sni=43b35ef5.aminitiger.pages.dev#CA🇨🇦
 
-vless://4a1cee44-aa11-48c3-a6b7-6bbcfba5714c@104.18.202.232:2052?security=none&type=ws&host=穆罕默德侯赛superspeed12.ff2ray.cfd.&path=/?ed=2053#CA🇨🇦
+vless://a82d60dd-c8b2-420d-9b89-a89d36cbd4c8@162.159.136.234:443?security=tls&sni=zu3-g6cd-server.onflashdrive.app&type=ws&host=zu3-g6cd-server.onflashdrive.app&path=/@SiNABiGO&fp=randomized#CA🇨🇦
+
+vless://f4cec6cc-6177-423c-90f8-2ad9f0dd996b@104.21.13.125:2096?security=tls&sni=vpnct.arvancode.eu.org&type=ws&host=vpnct.arvancode.eu.org&fp=firefox&alpn=h2,http/1.1#CA🇨🇦
 
 vless://d294366a-73ad-4ba8-ba96-5b249fec4089@172.67.97.9:443?path=/?ed=2048&security=tls&encryption=none&host=proxystorr1.kodaksho.eu.org&fp=randomized&type=ws&sni=proxystorr1.kodaksho.eu.org#CA🇨🇦
 
