@@ -26,7 +26,7 @@ vless://cc771b27-27ad-4bf3-bc42-f42cd673edbe@172.66.44.163:443?path=/?ed=2048&se
 
 vless://aabc3ef9-6968-4311-81b8-8cd0414c1904@104.24.177.7:80?path=Path//?ed=2048&security=none&encryption=none&host=luact.zahedan.eu.org&type=ws#US🇺🇸
 
-vless://aabc3ef9-6968-4311-81b8-8cd0414c1904@104.24.177.7:80?path=Path//?ed=2048&security=none&encryption=none&host=luact.zahedan.eu.org&type=ws#US🇺🇸
+vless://aabc3ef9-6968-4311-81b8-8cd0414c1904@104.24.177.7:80?path=Path//?ed=2048&security=none&encryption=none&host=luact.zahedan.eu.org&type=ws#CA🇨🇦
 
 vless://cc771b27-27ad-4bf3-bc42-f42cd673edbe@172.66.44.163:443?path=/?ed=2048&security=tls&encryption=none&alpn=http/1.1&host=ghazal7799.pages.dev&fp=chrome&type=ws&sni=ghazal7799.pages.dev#US🇺🇸
 
@@ -38,15 +38,19 @@ vless://cc771b27-27ad-4bf3-bc42-f42cd673edbe@172.66.44.163:443?path=/?ed=2048&se
 
 vless://98bb933c-921c-4c3c-84be-91aae07832b0@185.146.173.59:2082?path=/&security=none&encryption=none&host=cH.tOtFaRaNgHi.SbS&type=ws#SE🇸🇪
 
+vless://aa2dc840-be38-4b4d-a002-ba234999fd55@172.67.69.149:8080?security=none&type=ws&path=/#CA🇨🇦
+
+vless://e5f38cb2-d25c-464c-9aa6-a8890148bbb9@162.159.134.234:80?security=none&type=ws&host=mnvxar.らわなさ.tech.&path=/ZEDMODEON-@ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#CA🇨🇦
+
+vless://36950ef1-d0dd-41bd-9d7c-77832edccc88@172.66.213.38:443?security=tls&sni=ShhProxy-Free.xn--85-pv2cl2k5x3fipr.org.&type=ws&host=ShhProxy-Free.xn--85-pv2cl2k5x3fipr.org.&path=/&fp=chrome&alpn=Tel:@SRCVPN#CA🇨🇦
+
+vless://fdc0cb65-2c8e-4ac3-8a81-bf3965fffc4c@162.159.133.234:2095?security=none&type=ws&host=zedmodeon86.らわなさ.tech.&path=/ZEDMODEON-ZEDMODEON-@ZEDMODEON-ZEDMODEON-ZEDMODEON#CA🇨🇦
+
 vless://0545127e-a27b-47bb-9347-2b35fb5a416b@104.19.128.19:8443?security=tls&sni=mBm.MtM2000.iR&type=grpc&fp=chrome&alpn=h2,http/1.1#CA🇨🇦
 
 vless://834600fb-9b29-4984-abe3-e2e86f78644e@104.26.6.89:443?security=tls&sni=xiv2ray.irandtehran.org&type=grpc#CA🇨🇦
 
 vless://3f435429-081a-41e0-8e77-f21e8a51fbbf@188.114.97.12:443?security=tls&sni=VirginiaVpn.Pages.DEV&type=ws&path=/?ed&fp=ios#NL🇳🇱
-
-vless://aa2dc840-be38-4b4d-a002-ba234999fd55@172.67.69.149:8080?security=none&type=ws&path=/#CA🇨🇦
-
-vless://aabc3ef9-6968-4311-81b8-8cd0414c1904@162.159.135.234:80?security=none&type=ws&host=luact.zahedan.eu.org&path=Telegram-channel-proxy_mtm/?ed=2048#CA🇨🇦
 
 vless://d294366a-73ad-4ba8-ba96-5b249fec4089@172.67.97.9:443?path=/?ed=2048&security=tls&encryption=none&host=proxystorr1.kodaksho.eu.org&fp=randomized&type=ws&sni=proxystorr1.kodaksho.eu.org#CA🇨🇦
 
