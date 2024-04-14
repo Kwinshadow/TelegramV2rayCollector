@@ -30,7 +30,15 @@ vless://aabc3ef9-6968-4311-81b8-8cd0414c1904@104.24.177.7:80?path=Path//?ed=2048
 
 vless://cc771b27-27ad-4bf3-bc42-f42cd673edbe@172.66.44.163:443?path=/?ed=2048&security=tls&encryption=none&alpn=http/1.1&host=ghazal7799.pages.dev&fp=chrome&type=ws&sni=ghazal7799.pages.dev#US🇺🇸
 
-vless://436e7428-381d-404e-ad67-915e98ce357d@43b35ef5.aminitiger.pages.dev:443?path=/?ed=2048&security=tls&encryption=none&host=43b35ef5.aminitiger.pages.dev&fp=randomized&type=ws&sni=43b35ef5.aminitiger.pages.dev#CA🇨🇦
+vless://436e7428-381d-404e-ad67-915e98ce357d@43b35ef5.aminitiger.pages.dev:443?path=/?ed=2048&security=tls&encryption=none&host=43b35ef5.aminitiger.pages.dev&fp=randomized&type=ws&sni=43b35ef5.aminitiger.pages.dev#US🇺🇸
+
+vless://aabc3ef9-6968-4311-81b8-8cd0414c1904@104.24.177.7:80?path=Path//?ed=2048&security=none&encryption=none&host=luact.zahedan.eu.org&type=ws#CA🇨🇦
+
+vless://cc771b27-27ad-4bf3-bc42-f42cd673edbe@172.66.44.163:443?path=/?ed=2048&security=tls&encryption=none&alpn=http/1.1&host=ghazal7799.pages.dev&fp=chrome&type=ws&sni=ghazal7799.pages.dev#CA🇨🇦
+
+vless://98bb933c-921c-4c3c-84be-91aae07832b0@185.146.173.59:2082?path=/&security=none&encryption=none&host=cH.tOtFaRaNgHi.SbS&type=ws#SE🇸🇪
+
+vless://0545127e-a27b-47bb-9347-2b35fb5a416b@104.19.128.19:8443?security=tls&sni=mBm.MtM2000.iR&type=grpc&fp=chrome&alpn=h2,http/1.1#CA🇨🇦
 
 vless://834600fb-9b29-4984-abe3-e2e86f78644e@104.26.6.89:443?security=tls&sni=xiv2ray.irandtehran.org&type=grpc#CA🇨🇦
 
