@@ -32,11 +32,13 @@ vless://cc771b27-27ad-4bf3-bc42-f42cd673edbe@172.66.44.163:443?path=/?ed=2048&se
 
 vless://436e7428-381d-404e-ad67-915e98ce357d@43b35ef5.aminitiger.pages.dev:443?path=/?ed=2048&security=tls&encryption=none&host=43b35ef5.aminitiger.pages.dev&fp=randomized&type=ws&sni=43b35ef5.aminitiger.pages.dev#CA🇨🇦
 
+vless://834600fb-9b29-4984-abe3-e2e86f78644e@104.26.6.89:443?security=tls&sni=xiv2ray.irandtehran.org&type=grpc#CA🇨🇦
+
+vless://3f435429-081a-41e0-8e77-f21e8a51fbbf@188.114.97.12:443?security=tls&sni=VirginiaVpn.Pages.DEV&type=ws&path=/?ed&fp=ios#NL🇳🇱
+
 vless://aa2dc840-be38-4b4d-a002-ba234999fd55@172.67.69.149:8080?security=none&type=ws&path=/#CA🇨🇦
 
 vless://aabc3ef9-6968-4311-81b8-8cd0414c1904@162.159.135.234:80?security=none&type=ws&host=luact.zahedan.eu.org&path=Telegram-channel-proxy_mtm/?ed=2048#CA🇨🇦
-
-vless://a82d60dd-c8b2-420d-9b89-a89d36cbd4c8@162.159.136.234:443?security=tls&sni=zu3-g6cd-server.onflashdrive.app&type=ws&host=zu3-g6cd-server.onflashdrive.app&path=/@SiNABiGO&fp=randomized#CA🇨🇦
 
 vless://d294366a-73ad-4ba8-ba96-5b249fec4089@172.67.97.9:443?path=/?ed=2048&security=tls&encryption=none&host=proxystorr1.kodaksho.eu.org&fp=randomized&type=ws&sni=proxystorr1.kodaksho.eu.org#CA🇨🇦
 
