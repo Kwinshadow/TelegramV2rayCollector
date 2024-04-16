@@ -106,6 +106,14 @@ vless://c4603a86-8c9a-4230-8e4c-04945b160bdd@104.21.4.113:2096?mode=gun&security
 
 vless://Parsashonam-43@www.visa.com:8080?path=/&security=none&encryption=none&host=Parsashonam.我们累了.tech.&type=ws#CA🇨🇦
 
+vless://4c1983a8-1802-46f1-8837-aaf33958ed46@185.148.105.52:443?security=tls&sni=fln1.novinping.com&type=ws&host=fln1.novinping.com&path=/MgFwdcE2Hs2cgQYI0W&fp=chrome&alpn=http/1.1#RU🇷🇺
+
+vless://f65cbe1f-1489-44a6-85af-9d3e9e96d63a@104.238.190.30:2096?security=none&type=tcp&host=speedtest.net&path=/&headerType=http#FR🇫🇷
+
+vless://cf7a68f1-70c0-458c-b630-8702246d655e@95.179.156.34:443?security=none&type=tcp&host=speedtest.net&path=/&headerType=http#NL🇳🇱
+
+vless://7fd7c15d-95cd-4f5c-bf59-f21e5eb27580@104.17.94.171:2096?path=【TG：@juzibaipiao】定时更新节点&security=tls&encryption=none&host=3k.dabee.top&type=ws&sni=3k.dabee.top#CA🇨🇦
+
 vless://d672ec4f-afba-4f61-af09-eec872f97e99@104.21.192.45:443?security=tls&sni=test35.pages.dev&type=ws&host=test35.pages.dev&path=/#CA🇨🇦
 
 vless://3554d65d-738b-474c-80ea-ebf1e26f5a08@confingland-uae.pages.dev:443?path=/QJXZLKrI0afqLBAA&security=tls&encryption=none&host=confingland-uae.pages.Dev&fp=randomized&type=ws&sni=confingland-uae.pages.Dev#NL🇳🇱
@@ -129,8 +137,6 @@ vless://b487fa42-4108-4124-a7fc-7b369d2afd84@104.18.203.232:443?security=tls&sni
 vless://17fafaf9-7402-40eb-87ae-a75944c84c52@104.18.158.102:80?path=/@@V2rayi_net#CA🇨🇦
 
 vless://a61eb3a2-1adb-48cb-ab46-ce225769de16@104.16.61.8:80?security=none&type=ws&host=ada3.qowch.com#CA🇨🇦
-
-vless://b0e6a2c9-e667-4e42-9cb3-77d7db3e736b@104.18.202.232:443?security=tls&sni=worker-sweet-sun-58f9.qranth.workers.dev&type=ws&host=worker-sweet-sun-58f9.qranth.workers.dev&path=V1/?ed=2060#CA🇨🇦
 
 vless://d294366a-73ad-4ba8-ba96-5b249fec4089@172.67.97.9:443?path=/?ed=2048&security=tls&encryption=none&host=proxystorr1.kodaksho.eu.org&fp=randomized&type=ws&sni=proxystorr1.kodaksho.eu.org#CA🇨🇦
 
