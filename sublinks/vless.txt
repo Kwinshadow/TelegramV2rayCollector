@@ -30,21 +30,21 @@ vless://2cd43f95-7f19-4a94-acae-aa5ca0825724@173.245.49.216:2096?mode=gun&securi
 
 vless://2cd43f95-7f19-4a94-acae-aa5ca0825724@198.41.200.103:2096?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&authority=&type=grpc&serviceName=korosh&sni=korosh.orewasanji.fun#US🇺🇸
 
-vless://2cd43f95-7f19-4a94-acae-aa5ca0825724@108.162.193.178:2096?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&authority=&type=grpc&serviceName=korosh&sni=korosh.orewasanji.fun#US🇺🇸
+vless://2cd43f95-7f19-4a94-acae-aa5ca0825724@108.162.193.178:2096?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&authority=&type=grpc&serviceName=korosh&sni=korosh.orewasanji.fun#CA🇨🇦
 
 vless://2cd43f95-7f19-4a94-acae-aa5ca0825724@162.159.23.17:2096?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&authority=&type=grpc&serviceName=korosh&sni=korosh.orewasanji.fun#US🇺🇸
 
-vless://2cd43f95-7f19-4a94-acae-aa5ca0825724@discord.gg:2096?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&authority=&type=grpc&serviceName=korosh&sni=korosh.orewasanji.fun#US🇺🇸
+vless://2cd43f95-7f19-4a94-acae-aa5ca0825724@discord.gg:2096?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&authority=&type=grpc&serviceName=korosh&sni=korosh.orewasanji.fun#CA🇨🇦
 
 vless://94f0b35d-93f1-4df5-965b-dca7fb84ab9f@chat.openai.com:8080?path=/melov2ray&security=none&encryption=none&host=de.过滤器.store.&type=ws#US🇺🇸
 
-vless://ea875b96-be12-4bba-f558-3c8777882874@litespeed.vds-server.ir:2052?path=/&security=none&encryption=none&type=ws#CA🇨🇦
+vless://ea875b96-be12-4bba-f558-3c8777882874@litespeed.vds-server.ir:2052?path=/&security=none&encryption=none&type=ws#US🇺🇸
 
 vless://c5d89dde-0cc3-4c98-b053-95fffd5be364@79.175.177.111:24669?security=none&encryption=none&headerType=none&type=tcp#IR🇮🇷
 
 vless://Telegram-ipV2Ray@185.146.173.59:80?path=/Telegram-ipV2Ray?Telegram=@V2RayTz,@V2RayTz&security=none&encryption=none&host=www.cafebazaar.ir.www.myket.ir.免费上网69.site.&type=ws#SE🇸🇪
 
-vless://94f0b35d-93f1-4df5-965b-dca7fb84ab9f@chat.openai.com:8080?path=/melov2ray&security=none&encryption=none&host=de.过滤器.store.&type=ws#US🇺🇸
+vless://94f0b35d-93f1-4df5-965b-dca7fb84ab9f@chat.openai.com:8080?path=/melov2ray&security=none&encryption=none&host=de.过滤器.store.&type=ws#CA🇨🇦
 
 vless://telegram-id-ArV2ray@185.146.173.59:80?path=/telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray?ed=2048&security=none&encryption=none&host=7.f.soft98.ir.www.speedtest.net.xn--lan-5j3ex52c62e1lg804d3wxa.Site.&type=ws#SE🇸🇪
 
@@ -108,6 +108,16 @@ vless://c4603a86-8c9a-4230-8e4c-04945b160bdd@104.21.4.113:2096?mode=gun&security
 
 vless://Parsashonam-43@www.visa.com:8080?path=/&security=none&encryption=none&host=Parsashonam.我们累了.tech.&type=ws#CA🇨🇦
 
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.172.47.179:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#US🇺🇸
+
+vless://6b07c49d-5e28-4267-aeb4-a945ee6a98fb@104.16.12.76:2083?security=tls&sni=amovpn6.fqservers.com&type=ws&host=amovpn6.fqservers.com&path=/channel:@VPNAMOHELP_@VPNAMOHELP_@VPNAMOHELP_@VPNAMOHELP_@VPNAMOHELP_@VPNAMOHELP&fp=chrome&alpn=h2,http/1.1#CA🇨🇦
+
+vless://cc771b27-27ad-4bf3-bc42-f42cd673edbe@172.67.148.99:443?security=tls&sni=telegram-chanel-ab-841-vpn.pages.dev&type=ws&host=telegram-chanel-ab-841-vpn.pages.dev&path=/?ed=2048&fp=chrome&alpn=http/1.1#CA🇨🇦
+
+vless://a39973b6-85dc-4ce6-99cf-c315e74088e0@193.151.147.9:58280?security=none&encryption=none&host=hidata.org&headerType=http&type=tcp#IR🇮🇷
+
+vless://beae44d1-5f0a-41b6-a305-6fbd664e523a@visa.com:8443?type=ws&host=shah67.servernet.cfd&path=/join--severnett&security=tls&fp=random&sni=shah67.servernet.cfd#CA🇨🇦
+
 vless://807f4b82-91d6-44cb-80ff-dfc7f5dc9f6c@185.231.180.26:443?security=tls&sni=vIrGiNiAvPn-uK.pAgEs.dEv&type=ws&host=ViRgInIaVpN-Uk.PaGeS.DeV&path=/?ed=2048&fp=ios&alpn=http/1.1#IR🇮🇷
 
 vless://e5f38cb2-d25c-464c-9aa6-a8890148bbb9@162.159.136.234:80?type=ws&host=mnvxar.らわなさ.tech.&path=/ZEDMODEON-@ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#CA🇨🇦
@@ -142,35 +152,31 @@ vless://f65cbe1f-1489-44a6-85af-9d3e9e96d63a@104.238.190.30:2096?security=none&t
 
 vless://cf7a68f1-70c0-458c-b630-8702246d655e@95.179.156.34:443?security=none&type=tcp&host=speedtest.net&path=/&headerType=http#NL🇳🇱
 
-vless://7fd7c15d-95cd-4f5c-bf59-f21e5eb27580@104.17.94.171:2096?path=【TG：@juzibaipiao】定时更新节点&security=tls&encryption=none&host=3k.dabee.top&type=ws&sni=3k.dabee.top#CA🇨🇦
+vless://d294366a-73ad-4ba8-ba96-5b249fec4089@172.67.97.9:443?path=/?ed=2048&security=tls&encryption=none&host=proxystorr1.kodaksho.eu.org&fp=randomized&type=ws&sni=proxystorr1.kodaksho.eu.org#US🇺🇸
 
-vless://d672ec4f-afba-4f61-af09-eec872f97e99@104.21.192.45:443?security=tls&sni=test35.pages.dev&type=ws&host=test35.pages.dev&path=/#CA🇨🇦
+vless://d294366a-73ad-4ba8-ba96-5b249fec4089@172.67.97.9:80?path=/?ed=2048&security=none&encryption=none&host=proxystorr1.kodaksho.eu.org&type=ws#US🇺🇸
 
-vless://d294366a-73ad-4ba8-ba96-5b249fec4089@172.67.97.9:443?path=/?ed=2048&security=tls&encryption=none&host=proxystorr1.kodaksho.eu.org&fp=randomized&type=ws&sni=proxystorr1.kodaksho.eu.org#CA🇨🇦
+vless://91706b51-0848-5aec-bdb3-9a8be235bae5@104.22.43.115:2083?path=vless-ws/?ed=2048&security=tls&encryption=none&alpn=h2,http/1.1&host=vfarid.proxxystore11.WorkErs.DEV&fp=chrome&type=ws&sni=vfarid.proxxystore11.WorkErs.DEV#INT🌍
 
-vless://d294366a-73ad-4ba8-ba96-5b249fec4089@172.67.97.9:80?path=/?ed=2048&security=none&encryption=none&host=proxystorr1.kodaksho.eu.org&type=ws#CA🇨🇦
-
-vless://91706b51-0848-5aec-bdb3-9a8be235bae5@104.22.43.115:2083?path=vless-ws/?ed=2048&security=tls&encryption=none&alpn=h2,http/1.1&host=vfarid.proxxystore11.WorkErs.DEV&fp=chrome&type=ws&sni=vfarid.proxxystore11.WorkErs.DEV#CA🇨🇦
-
-vless://91706b51-0848-5aec-bdb3-9a8be235bae5@104.16.99.244:2053?path=vless-ws/?ed=2048&security=tls&encryption=none&alpn=h2,http/1.1&host=vfarid.proxxystore11.wOrKERs.DEV&fp=chrome&type=ws&sni=vfarid.proxxystore11.wOrKERs.DEV#CA🇨🇦
+vless://91706b51-0848-5aec-bdb3-9a8be235bae5@104.16.99.244:2053?path=vless-ws/?ed=2048&security=tls&encryption=none&alpn=h2,http/1.1&host=vfarid.proxxystore11.wOrKERs.DEV&fp=chrome&type=ws&sni=vfarid.proxxystore11.wOrKERs.DEV#INT🌍
 
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@proxystore11.kodaksho.eu.org:443?path=/7lVHf1tsShSmbqwD?ed=2048&security=tls&encryption=none&alpn=h2,http/1.1&host=PROXYStore11.KodAKSho.eu.oRG&fp=randomized&type=ws&sni=prOXysTORE11.Kodaksho.eu.oRG#INT🌍
 
 vless://107d3a95-e17e-4931-94b9-e42cdcabb05b@185.146.173.20:80?path=/backup&security=none&encryption=none&host=MFvh5agb49bGYkqzTHqC.dl-onLiNeDOCtOR.BIO&type=ws#SE🇸🇪
 
-vless://d7f36d12-2ae1-42c0-9fd5-84d8f4efbb02@161f5c4e.mahdiserver-cmr.pages.dev:443?path=/?ed=2048&security=tls&encryption=none&host=161f5c4e.mahdiserver-cmr.pages.dev&fp=randomized&type=ws&sni=161f5c4e.mahdiserver-cmr.pages.dev#CA🇨🇦
+vless://d7f36d12-2ae1-42c0-9fd5-84d8f4efbb02@161f5c4e.mahdiserver-cmr.pages.dev:443?path=/?ed=2048&security=tls&encryption=none&host=161f5c4e.mahdiserver-cmr.pages.dev&fp=randomized&type=ws&sni=161f5c4e.mahdiserver-cmr.pages.dev#US🇺🇸
 
-vless://d4301918-a3ee-4524-ab00-499b16f1df2f@iranserver.com:80?path=/Telegram:@UnlimitedDev-Telegram:@UnlimitedDev-Telegram:@UnlimitedDev?ed&security=none&encryption=none&host=unlimiteddev.xn--9iqr0tm1r4wg.co.&type=ws#CA🇨🇦
+vless://d4301918-a3ee-4524-ab00-499b16f1df2f@iranserver.com:80?path=/Telegram:@UnlimitedDev-Telegram:@UnlimitedDev-Telegram:@UnlimitedDev?ed&security=none&encryption=none&host=unlimiteddev.xn--9iqr0tm1r4wg.co.&type=ws#US🇺🇸
 
 vless://3554d65d-738b-474c-80ea-ebf1e26f5a08@confingland-uae.pages.dev:443?path=/QJXZLKrI0afqLBAA&security=tls&encryption=none&host=confingland-uae.pages.Dev&fp=randomized&type=ws&sni=confingland-uae.pages.Dev#NL🇳🇱
 
-vless://da6b3b85-65ca-4436-86ee-afb8b9fb5aa2@www.visa.com:443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&authority=&fp=chrome&type=grpc&serviceName=@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray&sni=pc.v2oti.com#CA🇨🇦
+vless://da6b3b85-65ca-4436-86ee-afb8b9fb5aa2@www.visa.com:443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&authority=&fp=chrome&type=grpc&serviceName=@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray&sni=pc.v2oti.com#INT🌍
 
-vless://Parsashonam-45@www.visa.com:8080?path=/&security=none&encryption=none&host=Parsashonam.我们累了.tech.&type=ws#CA🇨🇦
+vless://Parsashonam-45@www.visa.com:8080?path=/&security=none&encryption=none&host=Parsashonam.我们累了.tech.&type=ws#INT🌍
 
-vless://Parsashonam-43@www.visa.com:443?path=/&security=tls&encryption=none&alpn=h2,http/1.1&host=mail.offch.blog&fp=chrome&type=ws&sni=mail.offch.blog#CA🇨🇦
+vless://Parsashonam-43@www.visa.com:443?path=/&security=tls&encryption=none&alpn=h2,http/1.1&host=mail.offch.blog&fp=chrome&type=ws&sni=mail.offch.blog#INT🌍
 
-vless://Parsashonam-44@www.visa.com:8080?path=/&security=none&encryption=none&host=Parsashonam.我们累了.tech.&type=ws#CA🇨🇦
+vless://Parsashonam-44@www.visa.com:8080?path=/&security=none&encryption=none&host=Parsashonam.我们累了.tech.&type=ws#INT🌍
 
-vless://Parsashonam-42@www.visa.com:443?path=/&security=tls&encryption=none&alpn=h2,http/1.1&host=mail.offch.blog&fp=chrome&type=ws&sni=mail.offch.blog#CA🇨🇦
+vless://Parsashonam-42@www.visa.com:443?path=/&security=tls&encryption=none&alpn=h2,http/1.1&host=mail.offch.blog&fp=chrome&type=ws&sni=mail.offch.blog#INT🌍
 
