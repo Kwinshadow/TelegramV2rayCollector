@@ -44,11 +44,11 @@ vless://3f435429-081a-41e0-8e77-f21e8a51fbbf@188.114.96.12:443?path=/?ed=2048&se
 
 vless://3f435429-081a-41e0-8e77-f21e8a51fbbf@188.114.97.12:443?path=/?ed&security=tls&encryption=none&alpn=http/1.1&host=VirginiaVpn.Pages.DEV&fp=ios&type=ws&sni=VirgInIaVpn.PaGes.DeV#NL🇳🇱
 
-vless://3f435429-081a-41e0-8e77-f21e8a51fbbf@188.114.97.12:443?path=/&security=tls&encryption=none&alpn=http/1.1&host=VirginiaVpn.Pages.DEV&fp=ios&type=ws&sni=VirgInIaVpn.PaGes.DeV#NL🇳🇱
+vless://3f435429-081a-41e0-8e77-f21e8a51fbbf@188.114.97.12:443?path=/&security=tls&encryption=none&alpn=http/1.1&host=VirginiaVpn.Pages.DEV&fp=ios&type=ws&sni=VirgInIaVpn.PaGes.DeV#US🇺🇸
 
 vless://Telegram-ipV2Ray@185.146.173.59:80?path=/Telegram-ipV2Ray?Telegram=@V2RayTz,@V2RayTz&security=none&encryption=none&host=www.cafebazaar.ir.www.myket.ir.免费上网69.site.&type=ws#SE🇸🇪
 
-vless://Parsashonam-44@www.speedtest.net:8080?path=/?Telegram:@proxy_mtm&security=none&encryption=none&host=Parsashonam.我们累了.tech.&type=ws#US🇺🇸
+vless://Parsashonam-44@www.speedtest.net:8080?path=/?Telegram:@proxy_mtm&security=none&encryption=none&host=Parsashonam.我们累了.tech.&type=ws#CA🇨🇦
 
 vless://SVNTEAMm@185.146.173.59:80?path=/SvnTeam-TeleGram-ChaNnel-VIP?ed=2048&security=none&encryption=none&host=SvnTeamV2rayEn7.7.7.7.ir.Com.Site.xn--fhq0laa256bac7403eea044azr5g.CoM.&type=ws#SE🇸🇪
 
@@ -116,6 +116,22 @@ vmess://eyJhZGQiOiIxNzIuNjcuMTk5LjE4NSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJo
 
 vmess://eyJhZGQiOiJobXMwODIuZ3dkZWYuc2JzIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJnd2RlZi5zYnMiLCJpZCI6ImJjODY0MDc4LWRjZjMtNGJmNC04ZGJmLWNhOWYyMDBiNTZiZSIsIm5ldCI6IndzIiwicGF0aCI6IlwvbGlua3dzIiwicG9ydCI6IjQ0MyIsInBzIjoiVVNcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjgiLCJzY3kiOiJhdXRvIiwic25pIjoiZ3dkZWYuc2JzIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=
 
+vless://5cb97c62-c57f-4a88-ac2c-4eb496c34ce1@162.159.135.234:80?security=none&type=ws&host=ShhProxyFreViP.免费上网85.org.&path=/#CA🇨🇦
+
+vmess://eyJhZGQiOiJqYWhma2poYS5jZmQiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImphaGZramhhLmNmZCIsImlkIjoiOTUwZGI2YWEtNDkyNi00NjE2LTgxNmUtZWMwMzEyZGNiODdiIiwibmV0Ijoid3MiLCJwYXRoIjoiXC9saW5rd3MiLCJwb3J0IjoiNDQzIiwic2N5IjoiYXV0byIsInNuaSI6ImphaGZramhhLmNmZCIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiIsInBzIjoiTkxcdWQ4M2NcdWRkZjNcdWQ4M2NcdWRkZjEifQ==
+
+vless://4189c846-e338-4e8d-afd1-a2d501d3728e@149.28.135.135:8443?security=none&type=tcp&host=speedtest.net&path=/&headerType=http#SG🇸🇬
+
+vless://0843fd03-f2d1-455a-bdb7-6463a3c0a136@172.67.161.118:2087?security=tls&sni=kinghooman.vpnboy.cloud&type=ws&host=kinghooman.vpnboy.cloud&path=/&fp=chrome&alpn=h2#CA🇨🇦
+
+vless://65feba03-0b97-4609-a331-1dd5125e5544@104.18.50.39:443?security=tls&sni=parisvpn.prsico.ir&type=grpc&serviceName=parisvpn.prsico.ir&fp=chrome&alpn=h2,http/1.1#CA🇨🇦
+
+vless://a03317f9-2651-4d73-8ad4-c660e47c662e@104.18.176.33:80?security=none&encryption=none&type=ws&host=vmessorg1.xn--54qv00ez5ar77g.co&path=/Telegram:@vmessorg-Telegram:@vmessorg-Telegram:@vmessorg#CA🇨🇦
+
+vless://65feba03-0b97-4609-a331-1dd5125e5544@162.159.250.106:443?security=tls&sni=parisvpn.prsico.ir&type=grpc&serviceName=parisvpn.prsico.ir&fp=chrome&alpn=h2,http/1.1#US🇺🇸
+
+vless://1159e8d1-b0d3-4dfa-8860-c64e5eb6daf7@104.21.79.143:443?security=tls&sni=hjtryiuytuiyuituyi.gyhffg---fggvg-45tgfsg--ffgcccf-55-fggc.website&type=ws&host=hjtryiuytuiyuituyi.gyhffg---fggvg-45tgfsg--ffgcccf-55-fggc.website&path=Telegramjoin:@servermomo-Telegramjoin:@servermomoTelegramjoin:@servermomo-Telegramjoin:@servermomo-Telegramjoin:@servermomo-Telegramjoin:@servermomo-Telegramjoin:@servermomo-Telegramjoin:@servermomo-Telegramjoin:@servermomoTelegramjoin:@servermomo-#CA🇨🇦
+
 vless://9cecce32-0580-46b8-8b7d-9d5b611ba651@104.18.202.232:2083?security=tls&sni=all5.savagev2ray.site&type=grpc&serviceName=@XvProxy,@XvProxy,@XvProxy,@XvProxy#CA🇨🇦
 
 vless://e6663d5f-35a8-419f-8a1a-6b873b320b7f@172.67.219.167:8880?security=none&type=ws&host=xn---qhantayawi--e-9wl9bqtr75a955a5b97asba44yjwac23607hkhja.lightning6.xyz.&path=/@LIGHTNING6, @LIGHTNING6#CA🇨🇦
@@ -153,22 +169,6 @@ vmess://eyJhZGQiOiIxMDQuMjYuMC45NSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0
 vless://e6663d5f-35a8-419f-8a1a-6b873b320b7f@185.146.173.94:8880?security=none&type=ws&host=xn---qhantayawi--f-9wl9bqtr75a955a5b97asba44yjwac23607hkhja.lightning6.xyz.&path=/@LIGHTNING6,@LIGHTNING6#SE🇸🇪
 
 trojan://dba20dcb635e430fa4d3bfc303a149d2@190.93.246.247:443/?type=ws&host=jobscareerforlawyers.com&path=6b777a91&security=tls&sni=jobscareerforlawyers.com#CR🇨🇷
-
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.17.219.172:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#IE🇮🇪
-
-vless://c8aa3dce-77b8-4cca-b313-89ce5c015137@104.18.202.232:8080?security=none&type=ws&host=369.xn--cr8haa.V2ray.xn--1ug4145pija8k.freeV2ray.onflashdrive.app.&path=TELEGRAM@SiNABiGO#CA🇨🇦
-
-trojan://4732adfa16c6450bbef87264e41332db@104.16.192.138:443/?type=ws&host=jobscareerforlawyers.com&path=6b777a91&security=tls&sni=jobscareerforlawyers.com&allowInsecure=1#CA🇨🇦
-
-vmess://eyJ2IjoiMiIsImFkZCI6IjUwNS5vdXRsaW5lLXZwbi5jbG91ZCIsInBvcnQiOiI0NDMiLCJpZCI6IjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiJrZWxsaWUubWFrZXVwIiwicGF0aCI6IlwvbGlua3Z3cyIsInRscyI6InRscyIsInNuaSI6ImtlbGxpZS5tYWtldXAiLCJhbHBuIjoiIiwiZnAiOiJjaHJvbWUiLCJwcyI6IkNBXHVkODNjXHVkZGU4XHVkODNjXHVkZGU2In0=
-
-trojan://telegram-id-directvpn@16.171.229.146:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#SE🇸🇪
-
-vless://074b5ce6-6ac9-4c8e-bdf1-fee62f9a447d@LIGHTNING6-joinbede.mamd.sbs:8880?path=/@LIGHTNING6,#SE🇸🇪
-
-vmess://eyJhZGQiOiIxMDguMTgxLjIwMC4yMjAiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImhvc3QiOiIiLCJpZCI6IjA5ZTgxZWFhLWQyOTgtNDMyYy1lN2I2LTE3YWRkMzJkMTRmYyIsIm5ldCI6IndzIiwicGF0aCI6IlwvIiwicG9ydCI6IjUwNjEzIiwicHMiOiJVU1x1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmOCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==
-
-vmess://eyJhZGQiOiIxMDQuMjEuMTUuMjEyIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJnbHdlaWRmLnNicyIsImlkIjoiNzYyMjFiZmItZTkyZi00ZTgwLTgxYzUtNmZlNDhmNTBhYzBiIiwibmV0Ijoid3MiLCJwYXRoIjoiXC9saW5rd3MiLCJwb3J0IjoiNDQzIiwic2N5IjoiYXV0byIsInNuaSI6Imdsd2VpZGYuc2JzIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIiwicHMiOiJDQVx1ZDgzY1x1ZGRlOFx1ZDgzY1x1ZGRlNiJ9
 
 vless://d294366a-73ad-4ba8-ba96-5b249fec4089@172.67.97.9:443?path=/?ed=2048&security=tls&encryption=none&host=proxystorr1.kodaksho.eu.org&fp=randomized&type=ws&sni=proxystorr1.kodaksho.eu.org#CA🇨🇦
 
