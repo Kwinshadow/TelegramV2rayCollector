@@ -36,7 +36,7 @@ vless://2cd43f95-7f19-4a94-acae-aa5ca0825724@162.159.23.17:2096?mode=gun&securit
 
 vless://2cd43f95-7f19-4a94-acae-aa5ca0825724@discord.gg:2096?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&authority=&type=grpc&serviceName=korosh&sni=korosh.orewasanji.fun#US🇺🇸
 
-vless://94f0b35d-93f1-4df5-965b-dca7fb84ab9f@chat.openai.com:8080?path=/melov2ray&security=none&encryption=none&host=de.过滤器.store.&type=ws#US🇺🇸
+vless://94f0b35d-93f1-4df5-965b-dca7fb84ab9f@chat.openai.com:8080?path=/melov2ray&security=none&encryption=none&host=de.过滤器.store.&type=ws#CA🇨🇦
 
 vless://ea875b96-be12-4bba-f558-3c8777882874@litespeed.vds-server.ir:2052?path=/&security=none&encryption=none&type=ws#US🇺🇸
 
@@ -116,6 +116,22 @@ vmess://eyJhZGQiOiIxMDQuMjEuODMuMTA4IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhv
 
 vmess://eyJhZGQiOiIxNzIuNjcuNzEuMTYwIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJvYmRpaS5jZmQiLCJpZCI6IjA1NjQxY2Y1LTU4ZDItNGJhNC1hOWYxLWIzY2RhMGIxZmIxZCIsIm5ldCI6IndzIiwicGF0aCI6IlwvbGlua3dzIiwicG9ydCI6IjQ0MyIsInBzIjoiQ0FcdWQ4M2NcdWRkZThcdWQ4M2NcdWRkZTYiLCJzY3kiOiJhdXRvIiwic25pIjoib2JkaWkuY2ZkIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=
 
+vmess://eyJhZGQiOiJkZTAxLmFwcGxlaWQuYmYiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImRlMDEuYXBwbGVpZC5iZiIsImlkIjoiMWZiY2M4YTQtMWY0ZC00OWU4LTkwODctOTQ1Y2VkZWUxMDcyIiwibmV0Ijoid3MiLCJwYXRoIjoiXC93cz9lZD0yMDQ4IiwicG9ydCI6IjIwODYiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIiwicHMiOiJDQVx1ZDgzY1x1ZGRlOFx1ZDgzY1x1ZGRlNiJ9
+
+vless://d672ec4f-afba-4f61-af09-eec872f97e99@104.21.192.45:443?security=tls&sni=test35.pages.dev&type=ws&host=test35.pages.dev&path=/#CA🇨🇦
+
+vmess://eyJhZGQiOiI2Ni4yMjUuMjI4LjExMyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiIwMTg1ZWY0Mi0xZjQ1LTQ1Y2EtOTg5NC1jMTIyMDIwZjk1ZGIiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjQyMjA4Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIiLCJwcyI6IlVTXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4In0=
+
+vmess://eyJ2IjoiMiIsImFkZCI6IjM4LjE0Ny4xODkuMTgwIiwicG9ydCI6IjM3MDc4IiwiaWQiOiJkNWUxNmEyOC1hZmE4LTRiNjQtYTQ1OS1kYjMyZDE0Y2Q0ZDEiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJodHRwIiwiaG9zdCI6IiIsInBhdGgiOiJcLyIsInRscyI6IiIsInNuaSI6IiIsImFscG4iOiIiLCJwcyI6IkhLXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwIn0=
+
+vless://3554d65d-738b-474c-80ea-ebf1e26f5a08@confingland-uae.pages.dev:443?path=/QJXZLKrI0afqLBAA&security=tls&encryption=none&host=confingland-uae.pages.Dev&fp=randomized&type=ws&sni=confingland-uae.pages.Dev#NL🇳🇱
+
+vless://947f7817-a76c-4754-91ce-72ab164f82b6@95.179.160.17:8443?security=none&type=tcp&host=speedtest.net&path=/&headerType=http#DE🇩🇪
+
+vless://ae8e1a57-75fc-4d8d-b186-bfa92e5473c5@104.16.93.87:2083?security=tls&sni=isa.kasler.sbs&type=grpc&serviceName=کانال @ev2rayy&alpn=h2,http/1.1#CA🇨🇦
+
+vless://b487fa42-4108-4124-a7fc-7b369d2afd84@104.18.203.232:443?security=tls&sni=PpAl03.LAYLA-DONnELLY-jR.WORKerS.dEv&type=ws&host=PpAl03.laYlA-DonnelLy-JR.WORKerS.dev&fp=randomized&alpn=h2,http/1.1#CA🇨🇦
+
 vmess://eyJhZGQiOiJzeTQuNjEwNzEwLnh5eiIsImFpZCI6MCwiaG9zdCI6InN5NC42MTA3MTAueHl6IiwiaWQiOiIwMjAwODQxYy01M2JiLTRhMDgtYWFhZi1jMTQ5MjI1YjQ0NzMiLCJuZXQiOiJ3cyIsInBhdGgiOiJcLz9lZD0yMDQ4IiwicG9ydCI6NDQzLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiIiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiYXV0byIsInBzIjoiQ0FcdWQ4M2NcdWRkZThcdWQ4M2NcdWRkZTYifQ==
 
 vless://eddb96e5-5175-49dd-9e8e-eeffc140b79d@discord.gg:80?path=/&security=none&encryption=none&host=ShhProxyFreViP.免费上网85.org.&type=ws#CA🇨🇦
@@ -152,22 +168,6 @@ vmess://eyJhZGQiOiJjMi52MnJheWJyYXNpbC5jbG91ZCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAi
 
 vmess://eyJhZGQiOiI0NS43Ni4xOC4xOTciLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiYWU3MTBiZjMtMjI5YS00ZjMxLWQ5OTAtOTcxYjgzMWM4OTg1IiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIyMDcwMyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIiLCJwcyI6IlVTXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4In0=
 
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@16.170.187.100:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#SE🇸🇪
-
-vmess://eyJhZGQiOiJzeTQuNjEwNzEwLnh5eiIsImFpZCI6MCwiaG9zdCI6InN5NC42MTA3MTAueHl6IiwiaWQiOiIwMjAwODQxYy01M2JiLTRhMDgtYWFhZi1jMTQ5MjI1YjQ0NzMiLCJuZXQiOiJ3cyIsInBhdGgiOiJcLz9lZD0yMDQ4IiwicG9ydCI6NDQzLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiIiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiYXV0byIsInBzIjoiQ0FcdWQ4M2NcdWRkZThcdWQ4M2NcdWRkZTYifQ==
-
-vless://7fd7c15d-95cd-4f5c-bf59-f21e5eb27580@104.17.94.171:2096?path=Telegram-V2ray_Alpha/?ed=2048&security=tls&encryption=none&host=3k.dabee.top&type=ws&sni=3k.dabee.top#CA🇨🇦
-
-vmess://eyJ2IjoiMiIsImFkZCI6ImMyLnYycmF5YnJhc2lsLmNsb3VkIiwicG9ydCI6IjIwODIiLCJ0eXBlIjoibm9uZSIsImlkIjoiMDA5ZDMyMGEtNTk2MC00OWU2LTk5YzMtMzAxOTY2ZmY2ZmVhIiwiYWlkIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6IlwvIiwiaG9zdCI6ImJiaC5yZWRidWxscGx1cy54eXoiLCJ0bHMiOiIiLCJwcyI6IkNBXHVkODNjXHVkZGU4XHVkODNjXHVkZGU2In0=
-
-vless://b391e701-c5a5-4328-b1b9-c8643e3f2498@104.26.13.8:2083?security=tls&sni=fincdnws.mahanmrz.top&type=ws&host=fincdnws.mahanmrz.top&path=/mahanvip?ed=2053#CA🇨🇦
-
-vless://b7a7d563-7af3-43d8-862c-e087c2a7bdad@104.26.7.89:443?security=tls&sni=dm.irandtehran.org&type=grpc&serviceName=@ipV2Ray&fp=chrome&alpn=h2,http/1.1#CA🇨🇦
-
-vmess://eyJ2IjoiMiIsImFkZCI6Im80LjYxMDcxMC54eXoiLCJwb3J0IjoiNDQzIiwidHlwZSI6Im5vbmUiLCJpZCI6IjAyMDA4NDFjLTUzYmItNGEwOC1hYWFmLWMxNDkyMjViNDQ3MyIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiJcLz9lZD0yMDQ4IiwiaG9zdCI6Im80LjYxMDcxMC54eXoiLCJ0bHMiOiJ0bHMiLCJwcyI6IkNBXHVkODNjXHVkZGU4XHVkODNjXHVkZGU2In0=
-
-vless://7fd7c15d-95cd-4f5c-bf59-f21e5eb27580@104.19.204.138:2083?path=【TG：@juzibaipiao】定时更新节点&security=tls&encryption=none&host=3k.dabee.top&type=ws&sni=3k.dabee.top#CA🇨🇦
-
 vless://d294366a-73ad-4ba8-ba96-5b249fec4089@172.67.97.9:443?path=/?ed=2048&security=tls&encryption=none&host=proxystorr1.kodaksho.eu.org&fp=randomized&type=ws&sni=proxystorr1.kodaksho.eu.org#CA🇨🇦
 
 vless://d294366a-73ad-4ba8-ba96-5b249fec4089@172.67.97.9:80?path=/?ed=2048&security=none&encryption=none&host=proxystorr1.kodaksho.eu.org&type=ws#CA🇨🇦
@@ -177,8 +177,6 @@ vless://91706b51-0848-5aec-bdb3-9a8be235bae5@104.22.43.115:2083?path=vless-ws/?e
 vless://91706b51-0848-5aec-bdb3-9a8be235bae5@104.16.99.244:2053?path=vless-ws/?ed=2048&security=tls&encryption=none&alpn=h2,http/1.1&host=vfarid.proxxystore11.wOrKERs.DEV&fp=chrome&type=ws&sni=vfarid.proxxystore11.wOrKERs.DEV#CA🇨🇦
 
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@proxystore11.kodaksho.eu.org:443?path=/7lVHf1tsShSmbqwD?ed=2048&security=tls&encryption=none&alpn=h2,http/1.1&host=PROXYStore11.KodAKSho.eu.oRG&fp=randomized&type=ws&sni=prOXysTORE11.Kodaksho.eu.oRG#INT🌍
-
-vless://0c9b3f68-f2f2-4867-b895-bb59be981593@104.27.107.77:443?path=/?ed=2048&security=tls&encryption=none&host=proxystore11.kodaksho.eu.org&fp=randomized&type=ws&sni=proxystore11.kodaksho.eu.org#CA🇨🇦
 
 vless://107d3a95-e17e-4931-94b9-e42cdcabb05b@185.146.173.20:80?path=/backup&security=none&encryption=none&host=MFvh5agb49bGYkqzTHqC.dl-onLiNeDOCtOR.BIO&type=ws#SE🇸🇪
 
