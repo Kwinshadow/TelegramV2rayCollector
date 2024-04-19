@@ -130,6 +130,22 @@ vless://8a052c65-bdf6-485a-c1d7-cb2b23f15dfa@104.16.6.65:443?path=/&security=tls
 
 vless://a61eb3a2-1adb-48cb-ab46-ce225769de16@104.16.68.38:80?path=users?ed=2048&security=none&encryption=none&host=ada3.qowch.com&type=ws#CA🇨🇦
 
+vless://d9b3134e-007e-41e0-a146-8c53977e27f5@104.25.221.166:443?security=tls&sni=academivpn1-bo7.pages.dev&type=ws&host=academivpn1-bo7.pages.dev&path=/#CA🇨🇦
+
+vless://064363e7-d60e-11ee-aaa8-00505603e70d@discord.gg:443?path=/websocket?ed=@alpha_v2ray_fazayi,@alpha_v2ray_fazayi,@alpha_v2ray_fazayi&security=tls&encryption=none&alpn=h2,http/1.1&host=st-fr-1.brocdn.com&fp=ios&type=ws&sni=st-fr-1.brocdn.com#CA🇨🇦
+
+vless://de6195a2-2d17-4423-801b-6bc4fe8aba79@104.21.3.3:8080?security=none&type=ws&host=maz.像鸟一样自由.online.&path=@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet#CA🇨🇦
+
+vless://66dfb5f2-1c63-4d82-94a7-0915bedd93b9@104.21.32.238:443?security=tls&sni=knocked.aurorainiceland.com&type=ws&host=knocked.aurorainiceland.com&path=/nimws?ed=@alpha_v2ray_fazayi,@alpha_v2ray_fazayi,@alpha_v2ray_fazayi&fp=safari#CA🇨🇦
+
+vless://66dfb5f2-1c63-4d82-94a7-0915bedd93b9@kitab.fun:443?path=/nimws?ed=@alpha_v2ray_fazayi,@alpha_v2ray_fazayi,@alpha_v2ray_fazayi&security=tls&encryption=none&host=knocked.aurorainiceland.com&fp=safari&type=ws&sni=knocked.aurorainiceland.com#CA🇨🇦
+
+vless://34462e1f-28f5-4db7-8020-ca15aa1e72fc@162.159.134.234:8443?security=tls&sni=v-2rey-channel.pages.dev&type=ws&host=v-2rey-channel.pages.dev&path=/Teleram:#CA🇨🇦
+
+ss://MjVkMGVlMmQtNDE5MC01MmJlLWI4OTItNDU4MTFjNmJhMjEwOg==@www.speedtest.net:8443#CA🇨🇦
+
+vless://10a2e26b-dabe-4638-aec7-28f82394ca54@185.146.173.94:8880?security=none&type=ws&host=xn---qhantayawi--b-9wl9bqtr75a955a5b97asba44yjwac23607hkhja.lightning6.xyz.&path=/@LIGHTNING6, @LIGHTNING6#SE🇸🇪
+
 vmess://eyJ2IjoiMiIsImFkZCI6ImNoLmhvcGV2MnJheS5saW5rIiwicG9ydCI6IjQ0MyIsImlkIjoiZThmNWYxODktOTdjNy00ODQ1LThjZmEtMDhiZjk4MzZjMWNlIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJob3N0IjoiZnIyLXZtZXNzLnNzaG1heC54eXoiLCJwYXRoIjoiXC92bWVzcyIsInRscyI6InRscyIsInNuaSI6ImZyMi12bWVzcy5zc2htYXgueHl6IiwicHMiOiJVU1x1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmOCJ9
 
 vless://3e1e69d5-d8a7-4603-a589-91139650b0c4@162.159.153.2:8443?security=tls&sni=bia-falcunargo-france.falcunar.asso.eu.org&type=ws&host=bia-falcunargo-france.falcunar.asso.eu.org&path=/?ed=2048&fp=random#CA🇨🇦
@@ -167,22 +183,6 @@ vless://664f5f11-1231-486d-b416-b7b3ecdae76a@104.22.2.79:443?security=tls&sni=HE
 ss://MDg5ZjRlMmUtMjE2Ny00ZTRjLWEwNTAtOTFiOTk5N2JhMGI5Og==@ilm.minusober.com:443#CA🇨🇦
 
 vless://13d40b6e-aba2-4d95-a506-5f05b0582cea@104.26.15.85:2053?security=tls&sni=Tgju.org&path=/@HosseinStore_Za,@HosseinStore_Za,@HosseinStore_Za,@HosseinStore_Za,@HosseinStore_Za,@HosseinStore_Za,@HosseinStore_Za,@HosseinStore_Za,@HosseinStore_Za,@HosseinStore_Za,@HosseinStore_Za,@HosseinStore_Za&alpn=http/1.1&allowInsecure=1#CA🇨🇦
-
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.47.201:443?path=/Xt9O5m2Tcr8DTegz?ed=2560&security=tls&encryption=none&alpn=h2,http/1.1&host=d6f1D970.oxNEt-Ir-xZu871.pAGES.DeV&fp=randomized&type=ws&sni=D6F1D970.oxNeT-ir-XZU871.PageS.DeV#CA🇨🇦
-
-ss://MTcwMjczNGEtZmU0My00YjQ1LThhMDMtMWVmMTJjNTcwOWU1Og==@worker-super-cake-c026.gogoligogoli26.workers.dev:443#CA🇨🇦
-
-vless://13d40b6e-aba2-4d95-a506-5f05b0582cea@Tgju.org:2053?path=/@HosseinStore_Za,@HosseinStore_Za,@HosseinStore_Za,@HosseinStore_Za,@HosseinStore_Za,@HosseinStore_Za,@HosseinStore_Za,@HosseinStore_Za,@HosseinStore_Za,@HosseinStore_Za,@HosseinStore_Za,@HosseinStore_Za&security=tls&encryption=none&alpn=http/1.1,h2&host=lan.protoeinpaitakht.com&fp=firefox&type=ws&sni=lan.protoeinpaitakht.com#CA🇨🇦
-
-vless://f21bd1f1-e293-40a0-974b-8825eaf89e66@104.17.42.10:2083?mode=gun&security=tls&encryption=none&authority=&fp=chrome&type=grpc&serviceName=&sni=dlqz.meysaam.com#CA🇨🇦
-
-vless://f21bd1f1-e293-40a0-974b-8825eaf89e66@Zula.ir:2083?mode=gun&security=tls&encryption=none&fp=chrome&type=grpc&serviceName=&sni=dlqz.meysaam.com#NL🇳🇱
-
-vmess://eyJ2IjoiMiIsImFkZCI6IjEwNC4xNi40Ny4xODEiLCJwb3J0IjoiNDQzIiwidHlwZSI6Im5vbmUiLCJpZCI6IjFlOWJlNDIxLTQxMzUtNGVkYi05NjU1LTgwNDA0Mjc1MzQ0MiIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiJcL3lvcmtub2Rlcy1kZTEiLCJob3N0IjoiZXUxOS4xNDQwNTAuY2YiLCJ0bHMiOiJ0bHMiLCJwcyI6IkNBXHVkODNjXHVkZGU4XHVkODNjXHVkZGU2In0=
-
-vmess://eyJ2IjoiMiIsImFkZCI6IjEwNC4yMS4yOC42MiIsInBvcnQiOiI0NDMiLCJpZCI6ImFlZTdkMjhhLTlkNjAtNDQyYi05YzU4LWUzMDU0NDUzMzdkOSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwiaG9zdCI6Imt6MS12bWVzcy5zc2htYXgueHl6IiwicGF0aCI6Ilwvdm1lc3MiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJrejEtdm1lc3Muc3NobWF4Lnh5eiIsInBzIjoiQ0FcdWQ4M2NcdWRkZThcdWQ4M2NcdWRkZTYifQ==
-
-vless://b9f2a247-d798-443b-b69d-ebbc78c04001@212.33.198.117:19196?security=none&type=tcp&host=speedtest.net&path=/&headerType=http#IR🇮🇷
 
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@proxystore11.kodaksho.eu.org:443?path=/W61pr1pZ952bRLpp?ed=2048&security=tls&encryption=none&alpn=h2,http/1.1&host=proXYstore11.koDaKSHo.EU.ORG&fp=randomized&type=ws&sni=PRoxYsTOre11.KoDakShO.eU.oRG#CA🇨🇦
 
