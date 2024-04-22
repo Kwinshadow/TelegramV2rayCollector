@@ -66,7 +66,7 @@ vless://c2ec17cc-e5a9-4f4a-88dc-496e3215dbab@104.18.158.102:443?path=Telegram-Fr
 
 vless://8721355e-96d5-4bb9-a99b-b6119d6b1cd4@www.ZuLa.ir:2096?path=Telegram-proxy_mtm/?ed=2048&security=tls&encryption=none&alpn=h2,http/1.1&host=S3lBNf04KTPltic8C1EfLqq73QtMKz7zlYH9qRC0U6GM8x174e8w8DSLaK.Pages.DeV&fp=chrome&type=ws&sni=S3lBNf04KTPltic8C1EfLqq73QtMKz7zlYH9qRC0U6GM8x174e8w8DSLaK.Pages.DeV#NL🇳🇱
 
-vless://79473718-0451-41c3-a0a2-9f6d21c99f75@9052b030.joinmahdiserver-90p.pages.dev:443?path=/?ed=2048&security=tls&encryption=none&host=9052b030.joinmahdiserver-90p.pages.dev&fp=randomized&type=ws&sni=9052b030.joinmahdiserver-90p.pages.dev#US🇺🇸
+vless://79473718-0451-41c3-a0a2-9f6d21c99f75@9052b030.joinmahdiserver-90p.pages.dev:443?path=/?ed=2048&security=tls&encryption=none&host=9052b030.joinmahdiserver-90p.pages.dev&fp=randomized&type=ws&sni=9052b030.joinmahdiserver-90p.pages.dev#NL🇳🇱
 
 vless://c2ec17cc-e5a9-4f4a-88dc-496e3215dbab@104.18.158.102:443?path=Telegram-proxy_mtm/?ed=2048&security=tls&encryption=none&alpn=h2,http/1.1&host=saLaM-Word.PaGeS.Dev&fp=randomized&type=ws&sni=sALAm-wOrD.pagEs.deV#CA🇨🇦
 
@@ -104,9 +104,11 @@ vless://1d86846c-5a27-43c8-8981-57bb75c82195@speedtest.org:443?path=/paradise&se
 
 vless://107d3a95-e17e-4931-94b9-e42cdcabb05b@172.67.204.84:80?path=/backup&security=none&encryption=none&host=MFvh5agb49bGYkqzTHqC.dl-onLiNeDOCtOR.BIO&type=ws#CA🇨🇦
 
-vless://90a0c9d0-2a2e-4d32-91b0-3c92ebc02b0c@proxystore11.site:443?path=/?ed=2048&security=tls&encryption=none&host=proxystore1.kodaksho.eu.org&fp=randomized&type=ws&sni=proxystore1.kodaksho.eu.org#INT🌍
+vless://25d0ee2d-4190-52be-b892-45811c6ba210@104.18.202.232:2083?security=tls&sni=folani.iiipok.wOrKERs.DEv&type=ws&host=folani.iiipok.wOrKERs.DEv&path=/vless-ws/?ed=2048&fp=random&alpn=h3,h2#CA🇨🇦
 
-vless://90a0c9d0-2a2e-4d32-91b0-3c92ebc02b0c@proxystore11.site:80?path=/?ed=2048&security=none&encryption=none&host=proxystore1.kodaksho.eu.org&type=ws#INT🌍
+vless://90a0c9d0-2a2e-4d32-91b0-3c92ebc02b0c@proxystore11.site:443?path=/?ed=2048&security=tls&encryption=none&host=proxystore1.kodaksho.eu.org&fp=randomized&type=ws&sni=proxystore1.kodaksho.eu.org#CA🇨🇦
+
+vless://90a0c9d0-2a2e-4d32-91b0-3c92ebc02b0c@proxystore11.site:80?path=/?ed=2048&security=none&encryption=none&host=proxystore1.kodaksho.eu.org&type=ws#CA🇨🇦
 
 vless://7b9f4ae9-ae9b-4078-8da9-8bfab43e2be1@104.21.46.85:2087?mode=gun&security=tls&encryption=none&authority=&fp=firefox&type=grpc&serviceName=@ViraV2ray,@ViraPN,@ViraV2ray,@ViraPN,@ViraV2ray,@ViraPN,@ViraV2ray,@ViraPN,@ViraV2ray,@ViraPN&sni=vira-v2-3be7883659a1d2ba4c545dfdf85b61eda1.asiatechnicalwest.ir.#CA🇨🇦
 
