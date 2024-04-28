@@ -98,11 +98,11 @@ vless://5874cb3d-dadb-4537-e7bc-d56fcb90d7cb@104.16.61.8:2053?path=/&security=tl
 
 vless://07464341-d0d4-4561-9740-3328bca9fc57@104.17.169.114:80?path=/Telegram:@UnlimitedDev-Telegram:@UnlimitedDev-Telegram:@UnlimitedDev&security=none&encryption=none&host=unlimiteddev.xn--9iqr0tm1r4wg.co.&type=ws#CA🇨🇦
 
+vless://cabcbaa-caba-acba-cadb-ccbbaacbcaba@127.0.0.1:1080?security=tls&type=tcp#INT🌍
+
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@16.170.43.14:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#SE🇸🇪
 
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.21.83.136:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#SE🇸🇪
-
-vless://f1f0c150-e276-4865-80cb-5f2e35888e81@104.21.69.44:8443?security=tls&sni=shsha.servernet.cfd&type=grpc&serviceName=@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett&fp=random&alpn=h2,http/1.1#CA🇨🇦
 
 vless://0a48e54b-659e-4b3c-95e6-14da04954f25@time.is:443?path=/?ed=2048&security=tls&encryption=none&host=ir.proxystorepanel.eu.org&fp=randomized&type=ws&sni=ir.proxystorepanel.eu.org#CA🇨🇦
 
