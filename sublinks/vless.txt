@@ -30,7 +30,7 @@ vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@198.41.198.76:443?path=/?ed&securit
 
 vless://8a052c65-bdf6-485a-c1d7-cb2b23f15dfa@104.16.6.65:443?path=/&security=tls&encryption=none&host=germany-frankfurt.bitplatform.cloud&fp=random&type=ws&sni=germany-frankfurt.bitplatform.cloud#US🇺🇸
 
-vless://0a48e54b-659e-4b3c-95e6-14da04954f25@time.is:443?path=/?ed=2048&security=tls&encryption=none&host=ir.proxystorepanel.eu.org&fp=randomized&type=ws&sni=ir.proxystorepanel.eu.org#CA🇨🇦
+vless://0a48e54b-659e-4b3c-95e6-14da04954f25@time.is:443?path=/?ed=2048&security=tls&encryption=none&host=ir.proxystorepanel.eu.org&fp=randomized&type=ws&sni=ir.proxystorepanel.eu.org#US🇺🇸
 
 vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@198.41.198.76:443?path=/?ed&security=tls&encryption=none&host=jd.wxgqlfx.top&type=ws&sni=jd.wxgqlfx.top#US🇺🇸
 
@@ -40,7 +40,7 @@ vless://96ba9325-c815-4537-b12f-0932ce2e53a5@www.speedtest.net:443?path=/AsdASDk
 
 vless://0a48e54b-659e-4b3c-95e6-14da04954f25@time.is:80?path=/?ed=2048&security=none&encryption=none&host=ir.proxystorepanel.eu.org&type=ws#CA🇨🇦
 
-vless://Telegram-ipV2Ray-rzw@172.66.213.5:80?path=/Telegram-ipV2Ray?ed=2048&security=none&encryption=none&host=12.ftp.debian.org.www.speedtest.net.免费上网68.Site.&type=ws#US🇺🇸
+vless://Telegram-ipV2Ray-rzw@172.66.213.5:80?path=/Telegram-ipV2Ray?ed=2048&security=none&encryption=none&host=12.ftp.debian.org.www.speedtest.net.免费上网68.Site.&type=ws#CA🇨🇦
 
 vless://b5777406-375b-44e0-a795-e70481cf6053@217.60.247.67:443?security=none&encryption=none&headerType=http&type=tcp#IR🇮🇷
 
@@ -74,9 +74,9 @@ vless://-MsV2ray-MsV2ray-MsV2ray-@185.146.173.58:80?path=/MsV2ray-MsV2ray-MsV2ra
 
 vless://555a68f2-381f-4632-836e-9c2e74192b32@104.17.169.114:80?path=/Telegram:@UnlimitedDev-Telegram:@UnlimitedDev-Telegram:@UnlimitedDev&security=none&encryption=none&host=unlimiteddev.xn--9iqr0tm1r4wg.co.&type=ws#CA🇨🇦
 
-vless://f6ff0cc4-a9cf-4c13-aec0-d1a6618f8057@172.67.205.127:2053?security=tls&sni=alfredo.zmv2ray.site&type=grpc&serviceName=@Alfred_Config&alpn=h2,http/1.1&allowInsecure=1#CA🇨🇦
+vless://bcbaaca-caab-aacb-bdca-bbcbaaccabca@127.0.0.1:8080?security=tls&type=tcp#INT🌍
 
-vless://6f06df36-53b5-4587-af85-1b878b004885@pch-ipp.poshakbany.ir:2096?mode=gun&security=tls&encryption=none&alpn=h2&authority=&fp=chrome&type=grpc&serviceName=/Telegram:#DE🇩🇪
+vless://f6ff0cc4-a9cf-4c13-aec0-d1a6618f8057@172.67.205.127:2053?security=tls&sni=alfredo.zmv2ray.site&type=grpc&serviceName=@Alfred_Config&alpn=h2,http/1.1&allowInsecure=1#CA🇨🇦
 
 vless://0a48e54b-659e-4b3c-95e6-14da04954f25@time.is:443?path=/?ed=2048&security=tls&encryption=none&host=ir.proxystorepanel.eu.org&fp=randomized&type=ws&sni=ir.proxystorepanel.eu.org#CA🇨🇦
 
