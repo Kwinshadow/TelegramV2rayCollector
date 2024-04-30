@@ -32,19 +32,19 @@ vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@198.41.198.76:443?path=/?ed&securit
 
 vless://de70c2ab-3b16-44c2-8579-9b05fedc3b36@172.66.44.139:443?path=/?ed&security=tls&encryption=none&host=pardazeshvpn-tg3.pages.dev&fp=randomized&type=ws&sni=pardazeshvpn-tg3.pages.dev#US🇺🇸
 
-vless://de70c2ab-3b16-44c2-8579-9b05fedc3b36@pardazeshvpn-tg3.pages.dev:443?path=/?ed&security=tls&encryption=none&host=pardazeshvpn-tg3.pages.dev&fp=randomized&type=ws&sni=pardazeshvpn-tg3.pages.dev#NL🇳🇱
+vless://de70c2ab-3b16-44c2-8579-9b05fedc3b36@pardazeshvpn-tg3.pages.dev:443?path=/?ed&security=tls&encryption=none&host=pardazeshvpn-tg3.pages.dev&fp=randomized&type=ws&sni=pardazeshvpn-tg3.pages.dev#US🇺🇸
 
 vless://00ba09be-b38c-4780-968e-010168a7dc02@chat.openai.com:8080?path=/melov2ray&security=none&encryption=none&host=de.过滤器.store.&type=ws#US🇺🇸
 
 vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@198.41.198.76:443?path=/Telegram-MARAMBASHI/?ed&security=tls&encryption=none&host=jd.wxgqlfx.top&type=ws&sni=jd.wxgqlfx.top#CA🇨🇦
 
-vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@198.41.198.76:443?path=/?ed=2048&security=tls&encryption=none&host=jd.wxgqlfx.top&type=ws&sni=jd.wxgqlfx.top#CA🇨🇦
+vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@198.41.198.76:443?path=/?ed=2048&security=tls&encryption=none&host=jd.wxgqlfx.top&type=ws&sni=jd.wxgqlfx.top#US🇺🇸
 
-vless://2bcc97b3-ce59-412f-a09d-7ef8e38688f8@www.speedtest.net.cdn.cloudflare.net:2082?path=/?ed=2560&security=none&encryption=none&host=列列男事的事列上赛男.novaball.LINK.&type=ws#US🇺🇸
+vless://2bcc97b3-ce59-412f-a09d-7ef8e38688f8@www.speedtest.net.cdn.cloudflare.net:2082?path=/?ed=2560&security=none&encryption=none&host=列列男事的事列上赛男.novaball.LINK.&type=ws#CA🇨🇦
 
 vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@198.41.198.76:443?path=/?ed&security=tls&encryption=none&host=jd.wxgqlfx.top&type=ws&sni=jd.wxgqlfx.top#CA🇨🇦
 
-vless://bda3d6d6-6afe-4f16-ad4b-370137a2c856@zula.ir:443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&authority=&type=grpc&serviceName=&sni=akjdkjdklajssiajddqijidjiqdhdnqidji.subbestvip.shop#US🇺🇸
+vless://bda3d6d6-6afe-4f16-ad4b-370137a2c856@zula.ir:443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&authority=&type=grpc&serviceName=&sni=akjdkjdklajssiajddqijidjiqdhdnqidji.subbestvip.shop#NL🇳🇱
 
 vless://c0cf878e-08b3-4e10-b055-b334da6a6f71@www.speedtest.net:80?path=/?ed=2048&security=none&encryption=none&host=mihanyas.ir.zula.ir.xn--4all.vipleech.cc.&type=ws#CA🇨🇦
 
@@ -66,7 +66,7 @@ vless://b2cd6e11-61e2-4b26-9ad3-0cecf0721116@zula.ir:80?path=/@custom_config?ed&
 
 vless://-DIGIV2RAY-@104.18.202.232:80?path=/Digiv2ray-?Telegram&security=none&encryption=none&host=ædígí.RadioTeHran.oRG.&type=ws#CA🇨🇦
 
-vless://00ba09be-b38c-4780-968e-010168a7dc02@chat.openai.com:8080?path=/melov2ray&security=none&encryption=none&host=de.过滤器.store.&type=ws#CA🇨🇦
+vless://00ba09be-b38c-4780-968e-010168a7dc02@chat.openai.com:8080?path=/melov2ray&security=none&encryption=none&host=de.过滤器.store.&type=ws#US🇺🇸
 
 vless://05c6217f-b78d-4d18-855c-a7769115e3c5@www.speedtest.net:443?path=/?ed=2560&security=tls&encryption=none&host=kennywall.pages.dev&fp=randomized&type=ws&sni=kennywall.pages.dev#CA🇨🇦
 
@@ -77,6 +77,22 @@ vless://fe320deb-b941-48e2-b78a-33c503a04d91@zula.ir:8080?path=/FreeForiran-V2ra
 vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@198.41.198.76:443?path=/?ed&security=tls&encryption=none&host=jd.wxgqlfx.top&type=ws&sni=jd.wxgqlfx.top#CA🇨🇦
 
 vmess://eyJhZGQiOiJhY2hhbWFjaGFyLmdhemlhbnRlcHNwb3IuZXUiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImRpdmFyY2RuLmNvbSIsImlkIjoiNGIwZWI5NzktZmYzNC00M2ViLWEwZmYtNmYyNGUzNDMxMDc1IiwibmV0IjoidGNwIiwicGF0aCI6IlwvIiwicG9ydCI6Ijg5MzMiLCJwcyI6IklSXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJodHRwIiwidiI6IjIifQ==
+
+vmess://eyJhZGQiOiI1MS4xOTUuMTQwLjg3IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjI4ZjA4NDkzLWRlNmQtNDg2ZS04NGY1LTVhYmUwOTJmZjc4YiIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMzU5OTUiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInBzIjoiR0JcdWQ4M2NcdWRkZWNcdWQ4M2NcdWRkZTcifQ==
+
+vmess://eyJhZGQiOiI4LjIyMi4xODIuMTAiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6InMxYy52Mi52MDAxc3NzLnh5eiIsImlkIjoiMTEyYWMzNmYtM2Y1My00ZTI2LTgzNzEtZDI1YzAyOGUxYjlhIiwibmV0Ijoid3MiLCJwYXRoIjoiXC8iLCJwb3J0IjoiMjA4MiIsInBzIjoiU0dcdWQ4M2NcdWRkZjhcdWQ4M2NcdWRkZWMiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
+
+vmess://eyJhZGQiOiIyMTIuODAuOS4xMzMiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImRpdmFyLmlyIiwiaWQiOiI2OGYxYmZmMy05ZDAwLTRkOGQtYTgxMy00NjYzMjczMGJlODEiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiXC8iLCJwb3J0IjoiMjAwMiIsInBzIjoiSVJcdWQ4M2NcdWRkZWVcdWQ4M2NcdWRkZjciLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiJ9
+
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@169.197.142.4:8090#US🇺🇸
+
+vmess://eyJhZGQiOiIyMy45NC4xMDAuMTg3IiwiYWlkIjowLCJob3N0IjoiIiwiaWQiOiI0MDQ0MWI0Zi04ZTc0LTQwZDUtYThmMC04ZjFkYjA1ZTdhNTEiLCJuZXQiOiJ3cyIsInBhdGgiOiJcL2R3YXgiLCJwb3J0IjoyMjIxMCwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6ImF1dG8iLCJwcyI6IlVTXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4In0=
+
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@142.202.48.81:8090#US🇺🇸
+
+trojan://ccbaaab-caba-aabc-bdac-cacaabbbabcc@127.0.0.1:8080?security=tls&type=tcp#INT🌍
+
+vmess://eyJhZGQiOiI2NC4xNzYuMjE5LjE5MyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiIxZGQ3MGE1Zi1mYmJiLTRlNTgtOWQyOS1hNDA0MTU4NTNjODAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjQ4ODk1Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiIsInBzIjoiVVNcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjgifQ==
 
 vless://bf12b6fb-c980-4870-b73b-69aeeb79d845@104.21.82.17:443?security=tls&sni=uk2.v2vless.xyz&type=ws&host=uk2.v2vless.xyz&path=Join-Telegram-Channel-@AstroVPN_official/#CA🇨🇦
 
@@ -118,20 +134,6 @@ vmess://eyJ2IjoiMiIsInBzIjoiSU5UXHVkODNjXHVkZjBkIiwiYWRkIjoibHUxLmdvZ29nb28uY3lv
 
 vless://aaabccb-abac-caba-dbac-accaabcbbacb@127.0.0.1:8080?security=tls&type=tcp#INT🌍
 
-vmess://eyJhZGQiOiIxNzIuNjcuMTc0LjkyIiwiYWlkIjoiMCIsImFscG4iOiIiLCJob3N0IjoicWluMTQucm9uZzExMDQudWsiLCJpZCI6ImY4ZDJmZDMzLWFiOGUtNDAwNC1mOTdkLTEwZGRlODBhZjAxMCIsIm5ldCI6IndzIiwicGF0aCI6IlwvcWluMTQiLCJwb3J0IjoiMjA1MyIsInBzIjoiVVNcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjgiLCJzY3kiOiJhdXRvIiwic25pIjoicWluMTQucm9uZzExMDQudWsiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ==
-
-vmess://eyJ2IjoiMiIsImFkZCI6IjE3Mi4yMzMuMTY0LjMyIiwicG9ydCI6IjM5ODQxIiwiaWQiOiI0MjQyZDc0ZC1iNzQ4LTRlNzQtYTdjMi0yYmZiOWQ2ZWQxMjEiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsInBzIjoiVVNcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjgifQ==
-
-vmess://eyJhZGQiOiI0NS43Ni4xOC4xOTciLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiYWU3MTBiZjMtMjI5YS00ZjMxLWQ5OTAtOTcxYjgzMWM4OTg1IiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIyMDcwMyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwicHMiOiJVU1x1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmOCJ9
-
-vmess://eyJ2IjoiMiIsInBzIjoiSU5UXHVkODNjXHVkZjBkIiwiYWRkIjoiMzMwdHcuZmFuczgueHl6IiwicG9ydCI6IjQ0MyIsInR5cGUiOiJub25lIiwiaWQiOiI4MmE5Njc0My0xMTViLTM1NmQtOTBhZS0yOTI4ZjMyZDg5NTgiLCJhaWQiOiIyIiwibmV0Ijoid3MiLCJwYXRoIjoiXC9yYXkiLCJob3N0IjoiMzMwdHcuZmFuczgueHl6IiwidGxzIjoidGxzIn0=
-
-trojan://oMKdNpIpLqcP@57.180.27.109:15176?allowInsecure=0&sni=appsvs.shop#JP🇯🇵
-
-trojan://2JyODZAIwHYp@15.237.188.177:15159?allowInsecure=0&sni=appsvs.shop#FR🇫🇷
-
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@134.195.196.91:2375#CA🇨🇦
-
 vless://0a48e54b-659e-4b3c-95e6-14da04954f25@time.is:443?path=/?ed=2048&security=tls&encryption=none&host=ir.proxystorepanel.eu.org&fp=randomized&type=ws&sni=ir.proxystorepanel.eu.org#CA🇨🇦
 
 vless://0a48e54b-659e-4b3c-95e6-14da04954f25@time.is:80?path=/?ed=2048&security=none&encryption=none&host=ir.proxystorepanel.eu.org&type=ws#CA🇨🇦
@@ -140,7 +142,7 @@ vless://c0cf878e-08b3-4e10-b055-b334da6a6f71@www.speedtest.net:80?path=/?ed=2048
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#AE🇦🇪
 
-vless://00ba09be-b38c-4780-968e-010168a7dc02@chat.openai.com:8080?path=/melov2ray&security=none&encryption=none&host=de.过滤器.store.&type=ws#CA🇨🇦
+vless://00ba09be-b38c-4780-968e-010168a7dc02@chat.openai.com:8080?path=/melov2ray&security=none&encryption=none&host=de.过滤器.store.&type=ws#US🇺🇸
 
 vless://SVNTEAMm@mtn.VPNPROSEC.com:80?path=/SvnTeam-TeleGram-ChaNnel-VIP?ed=2048&security=none&encryption=none&host=SvnTeamV2rayGmTwo7.7.7.7.ir.Com.Site.xn--fhq0laa256bac7403eea044azr5g.CoM.&type=ws#NL🇳🇱
 
