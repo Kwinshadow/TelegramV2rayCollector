@@ -36,7 +36,7 @@ vless://5007dc3f-0270-4ed8-a210-1a1d7952756d@104.26.15.16:443?path=/JAR0HGBT6mwT
 
 vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@198.41.198.76:443?path=/?ed&security=tls&encryption=none&host=jd.wxgqlfx.top&type=ws&sni=jd.wxgqlfx.top#CA🇨🇦
 
-vless://5007dc3f-0270-4ed8-a210-1a1d7952756d@104.26.15.16:443?path=/JAR0HGBT6mwTVcbf?ed=2560&security=tls&encryption=none&alpn=http/1.1&host=bIA-paiN-BaCHE.pAGES.Dev&fp=randomized&type=ws&sni=bIA-paIn-bacHE.PAGeS.DEv#CA🇨🇦
+vless://5007dc3f-0270-4ed8-a210-1a1d7952756d@104.26.15.16:443?path=/JAR0HGBT6mwTVcbf?ed=2560&security=tls&encryption=none&alpn=http/1.1&host=bIA-paiN-BaCHE.pAGES.Dev&fp=randomized&type=ws&sni=bIA-paIn-bacHE.PAGeS.DEv#US🇺🇸
 
 vless://5007dc3f-0270-4ed8-a210-1a1d7952756d@104.26.15.16:443?path=/&security=tls&encryption=none&alpn=http/1.1&host=bIA-paiN-BaCHE.pAGES.Dev&fp=randomized&type=ws&sni=bIA-paIn-bacHE.PAGeS.DEv#CA🇨🇦
 
@@ -74,7 +74,7 @@ vless://60fb8922-f26e-4250-b51c-e2b0e0ea3fe8@www.speedtest.net:8080?path=/&secur
 
 vless://cd54ffe2-6415-4c8b-b0cc-28f6ee170b69@104.21.69.44:443?path=/vless?ed=2048&security=tls&encryption=none&host=telegram-falcunargo.pages.Dev&type=ws&sni=telegram-falcunargo.pages.Dev#CA🇨🇦
 
-vless://00ba09be-b38c-4780-968e-010168a7dc02@chat.openai.com:8080?path=/melov2ray&security=none&encryption=none&host=de.过滤器.store.&type=ws#US🇺🇸
+vless://00ba09be-b38c-4780-968e-010168a7dc02@chat.openai.com:8080?path=/melov2ray&security=none&encryption=none&host=de.过滤器.store.&type=ws#CA🇨🇦
 
 vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@198.41.198.76:443?path=/Telegram-MARAMBASHI/?ed&security=tls&encryption=none&host=jd.wxgqlfx.top&type=ws&sni=jd.wxgqlfx.top#CA🇨🇦
 
@@ -91,8 +91,6 @@ vless://e6adc035-2391-42ba-b650-725f14095b4c@172.66.213.0:80?type=ws&host=AllOpe
 vless://a06a1401-5767-45ba-9c01-300fab6b6cf9@104.18.176.33:80?security=none&type=ws&host=vmessorg1.xn--54qv00ez5ar77g.co&path=/Telegram:@vmessorg-Telegram:@vmessorg-Telegram:@vmessorg#CA🇨🇦
 
 vless://02dfc7eb-2dd6-475b-991c-b302ea593708@104.17.250.237:80?security=&type=ws&path=/Telegram:@vmessorg-Telegram:@vmessorg-Telegram:@vmessorg&host=vmessorg1.xn--54qv00ez5ar77g.co.&encryption=none#CA🇨🇦
-
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.96.252.234:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#CA🇨🇦
 
 vless://58be4dd6-80b2-483e-8182-d70ee5a533ec@free.proxystorepanel.eu.org:80?path=/?ed=2048&security=none&encryption=none&host=free.proxystorepanel.eu.org&type=ws#NL🇳🇱
 
