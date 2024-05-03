@@ -56,6 +56,10 @@ vless://5007dc3f-0270-4ed8-a210-1a1d7952756d@104.26.15.16:443?path=/JAR0HGBT6mwT
 
 vless://5007dc3f-0270-4ed8-a210-1a1d7952756d@104.26.15.16:443?path=/&security=tls&encryption=none&alpn=http/1.1&host=bIA-paiN-BaCHE.pAGES.Dev&fp=randomized&type=ws&sni=bIA-paIn-bacHE.PAGeS.DEv#US🇺🇸
 
+vless://00ed6d6c-85b7-4e89-b6c3-90d0c1e79452@64.23.138.88:2096?security=none&type=grpc&serviceName=winsec.cn#US🇺🇸
+
+vless://abcbaca-cbaa-abac-bacd-acaacabccbbb@127.0.0.1:1080?security=tls&type=tcp#
+
 vless://fec3a48b-a1e1-4065-8ef7-a0d7a58a3e3c@104.18.203.232:2053?security=tls&sni=rsbs3.golestan-vpn.link&type=ws&host=rsbs3.golestan-vpn.link&path=//goli&fp=chrome#US🇺🇸
 
 vless://65638e89-6bb7-4462-9acd-5885e6940705@162.159.135.234:2083?security=tls&sni=re2.v2logy.xyz&type=grpc&fp=chrome&alpn=http/1.1#US🇺🇸
@@ -69,10 +73,6 @@ vless://f02715eb-8d66-4492-9303-2ffa0c089a8c@185.146.173.59:80?path=/telegram-Af
 vless://7aa8628a-723d-4270-95c4-289ecc933cb4@104.21.69.44:80?security=none&type=ws&host=ShhProxyFreViP.免费上网85.org.&path=/?Telegram:@proxy_mtm#US🇺🇸
 
 vless://124db86d-5035-4a8e-b526-e69f983bdacf@185.146.173.59:80?Telegram=@V2RayTz,@V2RayTz&path=/&security=none&encryption=none&host=shhproxyfreesas.xn--85-pv2cl2k5x3fipr.org.&type=ws#SE🇸🇪
-
-vless://ff884731-2476-44aa-855c-a5384085672d@92.223.84.84:80?security=none&type=ws&host=mamanodamind.com&path=/ws#LU🇱🇺
-
-vless://b0e6a2c9-e667-4e42-9cb3-77d7db3e736b@www.speedtest.net:443?path=/@bypass_filter/?ed=2048&security=tls&encryption=none&host=bypass-filter.vikzrcqt.workers.dev&type=ws&sni=bypass-filter.vikzrcqt.workers.dev#US🇺🇸
 
 vless://19e1979d-f36c-491f-814a-ef08c96d4fd2@www.speedtest.net:80?path=/?ed=2048&security=none&encryption=none&host=free.proxystorepanel.eu.org&type=ws#US🇺🇸
 
