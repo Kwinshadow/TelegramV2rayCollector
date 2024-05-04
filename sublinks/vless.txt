@@ -56,6 +56,8 @@ vless://5007dc3f-0270-4ed8-a210-1a1d7952756d@104.26.15.16:443?path=/JAR0HGBT6mwT
 
 vless://5007dc3f-0270-4ed8-a210-1a1d7952756d@104.26.15.16:443?path=/&security=tls&encryption=none&alpn=http/1.1&host=bIA-paiN-BaCHE.pAGES.Dev&fp=randomized&type=ws&sni=bIA-paIn-bacHE.PAGeS.DEv#US🇺🇸
 
+vless://8827d14a-4459-4fcf-8ebb-b9cf15815c3b@LIGHTNING6-joinbede.filj.top:8880?path=/@LIGHTNING6,#SE🇸🇪
+
 vless://9c29a930-2a50-4cd2-a710-7db21b8096b7@104.21.73.84:8443?security=tls&sni=re1.v2logy.xyz&type=grpc&fp=chrome&alpn=http/1.1#US🇺🇸
 
 vless://9c29a930-2a50-4cd2-a710-7db21b8096b7@104.21.73.84:2096?security=tls&sni=re4.v2logy.xyz&type=grpc&fp=chrome&alpn=http/1.1#US🇺🇸
@@ -65,14 +67,6 @@ vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.128.144:443?security=tls&sn
 vless://00ed6d6c-85b7-4e89-b6c3-90d0c1e79452@64.23.138.88:2096?security=none&type=grpc&serviceName=winsec.cn#US🇺🇸
 
 vless://abcbaca-cbaa-abac-bacd-acaacabccbbb@127.0.0.1:1080?security=tls&type=tcp#
-
-vless://fec3a48b-a1e1-4065-8ef7-a0d7a58a3e3c@104.18.203.232:2053?security=tls&sni=rsbs3.golestan-vpn.link&type=ws&host=rsbs3.golestan-vpn.link&path=//goli&fp=chrome#US🇺🇸
-
-vless://65638e89-6bb7-4462-9acd-5885e6940705@162.159.135.234:2083?security=tls&sni=re2.v2logy.xyz&type=grpc&fp=chrome&alpn=http/1.1#US🇺🇸
-
-vless://9c29a930-2a50-4cd2-a710-7db21b8096b7@104.26.14.16:2096?security=tls&sni=re4.v2logy.xyz&type=grpc&fp=chrome&alpn=http/1.1#US🇺🇸
-
-vless://c463729a-0f55-4a26-b076-c774590c4076@hajimamadvpn.timeclassic.ir:80?path=@HAJIMAMADVPN?ed=2048&security=none&encryption=none&host=bia-channel-hajimamadvpn.timeclassic.ir&type=ws#INT🌍
 
 vless://19e1979d-f36c-491f-814a-ef08c96d4fd2@www.speedtest.net:80?path=/?ed=2048&security=none&encryption=none&host=free.proxystorepanel.eu.org&type=ws#US🇺🇸
 
