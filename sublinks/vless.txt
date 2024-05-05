@@ -54,7 +54,9 @@ vless://99e44f7f-3541-44e1-9d89-d2c4be65d89a@hooti-adsl.prsico.ir:44843?security
 
 vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@108.162.192.186:443?security=tls&sni=jd.wxgqlfx.top&type=ws&path=/?ed#US🇺🇸
 
-vless://83362b0c-c3fd-49d2-be29-ecadae767c60@104.16.60.8:443?security=tls&sni=conf-11111156.yumsung.com&type=ws&host=conf-11111156.yumsung.com&path=/mogmrews&fp=chrome&alpn=http/1.1#US🇺🇸
+vless://465cc5e0-3c40-4199-a939-488e8ce22d5a@www.speedtest.net:443?path=/?ed=2048&security=tls&encryption=none&host=free.proxystorepanel.eu.org&fp=randomized&type=ws&sni=free.proxystorepanel.eu.org#US🇺🇸
+
+vless://465cc5e0-3c40-4199-a939-488e8ce22d5a@www.speedtest.net:80?path=/?ed=2048&security=none&encryption=none&host=free.proxystorepanel.eu.org&type=ws#US🇺🇸
 
 vless://19e1979d-f36c-491f-814a-ef08c96d4fd2@www.speedtest.net:80?path=/?ed=2048&security=none&encryption=none&host=free.proxystorepanel.eu.org&type=ws#US🇺🇸
 
@@ -67,10 +69,6 @@ vless://58be4dd6-80b2-483e-8182-d70ee5a533ec@free.proxystorepanel.eu.org:443?pat
 vless://da140f7f-3f1b-418d-97b1-1525ed6e4d64@ir.proxystorepanel.eu.org:80?path=/?ed=2048&security=none&encryption=none&host=ir.proxystorepanel.eu.org&type=ws#INT🌍
 
 vless://da140f7f-3f1b-418d-97b1-1525ed6e4d64@ir.proxystorepanel.eu.org:443?path=/?ed=2048&security=tls&encryption=none&alpn=h2,http/1.1&host=ir.proxystorepanel.eu.org&fp=chrome&type=ws&sni=ir.proxystorepanel.eu.org#INT🌍
-
-vless://0a48e54b-659e-4b3c-95e6-14da04954f25@time.is:443?path=/?ed=2048&security=tls&encryption=none&host=ir.proxystorepanel.eu.org&fp=randomized&type=ws&sni=ir.proxystorepanel.eu.org#US🇺🇸
-
-vless://0a48e54b-659e-4b3c-95e6-14da04954f25@time.is:80?path=/?ed=2048&security=none&encryption=none&host=ir.proxystorepanel.eu.org&type=ws#US🇺🇸
 
 vless://6ec52bc7-fcd7-4841-ab69-70d6e03a6eda@V2rayGodVip--allh1.v2raygod.Site:80?path=@V2rayGodVip=Telegram/?ed=2048&security=none&encryption=none&host=V2rayGodVip--free.azaronline.Org.&type=ws#SE🇸🇪
 
