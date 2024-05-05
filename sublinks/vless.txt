@@ -46,6 +46,14 @@ vless://5007dc3f-0270-4ed8-a210-1a1d7952756d@185.146.173.58:443?path=/&security=
 
 vless://5007dc3f-0270-4ed8-a210-1a1d7952756d@w3.org:443?path=/&security=tls&encryption=none&alpn=http/1.1&host=bIA-paiN-BaCHE.pAGES.Dev&fp=randomized&type=ws&sni=bIA-paIn-bacHE.PAGeS.DEv#US🇺🇸
 
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@194.152.44.250:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg@zdyz2#UA🇺🇦
+
+vless://bacabac-caab-abac-bdac-cbaaacabcbbc@127.0.0.1:1080?security=tls&type=tcp#
+
+vless://d950cb3a-535d-47ec-b76f-4e7818623404@us2-full.privateip.net:443?type=tcp&encryption=none&security=tls&path=/&flow=xtls-rprx-vision#US🇺🇸
+
+vless://5945ab94-1745-4e97-aac9-8aa0a850aedc@185.146.173.59:2083?security=tls&sni=v2ray-_-_-_-_-_-hu7u-test.arvinbaluch.ir&type=ws&path=@ExpressVPN_420?ed&fp=chrome#SE🇸🇪
+
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@139.162.9.77:8443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg@zdyz2#SG🇸🇬
 
 vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@198.41.221.154:443?security=tls&sni=jd.wxgqlfx.top&type=ws&path=/?ed#US🇺🇸
@@ -73,10 +81,4 @@ vless://6ec52bc7-fcd7-4841-ab69-70d6e03a6eda@V2rayGodVip--allh1.v2raygod.Site:80
 vless://5007dc3f-0270-4ed8-a210-1a1d7952756d@104.26.15.16:443?path=/JAR0HGBT6mwTVcbf?ed=2560&security=tls&encryption=none&alpn=http/1.1&host=bIA-paiN-BaCHE.pAGES.Dev&fp=randomized&type=ws&sni=bIA-paIn-bacHE.PAGeS.DEv#US🇺🇸
 
 vless://5007dc3f-0270-4ed8-a210-1a1d7952756d@w3.org:443?path=/&security=tls&encryption=none&alpn=http/1.1&host=bIA-paiN-BaCHE.pAGES.Dev&fp=randomized&type=ws&sni=bIA-paIn-bacHE.PAGeS.DEv#US🇺🇸
-
-vless://Parsashonam-62@www.visa.com:8080?path=/&security=none&encryption=none&host=Parsashonam.我们累了.tech.&type=ws#US🇺🇸
-
-vless://Parsashonam-60@www.visa.com:443?path=/?ed=2560&security=tls&encryption=none&alpn=h2,http/1.1&host=mail.offch.blog&fp=chrome&type=ws&sni=mail.offch.blog#US🇺🇸
-
-vless://Parsashonam-5@[2a01:4f9:c011:1622::1]:12535?type=tcp&security=none#INT🌍
 
