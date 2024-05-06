@@ -60,6 +60,38 @@ vless://5007dc3f-0270-4ed8-a210-1a1d7952756d@104.26.15.16:443?path=/&security=tl
 
 vless://5007dc3f-0270-4ed8-a210-1a1d7952756d@104.18.23.19:443?path=/&security=tls&encryption=none&alpn=http/1.1&host=bIA-paiN-BaCHE.pAGES.Dev&fp=randomized&type=ws&sni=bIA-paIn-bacHE.PAGeS.DEv#US🇺🇸
 
+vless://5007dc3f-0270-4ed8-a210-1a1d7952756d@185.146.173.58:443?security=tls&sni=bIA-paIn-bacHE.PAGeS.DEv&type=ws&host=bIA-paiN-BaCHE.pAGES.Dev&fp=randomized&alpn=http/1.1#SE🇸🇪
+
+vmess://eyJhZGQiOiJocmdkdnBuLmZseWNkbmVkYzU1LnZpcCIsImFpZCI6IjY0IiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImhyZ2R2cG4uZmx5Y2RuZWRjNTUudmlwIiwiaWQiOiIwMGExZGExNC1kNTVmLTVmNzUtZTM0Ni03OWI5ODVlMWE3MjMiLCJuZXQiOiJ3cyIsInBhdGgiOiJcL29wdFwvdmlkZW9cL2ltYWdlcyIsInBvcnQiOiI4MCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIiLCJwcyI6IkhLXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwIn0=
+
+vless://f189beb3-12b1-430b-a270-c759c9e29810@185.146.173.32:2096?security=tls&sni=ch.amshviip.ir&type=grpc&fp=chrome&alpn=h2,http/1.1#SE🇸🇪
+
+vless://d7bbfe83-b037-48ae-996c-b98ed0441ba2@188.114.97.141:443?security=tls&sni=e10c0e4b.oodaeq2.pages.dev&type=ws&host=e10c0e4b.oodaeq2.pages.dev&path=/Telegram-V2ray_Alpha?ed=2560&fp=randomized#US🇺🇸
+
+vmess://eyJhZGQiOiJocmdkdnBuLmZseWNkbmVkYzU1LnZpcCIsImFpZCI6IjY0IiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImhyZ2R2cG4uZmx5Y2RuZWRjNTUudmlwIiwiaWQiOiIwMGExZGExNC1kNTVmLTVmNzUtZTM0Ni03OWI5ODVlMWE3MjMiLCJuZXQiOiJ3cyIsInBhdGgiOiJcL29wdFwvdmlkZW9cL2ltYWdlcyIsInBvcnQiOiI4MCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIiLCJwcyI6IkhLXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwIn0=
+
+vless://826e43d2-dbe9-41a6-bbf8-3aed2f93f5d4@172.66.44.212:443?security=tls&sni=pardazeshvpn-tg20.pages.dev&type=ws&host=pardazeshvpn-tg20.pages.dev&path=/?ed=2048&fp=randomized#US🇺🇸
+
+vless://5007dc3f-0270-4ed8-a210-1a1d7952756d@104.17.80.220:443?security=tls&sni=BIa-PAiN-BAChe.PAGeS.dev&type=ws&host=BIA-paIN-bAcHe.PAGeS.DEV&path=/sFZQZZqpGa0nQ6jR?ed=2560&fp=randomized&alpn=h2,http/1.1#US🇺🇸
+
+vmess://eyJhZGQiOiIxNTIuNDIuMTcxLjI1MyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiaG9zdCI6IiIsImlkIjoiNDA4NzA1YmItMmExNy00NmQ2LWRhZWEtMmJhMzBiMzAwMzUzIiwibmV0IjoidGNwIiwicGF0aCI6IlwvIiwicG9ydCI6IjgwIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIiLCJwcyI6IlNHXHVkODNjXHVkZGY4XHVkODNjXHVkZGVjIn0=
+
+vless://5007dc3f-0270-4ed8-a210-1a1d7952756d@104.16.160.137:443?security=tls&sni=BiA-PAiN-bAcHe.PAGes.deV&type=ws&host=bIA-PAIN-BacHe.pAGeS.DEV&fp=randomized&alpn=h2,http/1.1#US🇺🇸
+
+vmess://eyJhZGQiOiIxNTIuNDIuMTcxLjI1MyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiaG9zdCI6IiIsImlkIjoiNDA4NzA1YmItMmExNy00NmQ2LWRhZWEtMmJhMzBiMzAwMzUzIiwibmV0IjoidGNwIiwicGF0aCI6IlwvIiwicG9ydCI6IjgwIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIiLCJwcyI6IlNHXHVkODNjXHVkZGY4XHVkODNjXHVkZGVjIn0=
+
+vless://bc2a87ed-6753-47cd-9938-6a844ffe1a71@188.114.98.124:80?security=none&type=ws&host=a.らわなさ.tech.&path=/ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#US🇺🇸
+
+vless://368fc098-ecb9-4c3c-87c4-6c3ffdbf0cfe@45.140.167.94:443?security=tls&flow=xtls-rprx-vision&sni=uk1.x2fast.net&type=tcp&fp=chrome#GB🇬🇧
+
+vless://5007dc3f-0270-4ed8-a210-1a1d7952756d@104.26.15.16:443?security=tls&sni=bIA-paIn-bacHE.PAGeS.DEv&type=ws&host=bIA-paIn-bacHE.PAGeS.DEv&path=/Telegram-V2ray_Alpha?ed=2560#US🇺🇸
+
+vless://aa2dc840-be38-4b4d-a002-ba234999fd55@172.67.133.19:8080?security=none&type=ws&path=/#US🇺🇸
+
+vless://---ELiV2Ray-ELiV2Ray---@188.114.98.224:80?path=/telegram-@EliV2ray,telegram-@EliV2ray?ed=80&security=none&encryption=none&host=EliV2ray.naziitness.com.&type=ws#US🇺🇸
+
+vmess://eyJ2IjoiMiIsImFkZCI6ImNmY2RuMS5zYW5mZW5jZG45LmNvbSIsInBvcnQiOiIyMDgyIiwidHlwZSI6Im5vbmUiLCJpZCI6IjdmNDBhYmQxLTYzOTctNDcwNi04NTEwLWJjNWQwOGRmOGFkNSIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiJcL3ZpZGVvXC9DdVR5ODd6QXpWXC8iLCJob3N0IjoidXM0QmI1b1NnSkEuZnpicWZyc2UueHl6IiwidGxzIjoiIiwicHMiOiJVU1x1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmOCJ9
+
 vmess://eyJhZGQiOiIyMDcuMTQ4LjguMTU1IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjU5OThlOGFhLTY3YWQtNDE2Ny1lY2YyLTdlNzY3OTI2ZThiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMzc4MTQiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIiwicHMiOiJVU1x1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmOCJ9
 
 vless://d7bbfe83-b037-48ae-996c-b98ed0441ba2@188.114.97.141:443?Telegram=@V2RayTz,@V2RayTz&path=/Telegram-V2ray_Alpha?ed=2560&security=tls&encryption=none&host=e10c0e4b.oodaeq2.pages.dev&fp=randomized&type=ws&sni=e10c0e4b.oodaeq2.pages.dev#US🇺🇸
@@ -75,38 +107,6 @@ vless://c5bdbbef-c219-4a56-86a8-714ac1dce4e4@185.146.173.56:8880?security=none&t
 vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@198.41.198.76:443?security=tls&sni=jd.wxgqlfx.top&type=ws&host=jd.wxgqlfx.top&path=Telegram@SiNABiGO/?ed=2048#US🇺🇸
 
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@34.252.102.69:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#IE🇮🇪
-
-vless://a6fa9485-41e7-4bfb-9c6d-8336b5a66f47@zula.ir:2087?path=/new_proxy_channel?ed=2560&security=tls&encryption=none&alpn=h2,http/1.1&host=dl.parhamtraberthos.ir&fp=random&type=ws&sni=dl.parhamtraberthos.ir#US🇺🇸
-
-vless://dc6ea61a-9507-4a85-98df-cb3376923e71@188.114.96.0:8443?security=tls&sni=hahaghgh.servernet.cfd&type=grpc&serviceName=@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett&fp=chrome&alpn=h2,http/1.1#US🇺🇸
-
-vmess://eyJhZGQiOiIxNTIuNDIuMTcxLjI1MyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiaG9zdCI6IiIsImlkIjoiNDA4NzA1YmItMmExNy00NmQ2LWRhZWEtMmJhMzBiMzAwMzUzIiwibmV0IjoidGNwIiwicGF0aCI6IlwvIiwicG9ydCI6IjgwIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIiLCJwcyI6IlNHXHVkODNjXHVkZGY4XHVkODNjXHVkZGVjIn0=
-
-vmess://eyJhZGQiOiI1Ljc1LjIwMi43NiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJlN2U3NTc0OS05YTU3LTQ0NzEtYTlhNy01NDcyYmUwYTBjZGEiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjM5NTIzIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiIsInBzIjoiREVcdWQ4M2NcdWRkZTlcdWQ4M2NcdWRkZWEifQ==
-
-vless://513f74b0-ada2-4360-b3ff-9bf4d22fd242@v2raxx.amalfatm.ir:8080?path=@V2RAXX-@V2RAXX?ed=2048&security=none&encryption=none&host=xn--047h.v2raxx6.shop.&type=ws#SE🇸🇪
-
-vmess://eyJhZGQiOiI3Ny45MS43My4yNDQiLCJhaWQiOjAsImhvc3QiOiIiLCJpZCI6IjRlYzJmMWIwLWI0NWQtNDFiZi1iMWQxLWVjNmFkNzIwNmNjOCIsIm5ldCI6IndzIiwicGF0aCI6Ilwvdm1lc3MiLCJwb3J0Ijo4MCwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6ImF1dG8iLCJwcyI6IkRFXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhIn0=
-
-vless://a1ae3309-0a58-4468-aa1a-af63db7bc027@104.18.202.232:2083?security=tls&sni=dm.XsV2ray.cfd&type=grpc&serviceName=@XsV2ray,@XsV2ray,@XsV2ray,@XsV2ray,@XsV2ray,@XsV2ray,@XsV2ray,@XsV2ray,@XsV2ray,@XsV2ray,@XsV2ray&fp=safari&alpn=http/1.1,h2#US🇺🇸
-
-vless://4114bd33-e93d-46d4-a57f-9c9f1ea7cf1f@172.66.213.5:80?security=none&type=ws&host=bia-channel-hajimamadvpn.timeclassic.ir&path=@HAJIMAMADVPN?ed=2048#US🇺🇸
-
-vless://685b54c6-b344-420a-9aff-2a9cad351678@188.114.98.224:2095?security=none&type=ws&host=V2ray-_-_-_-_-ShhProxy.TelegramChannelJoinBede.com.&path=/#US🇺🇸
-
-vless://41af6725-882c-47f2-812c-a6f63ebb1a12@188.114.96.36:443?security=tls&sni=no2-vless.sshmax.xyz&type=ws&host=no2-vless.sshmax.xyz&path=/vless#US🇺🇸
-
-vless://a9138d82-4dca-443d-80d1-461b215f74cc@104.18.117.226:80?type=ws&host=vmessorg1.xn--54qv00ez5ar77g.co.&path=/Telegram:@vmessorg-Telegram:@vmessorg-Telegram:@vmessorg#US🇺🇸
-
-vmess://eyJhZGQiOiJocmdkdnBuLmZseWNkbmVkYzU1LnZpcCIsImFpZCI6IjY0IiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImhyZ2R2cG4uZmx5Y2RuZWRjNTUudmlwIiwiaWQiOiIwMGExZGExNC1kNTVmLTVmNzUtZTM0Ni03OWI5ODVlMWE3MjMiLCJuZXQiOiJ3cyIsInBhdGgiOiJcL29wdFwvdmlkZW9cL2ltYWdlcyIsInBvcnQiOiI4MCIsInBzIjoiSEtcdWQ4M2NcdWRkZWRcdWQ4M2NcdWRkZjAiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
-
-vless://7733d96d-5cd2-4a15-91b2-60b06c27cee0@45.140.31.171:46769?type=tcp&host=telewebion.com&headerType=http#IR🇮🇷
-
-vless://2136a808-ccd7-48cf-97c8-2c0b255e4715@104.26.15.85:8443?security=tls&sni=telegram-falcunargo-france.falcunar.asso.eu.org&type=ws&host=telegram-falcunargo-france.falcunar.asso.eu.org&path=Telegram@SiNABiGO/?ed=2048&fp=random#US🇺🇸
-
-vless://5cbc1ea6-5dfd-4011-bd4b-0b49d3e74b30@162.159.136.234:2095?security=none&type=ws&host=join-zedmodeon-zedmodeon-zedmodeon.らわなさ.tech.&path=/ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#US🇺🇸
-
-vmess://eyJ2IjoiMiIsImFkZCI6ImNtLnpob25nemh1YW4uZm55dW4uY3lvdSIsInBvcnQiOiI0NDMiLCJ0eXBlIjoibm9uZSIsImlkIjoiM2MzOWY5NTktNmUyYy00ZDJiLTk3M2QtYTQ3MTcxOTk5MGM5IiwiYWlkIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6IlwvIiwiaG9zdCI6ImhsLmZueXVuLmN5b3UiLCJ0bHMiOiJ0bHMiLCJwcyI6IlVTXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4In0=
 
 vless://465cc5e0-3c40-4199-a939-488e8ce22d5a@www.speedtest.net:443?path=/?ed=2048&security=tls&encryption=none&host=free.proxystorepanel.eu.org&fp=randomized&type=ws&sni=free.proxystorepanel.eu.org#US🇺🇸
 
