@@ -56,6 +56,22 @@ vless://5007dc3f-0270-4ed8-a210-1a1d7952756d@185.146.173.58:443?path=/&security=
 
 vless://5007dc3f-0270-4ed8-a210-1a1d7952756d@w3.org:443?path=/&security=tls&encryption=none&alpn=http/1.1&host=bIA-paiN-BaCHE.pAGES.Dev&fp=randomized&type=ws&sni=bIA-paIn-bacHE.PAGeS.DEv#US🇺🇸
 
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@149.202.82.172:5601#FR🇫🇷
+
+trojan://LVGK3fGfek2r@18.142.249.182:17417?allowInsecure=0&sni=appsvs.shop#SG🇸🇬
+
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@38.121.43.71:6679#US🇺🇸
+
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.49.210.251:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#SE🇸🇪
+
+vmess://eyJ2IjoiMiIsInBzIjoiVVNcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjgiLCJhZGQiOiIxMDQuMTkuMTczLjY4IiwicG9ydCI6IjgwIiwidHlwZSI6Im5vbmUiLCJpZCI6ImJkZWFiYTRiLWJkYWMtNDI2Zi05NGYyLTE2YTYzZDkxMzUyZiIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiJcLyIsImhvc3QiOiJ1c3RvdWNqam5pZDE4c2o2dXMubG92ZWJhaXBpYW8uY29tIiwidGxzIjoiIn0=
+
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@23.154.136.218:2375#US🇺🇸
+
+trojan://b0b861c2c85346a389b9e95769c3cba4@198.41.220.16:443?allowInsecure=0&sni=avianrecruit.com&ws=1&wspath=/6b777a91#US🇺🇸
+
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@149.202.82.172:6697#FR🇫🇷
+
 vmess://eyJ2IjoiMiIsInBzIjoiVVNcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjgiLCJhZGQiOiIxMDQuMjEuOC4xNTciLCJwb3J0IjoiMjA4MiIsInR5cGUiOiJub25lIiwiaWQiOiIxMTJhYzM2Zi0zZjUzLTRlMjYtODM3MS1kMjVjMDI4ZTFiOWEiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiXC8iLCJob3N0IjoiczFjLnYyLnYwMDFzc3MueHl6IiwidGxzIjoiIn0=
 
 trojan://2QZUVTYV9kc3@18.225.255.174:17406?allowInsecure=0&sni=appsvs.shop#US🇺🇸
@@ -86,22 +102,6 @@ vmess://eyJ2IjoiMiIsImFkZCI6ImNmY2RuMS5zYW5mZW5jZG45LmNvbSIsInBvcnQiOiIyMDgyIiwi
 
 vless://b0e6a2c9-e667-4e42-9cb3-77d7db3e736b@104.21.43.221:443?security=tls&sni=bypass-filter.jvnml.workers.dev&type=ws&host=bypass-filter.jvnml.workers.dev&path=/vless-ws/?ed=2048#US🇺🇸
 
-vless://5007dc3f-0270-4ed8-a210-1a1d7952756d@185.146.173.58:443?security=tls&sni=bIA-paIn-bacHE.PAGeS.DEv&type=ws&host=bIA-paiN-BaCHE.pAGES.Dev&fp=randomized&alpn=http/1.1#SE🇸🇪
-
-vmess://eyJhZGQiOiJocmdkdnBuLmZseWNkbmVkYzU1LnZpcCIsImFpZCI6IjY0IiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImhyZ2R2cG4uZmx5Y2RuZWRjNTUudmlwIiwiaWQiOiIwMGExZGExNC1kNTVmLTVmNzUtZTM0Ni03OWI5ODVlMWE3MjMiLCJuZXQiOiJ3cyIsInBhdGgiOiJcL29wdFwvdmlkZW9cL2ltYWdlcyIsInBvcnQiOiI4MCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIiLCJwcyI6IkhLXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwIn0=
-
-vless://f189beb3-12b1-430b-a270-c759c9e29810@185.146.173.32:2096?security=tls&sni=ch.amshviip.ir&type=grpc&fp=chrome&alpn=h2,http/1.1#SE🇸🇪
-
-vless://d7bbfe83-b037-48ae-996c-b98ed0441ba2@188.114.97.141:443?security=tls&sni=e10c0e4b.oodaeq2.pages.dev&type=ws&host=e10c0e4b.oodaeq2.pages.dev&path=/Telegram-V2ray_Alpha?ed=2560&fp=randomized#US🇺🇸
-
-vmess://eyJhZGQiOiJocmdkdnBuLmZseWNkbmVkYzU1LnZpcCIsImFpZCI6IjY0IiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImhyZ2R2cG4uZmx5Y2RuZWRjNTUudmlwIiwiaWQiOiIwMGExZGExNC1kNTVmLTVmNzUtZTM0Ni03OWI5ODVlMWE3MjMiLCJuZXQiOiJ3cyIsInBhdGgiOiJcL29wdFwvdmlkZW9cL2ltYWdlcyIsInBvcnQiOiI4MCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIiLCJwcyI6IkhLXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwIn0=
-
-vless://826e43d2-dbe9-41a6-bbf8-3aed2f93f5d4@172.66.44.212:443?security=tls&sni=pardazeshvpn-tg20.pages.dev&type=ws&host=pardazeshvpn-tg20.pages.dev&path=/?ed=2048&fp=randomized#US🇺🇸
-
-vless://5007dc3f-0270-4ed8-a210-1a1d7952756d@104.17.80.220:443?security=tls&sni=BIa-PAiN-BAChe.PAGeS.dev&type=ws&host=BIA-paIN-bAcHe.PAGeS.DEV&path=/sFZQZZqpGa0nQ6jR?ed=2560&fp=randomized&alpn=h2,http/1.1#US🇺🇸
-
-vmess://eyJhZGQiOiIxNTIuNDIuMTcxLjI1MyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiaG9zdCI6IiIsImlkIjoiNDA4NzA1YmItMmExNy00NmQ2LWRhZWEtMmJhMzBiMzAwMzUzIiwibmV0IjoidGNwIiwicGF0aCI6IlwvIiwicG9ydCI6IjgwIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIiLCJwcyI6IlNHXHVkODNjXHVkZGY4XHVkODNjXHVkZGVjIn0=
-
 vless://465cc5e0-3c40-4199-a939-488e8ce22d5a@www.speedtest.net:443?path=/?ed=2048&security=tls&encryption=none&host=free.proxystorepanel.eu.org&fp=randomized&type=ws&sni=free.proxystorepanel.eu.org#US🇺🇸
 
 vless://465cc5e0-3c40-4199-a939-488e8ce22d5a@www.speedtest.net:80?path=/?ed=2048&security=none&encryption=none&host=free.proxystorepanel.eu.org&type=ws#US🇺🇸
@@ -131,10 +131,4 @@ vless://Parsashonam-63@www.visa.com:8080?path=/&security=none&encryption=none&ho
 vless://Parsashonam-61@www.visa.com:443?path=/?ed=2560&security=tls&encryption=none&alpn=h2,http/1.1&host=mail.offch.blog&fp=chrome&type=ws&sni=mail.offch.blog#US🇺🇸
 
 vless://Parsashonam-6@[2a01:4f9:c011:1622::1]:12535?type=tcp&security=none#INT🌍
-
-vless://Parsashonam-62@www.visa.com:8080?path=/&security=none&encryption=none&host=Parsashonam.我们累了.tech.&type=ws#US🇺🇸
-
-vless://Parsashonam-60@www.visa.com:443?path=/?ed=2560&security=tls&encryption=none&alpn=h2,http/1.1&host=mail.offch.blog&fp=chrome&type=ws&sni=mail.offch.blog#US🇺🇸
-
-vless://Parsashonam-5@[2a01:4f9:c011:1622::1]:12535?type=tcp&security=none#INT🌍
 
