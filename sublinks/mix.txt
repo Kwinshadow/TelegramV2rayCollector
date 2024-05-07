@@ -60,6 +60,18 @@ vless://5007dc3f-0270-4ed8-a210-1a1d7952756d@104.19.12.170:443?path=/&security=t
 
 vless://d7bbfe83-b037-48ae-996c-b98ed0441ba2@188.114.97.141:443?path=/&security=tls&encryption=none&host=e10c0e4b.oodaeq2.pages.dev&fp=randomized&type=ws&sni=e10c0e4b.oodaeq2.pages.dev#US🇺🇸
 
+vless://6d1628cb-2fa9-4f6f-82f8-d0896b27b165@104.18.29.181:8080?security=none&type=ws&host=shuige1.g-y0fale.workers.dev&path=/?ed=2048#US🇺🇸
+
+vless://4804f14b-c1f8-452d-a6ec-eff1490aeac9@217.69.1.123:443?security=tls&sni=hdfy6d1.cpionline.cc&type=grpc&serviceName=Bc5xLs413y7FzoZoavn2kmJ&fp=chrome&alpn=h2#FR🇫🇷
+
+vmess://eyJ2IjoiMiIsImFkZCI6IjEwNC4xOS40My4xMTIiLCJwb3J0IjoiODAiLCJ0eXBlIjoibm9uZSIsImlkIjoiYzA0NTNhMTYtNjdlOS00ZWFiLWJkYzktYjk2MjRhZDZiZDI5IiwiYWlkIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6IlwvIiwiaG9zdCI6Im9zYWthLnhsYjguZXUub3JnIiwidGxzIjoiIiwicHMiOiJVU1x1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmOCJ9
+
+trojan://telegram-id-directvpn@3.136.24.239:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#US🇺🇸
+
+vless://734072e0-82af-4ca9-979e-3f84c6b66b97@104.26.0.19:80?security=none&type=ws&host=不要对世newlife.站长badho.silence2.夜猫子酒吧枪战.suonycars.buzz.&path=/t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro/?ed=2048#US🇺🇸
+
+vless://ead6b74b-c156-5b2d-8f9a-9fc1a83a531e@172.67.205.175:8443?path=/vless-ws/?ed=2048&security=tls&encryption=none&alpn=h3,h2,http/1.1&host=web.v2ray-ab-841-vpn.WOrKErs.DEv&fp=randomized&type=ws&sni=web.v2ray-ab-841-vpn.WOrKErs.DEv#US🇺🇸
+
 vless://9e1616dc-3d46-4da4-8abc-1f613760fe00@162.159.133.234:2087?security=tls&sni=re3.v2logy.xyz&type=grpc&fp=chrome&alpn=http/1.1#US🇺🇸
 
 vless://9b7b9e8c-ffff-4618-9118-ecd53e9cdf87@185.146.173.32:2052?security=none&type=ws&host=xn--047h.v2raxx6.shop.&path=@V2RAXX-@V2RAXX?ed=2048#SE🇸🇪
@@ -91,22 +103,6 @@ vless://9e1616dc-3d46-4da4-8abc-1f613760fe00@172.67.156.210:2083?security=tls&sn
 vless://abbcaca-cbaa-acba-dbac-cbccbacabbaa@127.0.0.1:8080?security=tls&type=tcp#
 
 vmess://eyJhZGQiOiI5NC4xMzEuMTMuMTEwIiwiYWlkIjowLCJob3N0IjoiIiwiaWQiOiJkM2U0MGQ1OS1iNTNjLTRmNGUtODg2Ny1iYjU5OGJlODY0ZDIiLCJuZXQiOiJ3cyIsInBhdGgiOiJcL3ZtZXNzIiwicG9ydCI6ODAsInBzIjoiTFRcdWQ4M2NcdWRkZjFcdWQ4M2NcdWRkZjkiLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiYXV0byJ9
-
-vless://734072e0-82af-4ca9-979e-3f84c6b66b97@104.18.27.45:80?security=none&type=ws&host=不要对世newlife.站长badho.silence2.夜猫子酒吧枪战.suonycars.buzz.&path=/t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro/?ed=2048#US🇺🇸
-
-vless://9e1616dc-3d46-4da4-8abc-1f613760fe00@162.159.136.234:2087?security=tls&sni=re3.v2logy.xyz&type=grpc&fp=chrome&alpn=http/1.1#US🇺🇸
-
-vless://bcbaaca-caba-aabc-acdb-acbbabaacccb@127.0.0.1:1080?security=tls&type=tcp#
-
-vmess://eyJhZGQiOiJmci1mdWxsLnByaXZhdGVpcC5uZXQiLCJhaWQiOiIwIiwiaG9zdCI6IiIsImlkIjoiZjI1YmU5NTgtN2Q5ZC00ZTRiLWEzZTQtZDgyYzNiMDZkMTZhIiwibmV0Ijoid3MiLCJwYXRoIjoiXC9SQUNFVlBOIiwicG9ydCI6IjQ0MyIsInBzIjoiRlJcdWQ4M2NcdWRkZWJcdWQ4M2NcdWRkZjciLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
-
-vless://4804f14b-c1f8-452d-a6ec-eff1490aeac9@217.69.1.123:443?security=tls&sni=hdfy6d1.cpionline.cc&type=grpc&serviceName=Bc5xLs413y7FzoZoavn2kmJ&fp=chrome&alpn=h2#FR🇫🇷
-
-trojan://m5wmpsnW51Wz@54.149.100.197:14617?allowInsecure=0&sni=appsvs.shop#US🇺🇸
-
-vmess://eyJhZGQiOiI5NC4xMzEuMTQuMTc3IiwiYWlkIjowLCJob3N0IjoiIiwiaWQiOiIyYzVmZWUxMy1mMDhiLTRiYTgtODZkYi0yN2RkNTFjYjk3ODEiLCJuZXQiOiJ3cyIsInBhdGgiOiJcL3ZtZXNzIiwicG9ydCI6ODAsInBzIjoiTFRcdWQ4M2NcdWRkZjFcdWQ4M2NcdWRkZjkiLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiYXV0byJ9
-
-vmess://eyJ2IjoiMiIsInBzIjoiVVNcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjgiLCJhZGQiOiIxMDQuMTkuNDMuNjEiLCJwb3J0IjoiODAiLCJ0eXBlIjoibm9uZSIsImlkIjoiYzA0NTNhMTYtNjdlOS00ZWFiLWJkYzktYjk2MjRhZDZiZDI5IiwiYWlkIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6IlwvIiwiaG9zdCI6Im9zYWthLnhsYjguZXUub3JnIiwidGxzIjoiIn0=
 
 vless://49cf68bf-3f2f-4692-aca3-2f7768ea484c@time.is:443?path=/?ed=2048&security=tls&encryption=none&host=vip.proxystorepanel.eu.org&fp=randomized&type=ws&sni=vip.proxystorepanel.eu.org#US🇺🇸
 
