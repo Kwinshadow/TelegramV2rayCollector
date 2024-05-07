@@ -62,6 +62,22 @@ vless://d7bbfe83-b037-48ae-996c-b98ed0441ba2@188.114.97.141:443?path=/?ed=2048&s
 
 vless://ba04bcf2-2153-4c55-ac6b-4b44f66dde19@www.speedtest.net:443?path=/?ed=2560&security=tls&encryption=none&alpn=h3&host=garywelch.pages.dev&fp=randomized&type=ws&sni=garywelch.pages.dev#US🇺🇸
 
+vmess://eyJ2IjoiMiIsImFkZCI6ImNoYW5ndXBtZWNjYS5jb20iLCJwb3J0IjoiNDQzIiwiaWQiOiJkZmJiYzhkZS04YTRmLTQwN2QtODA2OS02ZGUzOGQ4M2M0ZTEiLCJhaWQiOiIwIiwic2N5IjoiYWVzLTEyOC1nY20iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwiaG9zdCI6ImNwaXN1YjcuQ1BJRm9ycEVSc2lBLlVLIiwicGF0aCI6IlwvaGRmeTRjMS5pcmFuaWFuY3BpLnVrXC9XZ0NtcDhweFJXQnRMVGxUTCIsInRscyI6InRscyIsInNuaSI6ImNwaXN1YjcuQ1BJRm9ycEVSc2lBLlVLIiwiYWxwbiI6Imh0dHBcLzEuMSIsImZwIjoiZmlyZWZveCIsInBzIjoiVVNcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjgifQ==
+
+vless://eb201923-0e39-4425-bd0f-6244cd24ef2a@188.114.96.223:80?path=/?ed=2560&security=none&encryption=none&host=zaq11000d.b835a8094d.workers.dev&type=ws#US🇺🇸
+
+vless://6d8074a3-1975-4688-8c38-a658b294e30c@104.18.117.226:80?security=&type=ws&path=/Telegram:@vmessorg-Telegram:@vmessorg-Telegram:@vmessorg&host=vmessorg1.xn--54qv00ez5ar77g.co.&encryption=none#US🇺🇸
+
+vmess://eyJ2IjoiMiIsInBzIjoiVVNcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjgiLCJhZGQiOiJjZmNkbjEuc2FuZmVuY2RuOS5jb20iLCJwb3J0IjoiMjA1MiIsInR5cGUiOiJub25lIiwiaWQiOiI3ZjQwYWJkMS02Mzk3LTQ3MDYtODUxMC1iYzVkMDhkZjhhZDUiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiXC92aWRlb1wvR1EycUU1VXM5ZyIsImhvc3QiOiJ0dzFiUWlXU0U0eC5memJxZnJzZS54eXoiLCJ0bHMiOiIifQ==
+
+vless://a9138d82-4dca-443d-80d1-461b215f74cc@104.18.117.226:80?path=/Telegram:@vmessorg-Telegram:@vmessorg-Telegram:@vmessorg&security=none&encryption=none&host=vmessorg1.xn--54qv00ez5ar77g.co.&type=ws#US🇺🇸
+
+trojan://telegram-id-directvpn@13.49.177.170:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#SE🇸🇪
+
+vless://49cf68bf-3f2f-4692-aca3-2f7768ea484c@104.26.13.54:80?path=/?ed=2048&security=none&encryption=none&host=vip.proxystorepanel.eu.org&type=ws#US🇺🇸
+
+vless://bacabac-bcaa-baac-dcab-bcbbbccaaaac@127.0.0.1:8080?security=tls&type=tcp#
+
 vless://5007dc3f-0270-4ed8-a210-1a1d7952756d@w3.org:443?type=ws&host=bIA-paiN-BaCHE.pAGES.Dev&path=Telegram@SiNABiGO/?ed=2048&security=tls&fp=randomized&sni=bIA-paIn-bacHE.PAGeS.DEv&alpn=http/1.1&fragment=50-100,10-20,tlshello#US🇺🇸
 
 vless://13e706ae-0d80-45c2-8768-554ebf5d492d@104.21.82.17:443?security=tls&sni=no1.v2vless.xyz&type=ws&host=no1.v2vless.xyz&path=Join-Telegram-Channel-@AstroVPN_official/#US🇺🇸
@@ -93,20 +109,6 @@ vless://3c978af6-f7c1-4857-aab1-8ae33452d49c@nl-full.privateip.net:443?type=ws&e
 vmess://eyJ2IjoiMiIsImFkZCI6IjIuc2cuenoueHh4eHgueC10LWZ1Y2t3b3JkLm5ldHdvcmsiLCJwb3J0IjoiNjAzMDEiLCJ0eXBlIjoibm9uZSIsImlkIjoiMGY2MmJiMWItZGQxNi0zYmIyLWE0MzUtYzEzZTA2OGIwOTU1IiwiYWlkIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiJcL3YycmF5IiwiaG9zdCI6IjIuc2cuenoueHh4eHgueC10LWZ1Y2t3b3JkLm5ldHdvcmsiLCJ0bHMiOiIiLCJwcyI6IkNOXHVkODNjXHVkZGU4XHVkODNjXHVkZGYzIn0=
 
 vmess://eyJ2IjoiMiIsInBzIjoiVVNcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjgiLCJhZGQiOiIxNjIuMTU5LjMzLjExNyIsInBvcnQiOiIyMDgyIiwidHlwZSI6Im5vbmUiLCJpZCI6IjdmNDBhYmQxLTYzOTctNDcwNi04NTEwLWJjNWQwOGRmOGFkNSIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiJcL3ZpZGVvXC9DdVR5ODd6QXpWXC8iLCJob3N0IjoidXM0QmI1b1NnSkEuZnpicWZyc2UueHl6IiwidGxzIjoiIn0=
-
-vless://telegram-id-ArV2ray@benedict.ns.cloudflare.com:80?security=&type=ws&path=/telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray?ed=2048&host=3.V2ray.speedtest.net.parspack.com.mui.ir.らわなさ.Store.&encryption=none#US🇺🇸
-
-vless://abcaacb-aabc-caba-dbac-acaabbcabccb@127.0.0.1:8080?security=tls&type=tcp#
-
-vmess://eyJ2IjoiMiIsImFkZCI6IjIuc2cuenoueHh4eHgueC10LWZ1Y2t3b3JkLm5ldHdvcmsiLCJwb3J0IjoiNjAzMDEiLCJ0eXBlIjoibm9uZSIsImlkIjoiMGY2MmJiMWItZGQxNi0zYmIyLWE0MzUtYzEzZTA2OGIwOTU1IiwiYWlkIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiJcL3YycmF5IiwiaG9zdCI6IjIuc2cuenoueHh4eHgueC10LWZ1Y2t3b3JkLm5ldHdvcmsiLCJ0bHMiOiIiLCJwcyI6IkNOXHVkODNjXHVkZGU4XHVkODNjXHVkZGYzIn0=
-
-vless://caabcba-aabc-acba-cbda-ccaabcabbcba@127.0.0.1:8080?security=tls&type=tcp#
-
-vless://a7c373be-b2dd-4409-bddf-6bd0e234660c@zula.ir:8080?type=ws&path=/t.me/V2rayFa-V2rayng-v2rayNgfree-telegram-t.me/V2rayfa_telegram?ed=2048&host=穆罕默德侯赛因freeforiran.net.v2rayng.8.8.8.8.free.skullbasher.wex.wex.wex.wex.mf.ssd.youcantplayinvoker.tech.&security=none#US🇺🇸
-
-vless://1068cf2f-428d-4f9d-b1b5-560d8bd14470@zula.ir:2095?security=none&encryption=none&type=ws&host=V2ray-_-_-_-_-VMESSKHODAM.lars1.nl.&path=VMESSKHODAM-VMESSKHODAM-VMESSKHODAM-VMESSKHODAM-VMESSKHODAM/VMESSKHODAM?ed=1024#US🇺🇸
-
-vless://13e706ae-0d80-45c2-8768-554ebf5d492d@AstroVPN-official.AstroVPN-official.workers.dev:443?path=Join-Telegram-Channel-@AstroVPN_official/&security=tls&encryption=none&host=no1.v2vless.xyz&type=ws&sni=no1.v2vless.xyz#US🇺🇸
 
 vless://49cf68bf-3f2f-4692-aca3-2f7768ea484c@time.is:443?path=/?ed=2048&security=tls&encryption=none&host=vip.proxystorepanel.eu.org&fp=randomized&type=ws&sni=vip.proxystorepanel.eu.org#US🇺🇸
 
