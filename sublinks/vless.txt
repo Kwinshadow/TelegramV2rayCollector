@@ -58,6 +58,12 @@ vless://5007dc3f-0270-4ed8-a210-1a1d7952756d@104.19.12.170:443?path=/&security=t
 
 vless://d7bbfe83-b037-48ae-996c-b98ed0441ba2@188.114.97.141:443?path=/&security=tls&encryption=none&host=e10c0e4b.oodaeq2.pages.dev&fp=randomized&type=ws&sni=e10c0e4b.oodaeq2.pages.dev#US🇺🇸
 
+vless://d7bbfe83-b037-48ae-996c-b98ed0441ba2@188.114.97.141:443?security=tls&sni=e10c0e4b.oodaeq2.pages.dev&type=ws&host=e10c0e4b.oodaeq2.pages.dev&path=/?ed=2048&fp=randomized#US🇺🇸
+
+vless://d8704b00-c989-480d-8cec-b87c86201a38@66.235.200.123:80?type=ws&host=vmessorg1.xn--54qv00ez5ar77g.co.&path=/Telegram:@vmessorg-Telegram:@vmessorg-Telegram:@vmessorg#US🇺🇸
+
+vless://86bba249-900d-4f72-9ed5-e3a42ff06a97@104.17.250.237:80?type=ws&host=vmessorg1.xn--54qv00ez5ar77g.co.&path=/Telegram:@vmessorg-Telegram:@vmessorg-Telegram:@vmessorg#US🇺🇸
+
 vless://d487cdf6-a575-45b1-8123-ff3cb9a878a2@104.21.4.113:2096?security=tls&sni=channel.v2bamdad.tech&type=grpc&serviceName=BBjszEZzABSQuqxj4FxIzvwxUDoX&host=channel.v2bamdad.tech&path=BBjszEZzABSQuqxj4FxIzvwxUDoX&fp=chrome&alpn=h2#US🇺🇸
 
 vless://cabaacb-baca-bcaa-dcab-aabccaacbbcb@127.0.0.1:1080?security=tls&type=tcp#
@@ -81,16 +87,6 @@ vless://9e1616dc-3d46-4da4-8abc-1f613760fe00@104.21.32.238:2096?security=tls&sni
 vless://a290c15c-066a-4c25-9fa2-f50b0d3d9ba6@104.17.80.220:2095?security=none&type=ws&host=svm.zula.ir.gta.ir.zula.com.mast.com.rast.com.shoplfooioood.らわなさkarsovalomn.atkfood.com.&path=/AMVPN?ed=1024#US🇺🇸
 
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@34.255.232.216:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#IE🇮🇪
-
-vless://6eaabb55-831c-433d-879e-9b3a054dc650@104.20.205.66:8443?security=tls&sni=unlimiteddev.xn--9iqr0tm1r4wg.co&type=ws&host=unlimiteddev.xn--9iqr0tm1r4wg.co&path=/&fp=chrome#US🇺🇸
-
-vless://86fbd2cb-58a0-45cd-b1db-1e89536abd52@185.16.110.179:2096?security=tls&sni=J0in-Telegram-EiiiM-Channel.danesh-bonyan.Store&type=ws&host=eiiim.danesh-bonyan.Store&path=join.----------------Telegram-EiiiM----------------Telegram-EiiiM---------------.Telegram-EiiiM.#FR🇫🇷
-
-vless://5ee39c9d-754c-4207-90ea-b15c0a720ac0@185.146.173.58:2095?security=none&type=ws&host=V2ray-_-_-_-_-Vpn_Mikey.Amir-Mikey.Tech.&path=/@Vpn_Mikey،@Vpn_Mikey#SE🇸🇪
-
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.64.35.70:443?security=tls&sni=worker-noisy-salad-00fe.geloyit451.workers.Dev&type=ws&host=worker-noisy-salad-00fe.geloyit451.workers.Dev&path=/#US🇺🇸
-
-vless://43e00e4c-2316-4dc9-8262-cef31886dc56@104.21.40.63:443?security=tls&sni=marly.toptechnonews.com&type=ws&host=marly.toptechnonews.com&path=/nimws#US🇺🇸
 
 vless://49cf68bf-3f2f-4692-aca3-2f7768ea484c@time.is:443?path=/?ed=2048&security=tls&encryption=none&host=vip.proxystorepanel.eu.org&fp=randomized&type=ws&sni=vip.proxystorepanel.eu.org#US🇺🇸
 
