@@ -26,7 +26,7 @@ vless://c0cf878e-08b3-4e10-b055-b334da6a6f71@www.speedtest.net:80?path=/&securit
 
 vless://8a7982ff-7696-4f2c-9265-46f6ff45d5f5@104.25.16.194:2083?path=/vless-ws/?ed=2048&security=tls&encryption=none&alpn=http/1.1&host=beni.l7933208.workers.dev&fp=randomized&type=ws&sni=beni.l7933208.workers.dev#US🇺🇸
 
-vless://92d4bd40-68ed-4b1e-843c-f739ec536b2c@162.159.134.234:8080?path=/&security=none&encryption=none&host=hrtv.numall.xyz.&type=ws#US🇺🇸
+vless://92d4bd40-68ed-4b1e-843c-f739ec536b2c@162.159.134.234:8080?path=/&security=none&encryption=none&host=hrtv.numall.xyz.&type=ws#CA🇨🇦
 
 vless://DIGIV2RAY-@185.146.173.32:2095?path=/DIGIV2RAY-digiv2ray?ed=2048&security=none&encryption=none&host=www.zula.ir.www.iranseda.ir.自己不去看啥事情基本没啥事.website.&type=ws#SE🇸🇪
 
@@ -34,21 +34,21 @@ vless://df4608a5-0ceb-4513-b991-596f541bccdb@172.64.87.176:443?path=/&security=t
 
 vless://7f3b2f37-819e-49ee-9f5c-215467bfde61@172.67.204.39:443?path=/?ed=2048&security=tls&encryption=none&host=turkmenistan.armanibash.Shop.&fp=chrome&type=ws&sni=turkmenistan.armanibash.Shop.#US🇺🇸
 
-vless://7f3b2f37-819e-49ee-9f5c-215467bfde61@172.67.204.39:443?path=/?ed&security=tls&encryption=none&host=turkmenistan.armanibash.Shop.&fp=chrome&type=ws&sni=turkmenistan.armanibash.Shop.#CA🇨🇦
+vless://7f3b2f37-819e-49ee-9f5c-215467bfde61@172.67.204.39:443?path=/?ed&security=tls&encryption=none&host=turkmenistan.armanibash.Shop.&fp=chrome&type=ws&sni=turkmenistan.armanibash.Shop.#US🇺🇸
 
-vmess://eyJhZGQiOiJhdGxhc25ldDEubXlhdGxhc25ldC5pciIsImFpZCI6IjAiLCJhbHBuIjoiaDIsaHR0cFwvMS4xIiwiZnAiOiJjaHJvbWUiLCJob3N0IjoiIiwiaWQiOiI2M2U1NDc0Mi1hMjQ0LTRiYjAtYzljYi0xN2E1NDVmNGNhM2YiLCJuZXQiOiJ3cyIsInBhdGgiOiJcLyIsInBvcnQiOiI4NDQzIiwicHMiOiJVU1x1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmOCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ==
+vmess://eyJhZGQiOiJhdGxhc25ldDEubXlhdGxhc25ldC5pciIsImFpZCI6IjAiLCJhbHBuIjoiaDIsaHR0cFwvMS4xIiwiZnAiOiJjaHJvbWUiLCJob3N0IjoiIiwiaWQiOiI2M2U1NDc0Mi1hMjQ0LTRiYjAtYzljYi0xN2E1NDVmNGNhM2YiLCJuZXQiOiJ3cyIsInBhdGgiOiJcLyIsInBvcnQiOiI4NDQzIiwicHMiOiJDQVx1ZDgzY1x1ZGRlOFx1ZDgzY1x1ZGRlNiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ==
 
 vless://7f3b2f37-819e-49ee-9f5c-215467bfde61@172.67.204.39:443?path=/?ed=2048&security=tls&encryption=none&host=turkmenistan.armanibash.Shop.&fp=chrome&type=ws&sni=turkmenistan.armanibash.Shop.#CA🇨🇦
 
-vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@198.41.198.76:443?path=/?ed&security=tls&encryption=none&host=jd.wxgqlfx.top&type=ws&sni=jd.wxgqlfx.top#CA🇨🇦
+vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@198.41.198.76:443?path=/?ed&security=tls&encryption=none&host=jd.wxgqlfx.top&type=ws&sni=jd.wxgqlfx.top#US🇺🇸
 
-vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@198.41.198.76:443?path=Telegram@SiNABiGO/?ed=2048&security=tls&encryption=none&host=jd.wxgqlfx.top&type=ws&sni=jd.wxgqlfx.top#CA🇨🇦
+vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@198.41.198.76:443?path=Telegram@SiNABiGO/?ed=2048&security=tls&encryption=none&host=jd.wxgqlfx.top&type=ws&sni=jd.wxgqlfx.top#US🇺🇸
 
-vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@198.41.198.76:443?path=/?ed=2048&security=tls&encryption=none&host=jd.wxgqlfx.top&type=ws&sni=jd.wxgqlfx.top#CA🇨🇦
+vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@198.41.198.76:443?path=/?ed=2048&security=tls&encryption=none&host=jd.wxgqlfx.top&type=ws&sni=jd.wxgqlfx.top#US🇺🇸
 
-vless://dd3fc0bb-80db-4880-90d0-060b33dfeada@104.17.169.114:80?path=/Telegram:@UnlimitedDev-Telegram:@UnlimitedDev-Telegram:@UnlimitedDev?ed=1024&security=none&encryption=none&host=unlimiteddev.xn--9iqr0tm1r4wg.co.&type=ws#US🇺🇸
+vless://dd3fc0bb-80db-4880-90d0-060b33dfeada@104.17.169.114:80?path=/Telegram:@UnlimitedDev-Telegram:@UnlimitedDev-Telegram:@UnlimitedDev?ed=1024&security=none&encryption=none&host=unlimiteddev.xn--9iqr0tm1r4wg.co.&type=ws#CA🇨🇦
 
-vless://7f3b2f37-819e-49ee-9f5c-215467bfde61@172.67.204.39:443?path=/?ed&security=tls&encryption=none&host=turkmenistan.armanibash.Shop.&fp=chrome&type=ws&sni=turkmenistan.armanibash.Shop.#US🇺🇸
+vless://7f3b2f37-819e-49ee-9f5c-215467bfde61@172.67.204.39:443?path=/?ed&security=tls&encryption=none&host=turkmenistan.armanibash.Shop.&fp=chrome&type=ws&sni=turkmenistan.armanibash.Shop.#CA🇨🇦
 
 vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@198.41.198.76:443?path=/?ed&security=tls&encryption=none&host=jd.wxgqlfx.top&type=ws&sni=jd.wxgqlfx.top#CA🇨🇦
 
@@ -56,7 +56,7 @@ vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@198.41.198.76:443?path=Telegram@SiN
 
 vless://Parsashonam-68@104.18.15.19:8080?path=/&security=none&encryption=none&host=Parsashonam.我们累了.tech.&type=ws#CA🇨🇦
 
-vless://5549ac9a-5464-4bfa-a1f2-4bd1d1bd30d3@162.159.134.234:8080?path=/&security=none&encryption=none&host=hrtv.numall.xyz.&type=ws#CA🇨🇦
+vless://5549ac9a-5464-4bfa-a1f2-4bd1d1bd30d3@162.159.134.234:8080?path=/&security=none&encryption=none&host=hrtv.numall.xyz.&type=ws#US🇺🇸
 
 vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@198.41.198.76:443?path=/?ed=2048&security=tls&encryption=none&host=jd.wxgqlfx.top&type=ws&sni=jd.wxgqlfx.top#CA🇨🇦
 
@@ -65,6 +65,22 @@ vless://vpnowl-vpnowl-vpnowl-vpnowl@www.zula.ir:80?path=/Join-Tele-VpnOwl?ed=256
 vmess://eyJhZGQiOiI5NC4xODIuMTUwLjIyOSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiIyYjdjZTFkMi0wMzcyLTQxMDQtYWEwNi1mN2Q5OTlmMjZlMWQiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjgwIiwicHMiOiJJUlx1ZDgzY1x1ZGRlZVx1ZDgzY1x1ZGRmNyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
 
 vmess://eyJhZGQiOiJhdGxhc25ldDEubXlhdGxhc25ldC5pciIsImFpZCI6IjAiLCJhbHBuIjoiaDIsaHR0cFwvMS4xIiwiZnAiOiJjaHJvbWUiLCJob3N0IjoiIiwiaWQiOiI2M2U1NDc0Mi1hMjQ0LTRiYjAtYzljYi0xN2E1NDVmNGNhM2YiLCJuZXQiOiJ3cyIsInBhdGgiOiJcLyIsInBvcnQiOiI4NDQzIiwicHMiOiJDQVx1ZDgzY1x1ZGRlOFx1ZDgzY1x1ZGRlNiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ==
+
+vmess://eyJhZGQiOiIxMjcuMC4wLjEiLCJhaWQiOiIwIiwiaG9zdCI6IiIsImlkIjoiYmNhYWJjYS1iY2FhLWFjYmEtZGNhYi1jYWJjY2FjYWJiYWIiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6ODA4MCwicHMiOiJJTlRcdWQ4M2NcdWRmMGQiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
+
+trojan://bcaabca-bcaa-acba-dcab-cabccacabbab@127.0.0.1:8080?security=tls&type=tcp#INT🌍
+
+ss://YWVzLTI1Ni1jZmI6VlA4WlB4UXBKdFpSQ2pmWg==@80.92.204.106:9080#DE🇩🇪
+
+vmess://eyJ2IjoiMiIsImFkZCI6IjE4LjE0My4xMzAuODEiLCJwb3J0IjoxMzE5MiwiaWQiOiI4NmJhYjIzYy1lMTBkLTQ3NjYtYTczZi03NjM1NTY2NjhlZTMiLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwidGxzIjoibm9uZSIsInBhdGgiOiJcLyIsImhvc3QiOiIiLCJwcyI6IlNHXHVkODNjXHVkZGY4XHVkODNjXHVkZGVjIn0=
+
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.121.43.71:8118#US🇺🇸
+
+vmess://eyJhZGQiOiIyMDUuMjM0LjIzMS4zNSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI1MGU4MjU4MS1iZDE0LTQ1MjctZjdkNi1lNzgyNGNkMjZmNTciLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjMxNDMzIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIiLCJwcyI6IlVTXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4In0=
+
+vmess://eyJ2IjoiMiIsInBzIjoiQ0FcdWQ4M2NcdWRkZThcdWQ4M2NcdWRkZTYiLCJhZGQiOiIxMDguMTYyLjE5Mi4xMDAiLCJwb3J0IjoiODA4MCIsImlkIjoiNGYxZjhmMWUtOTI2Yy00ZWRiLWEzOTgtODYyNzExMDk3M2YxIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiIiLCJob3N0IjoiZG8tYXUuYWxpcGF5Lm92aCIsInBhdGgiOiJcL2FyaWVzP2VkPTIwNDgiLCJ0bHMiOiIiLCJzbmkiOiIiLCJ0ZXN0X25hbWUiOiJVU1x1N2Y4ZVx1NTZmZDI5In0=
+
+vless://67a6dadc-9023-4a2d-bc8d-89fc18e0daff@185.148.105.52:2083?security=tls&sni=join20.maznet.cfd&type=ws&serviceName=@V2rayNGcloud-Telegram-v2rayNGcloud-@V2rayNGcloud-Telegram-@V2rayNGcloud-Telegram-@V2rayNGcloud&host=join20.maznet.cfd&path=@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet&fp=chrome&alpn=h3,h2,http/1.1#RU🇷🇺
 
 vmess://eyJhZGQiOiIyMDUuMjM0LjIzMS4zNSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI1MGU4MjU4MS1iZDE0LTQ1MjctZjdkNi1lNzgyNGNkMjZmNTciLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjMxNDMzIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIiLCJwcyI6IlVTXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4In0=
 
@@ -97,22 +113,6 @@ ss://bm9uZTphYmFjYmNhLWJhYWMtYmNhYS1jYmRhLWJjY2FjY2FhYmJhYg==@127.0.0.1:1080#INT
 vmess://eyJhZGQiOiIxODUuMTQ2LjE3My4xNDYiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6InhuLS0wNDdoLmFhYS5tZXJvc2Fib3Jhbi5tb25zdGVyLiIsImlkIjoiOGQ4ZGZhZDMtY2U5Yy00M2YzLWE3YzgtNDUzM2U1MTUzNjMyIiwibmV0Ijoid3MiLCJwYXRoIjoiXC9AbWVocm9zYWJvcmFuIiwicG9ydCI6IjIwNTIiLCJwcyI6IlNFXHVkODNjXHVkZGY4XHVkODNjXHVkZGVhIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
 
 vless://92d4bd40-68ed-4b1e-843c-f739ec536b2c@162.159.134.234:8080?security=none&type=ws&host=hrtv.numall.xyz.&path=/#CA🇨🇦
-
-vless://c142dd91-b36b-430b-b0d7-8c9c2a073a1e@104.18.203.232:2086?security=none&type=ws&host=uusaa.列列男事的事列上赛男78.shop&path=/Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER#CA🇨🇦
-
-vless://dbce4267-2d1a-4df2-9c3f-cc3cfe97cdd6@104.17.169.114:80?security=none&type=ws&host=unlimiteddev.xn--9iqr0tm1r4wg.co.&path=/Telegram:@UnlimitedDev-Telegram:@UnlimitedDev-Telegram:@UnlimitedDev?ed=1024#CA🇨🇦
-
-vmess://eyJob3N0Ijoid3d3LnNwZWVkdGVzdC5uZXQiLCJwYXRoIjoiXC8iLCJuZXQiOiJ0Y3AiLCJpZCI6ImRlYjY5MTczLTlhNTEtNGVjZi04ZGEyLWM4YzQ0MGRhNWVkYyIsImFkZCI6IjIxMi4zMy4yMDYuOTUiLCJ0eXBlIjoiaHR0cCIsInNjeSI6ImF1dG8iLCJwb3J0IjoiNjM2NCIsInBzIjoiSVJcdWQ4M2NcdWRkZWVcdWQ4M2NcdWRkZjcifQ==
-
-trojan://telegram-id-privatevpns@13.38.252.86:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#FR🇫🇷
-
-vless://a163b46b-7d5e-41f0-80ad-ef42c4696a83@212.33.206.80:37753?security=none&type=tcp&host=colorlib.com&headerType=http#IR🇮🇷
-
-vmess://eyJhZGQiOiIxMjcuMC4wLjEiLCJhaWQiOiIwIiwiaG9zdCI6IiIsImlkIjoiYWFjY2FiYi1iYWFjLWNhYmEtYWJkYy1iYmNhYmNhYWNhY2IiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6MjA4MCwicHMiOiJJTlRcdWQ4M2NcdWRmMGQiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
-
-vmess://eyJhZGQiOiIxMDQuMjYuNy42NSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoibWlrYXNhLnlhZW1pa28uY2xvdWRucy5vcmciLCJpZCI6IjQ0MWRhMzQyLWNlOTAtNDQxZS1iZmY5LWQyY2ViNTVlNjhjYSIsIm5ldCI6IndzIiwicGF0aCI6IlwvaXZpZGVvcy5zYnNcL2xpbmt3cyIsInBvcnQiOiI0NDMiLCJwcyI6IkNBXHVkODNjXHVkZGU4XHVkODNjXHVkZGU2Iiwic2N5IjoiYXV0byIsInNuaSI6Im1pa2FzYS55YWVtaWtvLmNsb3VkbnMub3JnIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=
-
-vmess://eyJ2IjoiMiIsInBzIjoiVVNcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjgiLCJhZGQiOiIxMjkuMTQ2LjQ2LjE4MSIsInBvcnQiOiI1MjQwOCIsImlkIjoiYTc5N2ZmN2ItODE2MS00MGE2LWQ1NzctMWIyYzIxM2IzODg1IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIiLCJwYXRoIjoiIiwidGxzIjoiIiwic25pIjoiIiwidGVzdF9uYW1lIjoiVVM3NiJ9
 
 vless://164c7099-74ee-472c-a8c6-023bf3d1216d@www.speedtest.net:443?path=/?ed=2048&security=tls&encryption=none&host=proxystore11.kodaksho.eu.org&fp=randomized&type=ws&sni=proxystore11.kodaksho.eu.org#CA🇨🇦
 
