@@ -28,19 +28,19 @@ vless://92d4bd40-68ed-4b1e-843c-f739ec536b2c@162.159.134.234:8080?path=/&securit
 
 vless://a61eb3a2-1adb-48cb-ab46-ce225769de16@104.16.67.38:443?path=users?ed=2048&security=tls&encryption=none&host=ada3.qowch.com&fp=chrome&type=ws&sni=ada3.qowch.com#US🇺🇸
 
-vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@198.41.198.76:443?path=/Telegram-MARAMBASHI/?ed&security=tls&encryption=none&host=jd.wxgqlfx.top&type=ws&sni=jd.wxgqlfx.top#CA🇨🇦
+vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@198.41.198.76:443?path=/Telegram-MARAMBASHI/?ed&security=tls&encryption=none&host=jd.wxgqlfx.top&type=ws&sni=jd.wxgqlfx.top#US🇺🇸
 
 vless://7f3b2f37-819e-49ee-9f5c-215467bfde61@172.67.204.39:443?path=/?ed&security=tls&encryption=none&host=turkmenistan.armanibash.Shop.&fp=chrome&type=ws&sni=turkmenistan.armanibash.Shop.#US🇺🇸
 
-vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@198.41.198.76:443?path=/?ed&security=tls&encryption=none&host=jd.wxgqlfx.top&type=ws&sni=jd.wxgqlfx.top#CA🇨🇦
+vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@198.41.198.76:443?path=/?ed&security=tls&encryption=none&host=jd.wxgqlfx.top&type=ws&sni=jd.wxgqlfx.top#US🇺🇸
 
-vless://7f3b2f37-819e-49ee-9f5c-215467bfde61@172.67.204.39:443?path=/&security=tls&encryption=none&host=turkmenistan.armanibash.Shop.&fp=chrome&type=ws&sni=turkmenistan.armanibash.Shop.#US🇺🇸
+vless://7f3b2f37-819e-49ee-9f5c-215467bfde61@172.67.204.39:443?path=/&security=tls&encryption=none&host=turkmenistan.armanibash.Shop.&fp=chrome&type=ws&sni=turkmenistan.armanibash.Shop.#CA🇨🇦
 
 vless://dbce4267-2d1a-4df2-9c3f-cc3cfe97cdd6@104.17.169.114:80?path=/Telegram:@UnlimitedDev-Telegram:@UnlimitedDev-Telegram:@UnlimitedDev&security=none&encryption=none&host=unlimiteddev.xn--9iqr0tm1r4wg.co.&type=ws#US🇺🇸
 
 vless://68963438-da5b-4ce1-a51f-04e75724e249@www.speedtest.net:443?path=/?ed&security=tls&encryption=none&alpn=h3&host=raphaelmercer.pages.dev&fp=randomized&type=ws&sni=raphaelmercer.pages.dev#CA🇨🇦
 
-vless://17fafaf9-7402-40eb-87ae-a75944c84c52@zula.ir:8443?path=/?ed&security=tls&encryption=none&host=ggho.pages.dev.&fp=randomized&type=ws&sni=ggho.pages.dev.#US🇺🇸
+vless://17fafaf9-7402-40eb-87ae-a75944c84c52@zula.ir:8443?path=/?ed&security=tls&encryption=none&host=ggho.pages.dev.&fp=randomized&type=ws&sni=ggho.pages.dev.#CA🇨🇦
 
 vless://Parsashonam-70@185.146.173.58:8080?path=/&security=none&encryption=none&host=Parsashonam.我们累了.tech.&type=ws#SE🇸🇪
 
@@ -72,15 +72,13 @@ vless://7f3b2f37-819e-49ee-9f5c-215467bfde61@172.67.204.39:443?path=/?ed=2048&se
 
 vless://7f3b2f37-819e-49ee-9f5c-215467bfde61@172.67.204.39:443?path=/?ed&security=tls&encryption=none&host=turkmenistan.armanibash.Shop.&fp=chrome&type=ws&sni=turkmenistan.armanibash.Shop.#CA🇨🇦
 
+vless://cfd0935c-8dda-4243-9622-dc2fe8f868c8@60.248.63.88:12031?security=tls&sni=68123106-3e43-4958-b75a-b06e81eabf79.50d88e28-a870-497d-bf87-c20fb6802871.camdvr.org&type=ws&path=/pasge.pages.dev/?ed&fp=random#TW🇹🇼
+
+vless://d3354ef2-17eb-46e3-b7e9-c2ecf13e6851@104.18.203.232:8880?security=none&type=ws&host=2.v2ray.debian.org.fxp.debian.org.speedtest.net.らわなさらわ.taje-kabir.online.&path=/?ed=2048#CA🇨🇦
+
 vless://38535031-ccc3-4a94-bd54-c68806486406@172.67.70.118:443?security=tls&sni=furina.yaemiko.cloudns.org&type=ws&host=furina.yaemiko.cloudns.org&path=/ed?=2560&fp=random&alpn=http/1.1#CA🇨🇦
 
 vless://82299fb9-f8b0-43bc-ae63-290881a89f72@188.114.97.3:443?security=tls&sni=jAVidSHAH-aRiaMeHR.pagEs.DEV&type=ws&host=jAviDSHAH-ArIamEhR.PageS.deV&path=TeleGram..Free_V2rng?ed=2560&fp=randomized&alpn=h2,http/1.1#CA🇨🇦
-
-vless://90fb9114-e01b-49fe-b24c-7a2b3884baca@176.126.113.161:2003?security=tls&sni=nl2-full.privateip.net&type=grpc&serviceName=GRPC&path=/&allowInsecure=1#NL🇳🇱
-
-vless://319ec53d-fdb6-41b5-b64f-f7f43c3f92c7@138.124.184.173:443?security=tls&sni=us-full.privateip.net&type=ws&path=/VLESS&allowInsecure=1#US🇺🇸
-
-vless://b0df4fb0-1977-4c3d-bea7-449ad04d5060@162.159.128.233:8080?security=none&type=ws&host=de2.过滤器.store.&path=/melov2ray/melov2ray/melov2ray/melov2ray/melov2ray/melov2ray/melov2ray#CA🇨🇦
 
 vless://164c7099-74ee-472c-a8c6-023bf3d1216d@www.speedtest.net:443?path=/?ed=2048&security=tls&encryption=none&host=proxystore11.kodaksho.eu.org&fp=randomized&type=ws&sni=proxystore11.kodaksho.eu.org#CA🇨🇦
 
