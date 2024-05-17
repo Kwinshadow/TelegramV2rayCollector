@@ -32,9 +32,9 @@ vless://83aa2634-96a7-4ee6-aac1-07fd96f1c6c0@zula.ir:443?path=/?ed&security=tls&
 
 vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@198.41.198.76:443?path=/?ed=2048&security=tls&encryption=none&host=jd.wxgqlfx.top&type=ws&sni=jd.wxgqlfx.top#US🇺🇸
 
-vless://17a7bf97-fef5-4101-a5c5-7c730fabeeee@104.18.202.232:443?path=/&security=tls&encryption=none&host=bpb-worker-panel-h5f.pages.dev&fp=firefox&type=ws&sni=bpb-worker-panel-h5f.pages.dev#US🇺🇸
+vless://17a7bf97-fef5-4101-a5c5-7c730fabeeee@104.18.202.232:443?path=/&security=tls&encryption=none&host=bpb-worker-panel-h5f.pages.dev&fp=firefox&type=ws&sni=bpb-worker-panel-h5f.pages.dev#CA🇨🇦
 
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.47.88:443?path=/&security=tls&encryption=none&host=12148dF7.miKApaGE.pagES.dEV&fp=randomized&type=ws&sni=12148Df7.miKApaGE.PAgeS.Dev#CA🇨🇦
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.47.88:443?path=/&security=tls&encryption=none&host=12148dF7.miKApaGE.pagES.dEV&fp=randomized&type=ws&sni=12148Df7.miKApaGE.PAgeS.Dev#US🇺🇸
 
 vless://83aa2634-96a7-4ee6-aac1-07fd96f1c6c0@zula.ir:443?path=/?ed&security=tls&encryption=none&alpn=h2,http/1.1&host=aMI-02-SJsD6TExaRobDu76.THIekliNlNT9.WorkErs.dEV&fp=chrome&type=ws&sni=aMI-02-SJsD6TExaRobDu76.THIekliNlNT9.WorkErs.dEV#US🇺🇸
 
@@ -104,6 +104,16 @@ vless://7f3b2f37-819e-49ee-9f5c-215467bfde61@172.67.204.39:443?path=/?ed&securit
 
 vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@198.41.198.76:443?path=/?ed&security=tls&encryption=none&host=jd.wxgqlfx.top&type=ws&sni=jd.wxgqlfx.top#CA🇨🇦
 
+vless://1426a594-04c9-40cc-9296-807c0f2bd7d6@104.31.16.183:2083?path=/&security=tls&encryption=none&alpn=http/1.1&host=ousgyyzsjbolbolsweden.stay-out-of-my-territory.shop&fp=chrome&type=ws&sni=ousgyyzsjbolbolsweden.stay-out-of-my-territory.shop#CA🇨🇦
+
+vless://a44b85ff-9724-4377-a8c2-9741be8a6b13@zula.ir:80?path=/@custom_config?ed=2048&security=none&encryption=none&host=1130111.ir.www.zula.ir.xn--4all.king4usd.shop.&type=ws#CA🇨🇦
+
+vless://f42f11b2-c034-471f-a3ad-e2a77c957807@104.21.69.44:2095?security=none&type=ws&host=V2ray-_-_-_-_-vMESSKHODAM.lars1.nl.&path=VMESSKHODAM-VMESSKHODAM-VMESSKHODAM-VMESSKHODAM-VMESSKHODAM-VMESSKHODAM-VMESSKHODAM/VMESSKHODAM?ed=1024#US🇺🇸
+
+vless://d7dd3a35-b68b-4992-b319-a85b8a1fc8e5@18.138.229.141:2053?security=tls&sni=tg.dns68.cloudns.nz&type=ws&host=tg.dns68.cloudns.nz&path=/?ed=2048#SG🇸🇬
+
+vless://abaacbc-cbaa-abac-dbac-aaacbccbbbca@127.0.0.1:1080?security=tls&type=tcp#INT🌍
+
 vless://d59e2386-341d-43d7-9dc5-73681ef38e82@179.61.251.238:55606?security=none&type=tcp&host=fast.com&path=/free&headerType=http#DE🇩🇪
 
 vless://e6aedcd2-24ad-4bdd-82c5-006d84179197@104.18.202.232:443?security=tls&sni=4d3d6f00.garywelch.pages.dev&type=ws&host=4d3d6f00.garywelch.pages.dev&path=/?ed&fp=randomized&alpn=h3#CA🇨🇦
@@ -131,22 +141,6 @@ vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@47.76.146.1:2053?security=tls&sni=j
 vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@47.236.93.176:8443?security=tls&sni=jd.wxgqlfx.top&type=ws&path=/?ed&fp=random#SG🇸🇬
 
 vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@47.236.144.156:2096?security=tls&sni=jd.wxgqlfx.top&type=ws&path=/?ed&fp=random#SG🇸🇬
-
-vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@8.218.155.238:2087?security=tls&sni=jd.wxgqlfx.top&type=ws&path=/?ed&fp=random#HK🇭🇰
-
-vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@168.138.70.29:443?security=tls&sni=jd.wxgqlfx.top&type=ws&path=/?ed&fp=random#CA🇨🇦
-
-vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@47.236.144.208:2087?security=tls&sni=jd.wxgqlfx.top&type=ws&path=/?ed&fp=random#SG🇸🇬
-
-vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@34.105.49.234:443?security=tls&sni=jd.wxgqlfx.top&type=ws&path=/?ed&fp=random#US🇺🇸
-
-vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@47.237.0.31:2096?security=tls&sni=jd.wxgqlfx.top&type=ws&path=/?ed&fp=random#SG🇸🇬
-
-vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@20.220.204.217:443?security=tls&sni=jd.wxgqlfx.top&type=ws&path=/?ed&fp=random#CA🇨🇦
-
-vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@47.243.90.180:8443?security=tls&sni=jd.wxgqlfx.top&type=ws&path=/?ed&fp=random#HK🇭🇰
-
-vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@34.41.252.92:443?security=tls&sni=jd.wxgqlfx.top&type=ws&path=/?ed&fp=random#US🇺🇸
 
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@www.speedtest.net:443?path=/ZN1NpKJ0c08SZu1Z?ed=2560&security=tls&encryption=none&alpn=h2,http/1.1&host=ProxYSTorePANeL.eu.Org&fp=randomized&type=ws&sni=ProXYsTOrepANeL.EU.ORg#CA🇨🇦
 
