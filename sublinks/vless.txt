@@ -34,15 +34,15 @@ vless://7143e704-5957-42db-bd38-670062722461@172.67.217.107:80?path=/?ed&securit
 
 vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@198.41.198.76:443?path=/?ed&security=tls&encryption=none&host=jd.wxgqlfx.top&type=ws&sni=jd.wxgqlfx.top#US🇺🇸
 
-vless://df4608a5-0ceb-4513-b991-596f541bccdb@172.64.87.176:443?path=/&security=tls&encryption=none&host=cfdy.yueuzi.dynv6.net&fp=random&type=ws&sni=cfdy.yueuzi.dynv6.net#CA🇨🇦
+vless://df4608a5-0ceb-4513-b991-596f541bccdb@172.64.87.176:443?path=/&security=tls&encryption=none&host=cfdy.yueuzi.dynv6.net&fp=random&type=ws&sni=cfdy.yueuzi.dynv6.net#US🇺🇸
 
-vless://a61eb3a2-1adb-48cb-ab46-ce225769de16@104.16.67.38:443?path=users?ed&security=tls&encryption=none&host=ada3.qowch.com&fp=chrome&type=ws&sni=ada3.qowch.com#US🇺🇸
+vless://a61eb3a2-1adb-48cb-ab46-ce225769de16@104.16.67.38:443?path=users?ed&security=tls&encryption=none&host=ada3.qowch.com&fp=chrome&type=ws&sni=ada3.qowch.com#CA🇨🇦
 
-vless://df4608a5-0ceb-4513-b991-596f541bccdb@172.64.87.176:443?path=/&security=tls&encryption=none&host=cfdy.yueuzi.dynv6.net&fp=random&type=ws&sni=cfdy.yueuzi.dynv6.net#CA🇨🇦
+vless://df4608a5-0ceb-4513-b991-596f541bccdb@172.64.87.176:443?path=/&security=tls&encryption=none&host=cfdy.yueuzi.dynv6.net&fp=random&type=ws&sni=cfdy.yueuzi.dynv6.net#US🇺🇸
 
 vless://7f3b2f37-819e-49ee-9f5c-215467bfde61@172.67.204.39:443?path=/&security=tls&encryption=none&host=turkmenistan.armanibash.Shop.&fp=chrome&type=ws&sni=turkmenistan.armanibash.Shop.#CA🇨🇦
 
-vless://Parsashonam-71@104.18.14.19:8080?path=/&security=none&encryption=none&host=Parsashonam.我们累了.tech.&type=ws#US🇺🇸
+vless://Parsashonam-71@104.18.14.19:8080?path=/&security=none&encryption=none&host=Parsashonam.我们累了.tech.&type=ws#CA🇨🇦
 
 vless://7143e704-5957-42db-bd38-670062722461@172.67.217.107:80?path=/?ed&security=none&encryption=none&host=buyz.ribiwa9933.workers.dev&type=ws#CA🇨🇦
 
@@ -108,6 +108,20 @@ vless://7f3b2f37-819e-49ee-9f5c-215467bfde61@172.67.204.39:443?path=/?ed&securit
 
 vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@198.41.198.76:443?path=/?ed&security=tls&encryption=none&host=jd.wxgqlfx.top&type=ws&sni=jd.wxgqlfx.top#CA🇨🇦
 
+vless://83aa2634-96a7-4ee6-aac1-07fd96f1c6c0@104.21.69.44:443?security=tls&sni=aMI-02-SJsD6TExaRobDu76.THIekliNlNT9.WorkErs.dEV&type=ws&host=aMI-02-SJsD6TExaRobDu76.THIekliNlNT9.WorkErs.dEV&path=/?ed#US🇺🇸
+
+vless://e0a9fdc4-3bdb-4e7c-b938-60e7745f3eb5@162.159.153.2:2053?security=tls&sni=ee2.v2vless.xyz&type=grpc&serviceName=vless-grpc#CA🇨🇦
+
+vless://e2fbd763-57e0-4a42-b083-4ef713bb0300@104.17.246.203:443?security=tls&sni=x3.dalidalton.online&type=grpc&serviceName=Telegram : @vpn_xw Telegram : @vpn_xwTelegram : @vpn_xwTelegram : @vpn_xwTelegram : @vpn_xwTelegram : @vpn_xwTelegram : @vpn_xwTelegram : @vpn_xwTelegram : @vpn_xwTelegram : @vpn_xwTelegram : @vpn_xwTelegram : @vpn_xw#CA🇨🇦
+
+vless://79008720-f4c7-4e03-ae5c-1566d531533a@172.66.213.5:8880?security=none&type=ws&host=xn--v2ray-qhantayawi--a-mwxzc08arba93xpvac79043ht5ia.xn--v2-gn1d638jbjx.xyz.&path=/@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-@LiV2ray#CA🇨🇦
+
+vless://48870d7c-f1d8-4898-91be-e7d29cf763a8@104.18.203.232:2087?security=tls&sni=ddddddddeeeEessssrrrrr.doRiashajikala.org.&type=grpc&serviceName=#FreeService&fp=chrome&alpn=h2,http/1.1#CA🇨🇦
+
+vless://cbacaab-bcaa-aabc-bdac-abbcabcacabc@127.0.0.1:2080?security=tls&type=tcp#INT🌍
+
+vless://dffd0356-baca-4802-98da-733bdb4a010e@188.114.98.18:443?security=tls&sni=afjdh053dda.72386902d6.workers.dev&type=ws&host=afjdh053dda.72386902d6.workers.dev&path=/?ed=2560&fp=randomized#CA🇨🇦
+
 vless://cfd0935c-8dda-4243-9622-dc2fe8f868c8@47.236.171.205:2096?security=tls&sni=vless.pagess.filegear-sg.me&type=ws&path=/?ed&fp=random#SG🇸🇬
 
 vless://4b306bd7-e02f-4b2a-b7ef-1022910550c5@104.26.14.85:80?security=none&type=ws&host=xjftydftg7654AafHvF.ir.com.bargo.lol.&path=/BARGOVPN-BARGOVPN-BARGOVPN-BARGOVPN-BARGOVPN-BARGOVPN-BARGOVPN-BARGOVPN-BARGOVPN-BARGOVPN-BARGOVPN-BARGOVPN-BARGOVPN-BARGOVPN-BARGOVPN-BARGOVPN-BARGOVPN-BARGOVPN-BARGOVPN-BARGOVPN#CA🇨🇦
@@ -127,18 +141,6 @@ vless://cacabab-abac-cbaa-cbad-baabcaccbabc@127.0.0.1:2080?security=tls&type=tcp
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.47.88:443?path=/&security=tls&encryption=none&host=12148dF7.miKApaGE.pagES.dEV&fp=randomized&type=ws&sni=12148Df7.miKApaGE.PAgeS.Dev#CA🇨🇦
 
 vless://42b4677d-0557-4a8d-a3a5-7cb928a31e54@104.18.14.118:80?security=&type=ws&path=/Telegram:@vmessorg-Telegram:@vmessorg-Telegram:@vmessorg&host=vmessorg1.xn--54qv00ez5ar77g.co.&encryption=none#CA🇨🇦
-
-vless://17a7bf97-fef5-4101-a5c5-7c730fabeeee@104.18.202.232:443?path=/&security=tls&encryption=none&host=bpb-worker-panel-h5f.pages.dev&fp=firefox&type=ws&sni=bpb-worker-panel-h5f.pages.dev#CA🇨🇦
-
-vless://aabcbca-baac-acab-abcd-acbaacabbcbc@127.0.0.1:8080?security=tls&type=tcp#INT🌍
-
-vless://ad0c0280-dee4-4b30-a603-204078f6341f@104.18.14.118:80?security=none&type=ws&host=vmessorg1.xn--54qv00ez5ar77g.co.&path=/Telegram:@vmessorg-Telegram:@vmessorg-Telegram:@vmessorg#CA🇨🇦
-
-vless://7f3b2f37-819e-49ee-9f5c-215467bfde61@172.67.204.39:443?security=tls&sni=turkmenistan.armanibash.Shop.&type=ws&host=turkmenistan.armanibash.Shop.&path=/?ed=2048#CA🇨🇦
-
-vless://cfd0935c-8dda-4243-9622-dc2fe8f868c8@146.56.38.95:57770?security=tls&sni=vless.pagess.filegear-sg.me&type=ws&path=/?ed&fp=random#KR🇰🇷
-
-vless://ece26d7d-1d68-4cd9-996b-5f5cc4c649c9@162.159.134.234:2095?security=none&type=ws&host=gvrfcvc.numall.xyz.&path=/#CA🇨🇦
 
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@www.speedtest.net:443?path=/ZN1NpKJ0c08SZu1Z?ed=2560&security=tls&encryption=none&alpn=h2,http/1.1&host=ProxYSTorePANeL.eu.Org&fp=randomized&type=ws&sni=ProXYsTOrepANeL.EU.ORg#CA🇨🇦
 
