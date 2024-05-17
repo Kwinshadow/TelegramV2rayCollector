@@ -36,11 +36,11 @@ vless://17a7bf97-fef5-4101-a5c5-7c730fabeeee@104.18.202.232:443?path=/&security=
 
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.47.88:443?path=/&security=tls&encryption=none&host=12148dF7.miKApaGE.pagES.dEV&fp=randomized&type=ws&sni=12148Df7.miKApaGE.PAgeS.Dev#US🇺🇸
 
-vless://83aa2634-96a7-4ee6-aac1-07fd96f1c6c0@zula.ir:443?path=/?ed&security=tls&encryption=none&alpn=h2,http/1.1&host=aMI-02-SJsD6TExaRobDu76.THIekliNlNT9.WorkErs.dEV&fp=chrome&type=ws&sni=aMI-02-SJsD6TExaRobDu76.THIekliNlNT9.WorkErs.dEV#CA🇨🇦
+vless://83aa2634-96a7-4ee6-aac1-07fd96f1c6c0@zula.ir:443?path=/?ed&security=tls&encryption=none&alpn=h2,http/1.1&host=aMI-02-SJsD6TExaRobDu76.THIekliNlNT9.WorkErs.dEV&fp=chrome&type=ws&sni=aMI-02-SJsD6TExaRobDu76.THIekliNlNT9.WorkErs.dEV#US🇺🇸
 
 vless://7143e704-5957-42db-bd38-670062722461@172.67.217.107:80?path=/?ed=2048&security=none&encryption=none&host=buyz.ribiwa9933.workers.dev&type=ws#CA🇨🇦
 
-vless://758cf7cd-b79a-4b73-9ade-a16a970d67d9@104.17.169.114:80?path=/Telegram:@UnlimitedDev-Telegram:@UnlimitedDev-Telegram:@UnlimitedDev?ed&security=none&encryption=none&host=unlimiteddev.xn--9iqr0tm1r4wg.co.&type=ws#US🇺🇸
+vless://758cf7cd-b79a-4b73-9ade-a16a970d67d9@104.17.169.114:80?path=/Telegram:@UnlimitedDev-Telegram:@UnlimitedDev-Telegram:@UnlimitedDev?ed&security=none&encryption=none&host=unlimiteddev.xn--9iqr0tm1r4wg.co.&type=ws#CA🇨🇦
 
 vless://Parsashonam-72@104.18.14.19:8080?path=/&security=none&encryption=none&host=Parsashonam.我们累了.tech.&type=ws#CA🇨🇦
 
@@ -104,6 +104,22 @@ vless://7f3b2f37-819e-49ee-9f5c-215467bfde61@172.67.204.39:443?path=/?ed&securit
 
 vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@198.41.198.76:443?path=/?ed&security=tls&encryption=none&host=jd.wxgqlfx.top&type=ws&sni=jd.wxgqlfx.top#CA🇨🇦
 
+vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@8.218.155.238:2087?security=tls&sni=jd.wxgqlfx.top&type=ws&path=/?ed&fp=random#HK🇭🇰
+
+vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@168.138.70.29:443?security=tls&sni=jd.wxgqlfx.top&type=ws&path=/?ed&fp=random#CA🇨🇦
+
+vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@47.236.144.208:2087?security=tls&sni=jd.wxgqlfx.top&type=ws&path=/?ed&fp=random#SG🇸🇬
+
+vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@34.105.49.234:443?security=tls&sni=jd.wxgqlfx.top&type=ws&path=/?ed&fp=random#US🇺🇸
+
+vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@47.237.0.31:2096?security=tls&sni=jd.wxgqlfx.top&type=ws&path=/?ed&fp=random#SG🇸🇬
+
+vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@20.220.204.217:443?security=tls&sni=jd.wxgqlfx.top&type=ws&path=/?ed&fp=random#CA🇨🇦
+
+vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@47.243.90.180:8443?security=tls&sni=jd.wxgqlfx.top&type=ws&path=/?ed&fp=random#HK🇭🇰
+
+vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@34.41.252.92:443?security=tls&sni=jd.wxgqlfx.top&type=ws&path=/?ed&fp=random#US🇺🇸
+
 vless://aacbabc-bcaa-baac-dbac-bccabcabaabc@127.0.0.1:8080?security=tls&type=tcp#INT🌍
 
 vless://e2fbd763-57e0-4a42-b083-4ef713bb0300@104.17.245.203:443?security=tls&sni=x3.dalidalton.online&type=grpc&serviceName=Telegram : @vpn_xw Telegram : @vpn_xwTelegram : @vpn_xwTelegram : @vpn_xwTelegram : @vpn_xwTelegram : @vpn_xwTelegram : @vpn_xwTelegram : @vpn_xwTelegram : @vpn_xwTelegram : @vpn_xwTelegram : @vpn_xwTelegram : @vpn_xw#CA🇨🇦
@@ -127,20 +143,6 @@ vless://79008720-f4c7-4e03-ae5c-1566d531533a@198.41.202.5:8880?security=none&typ
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@54.247.154.230:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#IE🇮🇪
 
 vless://79008720-f4c7-4e03-ae5c-1566d531533a@103.184.44.104:8880?security=none&type=ws&host=xn--v2ray-qhantayawi--a-mwxzc08arba93xpvac79043ht5ia.xn--v2-gn1d638jbjx.xyz.&path=/@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-@LiV2ray#CN🇨🇳
-
-vless://83aa2634-96a7-4ee6-aac1-07fd96f1c6c0@104.21.69.44:443?security=tls&sni=aMI-02-SJsD6TExaRobDu76.THIekliNlNT9.WorkErs.dEV&type=ws&host=aMI-02-SJsD6TExaRobDu76.THIekliNlNT9.WorkErs.dEV&path=/?ed#US🇺🇸
-
-vless://e0a9fdc4-3bdb-4e7c-b938-60e7745f3eb5@162.159.153.2:2053?security=tls&sni=ee2.v2vless.xyz&type=grpc&serviceName=vless-grpc#CA🇨🇦
-
-vless://e2fbd763-57e0-4a42-b083-4ef713bb0300@104.17.246.203:443?security=tls&sni=x3.dalidalton.online&type=grpc&serviceName=Telegram : @vpn_xw Telegram : @vpn_xwTelegram : @vpn_xwTelegram : @vpn_xwTelegram : @vpn_xwTelegram : @vpn_xwTelegram : @vpn_xwTelegram : @vpn_xwTelegram : @vpn_xwTelegram : @vpn_xwTelegram : @vpn_xwTelegram : @vpn_xw#CA🇨🇦
-
-vless://79008720-f4c7-4e03-ae5c-1566d531533a@172.66.213.5:8880?security=none&type=ws&host=xn--v2ray-qhantayawi--a-mwxzc08arba93xpvac79043ht5ia.xn--v2-gn1d638jbjx.xyz.&path=/@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-@LiV2ray#CA🇨🇦
-
-vless://48870d7c-f1d8-4898-91be-e7d29cf763a8@104.18.203.232:2087?security=tls&sni=ddddddddeeeEessssrrrrr.doRiashajikala.org.&type=grpc&serviceName=#FreeService&fp=chrome&alpn=h2,http/1.1#CA🇨🇦
-
-vless://cbacaab-bcaa-aabc-bdac-abbcabcacabc@127.0.0.1:2080?security=tls&type=tcp#INT🌍
-
-vless://dffd0356-baca-4802-98da-733bdb4a010e@188.114.98.18:443?security=tls&sni=afjdh053dda.72386902d6.workers.dev&type=ws&host=afjdh053dda.72386902d6.workers.dev&path=/?ed=2560&fp=randomized#CA🇨🇦
 
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@www.speedtest.net:443?path=/ZN1NpKJ0c08SZu1Z?ed=2560&security=tls&encryption=none&alpn=h2,http/1.1&host=ProxYSTorePANeL.eu.Org&fp=randomized&type=ws&sni=ProXYsTOrepANeL.EU.ORg#CA🇨🇦
 
