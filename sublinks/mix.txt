@@ -48,7 +48,7 @@ vless://b0138d55-a493-4dc3-9932-c6f0391707c1@188.114.96.3:2082?path=/?ed=2048&se
 
 vless://012a1d49-1352-47ce-8bdd-f4afffcd0faf@64.176.64.31:51122?path=wss51122&security=none&encryption=none&type=ws#PL🇵🇱
 
-vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@198.41.198.76:443?path=/?ed=2048&security=tls&encryption=none&host=jd.wxgqlfx.top&type=ws&sni=jd.wxgqlfx.top#US🇺🇸
+vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@198.41.198.76:443?path=/?ed=2048&security=tls&encryption=none&host=jd.wxgqlfx.top&type=ws&sni=jd.wxgqlfx.top#CA🇨🇦
 
 vless://3cdbc462-6272-4c2a-9a2d-1525a81c7dfa@104.16.54.14:443?path=/?ed=2048&security=tls&encryption=none&host=xeeqi.kevani8800.workers.dev&type=ws&sni=xeeqi.kevani8800.workers.dev#CA🇨🇦
 
@@ -104,6 +104,22 @@ vless://6b5111e0-59da-42d4-b8e0-81515f432d92@185.146.173.122:2095?path=/&securit
 
 vless://1f98b5cc-140f-46b4-987f-6936da9f2238@104.26.7.95:80?path=/?ed=2048&security=none&encryption=none&host=crxre.ribiwa9933.workers.dev&type=ws#CA🇨🇦
 
+vmess://eyJ2IjoiMiIsInBzIjoiTkxcdWQ4M2NcdWRkZjNcdWQ4M2NcdWRkZjEiLCJhZGQiOiJoZGZ5OGQxLmNwaW9ubGluZS5jbyIsInBvcnQiOiI4MCIsInR5cGUiOiJhdXRvIiwiaWQiOiJhNjI5MjA5MC1hZmUxLTQ2NDAtOTdhNy00ZjFkMWQ4NzdjZjEiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiXC8iLCJob3N0IjoiaGRmeThkMS5jcGlvbmxpbmUuY28iLCJ0bHMiOiIifQ==
+
+vless://a63f6ddf-d372-4d0e-b719-ac4167ad9d95@185.146.173.185:2095?security=none&type=ws&host=V2ray-_-_-_-_-_-ShhProxy.TelegramChannelJoinBede.com.&path=/#SE🇸🇪
+
+vless://5510ff21-d047-4249-b96b-97308b34316d@140.82.53.126:100?security=reality&sni=ftp.debian.org&type=tcp&fp=chrome&pbk=6rmxzbIMrvezGDMckiT7Td6MqbF9qTpMCiLUyQPKV3c&sid=8f194412#FR🇫🇷
+
+vless://9b8e5b9c-cac0-44c9-b135-383c6c5c3eea@104.18.27.94:80?path=/?ed=2560&security=none&encryption=none&host=esetsecuritylicense.tacofi5315.workers.dev&type=ws#CA🇨🇦
+
+vless://ee64e6ff-1a0a-4ecf-af51-3a1f52bf0dfc@198.41.202.5:8880?security=none&type=ws&host=xnv2ray-qhantayawia-mwxzc08arba93xpvac79043ht5ia.xnv2-gn1d638jbjx.xyz.&path=/@LIGHTNING6-TEL@LIGHTNING6-TEL@LIGHTNING6-TEL@LIGHTNING6-JOIN-@LIGHTNING6-TEL@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL@LIGHTNING6-JOIN-@LIGHTNING6-TEL@LIGHTNING6-@LiV2ray?ed=1024#US🇺🇸
+
+vless://f2935d71-b188-4669-aa5e-fb38288c1bcf@185.146.173.94:8080?security=none&type=ws&host=V2ray-_-_-_-_-MdVpnSec.TelegramChannelJoinBede.com.&path=/#SE🇸🇪
+
+vless://a9b11622-ad94-40c1-ad6b-c1c5ac75fe86@185.146.173.94:80?path=/?ed&security=none&encryption=none&host=wed-vip-de-cdall.highposhako.ir&type=ws#SE🇸🇪
+
+vless://a63f6ddf-d372-4d0e-b719-ac4167ad9d95@188.114.98.224:2095?path=/&security=none&encryption=none&host=V2ray-_-_-_-_-_-ShhProxy.TelegramChannelJoinBede.com.&type=ws#CA🇨🇦
+
 vless://c838f915-90f6-4b3b-9b89-e8cce84d4f26@172.67.202.151:80?security=none&type=ws&host=6.v2ray.bm.nedayevarzesh.ir.newsless.ir.xn--48jyb6ec1ad.tech.irapulsplus.sbs#CA🇨🇦
 
 vless://d4813e65-88d8-41d2-9068-d9f70979fff0@104.17.169.114:80?security=none&type=ws&host=unlimiteddev.xn--9iqr0tm1r4wg.co.&path=/Telegram:@UnlimitedDev-Telegram:@UnlimitedDev-Telegram:@UnlimitedDev?ed=1024#CA🇨🇦
@@ -135,20 +151,6 @@ vless://04672bf7-9d44-4edf-9222-dfbfb8f74a1f@ca-full.privateip.net:443?type=ws&e
 vless://df3a075c-13b4-442d-b789-4832defc4abd@162.159.153.2:8443?security=tls&sni=telegram-falcunargo-bulgari.falcunar.asso.eu.org&type=ws&host=telegram-falcunargo-bulgari.falcunar.asso.eu.org&path=/?ed=2048&fp=random#CA🇨🇦
 
 trojan://44349ad5-2da1-425e-8fec-995d458867a7@hk-full.privateip.net:443#HK🇭🇰
-
-vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@47.76.178.146:2053?security=tls&sni=jd.wxgqlfx.top&type=ws&path=/?ed#HK🇭🇰
-
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@129.154.223.89:15800?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg@zdyz2#KR🇰🇷
-
-vless://48198295-b7ba-4b5c-8d85-085d55a6c869@47.242.93.242:1080?security=tls&sni=xin022.ylks.link&type=ws&path=/proxyip#HK🇭🇰
-
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@100.28.118.76:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#US🇺🇸
-
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@65.75.193.187:34237?security=tls&sni=v022.ylks.link&type=ws&path=/proxyip#US🇺🇸
-
-vless://8117afa8-4685-4df6-b87f-fdd0cb099a89@185.146.173.58:80?security=none&type=ws&host=2.ftp.debian.org.www.speedtest.net.免费上网67.Site.&path=/Telegram-free_v2rayyy-Telegram-free_v2rayyy-Telegram-free_v2rayyy-Telegram-free_v2rayyy?ed=2048#SE🇸🇪
-
-vless://787f4dc2-1863-4be3-a9e6-04cd7e9e06ac@162.159.128.233:8080?security=none&type=ws&host=de2.过滤器.store.&path=/melov2ray/melov2ray/melov2ray/melov2ray/melov2ray/melov2ray/melov2ray#CA🇨🇦
 
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@www.speedtest.net:443?path=/atOqqW98RoOvBSy7?ed=2560&security=tls&encryption=none&alpn=h2,http/1.1&host=PRoxystorE11.aDMINwp.eu.oRg&fp=randomized&type=ws&sni=ProXYsToRE11.ADMiNwP.EU.Org#CA🇨🇦
 
