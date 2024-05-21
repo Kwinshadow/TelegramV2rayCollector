@@ -34,7 +34,7 @@ vless://1f98b5cc-140f-46b4-987f-6936da9f2238@104.26.7.95:80?path=/?ed&security=n
 
 vless://7143e704-5957-42db-bd38-670062722461@172.67.217.107:80?path=/?ed=2048&security=none&encryption=none&host=buyz.ribiwa9933.workers.dev&type=ws#US🇺🇸
 
-vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@198.41.198.76:443?path=/SiNABiGO-SiNABiGO?ed=2048&security=tls&encryption=none&host=jd.wxgqlfx.top&type=ws&sni=jd.wxgqlfx.top#US🇺🇸
+vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@198.41.198.76:443?path=/SiNABiGO-SiNABiGO?ed=2048&security=tls&encryption=none&host=jd.wxgqlfx.top&type=ws&sni=jd.wxgqlfx.top#CA🇨🇦
 
 vless://b0138d55-a493-4dc3-9932-c6f0391707c1@188.114.96.3:2082?path=/?ed=2048&security=none&encryption=none&host=malaysiadj.card-937.workers.dev&type=ws#CA🇨🇦
 
@@ -102,6 +102,18 @@ vless://1f98b5cc-140f-46b4-987f-6936da9f2238@104.26.7.95:80?path=/?ed&security=n
 
 vless://b0138d55-a493-4dc3-9932-c6f0391707c1@188.114.96.3:2082?path=/?ed=2048&security=none&encryption=none&host=malaysiadj.card-937.workers.dev&type=ws#CA🇨🇦
 
+vless://bbcaaac-caba-cbaa-dcba-bbbbcacaaacc@127.0.0.1:1080?security=tls&type=tcp#INT🌍
+
+vless://31be4fcd-07b4-4f2b-8c21-6ddf91b8f51a@172.67.203.100:2083?security=tls&sni=tehrann.top-speed.pw&type=grpc&serviceName=tehrann.top-speed.pw#CA🇨🇦
+
+vless://128c4aaf-3ed1-4e38-a52d-878952ca19c9@188.114.98.224:2095?security=none&type=ws&host=V2ray-_-_-_-_-_-ShhProxy.TelegramChannelJoinBede.com.&path=/#CA🇨🇦
+
+vless://a6cd3528-9962-4a13-ad5f-197aafb1babc@193.227.99.66:443?security=tls&sni=Xzc.donaldvpn.sbs&type=grpc&fp=chrome&alpn=h2,http/1.1#NL🇳🇱
+
+vless://d78497b1-5298-4337-852f-fe38ac6a9222@185.133.35.170:443?security=tls&sni=cdn.hinata.ir&type=ws&host=cdn.hinata.ir&path=/&fp=chrome&alpn=h2,http/1.1#BR🇧🇷
+
+vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@103.184.44.62:2053?security=tls&sni=juzibaipiao.5112233.xyz&type=ws&path=/?ed#CN🇨🇳
+
 vless://ad5a83e0-98c1-4c23-b8a9-eabc68c4b03a@78.157.39.212:8443?security=none&type=tcp#IR🇮🇷
 
 vless://diGIV2rAY@185.146.173.22:2095?Telegram=@V2RayTz,@V2RayTz&path=/DIGIV2RAY-DigiV2ray-digiv2ray?ed=1024&security=none&encryption=none&host=DigiV2ray---__---DIGI.radiotehran.org.&type=ws#SE🇸🇪
@@ -121,22 +133,6 @@ vless://693bedc6-d4df-42a7-97a8-3e970597b7ea@104.21.74.214:8443?security=tls&sni
 vless://cbabaca-caba-caab-dcab-abccabacabbc@127.0.0.1:1080?security=tls&type=tcp#INT🌍
 
 vless://c1978266-958c-4aa3-ba34-7eacac75aca1@104.18.14.19:443?security=tls&sni=bpb-worker-panel3.pages.dev&type=ws&host=bpb-worker-panel3.pages.dev&path=TELEGRAM-MARAMBASHI/?ed=2048&fp=chrome&alpn=h2,http/1.1#CA🇨🇦
-
-vless://962a733d-2614-0b9b-7ffe-9ac92ffea8eb@104.16.61.8:2052?security=none&type=ws&host=vcp3.cushingreflex5.workers.dev&path=/ahmedquran19.xyz:443/current_time#CA🇨🇦
-
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@185.176.24.64:8443?security=tls&sni=jp313.ylks01.eu.org&type=ws&path=/blue#NL🇳🇱
-
-vless://df3a075c-13b4-442d-b789-4832defc4abd@visa.com:8443?path=/?ed=2048&security=tls&encryption=none&host=telegram-falcunargo-bulgari.falcunar.asso.eu.org&fp=random&type=ws&sni=telegram-falcunargo-bulgari.falcunar.asso.eu.org#CA🇨🇦
-
-vless://48198295-b7ba-4b5c-8d85-085d55a6c869@45.159.216.147:443?security=tls&sni=xin313.ylks.link&type=ws&path=/blue#DE🇩🇪
-
-vless://0db1fe43-f0dc-415f-be11-ebbb2e08ff13@185.146.173.94:2095?type=ws&host=V2ray-_-_-_-_-_-ShhProxy.TelegramChannelJoinBede.com.&path=/#SE🇸🇪
-
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@65.75.194.2:34237?security=tls&sni=jp313.ylks01.eu.org&type=ws&path=/blue#US🇺🇸
-
-vless://48198295-b7ba-4b5c-8d85-085d55a6c869@20.118.189.251:443?security=tls&sni=xin313.ylks.link&type=ws&path=/proxyip#US🇺🇸
-
-vless://f2244566-21fc-42c4-a5c3-f9a19d9cb2da@104.21.69.44:8443?security=tls&sni=imedia.mycodes.top&type=ws&host=imedia.mycodes.top&path=/ws&fp=chrome&alpn=h2,http/1.1#US🇺🇸
 
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@188.114.97.3:443?path=/chlh9K7r1HisErtn?ed=2560&security=tls&encryption=none&alpn=h2,http/1.1&host=prOxySToREpaNeL.EU.oRG&fp=randomized&type=ws&sni=proXYStORePaNel.EU.org#CA🇨🇦
 
