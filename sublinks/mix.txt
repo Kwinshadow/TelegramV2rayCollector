@@ -34,15 +34,15 @@ vless://1f98b5cc-140f-46b4-987f-6936da9f2238@104.26.7.95:80?path=/?ed&security=n
 
 vless://7143e704-5957-42db-bd38-670062722461@172.67.217.107:80?path=/?ed=2048&security=none&encryption=none&host=buyz.ribiwa9933.workers.dev&type=ws#US🇺🇸
 
-vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@198.41.198.76:443?path=/SiNABiGO-SiNABiGO?ed=2048&security=tls&encryption=none&host=jd.wxgqlfx.top&type=ws&sni=jd.wxgqlfx.top#CA🇨🇦
+vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@198.41.198.76:443?path=/SiNABiGO-SiNABiGO?ed=2048&security=tls&encryption=none&host=jd.wxgqlfx.top&type=ws&sni=jd.wxgqlfx.top#US🇺🇸
 
-vless://b0138d55-a493-4dc3-9932-c6f0391707c1@188.114.96.3:2082?path=/?ed=2048&security=none&encryption=none&host=malaysiadj.card-937.workers.dev&type=ws#CA🇨🇦
+vless://b0138d55-a493-4dc3-9932-c6f0391707c1@188.114.96.3:2082?path=/?ed=2048&security=none&encryption=none&host=malaysiadj.card-937.workers.dev&type=ws#US🇺🇸
 
 vless://a9b11622-ad94-40c1-ad6b-c1c5ac75fe86@185.146.173.94:80?path=/?ed&security=none&encryption=none&host=wed-vip-de-cdall.highposhako.ir&type=ws#SE🇸🇪
 
-vless://b0138d55-a493-4dc3-9932-c6f0391707c1@188.114.96.3:2082?path=/?ed&security=none&encryption=none&host=malaysiadj.card-937.workers.dev&type=ws#US🇺🇸
+vless://b0138d55-a493-4dc3-9932-c6f0391707c1@188.114.96.3:2082?path=/?ed&security=none&encryption=none&host=malaysiadj.card-937.workers.dev&type=ws#CA🇨🇦
 
-vless://1f98b5cc-140f-46b4-987f-6936da9f2238@104.26.6.95:80?path=/?ed=2048&security=none&encryption=none&host=crxre.ribiwa9933.workers.dev&type=ws#US🇺🇸
+vless://1f98b5cc-140f-46b4-987f-6936da9f2238@104.26.6.95:80?path=/?ed=2048&security=none&encryption=none&host=crxre.ribiwa9933.workers.dev&type=ws#CA🇨🇦
 
 vless://3cdbc462-6272-4c2a-9a2d-1525a81c7dfa@104.16.54.14:443?path=/?ed=2048&security=tls&encryption=none&host=xeeqi.kevani8800.workers.dev&type=ws&sni=xeeqi.kevani8800.workers.dev#CA🇨🇦
 
@@ -102,6 +102,22 @@ vless://1f98b5cc-140f-46b4-987f-6936da9f2238@104.26.7.95:80?path=/?ed&security=n
 
 vless://b0138d55-a493-4dc3-9932-c6f0391707c1@188.114.96.3:2082?path=/?ed=2048&security=none&encryption=none&host=malaysiadj.card-937.workers.dev&type=ws#CA🇨🇦
 
+vless://Telegram-ipV2Ray-tre@185.146.173.58:80?path=/Telegram-ipV2Ray?ed=2048&security=none&encryption=none&host=V2ray.ftp.debian.org.www.speedtest.net.免费上网69.Site.&type=ws#SE🇸🇪
+
+vmess://eyJhZGQiOiIxNzIuNjcuMTc1LjU2IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJvYmRpaS5jZmQiLCJpZCI6IjA1NjQxY2Y1LTU4ZDItNGJhNC1hOWYxLWIzY2RhMGIxZmIxZCIsIm5ldCI6IndzIiwicGF0aCI6IlwvbGlua3dzIiwicG9ydCI6IjQ0MyIsInNjeSI6ImF1dG8iLCJzbmkiOiJvYmRpaS5jZmQiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIiLCJwcyI6IkNBXHVkODNjXHVkZGU4XHVkODNjXHVkZGU2In0=
+
+vmess://eyJ2IjoiMiIsInBzIjoiSU5UXHVkODNjXHVkZjBkIiwiYWRkIjoienpjbTA5LmJkYXRlLnh5eiIsInBvcnQiOiIxMzcwIiwidHlwZSI6Im5vbmUiLCJpZCI6ImI5ZWNkYjQ0LTIzNmItMzBhNy05NGYyLWY0NjQ5OTNkODRjZiIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiJcL2hsc1wvY2N0djVwaGQubTN1OCIsImhvc3QiOiJ6emNtMDkuYmRhdGUueHl6IiwidGxzIjoiIn0=
+
+trojan://telegram-id-privatevpns@52.19.187.0:22222?allowInsecure=0&sni=trojan.burgerip.co.uk#IE🇮🇪
+
+trojan://4kBHWtrlivaQ@18.183.194.2:13169?allowInsecure=0&sni=appsvs.shop#JP🇯🇵
+
+vless://c18a11f6-726b-4372-a4e0-de9b71b2f4dc@103.184.45.119:8880?security=none&type=ws&host=xn--v2ray-qhantayawi--a-mwxzc08arba93xpvac79043ht5ia.xn--v2-gn1d638jbjx.xyz.&path=/@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-@LiV2ray?ed=1024#CN🇨🇳
+
+vless://c064eb24-643c-405f-a222-043d29e151bf@188.114.96.3:443?security=tls&sni=faRAHDIba.pagES.DEV&type=ws&host=FaRAhDibA.pAgEs.dEv&path=/PROXY_MTM-PROXY_MTM?ed=2560&fp=randomized&alpn=h2,http/1.1#CA🇨🇦
+
+trojan://telegram-id-privatevpns@15.236.25.66:22222?allowInsecure=0&sni=trojan.burgerip.co.uk#FR🇫🇷
+
 trojan://0f408453-2589-4fc2-bf9d-22e0cef8b8d2@47.128.145.227:20230?allowInsecure=0&sni=421421.xyz#SG🇸🇬
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyZTdTVmdPY2tpUWRsNU1yQ21nYnBJMS9vWWUvZVBsRXVsMHQ2ZW95bzF3PQ@24.144.77.123:24723#NL🇳🇱
@@ -131,22 +147,6 @@ trojan://telegram-id-privatevpns@18.175.9.70:22222?allowInsecure=0&sni=trojan.bu
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.19.142.62:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=TELEGRAM-MARAMBASHI/?ed=2048&fp=randomized#CA🇨🇦
 
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.18.116.168:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=/?ed=2048&fp=randomized#CA🇨🇦
-
-vless://c18a11f6-726b-4372-a4e0-de9b71b2f4dc@104.21.28.62:8880?security=none&type=ws&host=xn--v2ray-qhantayawi--a-mwxzc08arba93xpvac79043ht5ia.xn--v2-gn1d638jbjx.xyz.#CA🇨🇦
-
-vless://505094ea-297c-496a-af29-ed33db58f820@172.66.44.237:80?security=none&type=ws&host=speedtest.net.ir.com.site.事列列男事的事列上赛男.ir.novaball.lINK.#CA🇨🇦
-
-vmess://eyJ2IjoiMiIsInBzIjoiSU5UXHVkODNjXHVkZjBkIiwiYWRkIjoiaGsuYXF2cG4ubWUiLCJwb3J0IjoiODAiLCJ0eXBlIjoibm9uZSIsImlkIjoiZDAwMDgzYzctZTNkYi00NzA3LWEyNGQtNTY2MjkxMjM2OGZmIiwiYWlkIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6IlwvIiwiaG9zdCI6ImhrLmFxdnBuLm1lIiwidGxzIjoiIn0=
-
-trojan://7118b5f4-0ea4-4c11-be7f-11471cb91e4a@jgwcc1.gaox.ml:443?allowInsecure=1#INT🌍
-
-vmess://eyJ2IjoiMiIsInBzIjoiTkxcdWQ4M2NcdWRkZjNcdWQ4M2NcdWRkZjEiLCJhZGQiOiJvei5tb29uZnJlZS50b3AiLCJwb3J0IjoiNDQzIiwidHlwZSI6Im5vbmUiLCJpZCI6IjZlOWVlYWU2LWMzZDEtNDM5ZS05ZjdhLTIxM2ZlMDliMmRiZSIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiJcLyIsImhvc3QiOiJvei5tb29uZnJlZS50b3AiLCJ0bHMiOiJ0bHMifQ==
-
-ss://YWVzLTI1Ni1nY206Z0RROGtyMUhkSEVLNURHVQ@mplsgz1.ggbbba.xyz:45786#INT🌍
-
-vmess://eyJ2IjoiMiIsInBzIjoiU0dcdWQ4M2NcdWRkZjhcdWQ4M2NcdWRkZWMiLCJhZGQiOiIxMjguMTk5LjE2MS4yMzAiLCJwb3J0IjoiOTkiLCJ0eXBlIjoiYXV0byIsImlkIjoiYmVmZDA4NWEtOTFmNy00NjA4LWJjNDUtZjQwYzFhYzJmNGI3IiwiYWlkIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6IlwvIiwiaG9zdCI6IiIsInRscyI6IiJ9
-
-vmess://eyJ2IjoiMiIsInBzIjoiSU5UXHVkODNjXHVkZjBkIiwiYWRkIjoidjJmbHkuc2FiLnF1ZXN0IiwicG9ydCI6IjQ0MyIsInR5cGUiOiJub25lIiwiaWQiOiI5ZTZjZWVmZi0yNTQ2LTM2OTAtYWMwMC02ZmNkZjMxZGVjOTQiLCJhaWQiOiIxIiwibmV0Ijoid3MiLCJwYXRoIjoiXC9jaGNhciIsImhvc3QiOiJ2MmZseS5zYW1ydC53ZWJzaXRlIiwidGxzIjoidGxzIn0=
 
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@188.114.97.3:443?path=/chlh9K7r1HisErtn?ed=2560&security=tls&encryption=none&alpn=h2,http/1.1&host=prOxySToREpaNeL.EU.oRG&fp=randomized&type=ws&sni=proXYStORePaNel.EU.org#CA🇨🇦
 
