@@ -28,15 +28,15 @@ vless://6b5111e0-59da-42d4-b8e0-81515f432d92@185.146.173.122:2095?path=/&securit
 
 vless://012a1d49-1352-47ce-8bdd-f4afffcd0faf@64.176.64.31:51122?path=wss51122&security=none&encryption=none&type=ws#PL🇵🇱
 
-vless://df4608a5-0ceb-4513-b991-596f541bccdb@172.64.87.176:443?path=/&security=tls&encryption=none&host=cfdy.yueuzi.dynv6.net&fp=random&type=ws&sni=cfdy.yueuzi.dynv6.net#CA🇨🇦
+vless://df4608a5-0ceb-4513-b991-596f541bccdb@172.64.87.176:443?path=/&security=tls&encryption=none&host=cfdy.yueuzi.dynv6.net&fp=random&type=ws&sni=cfdy.yueuzi.dynv6.net#US🇺🇸
 
 vless://1f98b5cc-140f-46b4-987f-6936da9f2238@104.26.7.95:80?path=/?ed&security=none&encryption=none&host=crxre.ribiwa9933.workers.dev&type=ws#CA🇨🇦
 
-vless://7143e704-5957-42db-bd38-670062722461@172.67.217.107:80?path=/?ed=2048&security=none&encryption=none&host=buyz.ribiwa9933.workers.dev&type=ws#US🇺🇸
+vless://7143e704-5957-42db-bd38-670062722461@172.67.217.107:80?path=/?ed=2048&security=none&encryption=none&host=buyz.ribiwa9933.workers.dev&type=ws#CA🇨🇦
 
-vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@198.41.198.76:443?path=/SiNABiGO-SiNABiGO?ed=2048&security=tls&encryption=none&host=jd.wxgqlfx.top&type=ws&sni=jd.wxgqlfx.top#US🇺🇸
+vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@198.41.198.76:443?path=/SiNABiGO-SiNABiGO?ed=2048&security=tls&encryption=none&host=jd.wxgqlfx.top&type=ws&sni=jd.wxgqlfx.top#CA🇨🇦
 
-vless://b0138d55-a493-4dc3-9932-c6f0391707c1@188.114.96.3:2082?path=/?ed=2048&security=none&encryption=none&host=malaysiadj.card-937.workers.dev&type=ws#US🇺🇸
+vless://b0138d55-a493-4dc3-9932-c6f0391707c1@188.114.96.3:2082?path=/?ed=2048&security=none&encryption=none&host=malaysiadj.card-937.workers.dev&type=ws#CA🇨🇦
 
 vless://a9b11622-ad94-40c1-ad6b-c1c5ac75fe86@185.146.173.94:80?path=/?ed&security=none&encryption=none&host=wed-vip-de-cdall.highposhako.ir&type=ws#SE🇸🇪
 
@@ -48,7 +48,7 @@ vless://3cdbc462-6272-4c2a-9a2d-1525a81c7dfa@104.16.54.14:443?path=/?ed=2048&sec
 
 vless://012a1d49-1352-47ce-8bdd-f4afffcd0faf@64.176.64.31:51122?path=wss51122&security=none&encryption=none&type=ws#PL🇵🇱
 
-vless://1f98b5cc-140f-46b4-987f-6936da9f2238@104.26.7.95:80?path=/?ed&security=none&encryption=none&host=crxre.ribiwa9933.workers.dev&type=ws#CA🇨🇦
+vless://1f98b5cc-140f-46b4-987f-6936da9f2238@104.26.7.95:80?path=/?ed&security=none&encryption=none&host=crxre.ribiwa9933.workers.dev&type=ws#US🇺🇸
 
 vless://df4608a5-0ceb-4513-b991-596f541bccdb@172.64.87.176:443?path=/&security=tls&encryption=none&host=cfdy.yueuzi.dynv6.net&fp=random&type=ws&sni=cfdy.yueuzi.dynv6.net#CA🇨🇦
 
@@ -102,6 +102,22 @@ vless://1f98b5cc-140f-46b4-987f-6936da9f2238@104.26.7.95:80?path=/?ed&security=n
 
 vless://b0138d55-a493-4dc3-9932-c6f0391707c1@188.114.96.3:2082?path=/?ed=2048&security=none&encryption=none&host=malaysiadj.card-937.workers.dev&type=ws#CA🇨🇦
 
+vless://3e33acba-13b9-4485-9c0c-ae5501e2b468@104.18.13.229:8443?security=tls&sni=pardazeshvpn-tg31.pages.dev&type=ws&host=pardazeshvpn-tg31.pages.dev&path=/?ed=2048&fp=random#CA🇨🇦
+
+vmess://eyJ2IjoiMiIsImFkZCI6Im96Lm1vb25mcmVlLnRvcCIsInBvcnQiOiI0NDMiLCJ0eXBlIjoibm9uZSIsImlkIjoiNmU5ZWVhZTYtYzNkMS00MzllLTlmN2EtMjEzZmUwOWIyZGJlIiwiYWlkIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6IlwvIiwiaG9zdCI6Im96Lm1vb25mcmVlLnRvcCIsInRscyI6InRscyIsInBzIjoiTkxcdWQ4M2NcdWRkZjNcdWQ4M2NcdWRkZjEifQ==
+
+ss://aes-256-gcm:8f4237cf-3d4b-4f21-872e-e9ba9f94a2d0@us-full.privateip.net:8443#US🇺🇸
+
+trojan://a5c1b2f6-77a7-410b-be3d-163683665ba4@us-full.privateip.net:443#US🇺🇸
+
+vless://8dd6a319-7d65-467d-9184-4f71ff00bebb@us-full.privateip.net:443?type=tcp&encryption=none&security=tls&path=/&flow=xtls-rprx-vision#US🇺🇸
+
+vmess://eyJ2IjoiMiIsImFkZCI6Ijk1LjE2NC40Ni4yMDMiLCJwb3J0IjoiODQ0MiIsInR5cGUiOiJodHRwIiwiaWQiOiI0YTBhYmYyZi00MGY0LTQ3ZDItODM4Mi0wYjU1M2NiZTliMjEiLCJhaWQiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6IlwvIiwiaG9zdCI6ImNvaW5tYXJrZXRjYXAuY29tIiwidGxzIjoiIiwicHMiOiJJVFx1ZDgzY1x1ZGRlZVx1ZDgzY1x1ZGRmOSJ9
+
+vless://a81b314c-3ab7-48d3-b8c0-584c89e5f616@104.16.54.150:80?security=none&type=ws&host=xswa.kevani8800.workers.dev&path=/#CA🇨🇦
+
+vless://fb09cebe-8c1f-4049-bd90-6cb3bd147510@104.31.16.95:2095?security=none&type=ws&host=cityv2raygmsix6.6.6.6.ir.com.site.列列男事的事列上赛男.softirgozar.com.&path=/cityV2rayGmSix6.6.6.6.ir.Com.Site.xn--fhq0la447aac5504dea701axr1g#CA🇨🇦
+
 vmess://eyJhZGQiOiIxNDEuOTguMTY4LjExMyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiYm13LmNvbSIsImlkIjoiMzEzMDUyMWEtMmZkNC00MmM2LTkxNzktZGNmNDMzYTZkMzk4IiwibmV0IjoidGNwIiwicGF0aCI6IlwvIiwicG9ydCI6IjgwODEiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiIsInBzIjoiVVNcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjgifQ==
 
 ss://YWVzLTI1Ni1nY206Z0RROGtyMUhkSEVLNURHVQ@mplsgz1.ggbbba.xyz:45785#INT🌍
@@ -129,22 +145,6 @@ vless://c18a11f6-726b-4372-a4e0-de9b71b2f4dc@103.184.45.119:8880?security=none&t
 vless://c064eb24-643c-405f-a222-043d29e151bf@188.114.96.3:443?security=tls&sni=faRAHDIba.pagES.DEV&type=ws&host=FaRAhDibA.pAgEs.dEv&path=/PROXY_MTM-PROXY_MTM?ed=2560&fp=randomized&alpn=h2,http/1.1#CA🇨🇦
 
 trojan://telegram-id-privatevpns@15.236.25.66:22222?allowInsecure=0&sni=trojan.burgerip.co.uk#FR🇫🇷
-
-trojan://0f408453-2589-4fc2-bf9d-22e0cef8b8d2@47.128.145.227:20230?allowInsecure=0&sni=421421.xyz#SG🇸🇬
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyZTdTVmdPY2tpUWRsNU1yQ21nYnBJMS9vWWUvZVBsRXVsMHQ2ZW95bzF3PQ@24.144.77.123:24723#NL🇳🇱
-
-vless://f9d617c9-8d17-4b67-8c85-07d32a2e5b56@162.159.138.232:2095?security=none&type=ws&host=meEHR_V2ray.Elmahstyle.ir&path=/#CA🇨🇦
-
-vless://d7bbfe83-b037-48ae-996c-b98ed0441ba2@188.114.97.141:443?security=tls&sni=e10c0e4b.oodaeq2.pages.dev&type=ws&host=e10c0e4b.oodaeq2.pages.dev&path=Telegram@vlees_v2rayng/?ed=2048&fp=randomized#CA🇨🇦
-
-trojan://telegram-id-privatevpns@13.39.243.241:22222?allowInsecure=0&sni=trojan.burgerip.co.uk#FR🇫🇷
-
-vless://723eb4ef-b933-494e-8b6f-c4b4c580dcca@65.109.211.159:2096?security=none&type=tcp#FI🇫🇮
-
-vless://bbaccaa-aacb-abac-bdca-bbaacbcccaab@127.0.0.1:8080?security=tls&type=tcp#INT🌍
-
-vless://282ddfbf-588b-4b6a-b28e-0f1451f4bc1e@185.146.173.32:2095?security=none&type=ws&host=V2ray-_-_-_-_-_-ShhProxy.TelegramChannelJoinBede.com.&path=/#SE🇸🇪
 
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@188.114.97.3:443?path=/chlh9K7r1HisErtn?ed=2560&security=tls&encryption=none&alpn=h2,http/1.1&host=prOxySToREpaNeL.EU.oRG&fp=randomized&type=ws&sni=proXYStORePaNel.EU.org#CA🇨🇦
 
