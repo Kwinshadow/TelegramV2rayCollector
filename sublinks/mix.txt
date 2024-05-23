@@ -34,13 +34,13 @@ vless://b0138d55-a493-4dc3-9932-c6f0391707c1@188.114.96.3:2082?path=/?ed&securit
 
 vless://9f1c2297-84d6-4378-922e-4bb95d0bd290@185.146.173.1:2095?path=/&security=none&encryption=none&host=gvrfcvc.numall.xyz.&type=ws#SE🇸🇪
 
-vless://1f98b5cc-140f-46b4-987f-6936da9f2238@104.26.7.95:80?path=/?ed&security=none&encryption=none&host=crxre.ribiwa9933.workers.dev&type=ws#US🇺🇸
+vless://1f98b5cc-140f-46b4-987f-6936da9f2238@104.26.7.95:80?path=/?ed&security=none&encryption=none&host=crxre.ribiwa9933.workers.dev&type=ws#CA🇨🇦
 
-vless://7143e704-5957-42db-bd38-670062722461@172.67.217.107:80?path=/?ed=2048&security=none&encryption=none&host=buyz.ribiwa9933.workers.dev&type=ws#CA🇨🇦
+vless://7143e704-5957-42db-bd38-670062722461@172.67.217.107:80?path=/?ed=2048&security=none&encryption=none&host=buyz.ribiwa9933.workers.dev&type=ws#US🇺🇸
 
-vless://b0138d55-a493-4dc3-9932-c6f0391707c1@188.114.96.3:2082?path=/?ed=2048&security=none&encryption=none&host=malaysiadj.card-937.workers.dev&type=ws#CA🇨🇦
+vless://b0138d55-a493-4dc3-9932-c6f0391707c1@188.114.96.3:2082?path=/?ed=2048&security=none&encryption=none&host=malaysiadj.card-937.workers.dev&type=ws#US🇺🇸
 
-vless://7143e704-5957-42db-bd38-670062722461@172.67.217.107:80?path=/?ed&security=none&encryption=none&host=buyz.ribiwa9933.workers.dev&type=ws#US🇺🇸
+vless://7143e704-5957-42db-bd38-670062722461@172.67.217.107:80?path=/?ed&security=none&encryption=none&host=buyz.ribiwa9933.workers.dev&type=ws#CA🇨🇦
 
 vless://7e625ab3-ce9d-4ff9-893f-165f5a4ded24@185.146.173.1:8080?path=/&security=none&encryption=none&host=hjkma.numall.xyz.&type=ws#SE🇸🇪
 
@@ -59,6 +59,22 @@ vless://1f98b5cc-140f-46b4-987f-6936da9f2238@104.26.6.95:80?path=/&security=none
 vless://1f98b5cc-140f-46b4-987f-6936da9f2238@104.26.7.95:80?path=/?ed&security=none&encryption=none&host=crxre.ribiwa9933.workers.dev&type=ws#CA🇨🇦
 
 vless://d6fc0062-4719-45ba-929d-27b60b970550@185.146.173.32:80?path=/&security=none&encryption=none&host=Reza_OFF.markazdl.ir.&type=ws#SE🇸🇪
+
+vless://9f98310e-25c2-4016-9d3c-8adaa8b160dc@104.16.12.49:2087?security=tls&sni=agtw4gmgtuulnbadgfxbsyjtdhsryw4nd.fqservers.com&type=ws&host=agtw4gmgtuulnbadgfxbsyjtdhsryw4nd.fqservers.com&fp=chrome&alpn=h2,http/1.1&allowInsecure=1#CA🇨🇦
+
+vmess://eyJ2IjoiMiIsInBzIjoiQ0FcdWQ4M2NcdWRkZThcdWQ4M2NcdWRkZTYiLCJhZGQiOiJjZmNkbjEuc2FuZmVuY2RuOS5jb20iLCJwb3J0IjoiMjA4MiIsInR5cGUiOiJub25lIiwiaWQiOiIxZWQzZjlmZC03YWRiLTQ5NzEtYjhjMC0zZDQ5MTYyOTA5ODIiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiXC92aWRlb1wvQ3VUeTg3ekF6VlwvIiwiaG9zdCI6InVzNEJiNW9TZ0pBLmZ6YnFmcnNlLnh5eiIsInRscyI6IiJ9
+
+vless://abcaabc-abac-caba-dabc-cccbbaacaabb@127.0.0.1:8080?security=tls&type=tcp#INT🌍
+
+vless://bb96b186-b8ae-4f8b-a76d-407cd1473c61@108.162.194.184:80?security=none&type=ws&host=mmd.net.v2rayng6.6.6.6.ir.com.site.xn--fhq0la447aac5504dea701axr1g.mmdam.ir.kalamobile.shop.#CA🇨🇦
+
+vmess://eyJhZGQiOiJ1cGxvYWQuaXIiLCJhaWQiOjAsImhvc3QiOiJpczMtdm1lc3Muc3NobWF4Lnh5eiIsImlkIjoiMDg1ZjYyODEtNWM0Yy00YTM0LThiNDQtZDY1YmMyZTJiMDY5IiwibmV0Ijoid3MiLCJwYXRoIjoiXC8iLCJwb3J0Ijo4MCwic2N5IjoiYXV0byIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIiLCJwcyI6IkNBXHVkODNjXHVkZGU4XHVkODNjXHVkZGU2In0=
+
+vmess://eyJ2IjoiMiIsImFkZCI6ImhrYXo1LnhtcnRoLW5vZGUueHl6IiwicG9ydCI6IjE1OTA0IiwidHlwZSI6Im5vbmUiLCJpZCI6ImZmNTFjYTRhLTYwNTAtM2UyNi1hMDM3LTg4YjBkZDYyZDEzOCIsImFpZCI6IjIiLCJuZXQiOiJ3cyIsInBhdGgiOiJcL2luZGV4IiwiaG9zdCI6Ind3dy5iYWlkdS5jb20iLCJ0bHMiOiIiLCJwcyI6IlVTXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4In0=
+
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@169.197.142.120:8888#US🇺🇸
+
+vless://9f98310e-25c2-4016-9d3c-8adaa8b160dc@104.16.120.213:2087?security=tls&sni=agtw4gmgtuulnbadgfxbsyjtdhsryw4nd.fqservers.com&type=ws&host=agtw4gmgtuulnbadgfxbsyjtdhsryw4nd.fqservers.com&fp=chrome&alpn=h2,http/1.1&allowInsecure=1#CA🇨🇦
 
 ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@23.157.40.20:8119#US🇺🇸
 
@@ -90,22 +106,6 @@ vless://e120d010-301f-49d7-bdb4-7568f9ab9782@172.67.204.84:2052?security=none&ty
 
 vless://DIGiV2RAY-@www.Speedtest.Net:2095?path=/DIGIV2RAY-DigiV2ray-digiv2ray?ed=1024&security=none&encryption=none&host=www.zula.ir.www.iranseda.ir.自己不去看啥事情基本没啥事.website.&type=ws#CA🇨🇦
 
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.16.218.9:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&fp=chrome#CA🇨🇦
-
-vless://c6a3239b-15f2-45d5-9e87-bb9d60e23746@185.146.173.122:8080?path=/&security=none&encryption=none&host=shjhjb.servernet.cfd.&type=ws#SE🇸🇪
-
-vless://7f3b2f37-819e-49ee-9f5c-215467bfde61@172.67.204.39:443?security=tls&sni=turkmenistan.armanibash.Shop.&type=ws&host=turkmenistan.armanibash.Shop.&path=/&fp=chrome#CA🇨🇦
-
-vless://a81b314c-3ab7-48d3-b8c0-584c89e5f616@104.16.54.150:80?security=none&type=ws&host=xswa.kevani8800.workers.dev&path=/   V2RAYNPLUS      V2RAYNPLUS      V2RAYNPLUS      V2RAYNPLUS?ed=2048#CA🇨🇦
-
-vless://707e807d-b3f2-429f-b91b-6affe87f42dd@162.159.153.2:8080?security=none&type=ws&host=daily-configs.xn--ykqpu7pm2wzwbm5mpyner8e1ri.tech.&path=/Tel:@Daily_ConfigsTel:@Daily_ConfigsTel:@Daily_ConfigsTel:@Daily_ConfigsTel:@Daily_ConfigsTel:@Daily_Configs#CA🇨🇦
-
-vmess://eyJhZGQiOiIxNzIuNjcuNzEuMTYwIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJvYmRpaS5jZmQiLCJpZCI6IjA1NjQxY2Y1LTU4ZDItNGJhNC1hOWYxLWIzY2RhMGIxZmIxZCIsIm5ldCI6IndzIiwicGF0aCI6IlwvbGlua3dzIiwicG9ydCI6IjQ0MyIsInNjeSI6ImF1dG8iLCJzbmkiOiJvYmRpaS5jZmQiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIiLCJwcyI6IkNBXHVkODNjXHVkZGU4XHVkODNjXHVkZGU2In0=
-
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.17.233.236:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&fp=chrome#CA🇨🇦
-
-vmess://eyJ2IjoiMiIsImFkZCI6ImpwbGluMDA1LnhtcnRoLW5vZGUueHl6IiwicG9ydCI6IjE1Njk4IiwidHlwZSI6Im5vbmUiLCJpZCI6ImZmNTFjYTRhLTYwNTAtM2UyNi1hMDM3LTg4YjBkZDYyZDEzOCIsImFpZCI6IjIiLCJuZXQiOiJ3cyIsInBhdGgiOiJcL2luZGV4IiwiaG9zdCI6Ind3dy5iYWlkdS5jb20iLCJ0bHMiOiIiLCJwcyI6IlVTXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4In0=
-
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@188.114.97.3:443?path=/chlh9K7r1HisErtn?ed=2560&security=tls&encryption=none&alpn=h2,http/1.1&host=prOxySToREpaNeL.EU.oRG&fp=randomized&type=ws&sni=proXYStORePaNel.EU.org#CA🇨🇦
 
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@188.114.96.3:443?path=/B5TOud1bHxlmxd7y?ed=2560&security=tls&encryption=none&alpn=h2,http/1.1&host=proxYsTOREPANEL.eu.oRG&fp=randomized&type=ws&sni=PrOxYStorEPaNEL.EU.oRg#CA🇨🇦
@@ -117,6 +117,10 @@ vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.67.138.106:443?path=/DMbf3cX7FX
 vless://1f98b5cc-140f-46b4-987f-6936da9f2238@104.26.7.95:80?path=Telegram-------V2rayi_net_-_-_-_-Telegram-------V2rayi_net/?ed=2048&security=none&encryption=none&host=crxre.ribiwa9933.workers.dev&type=ws#CA🇨🇦
 
 vless://c9fbd4b7-9706-4092-bed7-3c9da05aa67b@185.146.173.94:80?path=/telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER?ed=2048&security=none&encryption=none&host=2.V2ray.mihanyas.ir.mbj.farsroid.com.列列男事的事列上赛男78.Shop.&type=ws#SE🇸🇪
+
+vless://7143e704-5957-42db-bd38-670062722461@104.21.74.214:80?path=/Telegram@ELF_v2ray?ed=2048&security=none&encryption=none&host=buyz.ribiwa9933.workers.dev&type=ws#CA🇨🇦
+
+vless://telegram-VPNCUSTOMIZE@Join--VPNCUSTOMIZE.V2ray.re:8080?path=/Join--VPNCUSTOMIZE.V2ray.re?ed=8080&security=none&encryption=none&host=VPNCUSTOMIZE.V2ray.Community.&type=ws#SE🇸🇪
 
 vless://Parsashonam-77@185.146.173.58:8080?path=/&security=none&encryption=none&host=Parsashonam.我们累了.tech.&type=ws#SE🇸🇪
 
