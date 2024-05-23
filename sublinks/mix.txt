@@ -34,13 +34,13 @@ vless://bf921a54-3be6-4bec-ad5a-c2bcf95aaae8@94.232.246.249:12454?security=none&
 
 vless://7143e704-5957-42db-bd38-670062722461@172.67.217.107:80?path=/?ed&security=none&encryption=none&host=buyz.ribiwa9933.workers.dev&type=ws#CA🇨🇦
 
-vless://3cdbc462-6272-4c2a-9a2d-1525a81c7dfa@104.16.54.14:443?path=/?ed=2048&security=tls&encryption=none&host=xeeqi.kevani8800.workers.dev&type=ws&sni=xeeqi.kevani8800.workers.dev#US🇺🇸
+vless://3cdbc462-6272-4c2a-9a2d-1525a81c7dfa@104.16.54.14:443?path=/?ed=2048&security=tls&encryption=none&host=xeeqi.kevani8800.workers.dev&type=ws&sni=xeeqi.kevani8800.workers.dev#CA🇨🇦
 
 vless://012a1d49-1352-47ce-8bdd-f4afffcd0faf@64.176.64.31:51122?path=wss51122&security=none&encryption=none&type=ws#PL🇵🇱
 
 vless://1f98b5cc-140f-46b4-987f-6936da9f2238@104.26.6.95:80?path=/&security=none&encryption=none&host=crxre.ribiwa9933.workers.dev&type=ws#US🇺🇸
 
-vless://1f98b5cc-140f-46b4-987f-6936da9f2238@104.26.7.95:80?path=/?ed&security=none&encryption=none&host=crxre.ribiwa9933.workers.dev&type=ws#CA🇨🇦
+vless://1f98b5cc-140f-46b4-987f-6936da9f2238@104.26.7.95:80?path=/?ed&security=none&encryption=none&host=crxre.ribiwa9933.workers.dev&type=ws#US🇺🇸
 
 vless://d6fc0062-4719-45ba-929d-27b60b970550@185.146.173.32:80?path=/&security=none&encryption=none&host=Reza_OFF.markazdl.ir.&type=ws#SE🇸🇪
 
@@ -61,6 +61,18 @@ vless://012a1d49-1352-47ce-8bdd-f4afffcd0faf@64.176.64.31:51122?path=wss51122&se
 vless://df4608a5-0ceb-4513-b991-596f541bccdb@172.64.87.176:443?path=/&security=tls&encryption=none&host=cfdy.yueuzi.dynv6.net&fp=random&type=ws&sni=cfdy.yueuzi.dynv6.net#CA🇨🇦
 
 vless://1f98b5cc-140f-46b4-987f-6936da9f2238@104.26.7.95:80?path=/?ed&security=none&encryption=none&host=crxre.ribiwa9933.workers.dev&type=ws#CA🇨🇦
+
+vless://24f744f9-82b0-447b-910a-bf66260fecb6@188.114.96.3:8880?security=none&type=ws&host=2.V2ray.debian.org.fxp.debian.org.speedtest.net.らわなさらわ.kholochel.shop.&path=/telegram-Grizzlypn,telegram-Grizzlypn,telegram-Grizzlypn,telegram-Grizzlypn,telegram-Grizzlypn,telegram-Grizzlypn,telegram-Grizzlypn,telegram-Grizzlypn,telegram-Grizzlypn,telegram-Grizzlypn,telegram-Grizzlypn,telegram-Grizzlypn,telegram-Grizzlypn,telegram-Grizzlypn,telegram-Lookivpn,Grizzlypn-Grizzlypn-telegram-Grizzlypn-v2ray?ed=2048#CA🇨🇦
+
+vless://23ff8e34-2382-49cc-b068-d5de5b716e61@104.21.50.233:80?security=none&type=ws&host=telegram-vpnhttpinjectorfree-45.bononem349.workers.dev&path=/Telegram:@VPNHTTPInjectorfree-Telegram:@VPNHTTPInjectorfree-Telegram:@VPNHTTPInjectorfree?ed=2048#CA🇨🇦
+
+vless://26755541-e9c1-48c5-906e-3ff9e5eb7dbe@104.21.69.44:2095?security=none&type=ws&host=v2ray-_-_-_-_-vmesskhodam.mogrenspore.nl.&path=VMESSKHODAM-VMESSKHODAM-VMESSKHODAM-VMESSKHODAM-VMESSKHODAM-VMESSKHODAM-VMESSKHODAM/VMESSKHODAM?ed=1024#US🇺🇸
+
+vless://84a7e603-6c0a-429e-893a-cc7d720730f9@zula.ir:443?path=/Telegram#CA🇨🇦
+
+vless://affca09b-d792-42b0-97ee-c6f0828995bb@185.146.173.158:80?security=none&type=ws&host=2.V2ray.debian.org.fxp.debian.org.speedtest.net.らわなさらわ.iroralph.monster.&path=/telegram-MinoVpnCh,telegram-MinoVpnCh,telegram-MinoVpnCh,telegram-MinoVpnCh,telegram-MinoVpnCh,telegram-MinoVpnCh,telegram-MinoVpnCh,telegram-MinoVpnCh,telegram-MinoVpnCh,telegram-MinoVpnCh,telegram-MinoVpnCh,telegram-MinoVpnCh?ed=2048#SE🇸🇪
+
+vless://85e83afb-187f-4015-9e55-2cc4f093ee51@162.159.133.234:2095?security=none&type=ws&host=shhi.らわなさ.tech.&path=/ZEDMODEON-ZEDMODEON-ZEDMODEON#CA🇨🇦
 
 vless://16266848-758e-4335-83fc-e47a150a7693@185.143.233.120:2082?type=ws&host=xn--gtqr40b05t9tep19b.xn--gtqr40b05t9tep19b.IR.#IR🇮🇷
 
@@ -91,22 +103,6 @@ trojan://2062a5ca-a34e-47bf-9810-db91185f07fc@jp4.mmmmmmmmmm.cfd:54234?allowInse
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.16.236.174:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&fp=chrome#CA🇨🇦
 
 vless://ae3bb531-63c1-4c10-b0e9-4831dfc8ad59@104.23.107.241:2082?security=none&type=ws&host=a4pjg5kwmh-germany7.datam-co.ir&path=/?ed=2087#CA🇨🇦
-
-trojan://XQ5jxs58ecd403l7@views.pickaxe.sh:443?allowInsecure=1#INT🌍
-
-vless://b8c9b9bb-cbda-4506-b2d6-49c038304616@104.21.74.214:8443?security=tls&sni=hahaghgh.servernet.cfd&type=grpc&serviceName=@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett&fp=chrome&alpn=h2,http/1.1#CA🇨🇦
-
-trojan://NNhSlVRhte1Vzw5D@living.starspace.link:443?allowInsecure=1#INT🌍
-
-trojan://W8gVbKNAZlFzgGPn@storage.starspace.link:443?allowInsecure=1#INT🌍
-
-vless://723eb4ef-b933-494e-8b6f-c4b4c580dcca@65.109.211.159:2096?type=tcp#FI🇫🇮
-
-vless://0ecf1919-d36a-46d1-bd73-bc75a3b51579@104.31.16.95:2095?security=none&type=ws&host=cityv2raygmsix6.6.6.6.ir.com.site.列列男事的事列上赛男.softirgozar.com.&path=/cityV2rayGmSix6.6.6.6.ir.Com.Site.xn--fhq0la447aac5504dea701axr1g#CA🇨🇦
-
-ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@149.202.82.172:8091#FR🇫🇷
-
-vless://ff4ea7f8-7a02-4410-a631-039020da61de@185.146.173.122:8443?security=tls&sni=shjhjb.servernet.cfd&type=ws&host=shjhjb.servernet.cfd.&path=/&fp=random&alpn=h2,http/1.1#SE🇸🇪
 
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@188.114.97.3:443?path=/chlh9K7r1HisErtn?ed=2560&security=tls&encryption=none&alpn=h2,http/1.1&host=prOxySToREpaNeL.EU.oRG&fp=randomized&type=ws&sni=proXYStORePaNel.EU.org#CA🇨🇦
 
