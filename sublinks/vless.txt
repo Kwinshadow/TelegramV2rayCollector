@@ -34,11 +34,11 @@ vless://9f1c2297-84d6-4378-922e-4bb95d0bd290@185.146.173.1:2095?path=/&security=
 
 vless://1f98b5cc-140f-46b4-987f-6936da9f2238@104.26.7.95:80?path=/?ed&security=none&encryption=none&host=crxre.ribiwa9933.workers.dev&type=ws#US🇺🇸
 
-vless://7143e704-5957-42db-bd38-670062722461@172.67.217.107:80?path=/?ed=2048&security=none&encryption=none&host=buyz.ribiwa9933.workers.dev&type=ws#US🇺🇸
+vless://7143e704-5957-42db-bd38-670062722461@172.67.217.107:80?path=/?ed=2048&security=none&encryption=none&host=buyz.ribiwa9933.workers.dev&type=ws#CA🇨🇦
 
 vless://b0138d55-a493-4dc3-9932-c6f0391707c1@188.114.96.3:2082?path=/?ed=2048&security=none&encryption=none&host=malaysiadj.card-937.workers.dev&type=ws#CA🇨🇦
 
-vless://7143e704-5957-42db-bd38-670062722461@172.67.217.107:80?path=/?ed&security=none&encryption=none&host=buyz.ribiwa9933.workers.dev&type=ws#CA🇨🇦
+vless://7143e704-5957-42db-bd38-670062722461@172.67.217.107:80?path=/?ed&security=none&encryption=none&host=buyz.ribiwa9933.workers.dev&type=ws#US🇺🇸
 
 vless://7e625ab3-ce9d-4ff9-893f-165f5a4ded24@185.146.173.1:8080?path=/&security=none&encryption=none&host=hjkma.numall.xyz.&type=ws#SE🇸🇪
 
@@ -57,6 +57,10 @@ vless://1f98b5cc-140f-46b4-987f-6936da9f2238@104.26.6.95:80?path=/&security=none
 vless://1f98b5cc-140f-46b4-987f-6936da9f2238@104.26.7.95:80?path=/?ed&security=none&encryption=none&host=crxre.ribiwa9933.workers.dev&type=ws#CA🇨🇦
 
 vless://d6fc0062-4719-45ba-929d-27b60b970550@185.146.173.32:80?path=/&security=none&encryption=none&host=Reza_OFF.markazdl.ir.&type=ws#SE🇸🇪
+
+vless://4d68a5be-30a6-43cc-a7f8-f49dca92ffb2@193.134.100.233:443?security=none&type=tcp&host=divar.ir&headerType=http#IR🇮🇷
+
+vless://7143e704-5957-42db-bd38-670062722461@172.67.217.107:80?security=none&type=ws&host=buyz.ribiwa9933.workers.dev&path=Telgea?.@vlees_v2rayng/?ed=2048#CA🇨🇦
 
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.19.233.162:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&fp=chrome#CA🇨🇦
 
@@ -83,18 +87,6 @@ vless://a81b314c-3ab7-48d3-b8c0-584c89e5f616@104.16.54.150:80?security=none&type
 vless://707e807d-b3f2-429f-b91b-6affe87f42dd@162.159.153.2:8080?security=none&type=ws&host=daily-configs.xn--ykqpu7pm2wzwbm5mpyner8e1ri.tech.&path=/Tel:@Daily_ConfigsTel:@Daily_ConfigsTel:@Daily_ConfigsTel:@Daily_ConfigsTel:@Daily_ConfigsTel:@Daily_Configs#CA🇨🇦
 
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.17.233.236:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&fp=chrome#CA🇨🇦
-
-vless://24f744f9-82b0-447b-910a-bf66260fecb6@188.114.96.3:8880?security=none&type=ws&host=2.V2ray.debian.org.fxp.debian.org.speedtest.net.らわなさらわ.kholochel.shop.&path=/telegram-Grizzlypn,telegram-Grizzlypn,telegram-Grizzlypn,telegram-Grizzlypn,telegram-Grizzlypn,telegram-Grizzlypn,telegram-Grizzlypn,telegram-Grizzlypn,telegram-Grizzlypn,telegram-Grizzlypn,telegram-Grizzlypn,telegram-Grizzlypn,telegram-Grizzlypn,telegram-Grizzlypn,telegram-Lookivpn,Grizzlypn-Grizzlypn-telegram-Grizzlypn-v2ray?ed=2048#CA🇨🇦
-
-vless://23ff8e34-2382-49cc-b068-d5de5b716e61@104.21.50.233:80?security=none&type=ws&host=telegram-vpnhttpinjectorfree-45.bononem349.workers.dev&path=/Telegram:@VPNHTTPInjectorfree-Telegram:@VPNHTTPInjectorfree-Telegram:@VPNHTTPInjectorfree?ed=2048#CA🇨🇦
-
-vless://26755541-e9c1-48c5-906e-3ff9e5eb7dbe@104.21.69.44:2095?security=none&type=ws&host=v2ray-_-_-_-_-vmesskhodam.mogrenspore.nl.&path=VMESSKHODAM-VMESSKHODAM-VMESSKHODAM-VMESSKHODAM-VMESSKHODAM-VMESSKHODAM-VMESSKHODAM/VMESSKHODAM?ed=1024#US🇺🇸
-
-vless://84a7e603-6c0a-429e-893a-cc7d720730f9@zula.ir:443?path=/Telegram#CA🇨🇦
-
-vless://affca09b-d792-42b0-97ee-c6f0828995bb@185.146.173.158:80?security=none&type=ws&host=2.V2ray.debian.org.fxp.debian.org.speedtest.net.らわなさらわ.iroralph.monster.&path=/telegram-MinoVpnCh,telegram-MinoVpnCh,telegram-MinoVpnCh,telegram-MinoVpnCh,telegram-MinoVpnCh,telegram-MinoVpnCh,telegram-MinoVpnCh,telegram-MinoVpnCh,telegram-MinoVpnCh,telegram-MinoVpnCh,telegram-MinoVpnCh,telegram-MinoVpnCh?ed=2048#SE🇸🇪
-
-vless://85e83afb-187f-4015-9e55-2cc4f093ee51@162.159.133.234:2095?security=none&type=ws&host=shhi.らわなさ.tech.&path=/ZEDMODEON-ZEDMODEON-ZEDMODEON#CA🇨🇦
 
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@188.114.97.3:443?path=/chlh9K7r1HisErtn?ed=2560&security=tls&encryption=none&alpn=h2,http/1.1&host=prOxySToREpaNeL.EU.oRG&fp=randomized&type=ws&sni=proXYStORePaNel.EU.org#CA🇨🇦
 
