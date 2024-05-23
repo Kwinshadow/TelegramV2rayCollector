@@ -34,13 +34,13 @@ vless://bf921a54-3be6-4bec-ad5a-c2bcf95aaae8@94.232.246.249:12454?security=none&
 
 vless://7143e704-5957-42db-bd38-670062722461@172.67.217.107:80?path=/?ed&security=none&encryption=none&host=buyz.ribiwa9933.workers.dev&type=ws#US🇺🇸
 
-vless://3cdbc462-6272-4c2a-9a2d-1525a81c7dfa@104.16.54.14:443?path=/?ed=2048&security=tls&encryption=none&host=xeeqi.kevani8800.workers.dev&type=ws&sni=xeeqi.kevani8800.workers.dev#CA🇨🇦
+vless://3cdbc462-6272-4c2a-9a2d-1525a81c7dfa@104.16.54.14:443?path=/?ed=2048&security=tls&encryption=none&host=xeeqi.kevani8800.workers.dev&type=ws&sni=xeeqi.kevani8800.workers.dev#US🇺🇸
 
 vless://012a1d49-1352-47ce-8bdd-f4afffcd0faf@64.176.64.31:51122?path=wss51122&security=none&encryption=none&type=ws#PL🇵🇱
 
-vless://1f98b5cc-140f-46b4-987f-6936da9f2238@104.26.6.95:80?path=/&security=none&encryption=none&host=crxre.ribiwa9933.workers.dev&type=ws#US🇺🇸
+vless://1f98b5cc-140f-46b4-987f-6936da9f2238@104.26.6.95:80?path=/&security=none&encryption=none&host=crxre.ribiwa9933.workers.dev&type=ws#CA🇨🇦
 
-vless://1f98b5cc-140f-46b4-987f-6936da9f2238@104.26.7.95:80?path=/?ed&security=none&encryption=none&host=crxre.ribiwa9933.workers.dev&type=ws#CA🇨🇦
+vless://1f98b5cc-140f-46b4-987f-6936da9f2238@104.26.7.95:80?path=/?ed&security=none&encryption=none&host=crxre.ribiwa9933.workers.dev&type=ws#US🇺🇸
 
 vless://d6fc0062-4719-45ba-929d-27b60b970550@185.146.173.32:80?path=/&security=none&encryption=none&host=Reza_OFF.markazdl.ir.&type=ws#SE🇸🇪
 
@@ -48,7 +48,7 @@ vless://1f98b5cc-140f-46b4-987f-6936da9f2238@104.26.6.95:80?path=/?ed=2048&secur
 
 vless://7143e704-5957-42db-bd38-670062722461@172.67.217.107:80?path=/?ed&security=none&encryption=none&host=buyz.ribiwa9933.workers.dev&type=ws#CA🇨🇦
 
-vless://1f98b5cc-140f-46b4-987f-6936da9f2238@104.26.7.95:80?path=/?ed=2048&security=none&encryption=none&host=crxre.ribiwa9933.workers.dev&type=ws#CA🇨🇦
+vless://1f98b5cc-140f-46b4-987f-6936da9f2238@104.26.7.95:80?path=/?ed=2048&security=none&encryption=none&host=crxre.ribiwa9933.workers.dev&type=ws#US🇺🇸
 
 vless://1f98b5cc-140f-46b4-987f-6936da9f2238@104.26.6.95:80?path=/&security=none&encryption=none&host=crxre.ribiwa9933.workers.dev&type=ws#CA🇨🇦
 
@@ -62,6 +62,22 @@ vless://df4608a5-0ceb-4513-b991-596f541bccdb@172.64.87.176:443?path=/&security=t
 
 vless://1f98b5cc-140f-46b4-987f-6936da9f2238@104.26.7.95:80?path=/?ed&security=none&encryption=none&host=crxre.ribiwa9933.workers.dev&type=ws#CA🇨🇦
 
+trojan://XQ5jxs58ecd403l7@views.pickaxe.sh:443?allowInsecure=1#INT🌍
+
+vless://b8c9b9bb-cbda-4506-b2d6-49c038304616@104.21.74.214:8443?security=tls&sni=hahaghgh.servernet.cfd&type=grpc&serviceName=@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett&fp=chrome&alpn=h2,http/1.1#CA🇨🇦
+
+trojan://NNhSlVRhte1Vzw5D@living.starspace.link:443?allowInsecure=1#INT🌍
+
+trojan://W8gVbKNAZlFzgGPn@storage.starspace.link:443?allowInsecure=1#INT🌍
+
+vless://723eb4ef-b933-494e-8b6f-c4b4c580dcca@65.109.211.159:2096?type=tcp#FI🇫🇮
+
+vless://0ecf1919-d36a-46d1-bd73-bc75a3b51579@104.31.16.95:2095?security=none&type=ws&host=cityv2raygmsix6.6.6.6.ir.com.site.列列男事的事列上赛男.softirgozar.com.&path=/cityV2rayGmSix6.6.6.6.ir.Com.Site.xn--fhq0la447aac5504dea701axr1g#CA🇨🇦
+
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@149.202.82.172:8091#FR🇫🇷
+
+vless://ff4ea7f8-7a02-4410-a631-039020da61de@185.146.173.122:8443?security=tls&sni=shjhjb.servernet.cfd&type=ws&host=shjhjb.servernet.cfd.&path=/&fp=random&alpn=h2,http/1.1#SE🇸🇪
+
 vless://a5480620-316b-47fc-af57-72ed9c398384@95.38.242.93:2083?security=none&type=tcp&host=ixqkmlbd.dl1.taknet.ir&headerType=http#IR🇮🇷
 
 ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@38.121.43.71:8090#US🇺🇸
@@ -70,7 +86,7 @@ trojan://telegram-id-privatevpns@13.49.157.177:22222?allowInsecure=0&sni=trojan.
 
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@34.246.115.246:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#IE🇮🇪
 
-vmess://eyJ2IjoiMiIsInBzIjoiQVVcdWQ4M2NcdWRkZTZcdWQ4M2NcdWRkZmEiLCJhZGQiOiJqcGxpbjAwNS54bXJ0aC1ub2RlLnh5eiIsInBvcnQiOiIxNTY5OCIsInR5cGUiOiJub25lIiwiaWQiOiJmZjUxY2E0YS02MDUwLTNlMjYtYTAzNy04OGIwZGQ2MmQxMzgiLCJhaWQiOiIyIiwibmV0Ijoid3MiLCJwYXRoIjoiXC9pbmRleCIsImhvc3QiOiJ3d3cuYmFpZHUuY29tIiwidGxzIjoiIn0=
+vmess://eyJ2IjoiMiIsInBzIjoiVVNcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjgiLCJhZGQiOiJqcGxpbjAwNS54bXJ0aC1ub2RlLnh5eiIsInBvcnQiOiIxNTY5OCIsInR5cGUiOiJub25lIiwiaWQiOiJmZjUxY2E0YS02MDUwLTNlMjYtYTAzNy04OGIwZGQ2MmQxMzgiLCJhaWQiOiIyIiwibmV0Ijoid3MiLCJwYXRoIjoiXC9pbmRleCIsImhvc3QiOiJ3d3cuYmFpZHUuY29tIiwidGxzIjoiIn0=
 
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@188.114.96.3:443?security=tls&sni=PrOxYStorEPaNEL.EU.oRg&type=ws&host=proxYsTOREPANEL.eu.oRG&path=/B5TOud1bHxlmxd7y?ed=2560&fp=randomized&alpn=h2,http/1.1#CA🇨🇦
 
@@ -93,20 +109,6 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@54.216.8.75:22222?security=tls&sni=
 ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk@23.157.40.29:9101#US🇺🇸
 
 trojan://f736834f-1fc8-4738-9884-9afe0eb0d818@jp1.trojan.tel:443?allowInsecure=1#INT🌍
-
-vless://adbb17ae-b8cb-4aee-a890-6329965abcac@104.21.96.84:2053?security=tls&sni=newworkfaridshahrivardo.abza.workers.dev&type=ws&host=newworkfaridshahrivardo.abza.workers.dev&fp=chrome&alpn=h2,http/1.1#CA🇨🇦
-
-vless://abcbcaa-baca-acba-bdac-cccbbaabcaba@127.0.0.1:1080?security=tls&type=tcp#INT🌍
-
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.19.100.228:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&fp=chrome#CA🇨🇦
-
-vless://ecfd98b5-6fd6-4612-9869-eaa18e79bf4d@185.146.173.244:443?security=tls&sni=join-telegraam-channel-disvpn.pages.dev&type=ws&host=join-telegraam-channel-disvpn.pages.dev&path=/Telegram Join: @DisVpn,Telegram Join: @DisVpn&fp=chrome&alpn=h2,http/1.1#SE🇸🇪
-
-vless://76905e7b-43e0-4942-83f7-ea5a485bc945@172.67.177.228:443?security=tls&sni=ch2.melobigg.site&type=ws&path=/melov2ray&fp=chrome#CA🇨🇦
-
-vless://fb301d2e-4430-4b41-95d6-764460b8ef13@172.67.157.203:2053?security=tls&sni=9b56CFEe5b258C44c45bA18FA122293.mIToweAr.cOm&type=grpc#CA🇨🇦
-
-vless://eb3e4174-7bc8-4cc3-a5f9-372285fcb745@185.146.173.1:8080?security=none&type=ws&host=svm.zula.ir.gta.ir.zula.com.mast.com.rast.com.shoplfooioood.らわなさkarsovalomn.atkfood.com.#SE🇸🇪
 
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@188.114.97.3:443?path=/chlh9K7r1HisErtn?ed=2560&security=tls&encryption=none&alpn=h2,http/1.1&host=prOxySToREpaNeL.EU.oRG&fp=randomized&type=ws&sni=proXYStORePaNel.EU.org#CA🇨🇦
 
