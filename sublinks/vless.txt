@@ -22,21 +22,21 @@ vless://b0138d55-a493-4dc3-9932-c6f0391707c1@188.114.96.3:2082?path=/?ed=2048&se
 
 vless://3cdbc462-6272-4c2a-9a2d-1525a81c7dfa@104.16.54.14:443?path=/?ed=2048&security=tls&encryption=none&host=xeeqi.kevani8800.workers.dev&type=ws&sni=xeeqi.kevani8800.workers.dev#US🇺🇸
 
-vless://7143e704-5957-42db-bd38-670062722461@172.67.217.107:80?path=/?ed&security=none&encryption=none&host=buyz.ribiwa9933.workers.dev&type=ws#US🇺🇸
+vless://7143e704-5957-42db-bd38-670062722461@172.67.217.107:80?path=/?ed&security=none&encryption=none&host=buyz.ribiwa9933.workers.dev&type=ws#CA🇨🇦
 
-vless://1f98b5cc-140f-46b4-987f-6936da9f2238@104.26.6.95:80?path=/&security=none&encryption=none&host=crxre.ribiwa9933.workers.dev&type=ws#US🇺🇸
+vless://1f98b5cc-140f-46b4-987f-6936da9f2238@104.26.6.95:80?path=/&security=none&encryption=none&host=crxre.ribiwa9933.workers.dev&type=ws#CA🇨🇦
 
-vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@198.41.198.76:443?path=/?ed=2048&security=tls&encryption=none&host=jd.wxgqlfx.top&type=ws&sni=jd.wxgqlfx.top#US🇺🇸
+vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@198.41.198.76:443?path=/?ed=2048&security=tls&encryption=none&host=jd.wxgqlfx.top&type=ws&sni=jd.wxgqlfx.top#CA🇨🇦
 
-vless://b0138d55-a493-4dc3-9932-c6f0391707c1@188.114.96.3:2082?path=/?ed&security=none&encryption=none&host=malaysiadj.card-937.workers.dev&type=ws#US🇺🇸
+vless://b0138d55-a493-4dc3-9932-c6f0391707c1@188.114.96.3:2082?path=/?ed&security=none&encryption=none&host=malaysiadj.card-937.workers.dev&type=ws#CA🇨🇦
 
-vless://7143e704-5957-42db-bd38-670062722461@172.67.217.107:80?path=/?ed=2048&security=none&encryption=none&host=buyz.ribiwa9933.workers.dev&type=ws#US🇺🇸
+vless://7143e704-5957-42db-bd38-670062722461@172.67.217.107:80?path=/?ed=2048&security=none&encryption=none&host=buyz.ribiwa9933.workers.dev&type=ws#CA🇨🇦
 
 vless://3cdbc462-6272-4c2a-9a2d-1525a81c7dfa@104.16.54.14:443?path=/?ed=2048&security=tls&encryption=none&host=xeeqi.kevani8800.workers.dev&type=ws&sni=xeeqi.kevani8800.workers.dev#US🇺🇸
 
 vless://012a1d49-1352-47ce-8bdd-f4afffcd0faf@64.176.64.31:51122?path=wss51122&security=none&encryption=none&type=ws#PL🇵🇱
 
-vless://1f98b5cc-140f-46b4-987f-6936da9f2238@104.26.6.95:80?path=/?ed=2048&security=none&encryption=none&host=crxre.ribiwa9933.workers.dev&type=ws#CA🇨🇦
+vless://1f98b5cc-140f-46b4-987f-6936da9f2238@104.26.6.95:80?path=/?ed=2048&security=none&encryption=none&host=crxre.ribiwa9933.workers.dev&type=ws#US🇺🇸
 
 vless://1f98b5cc-140f-46b4-987f-6936da9f2238@104.26.7.95:80?path=/?ed&security=none&encryption=none&host=crxre.ribiwa9933.workers.dev&type=ws#CA🇨🇦
 
@@ -44,7 +44,7 @@ vless://b0138d55-a493-4dc3-9932-c6f0391707c1@188.114.96.3:2082?path=/?ed&securit
 
 vless://7f3b2f37-819e-49ee-9f5c-215467bfde61@172.67.204.39:443?path=/&security=tls&encryption=none&host=turkmenistan.armanibash.Shop.&fp=chrome&type=ws&sni=turkmenistan.armanibash.Shop.#CA🇨🇦
 
-vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@198.41.198.76:443?path=/?ed=2048&security=tls&encryption=none&host=jd.wxgqlfx.top&type=ws&sni=jd.wxgqlfx.top#CA🇨🇦
+vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@198.41.198.76:443?path=/?ed=2048&security=tls&encryption=none&host=jd.wxgqlfx.top&type=ws&sni=jd.wxgqlfx.top#US🇺🇸
 
 vless://b0138d55-a493-4dc3-9932-c6f0391707c1@188.114.96.3:2082?path=/?ed&security=none&encryption=none&host=malaysiadj.card-937.workers.dev&type=ws#CA🇨🇦
 
@@ -52,13 +52,19 @@ vless://9f1c2297-84d6-4378-922e-4bb95d0bd290@185.146.173.1:2095?path=/&security=
 
 vless://1f98b5cc-140f-46b4-987f-6936da9f2238@104.26.7.95:80?path=/?ed&security=none&encryption=none&host=crxre.ribiwa9933.workers.dev&type=ws#CA🇨🇦
 
-vless://7143e704-5957-42db-bd38-670062722461@172.67.217.107:80?path=/?ed=2048&security=none&encryption=none&host=buyz.ribiwa9933.workers.dev&type=ws#CA🇨🇦
+vless://7143e704-5957-42db-bd38-670062722461@172.67.217.107:80?path=/?ed=2048&security=none&encryption=none&host=buyz.ribiwa9933.workers.dev&type=ws#US🇺🇸
 
-vless://b0138d55-a493-4dc3-9932-c6f0391707c1@188.114.96.3:2082?path=/?ed=2048&security=none&encryption=none&host=malaysiadj.card-937.workers.dev&type=ws#CA🇨🇦
+vless://b0138d55-a493-4dc3-9932-c6f0391707c1@188.114.96.3:2082?path=/?ed=2048&security=none&encryption=none&host=malaysiadj.card-937.workers.dev&type=ws#US🇺🇸
 
 vless://7143e704-5957-42db-bd38-670062722461@172.67.217.107:80?path=/?ed&security=none&encryption=none&host=buyz.ribiwa9933.workers.dev&type=ws#CA🇨🇦
 
 vless://7e625ab3-ce9d-4ff9-893f-165f5a4ded24@185.146.173.1:8080?path=/&security=none&encryption=none&host=hjkma.numall.xyz.&type=ws#SE🇸🇪
+
+vless://baaccab-acab-abac-cbda-bcbbabcacaca@127.0.0.1:1080?security=tls&type=tcp#INT🌍
+
+vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.19.116.131:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&fp=chrome#CA🇨🇦
+
+vless://d7dd3a35-b68b-4992-b319-a85b8a1fc8e5@35.201.203.106:443?security=tls&sni=tg.dns68.cloudns.nz&type=ws&host=tg.dns68.cloudns.nz#TW🇹🇼
 
 vless://8f9876ba-4a60-46e3-8c6d-30c41d8ef446@65.109.195.204:2053?security=none&type=tcp#FI🇫🇮
 
@@ -81,14 +87,6 @@ vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.195.185:443?security=tls&sni
 vless://bia-PROXY_MTM@172.67.204.39:80?path=//telegram-proxy-mtm-telegram-proxy-mtm-telegram-proxy-mtm?ed=2048&security=none&encryption=none&host=1.ftp.debian.org.www.speedtest.net.免费上网67.Site.&type=ws#CA🇨🇦
 
 vless://0a6f7794-4dd9-47df-858f-d2ebf666b551@zula.ir:80?path=/@custom_config?ed=2048&security=none&encryption=none&host=5260827089.ir.www.zula.ir.xn--4all.king4usd.shop.&type=ws#CA🇨🇦
-
-vless://526272f9-047d-44dc-8e62-afa29d84bcb8@81.12.93.83:443?security=tls&sni=sha1.noobdog.shop&type=tcp&headerType=http&alpn=h2,http/1.1&allowInsecure=1#IR🇮🇷
-
-vless://cdc61aa3-0353-4753-9c64-1c8fd3f3d79c@198.41.202.5:8880?security=none&type=ws&host=xn--v2ray-qhantayawi--a-mwxzc08arba93xpvac79043ht5ia.xn--v2-gn1d638jbjx.xyz.&path=/@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-@LiV2ray?ed=1024#US🇺🇸
-
-vless://037ff316-9581-4ab2-a4ba-7ecc96ded9ed@104.16.4.103:2082?security=none&type=ws&host=au7od5s74q-germany18.datam-co.ir#CA🇨🇦
-
-vless://f6cfca7f-f5e6-47d6-aa4c-66f449ca817b@185.146.173.58:8080?security=none&type=ws&host=kabi.列列男事的事列上赛男78.CoM.#SE🇸🇪
 
 vless://1f98b5cc-140f-46b4-987f-6936da9f2238@104.26.7.95:80?path=Telegram-------V2rayi_net_-_-_-_-Telegram-------V2rayi_net/?ed=2048&security=none&encryption=none&host=crxre.ribiwa9933.workers.dev&type=ws#CA🇨🇦
 
