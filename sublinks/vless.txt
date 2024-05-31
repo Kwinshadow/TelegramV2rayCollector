@@ -24,7 +24,7 @@ vless://4e47d40d-770c-49e8-b730-bc9628404f87@www.speedtest.net:8080?path=/&secur
 
 vless://15b15cd3-d8c1-4c78-8e25-bd5a57fb9dfc@141.105.130.98:49938?security=none&encryption=none&headerType=none&type=tcp#UA🇺🇦
 
-vless://b0138d55-a493-4dc3-9932-c6f0391707c1@104.21.74.214:2082?path=/?ed=2048&security=none&encryption=none&host=MalAySiAdj.CArD-937.WorKeRs.DeV.&type=ws#CA🇨🇦
+vless://b0138d55-a493-4dc3-9932-c6f0391707c1@104.21.74.214:2082?path=/?ed=2048&security=none&encryption=none&host=MalAySiAdj.CArD-937.WorKeRs.DeV.&type=ws#US🇺🇸
 
 vless://0905460d-6edc-4a82-8ec8-6b76090b41c8@172.67.128.158:443?path=/TELEGRAM-MARAMBASHI/?ed=2048&security=tls&encryption=none&alpn=http/1.1&host=who-cares.BacheBiaPain.IR&fp=randomized&type=ws&sni=who-cares.BacheBiaPain.IR#US🇺🇸
 
@@ -78,6 +78,16 @@ vless://1235b6fb-7f15-4361-8da3-d1a079bdf484@104.21.7.50:443?path=/TELEGRAM-MARA
 
 vless://telegram-id-ArV2ray@185.146.173.94:80?path=/telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray?ed=2048&security=none&encryption=none&host=9.V2ray.mihanyas.ir.kw.farsroid.com.的9.创优舍创优舍.Store.&type=ws#SE🇸🇪
 
+vless://UnlimitedDev-----------1@join-unlimiteddev-vpn.unlimiteddev.site:8080?security=&type=ws&path=/Telegram:@UnlimitedDev-Telegram:@UnlimitedDev?ed=8080&host=unlimiteddev-vpn.unlimiteddev.Community.&encryption=none#SE🇸🇪
+
+vless://UnlimitedDev---------mci@bia-to.unlimiteddev.site:443?type=grpc&mode=gun&serviceName=Channel:@UnlimitedDev&security=tls&fp=chrome&sni=mci.unlimiteddev-vpn.Com.&alpn=h2,http/1.1#IR🇮🇷
+
+vless://UnlimitedDev---------mci@mci1.unlimiteddev-vpn.com.:443?type=grpc&mode=gun&serviceName=Channel:@UnlimitedDev&security=tls&fp=chrome&alpn=h2,http/1.1#CA🇨🇦
+
+vless://UnlimitedDev---------mci@bia-to.unlimiteddev.site:443?type=grpc&mode=gun&serviceName=Channel:@UnlimitedDev&security=tls&fp=chrome&sni=mci.unlimiteddev-vpn.Com.&alpn=h2,http/1.1#IR🇮🇷
+
+vless://UnlimitedDev-----------1@185.146.173.18:8080?security=&type=ws&path=/Telegram:@UnlimitedDev-Telegram:@UnlimitedDev&host=unlimiteddev-vpn.unlimiteddev.Community.&encryption=none#SE🇸🇪
+
 vless://1-UnlimitedDev-1@join-unlimiteddev-vpn.unlimiteddev.site:8080?security=&type=ws&path=/Telegram:@UnlimitedDev-Telegram:@UnlimitedDev?ed=8080&host=unlimiteddev-vpn.unlimiteddev.Community.&encryption=none#SE🇸🇪
 
 vless://1-UnlimitedDev-1@join-unlimiteddev-vpn.unlimiteddev.site:8080?security=&type=ws&path=/Telegram:@UnlimitedDev-Telegram:@UnlimitedDev&host=unlimiteddev-vpn.unlimiteddev.Community.&encryption=none#SE🇸🇪
@@ -120,5 +130,5 @@ vless://83aa2634-96a7-4ee6-aac1-07fd96f1c6c0@zula.ir:443?type=ws&host=aMI-02-SJs
 
 vless://bcf50589-9654-4331-93a6-da896914ec47@172.66.47.2:443?type=ws&host=de4ecf6b.isvphp-4g8.pages.dev&path=/Telegram-@SiNABiGO/?ed=2560&security=tls&fp=randomized&sni=de4ecf6b.isvphp-4g8.pages.dev&fragment=50-100,10-20,tlshello#CA🇨🇦
 
-vless://a5542579-59e9-4bd3-8d93-eb609f83e19b@188.114.97.3:443?type=ws&host=ariameHr-Eyq.paGES.Dev&path=/Mtx1XuWwe4WMbCsB?ed=2560&security=tls&fp=randomized&sni=ARiAMEHr-EYQ.PAGeS.deV&alpn=h2,http/1.1#CA🇨🇦
+vless://a5542579-59e9-4bd3-8d93-eb609f83e19b@188.114.97.3:443?type=ws&host=ariameHr-Eyq.paGES.Dev&path=/Mtx1XuWwe4WMbCsB?ed=2560&security=tls&fp=randomized&sni=ARiAMEHr-EYQ.PAGeS.deV&alpn=h2,http/1.1#INT🌍
 
