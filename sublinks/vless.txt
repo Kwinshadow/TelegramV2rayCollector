@@ -30,21 +30,21 @@ vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.2.133:443?path=/&security=t
 
 vless://f5a5b033-d600-11ee-aaa8-00505603e70d@172.67.73.241:443?path=/websocket&security=tls&encryption=none&host=st-gb-1.brocdn.com&type=ws&sni=st-gb-1.brocdn.com#US🇺🇸
 
-vless://b41e1631-ceb3-47c9-ba87-c65a46f2f5a8@www.speedtest.net:2096?path=/eOwMtmADY6cWup8R?ed&security=tls&encryption=none&host=VPnerOr.sajAdHaDaDI.WEbSITe&fp=chrome&type=ws&sni=vpNeRor.SAjadHADadi.WEbsiTe#INT🌍
+vless://b41e1631-ceb3-47c9-ba87-c65a46f2f5a8@www.speedtest.net:2096?path=/eOwMtmADY6cWup8R?ed&security=tls&encryption=none&host=VPnerOr.sajAdHaDaDI.WEbSITe&fp=chrome&type=ws&sni=vpNeRor.SAjadHADadi.WEbsiTe#CA🇨🇦
 
 vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.2.133:443?path=/?ed&security=tls&encryption=none&host=ton.apple&type=ws&sni=www.arizona.edu#US🇺🇸
 
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.31.105:80?path=/&security=none&encryption=none&host=us3.rtacg.com&type=ws#US🇺🇸
 
-vless://b41e1631-ceb3-47c9-ba87-c65a46f2f5a8@www.speedtest.net:2096?path=/eOwMtmADY6cWup8R?ed=2560&security=tls&encryption=none&host=VPnerOr.sajAdHaDaDI.WEbSITe&fp=chrome&type=ws&sni=vpNeRor.SAjadHADadi.WEbsiTe#US🇺🇸
+vless://b41e1631-ceb3-47c9-ba87-c65a46f2f5a8@www.speedtest.net:2096?path=/eOwMtmADY6cWup8R?ed=2560&security=tls&encryption=none&host=VPnerOr.sajAdHaDaDI.WEbSITe&fp=chrome&type=ws&sni=vpNeRor.SAjadHADadi.WEbsiTe#CA🇨🇦
 
-vless://e6aedcd2-24ad-4bdd-82c5-006d84179197@www.speedtest.net:443?path=/?ed=2560&security=tls&encryption=none&alpn=h3&host=4d3d6f00.garywelch.pages.dev&fp=randomized&type=ws&sni=4d3d6f00.garywelch.pages.dev#INT🌍
-
-vless://e2175616-20c2-46a7-a1ea-c7e044bedad3@141.105.130.192:53397?security=none&encryption=none&headerType=none&type=tcp#UA🇺🇦
+vless://e6aedcd2-24ad-4bdd-82c5-006d84179197@www.speedtest.net:443?path=/?ed=2560&security=tls&encryption=none&alpn=h3&host=4d3d6f00.garywelch.pages.dev&fp=randomized&type=ws&sni=4d3d6f00.garywelch.pages.dev#CA🇨🇦
 
 vless://e2175616-20c2-46a7-a1ea-c7e044bedad3@141.105.130.192:53397?security=none&encryption=none&headerType=none&type=tcp#UA🇺🇦
 
-vless://7f3b2f37-819e-49ee-9f5c-215467bfde61@172.67.204.39:443?path=/&security=tls&encryption=none&host=turkmenistan.armanibash.Shop.&fp=chrome&type=ws&sni=turkmenistan.armanibash.Shop.#INT🌍
+vless://e2175616-20c2-46a7-a1ea-c7e044bedad3@141.105.130.192:53397?security=none&encryption=none&headerType=none&type=tcp#UA🇺🇦
+
+vless://7f3b2f37-819e-49ee-9f5c-215467bfde61@172.67.204.39:443?path=/&security=tls&encryption=none&host=turkmenistan.armanibash.Shop.&fp=chrome&type=ws&sni=turkmenistan.armanibash.Shop.#CA🇨🇦
 
 vless://8b497877-f19c-4524-8282-a85f3e50f761@141.105.130.192:31877?security=none&encryption=none&headerType=none&type=tcp#UA🇺🇦
 
@@ -52,49 +52,49 @@ vless://6b99dce7-99b0-4e80-97a6-2f517b048409@162.55.188.244:29947?security=none&
 
 vless://6b99dce7-99b0-4e80-97a6-2f517b048409@162.55.188.244:29947?security=none&encryption=none&headerType=none&type=tcp#DE🇩🇪
 
-vless://2c0b6a27-f3f3-4350-b8fd-a474c787dd70@ch.ni-ham.info:2053?path=/?ed&security=tls&encryption=none&alpn=h2&host=ajghrr.f-vipo.ir&fp=chrome&type=ws&sni=ajghrr.f-vipo.ir#INT🌍
+vless://2c0b6a27-f3f3-4350-b8fd-a474c787dd70@ch.ni-ham.info:2053?path=/?ed&security=tls&encryption=none&alpn=h2&host=ajghrr.f-vipo.ir&fp=chrome&type=ws&sni=ajghrr.f-vipo.ir#CA🇨🇦
 
 vless://c286aba9-65fa-42ec-a361-d1ee7939e1d6@185.146.173.58:2095?path=/&security=none&encryption=none&host=shjhjb.servernet.cfd.&type=ws#SE🇸🇪
 
-vless://df4608a5-0ceb-4513-b991-596f541bccdb@172.64.87.176:443?path=/&security=tls&encryption=none&host=cfdy.yueuzi.dynv6.net&fp=random&type=ws&sni=cfdy.yueuzi.dynv6.net#INT🌍
+vless://df4608a5-0ceb-4513-b991-596f541bccdb@172.64.87.176:443?path=/&security=tls&encryption=none&host=cfdy.yueuzi.dynv6.net&fp=random&type=ws&sni=cfdy.yueuzi.dynv6.net#CA🇨🇦
 
 vless://8b497877-f19c-4524-8282-a85f3e50f761@141.105.130.192:31877?security=none&encryption=none&headerType=none&type=tcp#UA🇺🇦
 
 vless://e2175616-20c2-46a7-a1ea-c7e044bedad3@141.105.130.192:53397?security=none&encryption=none&headerType=none&type=tcp#UA🇺🇦
 
-vless://b41e1631-ceb3-47c9-ba87-c65a46f2f5a8@www.speedtest.net:2096?path=/eOwMtmADY6cWup8R?ed=2560&security=tls&encryption=none&host=VPnerOr.sajAdHaDaDI.WEbSITe&type=ws&sni=vpNeRor.SAjadHADadi.WEbsiTe#INT🌍
+vless://b41e1631-ceb3-47c9-ba87-c65a46f2f5a8@www.speedtest.net:2096?path=/eOwMtmADY6cWup8R?ed=2560&security=tls&encryption=none&host=VPnerOr.sajAdHaDaDI.WEbSITe&type=ws&sni=vpNeRor.SAjadHADadi.WEbsiTe#CA🇨🇦
 
-vless://b41e1631-ceb3-47c9-ba87-c65a46f2f5a8@www.speedtest.net:2096?path=/eOwMtmADY6cWup8R?ed=2560&security=tls&encryption=none&host=VPnerOr.sajAdHaDaDI.WEbSITe&type=ws&sni=vpNeRor.SAjadHADadi.WEbsiTe#INT🌍
+vless://b41e1631-ceb3-47c9-ba87-c65a46f2f5a8@www.speedtest.net:2096?path=/eOwMtmADY6cWup8R?ed=2560&security=tls&encryption=none&host=VPnerOr.sajAdHaDaDI.WEbSITe&type=ws&sni=vpNeRor.SAjadHADadi.WEbsiTe#CA🇨🇦
 
 vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.2.133:443?path=/&security=tls&encryption=none&host=ton.apple&type=ws&sni=www.arizona.edu#US🇺🇸
 
-vless://join-VPNCUSTOMIZE@ww.ninjacdn.org.:443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&authority=&fp=chrome&type=grpc&serviceName=@VPNCUSTOMIZE#INT🌍
+vless://join-VPNCUSTOMIZE@ww.ninjacdn.org.:443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&authority=&fp=chrome&type=grpc&serviceName=@VPNCUSTOMIZE#CA🇨🇦
 
 vless://Parsashonam-84@185.146.173.58:8080?path=/&security=none&encryption=none&host=Parsashonam.我们累了.tech.&type=ws#SE🇸🇪
 
 vless://Parsashonam-84@185.146.173.94:8080?path=/&security=none&encryption=none&host=Parsashonam.我们累了.tech.&type=ws#SE🇸🇪
 
-vless://Parsashonam-84@188.114.96.3:8080?path=/&security=none&encryption=none&host=Parsashonam.我们累了.tech.&type=ws#INT🌍
+vless://Parsashonam-84@188.114.96.3:8080?path=/&security=none&encryption=none&host=Parsashonam.我们累了.tech.&type=ws#CA🇨🇦
 
-vless://Parsashonam-84@www.visa.com:8080?path=/&security=none&encryption=none&host=Parsashonam.我们累了.tech.&type=ws#INT🌍
+vless://Parsashonam-84@www.visa.com:8080?path=/&security=none&encryption=none&host=Parsashonam.我们累了.tech.&type=ws#CA🇨🇦
 
-vless://Parsashonam-84@www.speedtest.net:8080?path=/&security=none&encryption=none&host=Parsashonam.我们累了.tech.&type=ws#INT🌍
+vless://Parsashonam-84@www.speedtest.net:8080?path=/&security=none&encryption=none&host=Parsashonam.我们累了.tech.&type=ws#CA🇨🇦
 
-vless://Parsashonam-80@www.visa.com:443?path=/?ed=2560&security=tls&encryption=none&alpn=h2,http/1.1&host=mail.offch.blog&fp=chrome&type=ws&sni=mail.offch.blog#INT🌍
+vless://Parsashonam-80@www.visa.com:443?path=/?ed=2560&security=tls&encryption=none&alpn=h2,http/1.1&host=mail.offch.blog&fp=chrome&type=ws&sni=mail.offch.blog#CA🇨🇦
 
-vless://Parsashonam-80@190.93.247.155:443?path=/?ed=2560&security=tls&encryption=none&alpn=h2,http/1.1&host=mail.offch.blog&fp=chrome&type=ws&sni=mail.offch.blog#INT🌍
+vless://Parsashonam-80@190.93.247.155:443?path=/?ed=2560&security=tls&encryption=none&alpn=h2,http/1.1&host=mail.offch.blog&fp=chrome&type=ws&sni=mail.offch.blog#CR🇨🇷
 
 vless://---UnlimitedDev----555@join-unlimiteddev-vpn.unlimiteddev.site:8080?security=&type=ws&path=/Telegram:@UnlimitedDev-Telegram:@UnlimitedDev?ed=8080&host=unlimiteddev-vpn.unlimiteddev.Community.&encryption=none#SE🇸🇪
 
 vless://--unlimiteddev-----556254@join-to10.unlimiteddev.site:443?type=grpc&mode=gun&serviceName=Channel:@UnlimitedDev&security=tls&fp=chrome&sni=mci.unlimiteddev-vpn.Com.&alpn=h2,http/1.1#IR🇮🇷
 
-vless://---UnlimitedDev----555@188.114.98.224:8080?security=&type=ws&path=/Telegram:@UnlimitedDev-Telegram:@UnlimitedDev&host=unlimiteddev-vpn.unlimiteddev.Community.&encryption=none#INT🌍
+vless://---UnlimitedDev----555@188.114.98.224:8080?security=&type=ws&path=/Telegram:@UnlimitedDev-Telegram:@UnlimitedDev&host=unlimiteddev-vpn.unlimiteddev.Community.&encryption=none#CA🇨🇦
 
 vless://UnlimitedDev-----------1@join-unlimiteddev-vpn.unlimiteddev.site:8080?security=&type=ws&path=/Telegram:@UnlimitedDev-Telegram:@UnlimitedDev?ed=8080&host=unlimiteddev-vpn.unlimiteddev.Community.&encryption=none#SE🇸🇪
 
 vless://UnlimitedDev---------mci@bia-to.unlimiteddev.site:443?type=grpc&mode=gun&serviceName=Channel:@UnlimitedDev&security=tls&fp=chrome&sni=mci.unlimiteddev-vpn.Com.&alpn=h2,http/1.1#IR🇮🇷
 
-vless://UnlimitedDev---------mci@mci1.unlimiteddev-vpn.com.:443?type=grpc&mode=gun&serviceName=Channel:@UnlimitedDev&security=tls&fp=chrome&alpn=h2,http/1.1#INT🌍
+vless://UnlimitedDev---------mci@mci1.unlimiteddev-vpn.com.:443?type=grpc&mode=gun&serviceName=Channel:@UnlimitedDev&security=tls&fp=chrome&alpn=h2,http/1.1#CA🇨🇦
 
 vless://UnlimitedDev---------mci@bia-to.unlimiteddev.site:443?type=grpc&mode=gun&serviceName=Channel:@UnlimitedDev&security=tls&fp=chrome&sni=mci.unlimiteddev-vpn.Com.&alpn=h2,http/1.1#IR🇮🇷
 
