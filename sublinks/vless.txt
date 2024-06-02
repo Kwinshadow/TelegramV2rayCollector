@@ -28,9 +28,9 @@ vless://8305e526-0c08-48fd-a47a-44bb8be50858@zerov2shop.zershop.ir:443?path=/&se
 
 vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.2.133:443?path=/&security=tls&encryption=none&host=ton.apple&type=ws&sni=www.arizona.edu#US🇺🇸
 
-vless://f5a5b033-d600-11ee-aaa8-00505603e70d@172.67.73.241:443?path=/websocket&security=tls&encryption=none&host=st-gb-1.brocdn.com&type=ws&sni=st-gb-1.brocdn.com#US🇺🇸
+vless://f5a5b033-d600-11ee-aaa8-00505603e70d@172.67.73.241:443?path=/websocket&security=tls&encryption=none&host=st-gb-1.brocdn.com&type=ws&sni=st-gb-1.brocdn.com#CA🇨🇦
 
-vless://b41e1631-ceb3-47c9-ba87-c65a46f2f5a8@www.speedtest.net:2096?path=/eOwMtmADY6cWup8R?ed&security=tls&encryption=none&host=VPnerOr.sajAdHaDaDI.WEbSITe&fp=chrome&type=ws&sni=vpNeRor.SAjadHADadi.WEbsiTe#US🇺🇸
+vless://b41e1631-ceb3-47c9-ba87-c65a46f2f5a8@www.speedtest.net:2096?path=/eOwMtmADY6cWup8R?ed&security=tls&encryption=none&host=VPnerOr.sajAdHaDaDI.WEbSITe&fp=chrome&type=ws&sni=vpNeRor.SAjadHADadi.WEbsiTe#CA🇨🇦
 
 vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.2.133:443?path=/?ed&security=tls&encryption=none&host=ton.apple&type=ws&sni=www.arizona.edu#US🇺🇸
 
@@ -38,7 +38,7 @@ vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.31.105:80?path=/&security=no
 
 vless://b41e1631-ceb3-47c9-ba87-c65a46f2f5a8@www.speedtest.net:2096?path=/eOwMtmADY6cWup8R?ed=2560&security=tls&encryption=none&host=VPnerOr.sajAdHaDaDI.WEbSITe&fp=chrome&type=ws&sni=vpNeRor.SAjadHADadi.WEbsiTe#CA🇨🇦
 
-vless://e6aedcd2-24ad-4bdd-82c5-006d84179197@www.speedtest.net:443?path=/?ed=2560&security=tls&encryption=none&alpn=h3&host=4d3d6f00.garywelch.pages.dev&fp=randomized&type=ws&sni=4d3d6f00.garywelch.pages.dev#CA🇨🇦
+vless://e6aedcd2-24ad-4bdd-82c5-006d84179197@www.speedtest.net:443?path=/?ed=2560&security=tls&encryption=none&alpn=h3&host=4d3d6f00.garywelch.pages.dev&fp=randomized&type=ws&sni=4d3d6f00.garywelch.pages.dev#US🇺🇸
 
 vless://e2175616-20c2-46a7-a1ea-c7e044bedad3@141.105.130.192:53397?security=none&encryption=none&headerType=none&type=tcp#UA🇺🇦
 
