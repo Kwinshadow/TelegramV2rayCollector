@@ -1,4 +1,8 @@
- vless://7bd69117-83a3-4360-ae48-8406b3da1923@109.120.186.177:555?security=none&encryption=none&headerType=none&type=tcp#GB🇬🇧
+ vless://f0e16573-e93d-417f-a32c-b9d6fbc7f97a@zula.ir:8880?path=/?ed=2087&security=none&encryption=none&host=cloudtscov2ray.v2rayng9.9.9.9.ir.Com.Site.xn--fhq0la361dfa5504afe701aXr1e.vipserver.MONSTER.&type=ws#US🇺🇸
+
+vless://df4608a5-0ceb-4513-b991-596f541bccdb@172.64.87.176:443?path=/&security=tls&encryption=none&host=cfdy.yueuzi.dynv6.net&fp=random&type=ws&sni=cfdy.yueuzi.dynv6.net#US🇺🇸
+
+vless://7bd69117-83a3-4360-ae48-8406b3da1923@109.120.186.177:555?security=none&encryption=none&headerType=none&type=tcp#GB🇬🇧
 
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.16.137.88:443?path=/?ed=2048&security=tls&encryption=none&host=mmdv2.pages.dev&fp=randomized&type=ws&sni=mmdv2.pages.dev#US🇺🇸
 
@@ -14,7 +18,7 @@ vless://4497407c-54ac-59ef-ab94-41ecb895cf01@104.31.16.110:80?path=vless-ws/?ed=
 
 vless://10716279-b1ee-41d8-b63e-87782088305b@104.18.44.195:443?path=/sDCHkLUrA8UJ1DkZ?ed=2560&security=tls&encryption=none&alpn=h2,http/1.1&host=HEY.bAcheBIApAiN.ir&fp=randomized&type=ws&sni=hey.BacHeBIApain.ir#US🇺🇸
 
-vless://ce12313e-dab2-49ee-8806-399eb91136b2@104.17.248.203:2096?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&authority=&fp=chrome&type=grpc&serviceName=&sni=api1.htve.ir#US🇺🇸
+vless://ce12313e-dab2-49ee-8806-399eb91136b2@104.17.248.203:2096?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&authority=&fp=chrome&type=grpc&serviceName=&sni=api1.htve.ir#CA🇨🇦
 
 vless://b8d718c6-7516-4259-b4e6-253e280bc6b6@ns.cloudflare.com:443?path=/?ed=2048&security=tls&encryption=none&host=bia-vip-programs.hsjsak.ir&fp=random&type=ws&sni=bia-vip-programs.hsjsak.ir#US🇺🇸
 
@@ -28,17 +32,17 @@ vless://5da27733-3527-479e-bb81-4c5a9c75d83f@viphamester.wolfmoon.ir:443?mode=mu
 
 vless://b8d718c6-7516-4259-b4e6-253e280bc6b6@ns.cloudflare.com:443?path=/?ed=2048&security=tls&encryption=none&host=bia-vip-programs.hsjsak.ir&fp=random&type=ws&sni=bia-vip-programs.hsjsak.ir#US🇺🇸
 
-vless://85b5ac4c-364a-4703-90d3-158bace384cf@104.21.7.50:443?path=/&security=tls&encryption=none&alpn=h2,http/1.1&host=api2.htve.ir&fp=chrome&type=ws&sni=api2.htve.ir#US🇺🇸
+vless://85b5ac4c-364a-4703-90d3-158bace384cf@104.21.7.50:443?path=/&security=tls&encryption=none&alpn=h2,http/1.1&host=api2.htve.ir&fp=chrome&type=ws&sni=api2.htve.ir#CA🇨🇦
 
-vless://85b5ac4c-364a-4703-90d3-158bace384cf@104.21.7.50:443?path=/&security=tls&encryption=none&host=api2.htve.ir&type=ws&sni=api2.htve.ir#US🇺🇸
+vless://85b5ac4c-364a-4703-90d3-158bace384cf@104.21.7.50:443?path=/&security=tls&encryption=none&host=api2.htve.ir&type=ws&sni=api2.htve.ir#CA🇨🇦
 
 vless://ce12313e-dab2-49ee-8806-399eb91136b2@104.18.22.19:2096?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&authority=&fp=chrome&type=grpc&serviceName=&sni=api1.htve.ir#CA🇨🇦
 
 vless://ce12313e-dab2-49ee-8806-399eb91136b2@104.17.248.203:2096?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&authority=&fp=chrome&type=grpc&serviceName=&sni=api1.htve.ir#CA🇨🇦
 
-vless://f0e16573-e93d-417f-a32c-b9d6fbc7f97a@zula.ir:8880?path=/?ed=2087&security=none&encryption=none&host=cloudtscov2ray.v2rayng9.9.9.9.ir.Com.Site.xn--fhq0la361dfa5504afe701aXr1e.vipserver.MONSTER.&type=ws#US🇺🇸
+vless://f0e16573-e93d-417f-a32c-b9d6fbc7f97a@zula.ir:8880?path=/?ed=2087&security=none&encryption=none&host=cloudtscov2ray.v2rayng9.9.9.9.ir.Com.Site.xn--fhq0la361dfa5504afe701aXr1e.vipserver.MONSTER.&type=ws#CA🇨🇦
 
-vless://ce12313e-dab2-49ee-8806-399eb91136b2@104.17.248.203:2096?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&authority=&type=grpc&serviceName=&sni=api1.htve.ir#US🇺🇸
+vless://ce12313e-dab2-49ee-8806-399eb91136b2@104.17.248.203:2096?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&authority=&type=grpc&serviceName=&sni=api1.htve.ir#CA🇨🇦
 
 vless://f0e16573-e93d-417f-a32c-b9d6fbc7f97a@zula.ir:8880?path=/?ed=2087&security=none&encryption=none&host=cloudtscov2ray.v2rayng9.9.9.9.ir.Com.Site.xn--fhq0la361dfa5504afe701aXr1e.vipserver.MONSTER.&type=ws#CA🇨🇦
 
@@ -54,19 +58,7 @@ vless://9d653c49-f256-4754-baa3-65fdbd4deca2@mci.video-db.com:443?path=/wg0kfQnp
 
 vless://f0e16573-e93d-417f-a32c-b9d6fbc7f97a@zula.ir:8880?path=/?ed=2087&security=none&encryption=none&host=cloudtscov2ray.v2rayng9.9.9.9.ir.Com.Site.xn--fhq0la361dfa5504afe701aXr1e.vipserver.MONSTER.&type=ws#CA🇨🇦
 
-vless://ce12313e-dab2-49ee-8806-399eb91136b2@104.18.22.19:2096?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&authority=&fp=chrome&type=grpc&serviceName=&sni=api1.htve.ir#US🇺🇸
-
 vless://ce12313e-dab2-49ee-8806-399eb91136b2@104.18.22.19:2096?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&authority=&fp=chrome&type=grpc&serviceName=&sni=api1.htve.ir#CA🇨🇦
-
-vless://5af10469-3ec3-4353-94d2-297b7215a15b@172.67.177.201:443?path=/ws&security=tls&encryption=none&host=continuity.sasuke.ir&type=ws&sni=continuity.sasuke.ir#CA🇨🇦
-
-vless://ce12313e-dab2-49ee-8806-399eb91136b2@104.17.248.203:2096?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&authority=&type=grpc&serviceName=&sni=api1.htve.ir#CA🇨🇦
-
-vless://ce12313e-dab2-49ee-8806-399eb91136b2@104.17.248.203:2096?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&authority=&fp=chrome&type=grpc&serviceName=&sni=api1.htve.ir#CA🇨🇦
-
-vless://10716279-b1ee-41d8-b63e-87782088305b@198.41.223.7:443?path=/oo1JH8WEExYQtaSb?ed=2560&security=tls&encryption=none&alpn=h2,http/1.1&host=hEy.bAchEBIaPaIn.ir&fp=randomized&type=ws&sni=HeY.BaChebiapAin.IR#CA🇨🇦
-
-vless://85b5ac4c-364a-4703-90d3-158bace384cf@104.21.7.50:443?path=/&security=tls&encryption=none&alpn=h2,http/1.1&host=api2.htve.ir&fp=chrome&type=ws&sni=api2.htve.ir#CA🇨🇦
 
 vless://6ec52bc7-fcd7-4841-ab69-70d6e03a6eda@172.67.55.192:80?path=/?ed=2048&security=none&encryption=none&host=آیدی-چنل-تلگرام-ماV2rayGodVipهستش.xn--oor7hj4iyes9ldmi6b99k5zcm7ge8wfuhdo4cd8m61eqretu4en5hcvkerw.Site.&type=ws#CA🇨🇦
 
