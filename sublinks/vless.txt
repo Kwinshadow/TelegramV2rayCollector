@@ -22,7 +22,7 @@ vless://85b5ac4c-364a-4703-90d3-158bace384cf@104.21.7.50:443?path=/&security=tls
 
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.121.44:80?path=/&security=none&encryption=none&host=us3.rtacg.com&type=ws#US🇺🇸
 
-vless://378ac207-38d3-4401-ba96-3a7931968bc5@104.16.61.8:80?path=/http&security=none&encryption=none&host=ca.vpnbase.net&type=ws#CA🇨🇦
+vless://378ac207-38d3-4401-ba96-3a7931968bc5@104.16.61.8:80?path=/http&security=none&encryption=none&host=ca.vpnbase.net&type=ws#US🇺🇸
 
 vless://17a7bf97-fef5-4101-a5c5-7c730fabeeee@104.16.190.131:443?path=/?ed&security=tls&encryption=none&host=bpb-worker-panel-h5f.pages.dev&fp=firefox&type=ws&sni=bpb-worker-panel-h5f.pages.dev#CA🇨🇦
 
@@ -66,17 +66,17 @@ vless://Parsashonam-91@185.146.173.39:8080?path=/?ed=2560&security=none&encrypti
 
 vless://Parsashonam-91@104.24.185.137:8080?path=/?ed=2560&security=none&encryption=none&host=digikala.com.arvancloud.ir.farsroid.com.soft98.ir.par30dl.com.flstudio.com.xn--0-ko6ab82c106mda34ulw7efa.blog.shabazian.ir.&type=ws#CA🇨🇦
 
+vless://71bbb1b6-db9f-40b9-96c1-57d18d5d1026@join-unlimiteddev-vpn.unlimiteddev.site:8080?security=&type=ws&path=/Telegram:@UnlimitedDev-Telegram:@UnlimitedDev?ed=8080&host=unlimiteddev-vpn.unlimiteddev.Community.&encryption=none#SE🇸🇪
+
+vless://ea6320c2-67f9-40c0-9e58-95641d2ffbfd@2.189.59.2:443?security=tls&sni=mci.unlimiteddev-vpn.Com.&fp=chrome&type=grpc&serviceName=Channel:@UnlimitedDev&encryption=none#IR🇮🇷
+
+vless://71bbb1b6-db9f-40b9-96c1-57d18d5d1026@188.114.98.224:8080?security=&type=ws&path=/Telegram:@UnlimitedDev-Telegram:@UnlimitedDev&host=unlimiteddev-vpn.unlimiteddev.Community.&encryption=none#CA🇨🇦
+
 vless://ec604c5c-9d83-470c-b0ed-dcd8e0a5dfae@join-unlimiteddev-vpn.unlimiteddev.site:8080?security=&type=ws&path=/Telegram:@UnlimitedDev-Telegram:@UnlimitedDev?ed=8080&host=unlimiteddev-vpn.unlimiteddev.Community.&encryption=none#SE🇸🇪
 
 vless://dafa0b54-901a-4dc2-bc13-82ec7ca04fb7@2.189.59.2:443?security=tls&sni=mci.unlimiteddev-vpn.Com.&fp=chrome&type=grpc&serviceName=Channel:@UnlimitedDev&encryption=none#IR🇮🇷
 
 vless://ec604c5c-9d83-470c-b0ed-dcd8e0a5dfae@188.114.98.224:8080?security=&type=ws&path=/Telegram:@UnlimitedDev-Telegram:@UnlimitedDev&host=unlimiteddev-vpn.unlimiteddev.Community.&encryption=none#CA🇨🇦
-
-vless://478fc9c7-41ce-4b3e-bb3e-b78498e97c72@join-unlimiteddev-vpn.unlimiteddev.site:8080?security=&type=ws&path=/Telegram:@UnlimitedDev-Telegram:@UnlimitedDev?ed=8080&host=unlimiteddev-vpn.unlimiteddev.Community.&encryption=none#SE🇸🇪
-
-vless://dcc65442-64a7-4174-9c4a-0379fb31fa20@2.189.59.6:443?security=tls&sni=mci.unlimiteddev-vpn.Com.&fp=chrome&type=grpc&serviceName=Channel:@UnlimitedDev&encryption=none#IR🇮🇷
-
-vless://478fc9c7-41ce-4b3e-bb3e-b78498e97c72@188.114.98.224:8080?security=&type=ws&path=/Telegram:@UnlimitedDev-Telegram:@UnlimitedDev&host=unlimiteddev-vpn.unlimiteddev.Community.&encryption=none#CA🇨🇦
 
 vless://826e43d2-dbe9-41a6-bbf8-3aed2f93f5d4@172.66.47.44:443?path=/Telegram-@SiNABiGO-@SiNABiGO/?ed=2048&security=tls&encryption=none&host=pardazeshvpn-tg20.pages.dev&type=ws&sni=pardazeshvpn-tg20.pages.dev#CA🇨🇦
 
