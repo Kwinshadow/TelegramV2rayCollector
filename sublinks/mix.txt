@@ -36,9 +36,9 @@ vless://b02c0d8b-63e2-4a16-a6b8-6dcb5dd14aa7@15.188.202.201:8880?security=none&e
 
 vless://6ec80417-666d-4bb0-c417-d5f3c5f7fbf2@62.60.161.148:14327?security=none&encryption=none&host=webmail.yjc.ir&headerType=http&type=tcp#IR🇮🇷
 
-vless://26bc21cd-89e0-43ec-aea4-3f21d3941c2c@188.114.97.3:2053?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&authority=&fp=chrome&type=grpc&serviceName=Technoi&sni=technoi-channel.o3co.ir#US🇺🇸
+vless://26bc21cd-89e0-43ec-aea4-3f21d3941c2c@188.114.97.3:2053?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&authority=&fp=chrome&type=grpc&serviceName=Technoi&sni=technoi-channel.o3co.ir#CA🇨🇦
 
-vless://96ae4fdb-d9d2-42b1-8975-62be554dc976@188.114.98.0:8880?path=/hZR7v7IETyKFQz8mVM5f2UWNUsS0h&security=none&encryption=none&host=91nOb5WD.mybia2music.ir&type=httpupgrade#CA🇨🇦
+vless://96ae4fdb-d9d2-42b1-8975-62be554dc976@188.114.98.0:8880?path=/hZR7v7IETyKFQz8mVM5f2UWNUsS0h&security=none&encryption=none&host=91nOb5WD.mybia2music.ir&type=httpupgrade#US🇺🇸
 
 vless://f3a0db0f-3c55-4045-b044-0350f2a87791@162.159.254.255:443?mode=gun&security=tls&encryption=none&authority=&fp=chrome&type=grpc&serviceName=grizzlyvpn/?ed=2048&sni=grpctestt.sharesite.ir#US🇺🇸
 
@@ -138,7 +138,7 @@ vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.133.252:443?type=ws&host=mmd
 
 vless://Channel-VPNCUSTOMIZE@188.114.98.224:8080?type=ws&host=VPNCUSTOMIZE.V2ray.Community.&path=/Join--VPNCUSTOMIZE.V2ray.re?ed=8080&security=none#CA🇨🇦
 
-vless://10716279-b1ee-41d8-b63e-87782088305b@104.16.216.241:443?type=ws&host=hey.bacheBiapAIN.iR&path=/iXNpb8TL5D4uHOQC?ed=2560&security=tls&fp=randomized&sni=heY.bACHeBiapAiN.Ir&alpn=h2,http/1.1#CA🇨🇦
+vless://10716279-b1ee-41d8-b63e-87782088305b@104.16.216.241:443?type=ws&host=hey.bacheBiapAIN.iR&path=/iXNpb8TL5D4uHOQC?ed=2560&security=tls&fp=randomized&sni=heY.bACHeBiapAiN.Ir&alpn=h2,http/1.1#INT🌍
 
 vless://89093688-f1eb-4c89-a638-0c77b45fa443@ispeedtop.imailtop.site:53300?type=tcp&headerType=http&host=www.speedtest.net&path=/@iSpeedtopVPN&security=none#IR🇮🇷
 
