@@ -1,40 +1,40 @@
- vless://378ac207-38d3-4401-ba96-3a7931968bc5@104.16.61.8:80?path=/http&security=none&encryption=none&host=ca.vpnbase.net&type=ws#US🇺🇸
+ vless://378ac207-38d3-4401-ba96-3a7931968bc5@104.16.61.8:80?path=/http&security=none&encryption=none&host=ca.vpnbase.net&type=ws#CA🇨🇦
 
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.111.69:443?path=/?ed=2048&security=tls&encryption=none&host=mmdv2.pages.dev&fp=randomized&type=ws&sni=mmdv2.pages.dev#US🇺🇸
 
-vmess://eyJhZGQiOiIxNzIuNjcuMTY0LjE2NCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiYWZyaG1zMDcueGZpeGVkZmxvYXQuY2ZkIiwiaWQiOiJhMTY1NWY1MS0xZTIwLTRhOTItOGExMS1iN2NhMzBhN2EzNTMiLCJuZXQiOiJ3cyIsInBhdGgiOiJcL2xpbmt3cyIsInBvcnQiOiI0NDMiLCJwcyI6IlVTXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4Iiwic2N5IjoiYXV0byIsInNuaSI6ImFmcmhtczA3LnhmaXhlZGZsb2F0LmNmZCIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9
+vmess://eyJhZGQiOiIxNzIuNjcuMTY0LjE2NCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiYWZyaG1zMDcueGZpeGVkZmxvYXQuY2ZkIiwiaWQiOiJhMTY1NWY1MS0xZTIwLTRhOTItOGExMS1iN2NhMzBhN2EzNTMiLCJuZXQiOiJ3cyIsInBhdGgiOiJcL2xpbmt3cyIsInBvcnQiOiI0NDMiLCJwcyI6IkNBXHVkODNjXHVkZGU4XHVkODNjXHVkZGU2Iiwic2N5IjoiYXV0byIsInNuaSI6ImFmcmhtczA3LnhmaXhlZGZsb2F0LmNmZCIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9
 
-vmess://eyJhZGQiOiIxMDQuMjEuMTUuMzYiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImxpbmRlMDYuaW5kaWF2aWRlby5zYnMiLCJpZCI6ImVkYmIxMDU5LTE2MzMtNDI3MS1iNjZlLWVkNGZiYTQ3YTFiZiIsIm5ldCI6IndzIiwicGF0aCI6IlwvbGlua3dzIiwicG9ydCI6IjQ0MyIsInBzIjoiVVNcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjgiLCJzY3kiOiJhdXRvIiwic25pIjoibGluZGUwNi5pbmRpYXZpZGVvLnNicyIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9
+vmess://eyJhZGQiOiIxMDQuMjEuMTUuMzYiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImxpbmRlMDYuaW5kaWF2aWRlby5zYnMiLCJpZCI6ImVkYmIxMDU5LTE2MzMtNDI3MS1iNjZlLWVkNGZiYTQ3YTFiZiIsIm5ldCI6IndzIiwicGF0aCI6IlwvbGlua3dzIiwicG9ydCI6IjQ0MyIsInBzIjoiQ0FcdWQ4M2NcdWRkZThcdWQ4M2NcdWRkZTYiLCJzY3kiOiJhdXRvIiwic25pIjoibGluZGUwNi5pbmRpYXZpZGVvLnNicyIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9
 
-vmess://eyJhZGQiOiIxNzIuNjcuMTk2LjExMiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoibGluZGUwNi5pbmRpYXZpZGVvLnNicyIsImlkIjoiZWRiYjEwNTktMTYzMy00MjcxLWI2NmUtZWQ0ZmJhNDdhMWJmIiwibmV0Ijoid3MiLCJwYXRoIjoiXC9saW5rd3MiLCJwb3J0IjoiNDQzIiwicHMiOiJVU1x1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmOCIsInNjeSI6ImF1dG8iLCJzbmkiOiJsaW5kZTA2LmluZGlhdmlkZW8uc2JzIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=
+vmess://eyJhZGQiOiIxNzIuNjcuMTk2LjExMiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoibGluZGUwNi5pbmRpYXZpZGVvLnNicyIsImlkIjoiZWRiYjEwNTktMTYzMy00MjcxLWI2NmUtZWQ0ZmJhNDdhMWJmIiwibmV0Ijoid3MiLCJwYXRoIjoiXC9saW5rd3MiLCJwb3J0IjoiNDQzIiwicHMiOiJDQVx1ZDgzY1x1ZGRlOFx1ZDgzY1x1ZGRlNiIsInNjeSI6ImF1dG8iLCJzbmkiOiJsaW5kZTA2LmluZGlhdmlkZW8uc2JzIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=
 
-vless://c416be20-32b3-467f-83c2-735e04d639f7@eagle.Hafezdivan.Online.:443?path=/&security=tls&encryption=none&type=ws#US🇺🇸
+vless://c416be20-32b3-467f-83c2-735e04d639f7@eagle.Hafezdivan.Online.:443?path=/&security=tls&encryption=none&type=ws#CA🇨🇦
 
-vless://11e5b771-1d4d-4362-b4b5-e39e75981f01@172.67.198.111:443?path=/&security=tls&encryption=none&host=3e8B07A5.PUb000bpB.PAGes.Dev&type=ws&sni=3e8B07A5.PUb000bpB.PAGes.Dev#US🇺🇸
+vless://11e5b771-1d4d-4362-b4b5-e39e75981f01@172.67.198.111:443?path=/&security=tls&encryption=none&host=3e8B07A5.PUb000bpB.PAGes.Dev&type=ws&sni=3e8B07A5.PUb000bpB.PAGes.Dev#CA🇨🇦
 
-vmess://eyJhZGQiOiIxNjIuMTU5LjEzNi45OCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiY2NzMi5ob3N0bWpqLmNvbSIsImlkIjoiZjFiNmJjMDUtNDBkZC00MTgwLWNhMTgtYjA1Mjg4ZmQzM2JiIiwibmV0Ijoid3MiLCJwYXRoIjoiXC8iLCJwb3J0IjoiODAiLCJwcyI6IlVTXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
+vmess://eyJhZGQiOiIxNjIuMTU5LjEzNi45OCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiY2NzMi5ob3N0bWpqLmNvbSIsImlkIjoiZjFiNmJjMDUtNDBkZC00MTgwLWNhMTgtYjA1Mjg4ZmQzM2JiIiwibmV0Ijoid3MiLCJwYXRoIjoiXC8iLCJwb3J0IjoiODAiLCJwcyI6IkNBXHVkODNjXHVkZGU4XHVkODNjXHVkZGU2Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
 
 vless://e8eaa782-7c05-4616-ace7-1390ba6aadf9@128.140.59.14:30574?security=none&encryption=none&headerType=none&type=tcp#DE🇩🇪
 
 vless://c4ec4179-1d0b-41f5-ae98-fd46b1aa98e6@46.245.64.203:2095?path=/&security=none&encryption=none&host=www.speedtest.net&type=ws#IR🇮🇷
 
-vless://c416be20-32b3-467f-83c2-735e04d639f7@eagle.hafezdivan.online.:443?path=/&security=tls&encryption=none&alpn=h3&fp=randomized&type=ws#US🇺🇸
+vless://c416be20-32b3-467f-83c2-735e04d639f7@eagle.hafezdivan.online.:443?path=/&security=tls&encryption=none&alpn=h3&fp=randomized&type=ws#CA🇨🇦
 
-vless://d6f79630-aa94-4536-b2ef-899b5acb3b49@104.21.34.74:443?path=/nimws&security=tls&encryption=none&host=unmanliest.appreviewcenter.com&fp=chrome&type=ws&sni=unmanliest.appreviewcenter.com#US🇺🇸
+vless://d6f79630-aa94-4536-b2ef-899b5acb3b49@104.21.34.74:443?path=/nimws&security=tls&encryption=none&host=unmanliest.appreviewcenter.com&fp=chrome&type=ws&sni=unmanliest.appreviewcenter.com#CA🇨🇦
 
-vless://b41e1631-ceb3-47c9-ba87-c65a46f2f5a8@www.speedtest.net:2096?path=/eOwMtmADY6cWup8R?ed=2560&security=tls&encryption=none&host=VPnerOr.sajAdHaDaDI.WEbSITe&fp=chrome&type=ws&sni=vpNeRor.SAjadHADadi.WEbsiTe#US🇺🇸
+vless://b41e1631-ceb3-47c9-ba87-c65a46f2f5a8@www.speedtest.net:2096?path=/eOwMtmADY6cWup8R?ed=2560&security=tls&encryption=none&host=VPnerOr.sajAdHaDaDI.WEbSITe&fp=chrome&type=ws&sni=vpNeRor.SAjadHADadi.WEbsiTe#CA🇨🇦
 
-vmess://eyJhZGQiOiIxMDQuMjEuNC42IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJnbHdlaWRmLmNmZCIsImlkIjoiMTA1MmYyNGUtN2IwOS00NWViLWIwYzUtZDg1OGViMTI0MTkyIiwibmV0Ijoid3MiLCJwYXRoIjoiXC9saW5rd3MiLCJwb3J0IjoiNDQzIiwicHMiOiJVU1x1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmOCIsInNjeSI6ImF1dG8iLCJzbmkiOiJnbHdlaWRmLmNmZCIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9
+vmess://eyJhZGQiOiIxMDQuMjEuNC42IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJnbHdlaWRmLmNmZCIsImlkIjoiMTA1MmYyNGUtN2IwOS00NWViLWIwYzUtZDg1OGViMTI0MTkyIiwibmV0Ijoid3MiLCJwYXRoIjoiXC9saW5rd3MiLCJwb3J0IjoiNDQzIiwicHMiOiJDQVx1ZDgzY1x1ZGRlOFx1ZDgzY1x1ZGRlNiIsInNjeSI6ImF1dG8iLCJzbmkiOiJnbHdlaWRmLmNmZCIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9
 
 vmess://eyJhZGQiOiIxNzIuNjQuMTAzLjIxMSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiZ2x3ZWlkZi5jZmQiLCJpZCI6IjEwNTJmMjRlLTdiMDktNDVlYi1iMGM1LWQ4NThlYjEyNDE5MiIsIm5ldCI6IndzIiwicGF0aCI6IlwvbGlua3dzIiwicG9ydCI6IjQ0MyIsInBzIjoiVVNcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjgiLCJzY3kiOiJhdXRvIiwic25pIjoiZ2x3ZWlkZi5jZmQiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ==
 
-vmess://eyJhZGQiOiIxNzIuNjcuNzEuMTYwIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJvYmRpaS5jZmQiLCJpZCI6IjA1NjQxY2Y1LTU4ZDItNGJhNC1hOWYxLWIzY2RhMGIxZmIxZCIsIm5ldCI6IndzIiwicGF0aCI6IlwvbGlua3dzIiwicG9ydCI6IjQ0MyIsInBzIjoiVVNcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjgiLCJzY3kiOiJhdXRvIiwic25pIjoib2JkaWkuY2ZkIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=
+vmess://eyJhZGQiOiIxNzIuNjcuNzEuMTYwIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJvYmRpaS5jZmQiLCJpZCI6IjA1NjQxY2Y1LTU4ZDItNGJhNC1hOWYxLWIzY2RhMGIxZmIxZCIsIm5ldCI6IndzIiwicGF0aCI6IlwvbGlua3dzIiwicG9ydCI6IjQ0MyIsInBzIjoiQ0FcdWQ4M2NcdWRkZThcdWQ4M2NcdWRkZTYiLCJzY3kiOiJhdXRvIiwic25pIjoib2JkaWkuY2ZkIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=
 
 vless://b02c0d8b-63e2-4a16-a6b8-6dcb5dd14aa7@15.237.237.92:8880?security=none&encryption=none&headerType=none&type=tcp#FR🇫🇷
 
-vless://9c2f4be2-3dbb-48d3-b78b-85e3e884d2ce@zula.ir:443?path=/i9dmr8hSfQIsLEox?ed&security=tls&encryption=none&alpn=h2,http/1.1&host=snapp.pinobin.ir.&fp=chrome&type=ws&sni=snapp.pinobin.ir.#US🇺🇸
+vless://9c2f4be2-3dbb-48d3-b78b-85e3e884d2ce@zula.ir:443?path=/i9dmr8hSfQIsLEox?ed&security=tls&encryption=none&alpn=h2,http/1.1&host=snapp.pinobin.ir.&fp=chrome&type=ws&sni=snapp.pinobin.ir.#CA🇨🇦
 
-vless://c416be20-32b3-467f-83c2-735e04d639f7@eagle.hafezdivan.online.:443?path=/&security=tls&encryption=none&alpn=h3&fp=randomized&type=ws#US🇺🇸
+vless://c416be20-32b3-467f-83c2-735e04d639f7@eagle.hafezdivan.online.:443?path=/&security=tls&encryption=none&alpn=h3&fp=randomized&type=ws#CA🇨🇦
 
 vless://10f529f2-8c2e-4d94-b801-5783bd9d8e21@185.146.173.113:80?path=/V2ray/?ed=2048&security=none&encryption=none&host=madridws.xwdil.ir&type=ws#SE🇸🇪
 
@@ -42,9 +42,9 @@ vless://376b9861-2fc6-4647-959c-18185cd9c95a@104.31.16.125:443?path=/srvacc1&sec
 
 vless://bc267e61-3431-41d2-b29b-6a8e0861cc33@madrid.xwdil.ir:443?mode=gun&security=reality&encryption=none&authority=&pbk=CkSjKQDP5xMVdboAsHzm4LnSfRK8KB9dxoHGDkQARUM&fp=chrome&type=grpc&serviceName=Dali&sni=marca.com&sid=b9a19b51#ES🇪🇸
 
-vless://c416be20-32b3-467f-83c2-735e04d639f7@eagle.Hafezdivan.Online.:443?path=/&security=tls&encryption=none&type=ws#US🇺🇸
+vless://c416be20-32b3-467f-83c2-735e04d639f7@eagle.Hafezdivan.Online.:443?path=/&security=tls&encryption=none&type=ws#CA🇨🇦
 
-vmess://eyJhZGQiOiIxMDQuMjEuNC42IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJnbHdlaWRmLmNmZCIsImlkIjoiMTA1MmYyNGUtN2IwOS00NWViLWIwYzUtZDg1OGViMTI0MTkyIiwibmV0Ijoid3MiLCJwYXRoIjoiXC9saW5rd3MiLCJwb3J0IjoiNDQzIiwicHMiOiJVU1x1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmOCIsInNjeSI6ImF1dG8iLCJzbmkiOiJnbHdlaWRmLmNmZCIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9
+vmess://eyJhZGQiOiIxMDQuMjEuNC42IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJnbHdlaWRmLmNmZCIsImlkIjoiMTA1MmYyNGUtN2IwOS00NWViLWIwYzUtZDg1OGViMTI0MTkyIiwibmV0Ijoid3MiLCJwYXRoIjoiXC9saW5rd3MiLCJwb3J0IjoiNDQzIiwicHMiOiJDQVx1ZDgzY1x1ZGRlOFx1ZDgzY1x1ZGRlNiIsInNjeSI6ImF1dG8iLCJzbmkiOiJnbHdlaWRmLmNmZCIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9
 
 vless://7e0c343a-26d5-49c6-8474-785af8736660@185.226.118.40:80?security=none&encryption=none&headerType=http&type=tcp#IR🇮🇷
 
@@ -116,17 +116,17 @@ vless://770e8a1b-980e-474d-b583-2e4e98acb854@172.67.30.171:2053?path=/Telegram-@
 
 vless://f7b8c369-6ec0-4f8f-b0f2-96cbbb13e545@172.66.47.172:443?path=/sQrkf0TRRzHf8DqG?ed=2560&security=tls&encryption=none&alpn=h2,http/1.1&host=K5z3-1h6p-9t8R-2f4B-0W7g-3x2m-5u9D-8N1c-7e4J-6q0Y-5S8v-2A9.pAGeS.Dev&fp=randomized&type=ws&sni=k5z3-1h6p-9t8R-2f4B-0W7G-3x2M-5U9d-8n1C-7E4j-6q0y-5s8v-2A9.pagES.dEv#CA🇨🇦
 
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.19.230.57:443?path=/eaK9H14EfA31X0nr?ed=2560&security=tls&encryption=none&alpn=h2,http/1.1&host=523AfB17.IRS23.pagES.DEv&fp=randomized&type=ws&sni=523afb17.IRS23.pAgES.Dev#CA🇨🇦
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.19.230.57:443?path=/eaK9H14EfA31X0nr?ed=2560&security=tls&encryption=none&alpn=h2,http/1.1&host=523AfB17.IRS23.pagES.DEv&fp=randomized&type=ws&sni=523afb17.IRS23.pAgES.Dev#INT🌍
 
-vless://0f7ec369-3529-4e73-943b-19258212f1bb@162.159.8.55:443?path=/?ed=2056&security=tls&encryption=none&host=c.2025vless.cloudns.be&type=ws&sni=c.2025vless.cloudns.be#CA🇨🇦
+vless://0f7ec369-3529-4e73-943b-19258212f1bb@162.159.8.55:443?path=/?ed=2056&security=tls&encryption=none&host=c.2025vless.cloudns.be&type=ws&sni=c.2025vless.cloudns.be#INT🌍
 
-vless://0f7ec369-3529-4e73-943b-19258212f1bb@162.159.4.8:443?path=/?ed=2056&security=tls&encryption=none&host=c.2025vless.cloudns.be&type=ws&sni=c.2025vless.cloudns.be#CA🇨🇦
+vless://0f7ec369-3529-4e73-943b-19258212f1bb@162.159.4.8:443?path=/?ed=2056&security=tls&encryption=none&host=c.2025vless.cloudns.be&type=ws&sni=c.2025vless.cloudns.be#INT🌍
 
-vless://85b94f20-e563-498b-9d4b-a75438a51101@104.18.5.2:2096?path=/5fz4m1ggihzpkyya?ed=2560&security=tls&encryption=none&host=VFIvE-teLeGram.PAGEs.Dev&type=ws&sni=VFIvE-teLeGram.PAGEs.Dev#CA🇨🇦
+vless://85b94f20-e563-498b-9d4b-a75438a51101@104.18.5.2:2096?path=/5fz4m1ggihzpkyya?ed=2560&security=tls&encryption=none&host=VFIvE-teLeGram.PAGEs.Dev&type=ws&sni=VFIvE-teLeGram.PAGEs.Dev#INT🌍
 
-vless://cc771b27-27ad-4bf3-bc42-f42cd673edbe@172.66.44.86:443?path=/?ed=2048&security=tls&encryption=none&alpn=http/1.1&host=nooshin-2d9.pages.dev&fp=chrome&type=ws&sni=nooshin-2d9.pages.dev#CA🇨🇦
+vless://cc771b27-27ad-4bf3-bc42-f42cd673edbe@172.66.44.86:443?path=/?ed=2048&security=tls&encryption=none&alpn=http/1.1&host=nooshin-2d9.pages.dev&fp=chrome&type=ws&sni=nooshin-2d9.pages.dev#INT🌍
 
-vless://cc771b27-27ad-4bf3-bc42-f42cd673edbe@172.66.47.54:443?path=/?ed=2048&security=tls&encryption=none&alpn=http/1.1&host=ircp-617.pages.dev.&fp=chrome&type=ws&sni=ircp-617.pages.dev.#CA🇨🇦
+vless://cc771b27-27ad-4bf3-bc42-f42cd673edbe@172.66.47.54:443?path=/?ed=2048&security=tls&encryption=none&alpn=http/1.1&host=ircp-617.pages.dev.&fp=chrome&type=ws&sni=ircp-617.pages.dev.#INT🌍
 
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.17.214.171:443?path=/&security=tls&encryption=none&host=mmdv2.pages.dev&type=ws&sni=mmdv2.pages.dev#CA🇨🇦
+vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.17.214.171:443?path=/&security=tls&encryption=none&host=mmdv2.pages.dev&type=ws&sni=mmdv2.pages.dev#INT🌍
 
