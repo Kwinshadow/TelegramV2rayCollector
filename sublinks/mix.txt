@@ -26,7 +26,7 @@ vmess://eyJhZGQiOiIxMDQuMjEuMTUuMzYiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9z
 
 vmess://eyJhZGQiOiIxNzIuNjcuMTk2LjExMiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoibGluZGUwNi5pbmRpYXZpZGVvLnNicyIsImlkIjoiZWRiYjEwNTktMTYzMy00MjcxLWI2NmUtZWQ0ZmJhNDdhMWJmIiwibmV0Ijoid3MiLCJwYXRoIjoiXC9saW5rd3MiLCJwb3J0IjoiNDQzIiwicHMiOiJVU1x1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmOCIsInNjeSI6ImF1dG8iLCJzbmkiOiJsaW5kZTA2LmluZGlhdmlkZW8uc2JzIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=
 
-vless://c416be20-32b3-467f-83c2-735e04d639f7@eagle.Hafezdivan.Online.:443?path=/&security=tls&encryption=none&type=ws#US🇺🇸
+vless://c416be20-32b3-467f-83c2-735e04d639f7@eagle.Hafezdivan.Online.:443?path=/&security=tls&encryption=none&type=ws#CA🇨🇦
 
 vless://11e5b771-1d4d-4362-b4b5-e39e75981f01@172.67.198.111:443?path=/&security=tls&encryption=none&host=3e8B07A5.PUb000bpB.PAGes.Dev&type=ws&sni=3e8B07A5.PUb000bpB.PAGes.Dev#US🇺🇸
 
@@ -46,13 +46,13 @@ vmess://eyJhZGQiOiIxMDQuMjEuNC42IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3Qi
 
 vmess://eyJhZGQiOiIxNzIuNjQuMTAzLjIxMSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiZ2x3ZWlkZi5jZmQiLCJpZCI6IjEwNTJmMjRlLTdiMDktNDVlYi1iMGM1LWQ4NThlYjEyNDE5MiIsIm5ldCI6IndzIiwicGF0aCI6IlwvbGlua3dzIiwicG9ydCI6IjQ0MyIsInBzIjoiVVNcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjgiLCJzY3kiOiJhdXRvIiwic25pIjoiZ2x3ZWlkZi5jZmQiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ==
 
-vmess://eyJhZGQiOiIxNzIuNjcuNzEuMTYwIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJvYmRpaS5jZmQiLCJpZCI6IjA1NjQxY2Y1LTU4ZDItNGJhNC1hOWYxLWIzY2RhMGIxZmIxZCIsIm5ldCI6IndzIiwicGF0aCI6IlwvbGlua3dzIiwicG9ydCI6IjQ0MyIsInBzIjoiQ0FcdWQ4M2NcdWRkZThcdWQ4M2NcdWRkZTYiLCJzY3kiOiJhdXRvIiwic25pIjoib2JkaWkuY2ZkIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=
+vmess://eyJhZGQiOiIxNzIuNjcuNzEuMTYwIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJvYmRpaS5jZmQiLCJpZCI6IjA1NjQxY2Y1LTU4ZDItNGJhNC1hOWYxLWIzY2RhMGIxZmIxZCIsIm5ldCI6IndzIiwicGF0aCI6IlwvbGlua3dzIiwicG9ydCI6IjQ0MyIsInBzIjoiVVNcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjgiLCJzY3kiOiJhdXRvIiwic25pIjoib2JkaWkuY2ZkIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=
 
 vless://b02c0d8b-63e2-4a16-a6b8-6dcb5dd14aa7@15.237.237.92:8880?security=none&encryption=none&headerType=none&type=tcp#FR🇫🇷
 
 vless://9c2f4be2-3dbb-48d3-b78b-85e3e884d2ce@zula.ir:443?path=/i9dmr8hSfQIsLEox?ed&security=tls&encryption=none&alpn=h2,http/1.1&host=snapp.pinobin.ir.&fp=chrome&type=ws&sni=snapp.pinobin.ir.#US🇺🇸
 
-vless://c416be20-32b3-467f-83c2-735e04d639f7@eagle.hafezdivan.online.:443?path=/&security=tls&encryption=none&alpn=h3&fp=randomized&type=ws#CA🇨🇦
+vless://c416be20-32b3-467f-83c2-735e04d639f7@eagle.hafezdivan.online.:443?path=/&security=tls&encryption=none&alpn=h3&fp=randomized&type=ws#US🇺🇸
 
 vless://10f529f2-8c2e-4d94-b801-5783bd9d8e21@185.146.173.113:80?path=/V2ray/?ed=2048&security=none&encryption=none&host=madridws.xwdil.ir&type=ws#SE🇸🇪
 
