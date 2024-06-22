@@ -32,23 +32,23 @@ vmess://eyJhZGQiOiIxNzIuNjcuNzEuMTYwIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhv
 
 vless://b02c0d8b-63e2-4a16-a6b8-6dcb5dd14aa7@15.237.237.92:8880?security=none&encryption=none&headerType=none&type=tcp#FR🇫🇷
 
-vless://9c2f4be2-3dbb-48d3-b78b-85e3e884d2ce@zula.ir:443?path=/i9dmr8hSfQIsLEox?ed&security=tls&encryption=none&alpn=h2,http/1.1&host=snapp.pinobin.ir.&fp=chrome&type=ws&sni=snapp.pinobin.ir.#US🇺🇸
+vless://9c2f4be2-3dbb-48d3-b78b-85e3e884d2ce@zula.ir:443?path=/i9dmr8hSfQIsLEox?ed&security=tls&encryption=none&alpn=h2,http/1.1&host=snapp.pinobin.ir.&fp=chrome&type=ws&sni=snapp.pinobin.ir.#CA🇨🇦
 
-vless://c416be20-32b3-467f-83c2-735e04d639f7@eagle.hafezdivan.online.:443?path=/&security=tls&encryption=none&alpn=h3&fp=randomized&type=ws#US🇺🇸
+vless://c416be20-32b3-467f-83c2-735e04d639f7@eagle.hafezdivan.online.:443?path=/&security=tls&encryption=none&alpn=h3&fp=randomized&type=ws#CA🇨🇦
 
 vless://10f529f2-8c2e-4d94-b801-5783bd9d8e21@185.146.173.113:80?path=/V2ray/?ed=2048&security=none&encryption=none&host=madridws.xwdil.ir&type=ws#SE🇸🇪
 
-vless://376b9861-2fc6-4647-959c-18185cd9c95a@104.31.16.125:443?path=/srvacc1&security=tls&encryption=none&host=lmn1715683972331.lmn15534.info&fp=chrome&type=ws&sni=lmn1715683972331.lmn15534.info#CA🇨🇦
+vless://376b9861-2fc6-4647-959c-18185cd9c95a@104.31.16.125:443?path=/srvacc1&security=tls&encryption=none&host=lmn1715683972331.lmn15534.info&fp=chrome&type=ws&sni=lmn1715683972331.lmn15534.info#US🇺🇸
 
 vless://bc267e61-3431-41d2-b29b-6a8e0861cc33@madrid.xwdil.ir:443?mode=gun&security=reality&encryption=none&authority=&pbk=CkSjKQDP5xMVdboAsHzm4LnSfRK8KB9dxoHGDkQARUM&fp=chrome&type=grpc&serviceName=Dali&sni=marca.com&sid=b9a19b51#ES🇪🇸
 
-vless://c416be20-32b3-467f-83c2-735e04d639f7@eagle.Hafezdivan.Online.:443?path=/&security=tls&encryption=none&type=ws#CA🇨🇦
+vless://c416be20-32b3-467f-83c2-735e04d639f7@eagle.Hafezdivan.Online.:443?path=/&security=tls&encryption=none&type=ws#US🇺🇸
 
 vmess://eyJhZGQiOiIxMDQuMjEuNC42IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJnbHdlaWRmLmNmZCIsImlkIjoiMTA1MmYyNGUtN2IwOS00NWViLWIwYzUtZDg1OGViMTI0MTkyIiwibmV0Ijoid3MiLCJwYXRoIjoiXC9saW5rd3MiLCJwb3J0IjoiNDQzIiwicHMiOiJDQVx1ZDgzY1x1ZGRlOFx1ZDgzY1x1ZGRlNiIsInNjeSI6ImF1dG8iLCJzbmkiOiJnbHdlaWRmLmNmZCIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9
 
 vless://7e0c343a-26d5-49c6-8474-785af8736660@185.226.118.40:80?security=none&encryption=none&headerType=http&type=tcp#IR🇮🇷
 
-vless://376b9861-2fc6-4647-959c-18185cd9c95a@104.31.16.125:443?path=/srvacc1&security=tls&encryption=none&host=lmn1715683972331.lmn15534.info&type=ws&sni=lmn1715683972331.lmn15534.info#CA🇨🇦
+vless://376b9861-2fc6-4647-959c-18185cd9c95a@104.31.16.125:443?path=/srvacc1&security=tls&encryption=none&host=lmn1715683972331.lmn15534.info&type=ws&sni=lmn1715683972331.lmn15534.info#US🇺🇸
 
 vmess://eyJhZGQiOiIxNzIuNjcuMTY0LjE2NCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiYWZyaG1zMDcueGZpeGVkZmxvYXQuY2ZkIiwiaWQiOiJhMTY1NWY1MS0xZTIwLTRhOTItOGExMS1iN2NhMzBhN2EzNTMiLCJuZXQiOiJ3cyIsInBhdGgiOiJcL2xpbmt3cyIsInBvcnQiOiI0NDMiLCJwcyI6IkNBXHVkODNjXHVkZGU4XHVkODNjXHVkZGU2Iiwic2N5IjoiYXV0byIsInNuaSI6ImFmcmhtczA3LnhmaXhlZGZsb2F0LmNmZCIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9
 
