@@ -34,9 +34,9 @@ vless://ece27348-cb7b-4e4a-b779-a1d8aaa46a2f@188.114.97.3:2053?mode=gun&security
 
 vless://378ac207-38d3-4401-ba96-3a7931968bc5@104.16.61.8:80?path=/http&security=none&encryption=none&host=ca.vpnbase.net&type=ws#CA🇨🇦
 
-vless://85b94f20-e563-498b-9d4b-a75438a51101@104.18.5.2:2096?path=/5fz4m1ggihzpkyya?ed&security=tls&encryption=none&host=VFIvE-teLeGram.PAGEs.Dev&type=ws&sni=VFIvE-teLeGram.PAGEs.Dev#CA🇨🇦
+vless://85b94f20-e563-498b-9d4b-a75438a51101@104.18.5.2:2096?path=/5fz4m1ggihzpkyya?ed&security=tls&encryption=none&host=VFIvE-teLeGram.PAGEs.Dev&type=ws&sni=VFIvE-teLeGram.PAGEs.Dev#US🇺🇸
 
-vless://cb2effa0-e49c-49d3-aee6-c7e3e1f38922@fdcservers.net.:443?path=/vless?ed&security=tls&encryption=none&alpn=http/1.1&host=at1.vless.site&type=ws&sni=at1.vless.site#US🇺🇸
+vless://cb2effa0-e49c-49d3-aee6-c7e3e1f38922@fdcservers.net.:443?path=/vless?ed&security=tls&encryption=none&alpn=http/1.1&host=at1.vless.site&type=ws&sni=at1.vless.site#CA🇨🇦
 
 vless://1d16ce9b-3854-446d-a226-189f4b810bb6@fdcservers.net.:443?path=/vless?ed&security=tls&encryption=none&alpn=http/1.1&host=fi1.vless.site&type=ws&sni=fi1.vless.site#CA🇨🇦
 
@@ -91,10 +91,6 @@ vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.46.251:443?path=/&security=t
 vless://Parsashonam-97@185.146.173.39:8080?path=/?ed=2560&security=none&encryption=none&host=digikala.com.arvancloud.ir.farsroid.com.soft98.ir.par30dl.com.flstudio.com.xn--0-ko6ab82c106mda34ulw7efa.blog.shabazian.ir.&type=ws#SE🇸🇪
 
 vless://Parsashonam-97@104.24.185.137:8080?path=/?ed=2560&security=none&encryption=none&host=digikala.com.arvancloud.ir.farsroid.com.soft98.ir.par30dl.com.flstudio.com.xn--0-ko6ab82c106mda34ulw7efa.blog.shabazian.ir.&type=ws#CA🇨🇦
-
-vless://Parsashonam-96@185.146.173.39:8080?path=/?ed=2560&security=none&encryption=none&host=digikala.com.arvancloud.ir.farsroid.com.soft98.ir.par30dl.com.flstudio.com.xn--0-ko6ab82c106mda34ulw7efa.blog.shabazian.ir.&type=ws#SE🇸🇪
-
-vless://Parsashonam-96@104.24.185.137:8080?path=/?ed=2560&security=none&encryption=none&host=digikala.com.arvancloud.ir.farsroid.com.soft98.ir.par30dl.com.flstudio.com.xn--0-ko6ab82c106mda34ulw7efa.blog.shabazian.ir.&type=ws#CA🇨🇦
 
 vless://9f79fdbc-afb7-4f50-b474-35615e7cd070@zula.ir:8080?security=&type=ws&path=/Telegram:@UnlimitedDev-Telegram:@UnlimitedDev?ed=8080&host=unlimiteddev-vpn.unlimiteddev.Community.&encryption=none#CA🇨🇦
 
