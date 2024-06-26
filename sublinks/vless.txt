@@ -24,25 +24,25 @@ vless://376b9861-2fc6-4647-959c-18185cd9c95a@104.31.16.125:443?path=/srvacc1&sec
 
 vless://376b9861-2fc6-4647-959c-18185cd9c95a@104.31.16.125:443?path=/srvacc1&security=tls&encryption=none&host=lmn1715683972331.lmn15534.info&fp=chrome&type=ws&sni=lmn1715683972331.lmn15534.info#US🇺🇸
 
-vless://5df7962e-f9fe-41e6-ab49-ed96ccb856a7@172.66.44.135:80?path=/&security=none&encryption=none&host=v2ra1.ecrgpk.workers.dev&type=ws#CA🇨🇦
+vless://5df7962e-f9fe-41e6-ab49-ed96ccb856a7@172.66.44.135:80?path=/&security=none&encryption=none&host=v2ra1.ecrgpk.workers.dev&type=ws#US🇺🇸
 
-vless://c416be20-32b3-467f-83c2-735e04d639f7@eagle.Hafezdivan.Online.:80?path=/&security=none&encryption=none&type=ws#CA🇨🇦
+vless://c416be20-32b3-467f-83c2-735e04d639f7@eagle.Hafezdivan.Online.:80?path=/&security=none&encryption=none&type=ws#US🇺🇸
 
 vless://7c7af2de-bb97-429f-ac3c-8ef849717491@80.253.255.10:443?security=reality&encryption=none&alpn=http/1.1&pbk=jSuIvIWLecUXhjia1bHBwo5sHiYkKsdtdy0x6N-4A1s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.upci.org&sid=ee46#US🇺🇸
 
-vless://ece27348-cb7b-4e4a-b779-a1d8aaa46a2f@188.114.97.3:2053?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&authority=&fp=chrome&type=grpc&serviceName=Technoi&sni=for-us-98.o3co.ir#CA🇨🇦
+vless://ece27348-cb7b-4e4a-b779-a1d8aaa46a2f@188.114.97.3:2053?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&authority=&fp=chrome&type=grpc&serviceName=Technoi&sni=for-us-98.o3co.ir#US🇺🇸
 
-vless://378ac207-38d3-4401-ba96-3a7931968bc5@104.16.61.8:80?path=/http&security=none&encryption=none&host=ca.vpnbase.net&type=ws#CA🇨🇦
+vless://378ac207-38d3-4401-ba96-3a7931968bc5@104.16.61.8:80?path=/http&security=none&encryption=none&host=ca.vpnbase.net&type=ws#US🇺🇸
 
 vless://85b94f20-e563-498b-9d4b-a75438a51101@104.18.5.2:2096?path=/5fz4m1ggihzpkyya?ed&security=tls&encryption=none&host=VFIvE-teLeGram.PAGEs.Dev&type=ws&sni=VFIvE-teLeGram.PAGEs.Dev#CA🇨🇦
 
 vless://cb2effa0-e49c-49d3-aee6-c7e3e1f38922@fdcservers.net.:443?path=/vless?ed&security=tls&encryption=none&alpn=http/1.1&host=at1.vless.site&type=ws&sni=at1.vless.site#CA🇨🇦
 
-vless://1d16ce9b-3854-446d-a226-189f4b810bb6@fdcservers.net.:443?path=/vless?ed&security=tls&encryption=none&alpn=http/1.1&host=fi1.vless.site&type=ws&sni=fi1.vless.site#US🇺🇸
+vless://1d16ce9b-3854-446d-a226-189f4b810bb6@fdcservers.net.:443?path=/vless?ed&security=tls&encryption=none&alpn=http/1.1&host=fi1.vless.site&type=ws&sni=fi1.vless.site#CA🇨🇦
 
 vless://1d16ce9b-3854-446d-a226-189f4b810bb6@185.146.173.158:2053?path=/vless?ed&security=tls&encryption=none&alpn=http/1.1&host=fi1.vless.site&type=ws&sni=fi1.vless.site#SE🇸🇪
 
-vless://2a3263e2-891c-4446-b474-a8c63acb6e25@cloud.kinononva.top:2096?path=/&security=tls&encryption=none&host=vpa1.fitpasta71.site&type=ws&sni=vpa1.fitpasta71.site#US🇺🇸
+vless://2a3263e2-891c-4446-b474-a8c63acb6e25@cloud.kinononva.top:2096?path=/&security=tls&encryption=none&host=vpa1.fitpasta71.site&type=ws&sni=vpa1.fitpasta71.site#CA🇨🇦
 
 vless://2a3263e2-891c-4446-b474-a8c63acb6e25@cloud.kinononva.top:2096?path=/&security=tls&encryption=none&host=nva7.fitpasta72.site&type=ws&sni=nva7.fitpasta72.site#CA🇨🇦
 
