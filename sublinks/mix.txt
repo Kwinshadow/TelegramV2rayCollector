@@ -4,7 +4,7 @@ vless://c416be20-32b3-467f-83c2-735e04d639f7@eagle.Hafezdivan.Online.:80?path=/&
 
 vless://c416be20-32b3-467f-83c2-735e04d639f7@eagle.hafezdivan.online.:443?path=/&security=tls&encryption=none&type=ws#US🇺🇸
 
-vless://e16e9768-240f-4ff2-8c29-36d220ed2aa4@cumhuriyet.com.tr:443?mode=gun&security=tls&encryption=none&alpn=h2&authority=&fp=chrome&type=grpc&serviceName=BLsNlVjvcrWGqHh74mj&sni=msnghdfy4c2.cpiforpersia.uk#US🇺🇸
+vless://e16e9768-240f-4ff2-8c29-36d220ed2aa4@cumhuriyet.com.tr:443?mode=gun&security=tls&encryption=none&alpn=h2&authority=&fp=chrome&type=grpc&serviceName=BLsNlVjvcrWGqHh74mj&sni=msnghdfy4c2.cpiforpersia.uk#MY🇲🇾
 
 vless://c416be20-32b3-467f-83c2-735e04d639f7@eagle.hafezdivan.online.:80?path=/&security=none&encryption=none&type=ws#US🇺🇸
 
@@ -40,7 +40,7 @@ vless://b41e1631-ceb3-47c9-ba87-c65a46f2f5a8@www.speedtest.net:2096?path=/eOwMtm
 
 vless://7c7af2de-bb97-429f-ac3c-8ef849717491@80.253.255.10:443?security=reality&encryption=none&alpn=http/1.1&pbk=jSuIvIWLecUXhjia1bHBwo5sHiYkKsdtdy0x6N-4A1s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.upci.org&sid=ee46#US🇺🇸
 
-vless://376b9861-2fc6-4647-959c-18185cd9c95a@104.31.16.125:443?path=/srvacc1&security=tls&encryption=none&host=lmn1715683972331.lmn15534.info&type=ws&sni=lmn1715683972331.lmn15534.info#CA🇨🇦
+vless://376b9861-2fc6-4647-959c-18185cd9c95a@104.31.16.125:443?path=/srvacc1&security=tls&encryption=none&host=lmn1715683972331.lmn15534.info&type=ws&sni=lmn1715683972331.lmn15534.info#US🇺🇸
 
 vless://376b9861-2fc6-4647-959c-18185cd9c95a@104.31.16.125:443?path=/srvacc1&security=tls&encryption=none&host=lmn1715683972331.lmn15534.info&fp=chrome&type=ws&sni=lmn1715683972331.lmn15534.info#CA🇨🇦
 
@@ -75,20 +75,6 @@ vless://29690f53-1431-4535-8d5c-f2987861e937@185.146.173.158:2053?path=/vless?ed
 vmess://eyJhZGQiOiIxMDQuMjYuMC45NSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0Ijoib2JkaWkuY2ZkIiwiaWQiOiIwNTY0MWNmNS01OGQyLTRiYTQtYTlmMS1iM2NkYTBiMWZiMWQiLCJuZXQiOiJ3cyIsInBhdGgiOiJcL2xpbmt3cyIsInBvcnQiOiI0NDMiLCJwcyI6IkNBXHVkODNjXHVkZGU4XHVkODNjXHVkZGU2Iiwic2N5IjoiYXV0byIsInNuaSI6Im9iZGlpLmNmZCIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9
 
 vmess://eyJhZGQiOiIxNzIuNjcuMTc1LjU2IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJvYmRpaS5jZmQiLCJpZCI6IjA1NjQxY2Y1LTU4ZDItNGJhNC1hOWYxLWIzY2RhMGIxZmIxZCIsIm5ldCI6IndzIiwicGF0aCI6IlwvbGlua3dzIiwicG9ydCI6IjQ0MyIsInBzIjoiQ0FcdWQ4M2NcdWRkZThcdWQ4M2NcdWRkZTYiLCJzY3kiOiJhdXRvIiwic25pIjoib2JkaWkuY2ZkIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=
-
-vless://376b9861-2fc6-4647-959c-18185cd9c95a@104.31.16.125:443?path=/srvacc1&security=tls&encryption=none&host=lmn1715683972331.lmn15534.info&fp=chrome&type=ws&sni=lmn1715683972331.lmn15534.info#CA🇨🇦
-
-vless://7c7af2de-bb97-429f-ac3c-8ef849717491@80.253.255.10:443?security=reality&encryption=none&alpn=http/1.1&pbk=jSuIvIWLecUXhjia1bHBwo5sHiYkKsdtdy0x6N-4A1s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.upci.org&sid=ee46#US🇺🇸
-
-vless://b41e1631-ceb3-47c9-ba87-c65a46f2f5a8@www.speedtest.net:2096?path=/eOwMtmADY6cWup8R?ed=2560&security=tls&encryption=none&host=VPnerOr.sajAdHaDaDI.WEbSITe&fp=chrome&type=ws&sni=vpNeRor.SAjadHADadi.WEbsiTe#CA🇨🇦
-
-vless://5df7962e-f9fe-41e6-ab49-ed96ccb856a7@172.66.44.135:80?path=/&security=none&encryption=none&host=v2ra1.ecrgpk.workers.dev&type=ws#CA🇨🇦
-
-vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.121.44:80?path=/&security=none&encryption=none&host=us3.rtacg.com&type=ws#CA🇨🇦
-
-vless://2a3263e2-891c-4446-b474-a8c63acb6e25@cloud.kinononva.top:2096?path=/&security=tls&encryption=none&host=vpa2.fitpasta71.site&type=ws&sni=vpa2.fitpasta71.site#CA🇨🇦
-
-vless://cc771b27-27ad-4bf3-bc42-f42cd673edbe@172.66.47.54:443?path=/?ed&security=tls&encryption=none&alpn=http/1.1&host=ircp-617.pages.dev.&fp=chrome&type=ws&sni=ircp-617.pages.dev.#CA🇨🇦
 
 vless://Telegram_VPNCUSTOMIZE@VPNCUSTOMIZE.Elmahstyle.ir:8080?path=/Join--VPNCUSTOMIZE.V2ray.re?ed=8080&security=none&encryption=none&host=VPNCUSTOMIZE.V2ray.Community.&type=ws#SE🇸🇪
 
