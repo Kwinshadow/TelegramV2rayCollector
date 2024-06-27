@@ -1,4 +1,14 @@
- vless://5f9fc2af-5e32-4e06-9f46-bbdb8a9d306d@31.14.115.163:55375?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#IR🇮🇷
+ vless://c416be20-32b3-467f-83c2-735e04d639f7@eagle.Hafezdivan.Online.:80?path=/&security=none&encryption=none&type=ws#US🇺🇸
+
+vless://c416be20-32b3-467f-83c2-735e04d639f7@eagle.Hafezdivan.Online.:443?path=/&security=tls&encryption=none&type=ws#US🇺🇸
+
+vless://378ac207-38d3-4401-ba96-3a7931968bc5@104.16.61.8:80?path=/http&security=none&encryption=none&host=ca.vpnbase.net&type=ws#US🇺🇸
+
+vless://5df7962e-f9fe-41e6-ab49-ed96ccb856a7@172.66.44.135:80?path=/&security=none&encryption=none&host=v2ra1.ecrgpk.workers.dev&type=ws#US🇺🇸
+
+vless://0cb3222d-8700-46a6-ba68-0f52726ac0c2@18.193.22.239:443?mode=gun&security=reality&encryption=none&authority=&pbk=yD24FRMEnP-mnIRplYjFtGGVO32IB3ZB_j5nVe2rBRQ&fp=chrome&type=grpc&serviceName=&sni=google.com&sid=39695f0a#DE🇩🇪
+
+vless://5f9fc2af-5e32-4e06-9f46-bbdb8a9d306d@31.14.115.163:55375?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#IR🇮🇷
 
 vless://cc771b27-27ad-4bf3-bc42-f42cd673edbe@172.66.44.86:443?path=/?ed=2048&security=tls&encryption=none&alpn=http/1.1&host=nooshin-2d9.pages.dev&fp=chrome&type=ws&sni=nooshin-2d9.pages.dev#US🇺🇸
 
@@ -14,15 +24,15 @@ vless://c416be20-32b3-467f-83c2-735e04d639f7@eagle.hafezdivan.online.:443?path=/
 
 vless://e16e9768-240f-4ff2-8c29-36d220ed2aa4@cumhuriyet.com.tr:443?mode=gun&security=tls&encryption=none&alpn=h2&authority=&fp=chrome&type=grpc&serviceName=BLsNlVjvcrWGqHh74mj&sni=msnghdfy4c2.cpiforpersia.uk#MY🇲🇾
 
-vless://c416be20-32b3-467f-83c2-735e04d639f7@eagle.hafezdivan.online.:80?path=/&security=none&encryption=none&type=ws#US🇺🇸
+vless://c416be20-32b3-467f-83c2-735e04d639f7@eagle.hafezdivan.online.:80?path=/&security=none&encryption=none&type=ws#CA🇨🇦
 
 vless://64cb75e1-1f3b-4250-8ed4-2e2a23a83661@79.175.139.134:21039?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#IR🇮🇷
 
-vless://ef9b2fd0-6239-4163-9212-4574879bbc24@zula.ir:80?path=/&security=none&encryption=none&host=851b4f8a7cf8b6cf67c8a6ebb3afc69e974f5a4813d7bdd0293d29fe0f24d63b.speedtest.net.简化的.24.time.ir.double-standard.الله.under__line.سلام.pinobin.ir.&type=ws#US🇺🇸
+vless://ef9b2fd0-6239-4163-9212-4574879bbc24@zula.ir:80?path=/&security=none&encryption=none&host=851b4f8a7cf8b6cf67c8a6ebb3afc69e974f5a4813d7bdd0293d29fe0f24d63b.speedtest.net.简化的.24.time.ir.double-standard.الله.under__line.سلام.pinobin.ir.&type=ws#CA🇨🇦
 
-vless://cb2effa0-e49c-49d3-aee6-c7e3e1f38922@fdcservers.net.:443?path=/vless?ed&security=tls&encryption=none&alpn=http/1.1&host=at1.vless.site&type=ws&sni=at1.vless.site#US🇺🇸
+vless://cb2effa0-e49c-49d3-aee6-c7e3e1f38922@fdcservers.net.:443?path=/vless?ed&security=tls&encryption=none&alpn=http/1.1&host=at1.vless.site&type=ws&sni=at1.vless.site#CA🇨🇦
 
-vless://c416be20-32b3-467f-83c2-735e04d639f7@eagle.Hafezdivan.Online.:80?path=/&security=none&encryption=none&type=ws#US🇺🇸
+vless://c416be20-32b3-467f-83c2-735e04d639f7@eagle.Hafezdivan.Online.:80?path=/&security=none&encryption=none&type=ws#CA🇨🇦
 
 vless://378ac207-38d3-4401-ba96-3a7931968bc5@104.16.61.8:80?path=/http&security=none&encryption=none&host=ca.vpnbase.net&type=ws#CA🇨🇦
 
@@ -53,18 +63,6 @@ vless://ece27348-cb7b-4e4a-b779-a1d8aaa46a2f@188.114.97.3:2053?mode=gun&security
 vless://378ac207-38d3-4401-ba96-3a7931968bc5@104.16.61.8:80?path=/http&security=none&encryption=none&host=ca.vpnbase.net&type=ws#CA🇨🇦
 
 vless://85b94f20-e563-498b-9d4b-a75438a51101@104.18.5.2:2096?path=/5fz4m1ggihzpkyya?ed&security=tls&encryption=none&host=VFIvE-teLeGram.PAGEs.Dev&type=ws&sni=VFIvE-teLeGram.PAGEs.Dev#CA🇨🇦
-
-vless://cb2effa0-e49c-49d3-aee6-c7e3e1f38922@fdcservers.net.:443?path=/vless?ed&security=tls&encryption=none&alpn=http/1.1&host=at1.vless.site&type=ws&sni=at1.vless.site#CA🇨🇦
-
-vless://1d16ce9b-3854-446d-a226-189f4b810bb6@fdcservers.net.:443?path=/vless?ed&security=tls&encryption=none&alpn=http/1.1&host=fi1.vless.site&type=ws&sni=fi1.vless.site#CA🇨🇦
-
-vless://1d16ce9b-3854-446d-a226-189f4b810bb6@185.146.173.158:2053?path=/vless?ed&security=tls&encryption=none&alpn=http/1.1&host=fi1.vless.site&type=ws&sni=fi1.vless.site#SE🇸🇪
-
-vless://2a3263e2-891c-4446-b474-a8c63acb6e25@cloud.kinononva.top:2096?path=/&security=tls&encryption=none&host=vpa1.fitpasta71.site&type=ws&sni=vpa1.fitpasta71.site#CA🇨🇦
-
-vless://2a3263e2-891c-4446-b474-a8c63acb6e25@cloud.kinononva.top:2096?path=/&security=tls&encryption=none&host=nva7.fitpasta72.site&type=ws&sni=nva7.fitpasta72.site#CA🇨🇦
-
-vless://29690f53-1431-4535-8d5c-f2987861e937@185.146.173.158:2053?path=/vless?ed&security=tls&encryption=none&alpn=http/1.1&host=de1.vless.site&type=ws&sni=de1.vless.site#SE🇸🇪
 
 vless://Telegram_VPNCUSTOMIZE@VPNCUSTOMIZE.Elmahstyle.ir:8080?path=/Join--VPNCUSTOMIZE.V2ray.re?ed=8080&security=none&encryption=none&host=VPNCUSTOMIZE.V2ray.Community.&type=ws#SE🇸🇪
 
