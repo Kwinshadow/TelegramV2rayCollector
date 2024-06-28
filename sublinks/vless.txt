@@ -24,9 +24,9 @@ vless://c416be20-32b3-467f-83c2-735e04d639f7@eagle.Hafezdivan.Online.:80?path=/&
 
 vless://c416be20-32b3-467f-83c2-735e04d639f7@eagle.Hafezdivan.Online.:443?path=/&security=tls&encryption=none&type=ws#US🇺🇸
 
-vless://378ac207-38d3-4401-ba96-3a7931968bc5@104.16.61.8:80?path=/http&security=none&encryption=none&host=ca.vpnbase.net&type=ws#CA🇨🇦
+vless://378ac207-38d3-4401-ba96-3a7931968bc5@104.16.61.8:80?path=/http&security=none&encryption=none&host=ca.vpnbase.net&type=ws#US🇺🇸
 
-vless://5df7962e-f9fe-41e6-ab49-ed96ccb856a7@172.66.44.135:80?path=/&security=none&encryption=none&host=v2ra1.ecrgpk.workers.dev&type=ws#US🇺🇸
+vless://5df7962e-f9fe-41e6-ab49-ed96ccb856a7@172.66.44.135:80?path=/&security=none&encryption=none&host=v2ra1.ecrgpk.workers.dev&type=ws#CA🇨🇦
 
 vless://0cb3222d-8700-46a6-ba68-0f52726ac0c2@18.193.22.239:443?mode=gun&security=reality&encryption=none&authority=&pbk=yD24FRMEnP-mnIRplYjFtGGVO32IB3ZB_j5nVe2rBRQ&fp=chrome&type=grpc&serviceName=&sni=google.com&sid=39695f0a#DE🇩🇪
 
@@ -108,5 +108,5 @@ vless://6dd0972b-208d-42fb-8d46-0b6e2844f773@162.159.130.233:8880?type=ws&host=a
 
 vless://6dd0972b-208d-42fb-8d46-0b6e2844f773@162.159.130.233:8880?type=ws&host=aksjbebqoqoshhw.debian.org.fxp.debian.org.speedtest.net.らわなさらわ.shahprokh.shop.&path=/ShadowProxy66.ShadowProxy66.ShadowProxy66.ShadowProxy66.ShadowProxy66.ShadowProxy66.ShadowProxy66.ShadowProxy66.ShadowProxy66.?ed=2048&security=none#CA🇨🇦
 
-vless://65c39ded-bff9-408e-a805-f4d30a004089@104.25.254.88:8880?type=ws&host=2.v2ray.debian.org.fxp.debian.org.speedtest.net.らわなさらわ.jomong.space.&path=/tel-nt-safe,tel-nt-safe,tel-nt-safe,tel-nt-safe,tel-nt-safe?ed=80&security=none#CA🇨🇦
+vless://65c39ded-bff9-408e-a805-f4d30a004089@104.25.254.88:8880?type=ws&host=2.v2ray.debian.org.fxp.debian.org.speedtest.net.らわなさらわ.jomong.space.&path=/tel-nt-safe,tel-nt-safe,tel-nt-safe,tel-nt-safe,tel-nt-safe?ed=80&security=none#INT🌍
 
