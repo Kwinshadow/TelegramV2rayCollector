@@ -78,7 +78,7 @@ vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.111.69:443?path=/?ed=2048&se
 
 vless://8b7efacf-8e83-4e51-ab55-1263baccd4b2@www.speedtest.net:443?path=/&security=tls&encryption=none&alpn=h3&host=7f905f51.garywelch.pages.dev&fp=randomized&type=ws&sni=7f905f51.garywelch.pages.dev#US🇺🇸
 
-vless://c416be20-32b3-467f-83c2-735e04d639f7@eagle.hafezdivan.online.:443?path=/&security=tls&encryption=none&type=ws#US🇺🇸
+vless://c416be20-32b3-467f-83c2-735e04d639f7@eagle.hafezdivan.online.:443?path=/&security=tls&encryption=none&type=ws#INT🌍
 
 vmess://eyJhZGQiOiIxODguMTE0Ljk3LjIiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IkJlMi52bWVzcy5zaXRlLiIsImlkIjoiYzUzYjg3MDYtN2EyMy00ODZjLTg5YzUtNGRhYzEyMDllZjExIiwibmV0Ijoid3MiLCJwYXRoIjoiXC92bWVzcyIsInBvcnQiOiI4MCIsInBzIjoiVVNcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjgiLCJzY3kiOiJub25lIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
 
@@ -112,9 +112,7 @@ vless://SVNTEAM@mtn.VPNPROSEC.com:80?path=/?ed=443&security=none&encryption=none
 
 vless://4f4012b1-45e9-48bc-a4e2-d04b0c72eeff@104.16.11.111:80?path=/?ed=2048&security=none&encryption=none&host=speedtest.net.xn--ghbe0oqh.pinocchio1.ir.&type=ws#US🇺🇸
 
-vless://Parsashonam-8@104.21.19.124:8880?path=/?ed=2560&security=none&encryption=none&host=myket.xn--ir-6g5cr0ao9vf3s229b.arvancloud.ir.digehkhastehshodamazbasdamanehkharidam.blog.&type=ws#US🇺🇸
-
-vless://Parsashonam-8@104.24.185.137:8080?path=/?ed=2560&security=none&encryption=none&host=myket.xn--ir-6g5cr0ao9vf3s229b.arvancloud.ir.digehkhastehshodamazbasdamanehkharidam.blog.&type=ws#US🇺🇸
+vless://Parsashonam-0@104.21.19.124:80?path=/login.digikala.cyou&security=none&encryption=none&host=login.digikala.cyou.&type=ws#US🇺🇸
 
 vless://9f225a66-54fc-4a94-8dfd-9f1e3f114a8a@zula.ir:8080?security=&type=ws&path=/Telegram:@UnlimitedDev-Telegram:@UnlimitedDev?ed=8080&host=unlimiteddev-vpn.unlimiteddev.Community.&encryption=none#US🇺🇸
 
