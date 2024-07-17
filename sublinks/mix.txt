@@ -30,21 +30,21 @@ vless://416f18ec-11f3-4648-9693-8c6480d0662d@172.67.137.11:8080?path=/&security=
 
 vless://5af10469-3ec3-4353-94d2-297b7215a15b@172.67.177.201:443?path=/ws&security=tls&encryption=none&host=continuity.sasuke.ir&type=ws&sni=continuity.sasuke.ir#US🇺🇸
 
-vless://c2122a8d-914b-414b-e6b5-c1575c2b09e0@zula.ir:80?path=/df38fGe9tgDG0dkg84LsdfOdjg8.&security=none&encryption=none&host=44-rEFaQaT.yArAyaragAHi12.info&type=ws#CA🇨🇦
-
-vless://416f18ec-11f3-4648-9693-8c6480d0662d@172.67.137.11:2082?path=/&security=none&encryption=none&host=PbDpGsCo2.HaMeCi-dSsTeMaNe.oRg&type=ws#CA🇨🇦
+vless://c2122a8d-914b-414b-e6b5-c1575c2b09e0@zula.ir:80?path=/df38fGe9tgDG0dkg84LsdfOdjg8.&security=none&encryption=none&host=44-rEFaQaT.yArAyaragAHi12.info&type=ws#US🇺🇸
 
 vless://416f18ec-11f3-4648-9693-8c6480d0662d@172.67.137.11:2082?path=/&security=none&encryption=none&host=PbDpGsCo2.HaMeCi-dSsTeMaNe.oRg&type=ws#US🇺🇸
 
-vless://416f18ec-11f3-4648-9693-8c6480d0662d@104.18.1.125:2082?path=/&security=none&encryption=none&host=PbDpGsCo2.HaMeCi-dSsTeMaNe.oRg&type=ws#US🇺🇸
+vless://416f18ec-11f3-4648-9693-8c6480d0662d@172.67.137.11:2082?path=/&security=none&encryption=none&host=PbDpGsCo2.HaMeCi-dSsTeMaNe.oRg&type=ws#CA🇨🇦
+
+vless://416f18ec-11f3-4648-9693-8c6480d0662d@104.18.1.125:2082?path=/&security=none&encryption=none&host=PbDpGsCo2.HaMeCi-dSsTeMaNe.oRg&type=ws#CA🇨🇦
 
 vless://3fa4c645-f6a7-4a02-85ee-7289530a6d1e@172.66.47.2:2096?path=/&security=tls&encryption=none&alpn=http/1.1&host=fala.zafarinoco.ir&type=ws&sni=fala.zafarinoco.ir#CA🇨🇦
 
-vless://cd8002d9-e8fd-4411-8bb6-fc80310ff81d@avval.ir:2053?path=vless-ws/?ed&security=tls&encryption=none&host=vip1-romax-tiktok.hsjsak.ir&fp=random&type=ws&sni=vip1-romax-tiktok.hsjsak.ir#US🇺🇸
+vless://cd8002d9-e8fd-4411-8bb6-fc80310ff81d@avval.ir:2053?path=vless-ws/?ed&security=tls&encryption=none&host=vip1-romax-tiktok.hsjsak.ir&fp=random&type=ws&sni=vip1-romax-tiktok.hsjsak.ir#CA🇨🇦
 
 vless://c2122a8d-914b-414b-e6b5-c1575c2b09e0@zula.ir:80?path=/df38fGe9tgDG0dkg84LsdfOdjg8.&security=none&encryption=none&host=44-rEFaQaT.yArAyaragAHi12.info&type=ws#US🇺🇸
 
-vless://5af10469-3ec3-4353-94d2-297b7215a15b@172.67.177.201:443?path=/ws&security=tls&encryption=none&host=continuity.sasuke.ir&type=ws&sni=continuity.sasuke.ir#CA🇨🇦
+vless://5af10469-3ec3-4353-94d2-297b7215a15b@172.67.177.201:443?path=/ws&security=tls&encryption=none&host=continuity.sasuke.ir&type=ws&sni=continuity.sasuke.ir#US🇺🇸
 
 vless://416f18ec-11f3-4648-9693-8c6480d0662d@172.67.137.11:2082?path=/&security=none&encryption=none&host=PbDpGsCo2.HaMeCi-dSsTeMaNe.oRg&type=ws#CA🇨🇦
 
@@ -132,6 +132,8 @@ vless://2a093825-5348-4597-b9ce-02ddf2d8fe7a@zula.ir:8080?security=&type=ws&path
 
 vless://2a093825-5348-4597-b9ce-02ddf2d8fe7a@www.parsvds.ir:8080?security=&type=ws&path=/Telegram:@UnlimitedDev-Telegram:@UnlimitedDev?ed=8080&host=unlimiteddev-vpn.unlimiteddev.Community.&encryption=none#CA🇨🇦
 
+vless://Its-VPNCUSTOMIZE@www.parsvds.ir:8080?type=ws&host=VPNcustomize-vpnCUSTOMIZE-VPNcustomize.CUSTOMIZEspeedtest.net.&path=VPNCUSTOMIZE?ed=8080&security=none#CA🇨🇦
+
 vless://biato--ZEDMODEON@www.speedtest.net:2095?path=/ZEDMODEON?ed=2048&security=none&encryption=none&host=www.speedtest.net.列列上列列上列列上.らわなさ.tech.&type=ws#CA🇨🇦
 
 vless://joinin--ZEDMODEON@www.speedtest.net:80?path=/@ZEDMODEON TEL  @ZEDMODEON TEL  @ZEDMODEON TEL  @ZEDMODEON JOIN @ZEDMODEON TEL  @ZEDMODEON JOIN @ZEDMODEON TEL  @ZEDMODEON TEL  @ZEDMODEON JOIN @ZEDMODEON TEL  @ZEDMODEON @ZeV2ray&security=none&encryption=none&host=asan.net.v2rayng6.6.6.6.ir.com.site.列男事事列上赛男.acountifyable.BUZZ.&type=ws#CA🇨🇦
@@ -144,5 +146,5 @@ vless://bia--ZEDMODEON@[2a0d:5940:48:11::]:25365?mode=gun&security=reality&encry
 
 ss://YWVzLTEyOC1nY206YmlhLS1aRURNT0RFT04=@zedmodeon-join-zedmodeon.kanal-asli-zedmodeon.shop:25367#DE🇩🇪
 
-vless://its-VPNCUSTOMIZE@www.parsvds.ir:8080?path=VPNCUSTOMIZE?ed=8080&security=none&encryption=none&host=VPNcustomize-vpnCUSTOMIZE-VPNcustomize.CUSTOMIZEspeedtest.net.&type=ws#CA🇨🇦
+vless://its-VPNCUSTOMIZE@www.parsvds.ir:8080?path=VPNCUSTOMIZE?ed=8080&security=none&encryption=none&host=VPNcustomize-vpnCUSTOMIZE-VPNcustomize.CUSTOMIZEspeedtest.net.&type=ws#INT🌍
 
