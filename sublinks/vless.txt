@@ -36,9 +36,9 @@ vless://416f18ec-11f3-4648-9693-8c6480d0662d@172.67.137.11:2082?path=/&security=
 
 vless://416f18ec-11f3-4648-9693-8c6480d0662d@172.67.137.11:2082?path=/&security=none&encryption=none&host=PbDpGsCo2.HaMeCi-dSsTeMaNe.oRg&type=ws#US🇺🇸
 
-vless://416f18ec-11f3-4648-9693-8c6480d0662d@104.18.1.125:2082?path=/&security=none&encryption=none&host=PbDpGsCo2.HaMeCi-dSsTeMaNe.oRg&type=ws#US🇺🇸
+vless://416f18ec-11f3-4648-9693-8c6480d0662d@104.18.1.125:2082?path=/&security=none&encryption=none&host=PbDpGsCo2.HaMeCi-dSsTeMaNe.oRg&type=ws#CA🇨🇦
 
-vless://3fa4c645-f6a7-4a02-85ee-7289530a6d1e@172.66.47.2:2096?path=/&security=tls&encryption=none&alpn=http/1.1&host=fala.zafarinoco.ir&type=ws&sni=fala.zafarinoco.ir#CA🇨🇦
+vless://3fa4c645-f6a7-4a02-85ee-7289530a6d1e@172.66.47.2:2096?path=/&security=tls&encryption=none&alpn=http/1.1&host=fala.zafarinoco.ir&type=ws&sni=fala.zafarinoco.ir#US🇺🇸
 
 vless://cd8002d9-e8fd-4411-8bb6-fc80310ff81d@avval.ir:2053?path=vless-ws/?ed&security=tls&encryption=none&host=vip1-romax-tiktok.hsjsak.ir&fp=random&type=ws&sni=vip1-romax-tiktok.hsjsak.ir#CA🇨🇦
 
@@ -101,12 +101,6 @@ vless://Parsashonam-13@104.21.19.124:8880?path=/?ed=2560&security=none&encryptio
 vless://Parsashonam-13@104.24.185.137:8080?path=/?ed=2560&security=none&encryption=none&host=myket.xn--ir-6g5cr0ao9vf3s229b.arvancloud.ir.digehkhastehshodamazbasdamanehkharidam.blog.&type=ws#CA🇨🇦
 
 vless://Parsashonam-13@190.93.247.247:443?path=/irancell.app&security=tls&encryption=none&alpn=h2,http/1.1&host=mail.offch.blog&fp=chrome&type=ws&sni=mail.offch.blog.#CR🇨🇷
-
-vless://Parsashonam-12@104.21.19.124:8880?path=/?ed=2560&security=none&encryption=none&host=myket.xn--ir-6g5cr0ao9vf3s229b.arvancloud.ir.digehkhastehshodamazbasdamanehkharidam.blog.&type=ws#CA🇨🇦
-
-vless://Parsashonam-12@104.24.185.137:8080?path=/?ed=2560&security=none&encryption=none&host=myket.xn--ir-6g5cr0ao9vf3s229b.arvancloud.ir.digehkhastehshodamazbasdamanehkharidam.blog.&type=ws#CA🇨🇦
-
-vless://Parsashonam-12@190.93.247.247:443?path=/irancell.app&security=tls&encryption=none&alpn=h2,http/1.1&host=mail.offch.blog&fp=chrome&type=ws&sni=mail.offch.blog.#CR🇨🇷
 
 vless://62f87825-d93f-448a-9b40-7c991f661dfa@zula.ir:8080?security=&type=ws&path=/Telegram:@UnlimitedDev-Telegram:@UnlimitedDev?ed=8080&host=unlimiteddev-vpn.unlimiteddev.Community.&encryption=none#CA🇨🇦
 
