@@ -36,9 +36,9 @@ vless://416f18ec-11f3-4648-9693-8c6480d0662d@172.67.137.11:2082?path=/&security=
 
 vless://416f18ec-11f3-4648-9693-8c6480d0662d@172.67.137.11:2082?path=/&security=none&encryption=none&host=PbDpGsCo2.HaMeCi-dSsTeMaNe.oRg&type=ws#US🇺🇸
 
-vless://416f18ec-11f3-4648-9693-8c6480d0662d@104.18.1.125:2082?path=/&security=none&encryption=none&host=PbDpGsCo2.HaMeCi-dSsTeMaNe.oRg&type=ws#CA🇨🇦
+vless://416f18ec-11f3-4648-9693-8c6480d0662d@104.18.1.125:2082?path=/&security=none&encryption=none&host=PbDpGsCo2.HaMeCi-dSsTeMaNe.oRg&type=ws#US🇺🇸
 
-vless://3fa4c645-f6a7-4a02-85ee-7289530a6d1e@172.66.47.2:2096?path=/&security=tls&encryption=none&alpn=http/1.1&host=fala.zafarinoco.ir&type=ws&sni=fala.zafarinoco.ir#US🇺🇸
+vless://3fa4c645-f6a7-4a02-85ee-7289530a6d1e@172.66.47.2:2096?path=/&security=tls&encryption=none&alpn=http/1.1&host=fala.zafarinoco.ir&type=ws&sni=fala.zafarinoco.ir#CA🇨🇦
 
 vless://cd8002d9-e8fd-4411-8bb6-fc80310ff81d@avval.ir:2053?path=vless-ws/?ed&security=tls&encryption=none&host=vip1-romax-tiktok.hsjsak.ir&fp=random&type=ws&sni=vip1-romax-tiktok.hsjsak.ir#CA🇨🇦
 
@@ -90,6 +90,12 @@ vless://SVNTEAM@mtn.VPNPROSEC.com:80?path=/?ed=443&security=none&encryption=none
 
 vless://4f4012b1-45e9-48bc-a4e2-d04b0c72eeff@104.16.11.111:80?path=/?ed=2048&security=none&encryption=none&host=speedtest.net.xn--ghbe0oqh.pinocchio1.ir.&type=ws#CA🇨🇦
 
+vless://Parsashonam-14@104.21.19.124:8880?path=/?ed=2560&security=none&encryption=none&host=myket.xn--ir-6g5cr0ao9vf3s229b.arvancloud.ir.digehkhastehshodamazbasdamanehkharidam.blog.&type=ws#CA🇨🇦
+
+vless://Parsashonam-14@104.24.185.137:8080?path=/?ed=2560&security=none&encryption=none&host=myket.xn--ir-6g5cr0ao9vf3s229b.arvancloud.ir.digehkhastehshodamazbasdamanehkharidam.blog.&type=ws#CA🇨🇦
+
+vless://Parsashonam-14@190.93.247.247:443?path=/irancell.app&security=tls&encryption=none&alpn=h2,http/1.1&host=mail.offch.blog&fp=chrome&type=ws&sni=mail.offch.blog.#CR🇨🇷
+
 vless://Parsashonam-13@104.21.19.124:8880?path=/?ed=2560&security=none&encryption=none&host=myket.xn--ir-6g5cr0ao9vf3s229b.arvancloud.ir.digehkhastehshodamazbasdamanehkharidam.blog.&type=ws#CA🇨🇦
 
 vless://Parsashonam-13@104.24.185.137:8080?path=/?ed=2560&security=none&encryption=none&host=myket.xn--ir-6g5cr0ao9vf3s229b.arvancloud.ir.digehkhastehshodamazbasdamanehkharidam.blog.&type=ws#CA🇨🇦
@@ -101,12 +107,6 @@ vless://Parsashonam-12@104.21.19.124:8880?path=/?ed=2560&security=none&encryptio
 vless://Parsashonam-12@104.24.185.137:8080?path=/?ed=2560&security=none&encryption=none&host=myket.xn--ir-6g5cr0ao9vf3s229b.arvancloud.ir.digehkhastehshodamazbasdamanehkharidam.blog.&type=ws#CA🇨🇦
 
 vless://Parsashonam-12@190.93.247.247:443?path=/irancell.app&security=tls&encryption=none&alpn=h2,http/1.1&host=mail.offch.blog&fp=chrome&type=ws&sni=mail.offch.blog.#CR🇨🇷
-
-vless://Parsashonam-11@104.21.19.124:8880?path=/?ed=2560&security=none&encryption=none&host=myket.xn--ir-6g5cr0ao9vf3s229b.arvancloud.ir.digehkhastehshodamazbasdamanehkharidam.blog.&type=ws#CA🇨🇦
-
-vless://Parsashonam-11@104.24.185.137:8080?path=/?ed=2560&security=none&encryption=none&host=myket.xn--ir-6g5cr0ao9vf3s229b.arvancloud.ir.digehkhastehshodamazbasdamanehkharidam.blog.&type=ws#CA🇨🇦
-
-vless://Parsashonam-11@190.93.247.247:443?path=/irancell.app&security=tls&encryption=none&alpn=h2,http/1.1&host=mail.offch.blog&fp=chrome&type=ws&sni=mail.offch.blog.#CR🇨🇷
 
 vless://62f87825-d93f-448a-9b40-7c991f661dfa@zula.ir:8080?security=&type=ws&path=/Telegram:@UnlimitedDev-Telegram:@UnlimitedDev?ed=8080&host=unlimiteddev-vpn.unlimiteddev.Community.&encryption=none#CA🇨🇦
 
@@ -131,6 +131,4 @@ vless://2a093825-5348-4597-b9ce-02ddf2d8fe7a@www.parsvds.ir:8080?security=&type=
 vless://its-VPNCUSTOMIZE@www.parsvds.ir:8080?path=VPNCUSTOMIZE?ed=8080&security=none&encryption=none&host=VPNcustomize-vpnCUSTOMIZE-VPNcustomize.CUSTOMIZEspeedtest.net.&type=ws#CA🇨🇦
 
 vless://--VPNCUSTOMIZE--@www.parsvds.ir:8080?type=ws&host=VPNcustomize-vpnCUSTOMIZE-VPNcustomize.CUSTOMIZEspeedtest.net.&path=VPNCUSTOMIZE?ed=8080&security=none#CA🇨🇦
-
-vless://-VPNCUSTOMIZE-@www.parsvds.ir:8080?type=ws&host=VPNcustomize-vpnCUSTOMIZE-VPNcustomize.CUSTOMIZEspeedtest.net.&path=VPNCUSTOMIZE?ed=8080&security=none#CA🇨🇦
 
