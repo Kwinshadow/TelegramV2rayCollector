@@ -36,9 +36,9 @@ vless://416f18ec-11f3-4648-9693-8c6480d0662d@172.67.137.11:2082?path=/&security=
 
 vless://416f18ec-11f3-4648-9693-8c6480d0662d@172.67.137.11:2082?path=/&security=none&encryption=none&host=PbDpGsCo2.HaMeCi-dSsTeMaNe.oRg&type=ws#US🇺🇸
 
-vless://416f18ec-11f3-4648-9693-8c6480d0662d@104.18.1.125:2082?path=/&security=none&encryption=none&host=PbDpGsCo2.HaMeCi-dSsTeMaNe.oRg&type=ws#US🇺🇸
+vless://416f18ec-11f3-4648-9693-8c6480d0662d@104.18.1.125:2082?path=/&security=none&encryption=none&host=PbDpGsCo2.HaMeCi-dSsTeMaNe.oRg&type=ws#CA🇨🇦
 
-vless://3fa4c645-f6a7-4a02-85ee-7289530a6d1e@172.66.47.2:2096?path=/&security=tls&encryption=none&alpn=http/1.1&host=fala.zafarinoco.ir&type=ws&sni=fala.zafarinoco.ir#CA🇨🇦
+vless://3fa4c645-f6a7-4a02-85ee-7289530a6d1e@172.66.47.2:2096?path=/&security=tls&encryption=none&alpn=http/1.1&host=fala.zafarinoco.ir&type=ws&sni=fala.zafarinoco.ir#US🇺🇸
 
 vless://cd8002d9-e8fd-4411-8bb6-fc80310ff81d@avval.ir:2053?path=vless-ws/?ed&security=tls&encryption=none&host=vip1-romax-tiktok.hsjsak.ir&fp=random&type=ws&sni=vip1-romax-tiktok.hsjsak.ir#CA🇨🇦
 
@@ -121,6 +121,4 @@ vless://0eb5abac-e3a6-48ea-bd24-36e5c5dcfa92@70.34.212.138:25365?security=none&e
 vless://95b6d73e-81ea-44bc-aca4-72ab1845093e@136.244.95.244:25365?mode=gun&security=reality&encryption=none&authority=&pbk=ZdwHjnb-NOJVbcIzaY6QJCvrvVm_B571BkIknjrI_TU&fp=chrome&spx=/&type=grpc&serviceName=@ZEDMODEON-@ZEDMODEON-@ZEDMODEON&sni=sourceforge.net&sid=a7ac7c84#DE🇩🇪
 
 vless://bia--ZEDMODEON@[2a0d:5940:48:11::]:25365?mode=gun&security=reality&encryption=none&authority=&pbk=VBV743nCoGQ4C6_Fs2auTn7XUMO7eNTD5VYL4Chxb2M&fp=chrome&spx=/&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&sni=sourceforge.net&sid=74ab1761#INT🌍
-
-vless://its-VPNCUSTOMIZE@www.parsvds.ir:8080?path=VPNCUSTOMIZE?ed=8080&security=none&encryption=none&host=VPNcustomize-vpnCUSTOMIZE-VPNcustomize.CUSTOMIZEspeedtest.net.&type=ws#CA🇨🇦
 
