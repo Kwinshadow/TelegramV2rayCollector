@@ -34,15 +34,15 @@ vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@www.arizona.edu:443?path=/&security
 
 vless://416f18ec-11f3-4648-9693-8c6480d0662d@172.67.137.11:8080?path=/&security=none&encryption=none&host=PbDpGsCo7.HaMeCi-dSsTeMaNe.oRg&type=ws#US🇺🇸
 
-vless://416f18ec-11f3-4648-9693-8c6480d0662d@172.67.199.19:2082?path=/&security=none&encryption=none&host=SgTbRzSl18.sAlEaLaMoHtArAm.cOm&type=ws#US🇺🇸
+vless://416f18ec-11f3-4648-9693-8c6480d0662d@172.67.199.19:2082?path=/&security=none&encryption=none&host=SgTbRzSl18.sAlEaLaMoHtArAm.cOm&type=ws#CA🇨🇦
 
-vless://416f18ec-11f3-4648-9693-8c6480d0662d@172.67.137.11:2082?path=/&security=none&encryption=none&host=PbDpGsCo2.HaMeCi-dSsTeMaNe.oRg&type=ws#CA🇨🇦
+vless://416f18ec-11f3-4648-9693-8c6480d0662d@172.67.137.11:2082?path=/&security=none&encryption=none&host=PbDpGsCo2.HaMeCi-dSsTeMaNe.oRg&type=ws#US🇺🇸
 
-vless://c2122a8d-914b-414b-e6b5-c1575c2b09e0@zula.ir:80?path=/df38fGe9tgDG0dkg84LsdfOdjg8.&security=none&encryption=none&host=44-rEFaQaT.yArAyaragAHi12.info&type=ws#CA🇨🇦
+vless://c2122a8d-914b-414b-e6b5-c1575c2b09e0@zula.ir:80?path=/df38fGe9tgDG0dkg84LsdfOdjg8.&security=none&encryption=none&host=44-rEFaQaT.yArAyaragAHi12.info&type=ws#US🇺🇸
 
-vless://cd8002d9-e8fd-4411-8bb6-fc80310ff81d@avval.ir:2053?path=vless-ws/?ed&security=tls&encryption=none&host=vip1-romax-tiktok.hsjsak.ir&fp=random&type=ws&sni=vip1-romax-tiktok.hsjsak.ir#US🇺🇸
+vless://cd8002d9-e8fd-4411-8bb6-fc80310ff81d@avval.ir:2053?path=vless-ws/?ed&security=tls&encryption=none&host=vip1-romax-tiktok.hsjsak.ir&fp=random&type=ws&sni=vip1-romax-tiktok.hsjsak.ir#CA🇨🇦
 
-vless://cd8002d9-e8fd-4411-8bb6-fc80310ff81d@104.26.14.16:2053?path=/&security=tls&encryption=none&host=vip1-romax-tiktok.hsjsak.ir&fp=chrome&type=ws&sni=vip1-romax-tiktok.hsjsak.ir#CA🇨🇦
+vless://cd8002d9-e8fd-4411-8bb6-fc80310ff81d@104.26.14.16:2053?path=/&security=tls&encryption=none&host=vip1-romax-tiktok.hsjsak.ir&fp=chrome&type=ws&sni=vip1-romax-tiktok.hsjsak.ir#US🇺🇸
 
 vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@www.arizona.edu:443?path=/&security=tls&encryption=none&host=fraud.chase&type=ws&sni=www.Arizona.edu#ES🇪🇸
 
@@ -113,6 +113,8 @@ vless://Parsashonam-14@190.93.247.247:443?path=/irancell.app&security=tls&encryp
 vless://1fcbe196-eecb-4344-91eb-0024682748f1@zula.ir:8080?security=&type=ws&path=/Telegram:@UnlimitedDev-Telegram:@UnlimitedDev?ed=8080&host=unlimiteddev-vpn.unlimiteddev.Community.&encryption=none#CA🇨🇦
 
 vless://1fcbe196-eecb-4344-91eb-0024682748f1@www.parsvds.ir:8080?security=&type=ws&path=/Telegram:@UnlimitedDev-Telegram:@UnlimitedDev?ed=8080&host=unlimiteddev-vpn.unlimiteddev.Community.&encryption=none#CA🇨🇦
+
+vless://a60fdf6c-2c61-4d8a-9dd7-8a2a17e8ea1a@2.189.59.6:443?security=tls&sni=mci.unlimiteddev-vpn.Com.&fp=chrome&type=grpc&serviceName=Channel:@UnlimitedDev&encryption=none#IR🇮🇷
 
 vless://a53fe8de-91a7-403f-9fbe-cbdefd077b34@zula.ir:8080?security=&type=ws&path=/Telegram:@UnlimitedDev-Telegram:@UnlimitedDev?ed=8080&host=unlimiteddev-vpn.unlimiteddev.Community.&encryption=none#CA🇨🇦
 
