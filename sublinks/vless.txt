@@ -32,17 +32,17 @@ vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.194.133:443?path=/&security
 
 vless://5af10469-3ec3-4353-94d2-297b7215a15b@172.67.177.201:443?path=/ws&security=tls&encryption=none&host=continuity.sasuke.ir&type=ws&sni=continuity.sasuke.ir#US🇺🇸
 
-vless://d41faf1e-054b-48e9-9487-40747f230808@speed.cloudflare.com:443?path=/ws&security=tls&encryption=none&alpn=http/1.1&host=f-dl.chawoshco.ir&type=ws&sni=f-dl.chawoshco.ir#US🇺🇸
+vless://d41faf1e-054b-48e9-9487-40747f230808@speed.cloudflare.com:443?path=/ws&security=tls&encryption=none&alpn=http/1.1&host=f-dl.chawoshco.ir&type=ws&sni=f-dl.chawoshco.ir#CA🇨🇦
 
 vless://c9abc6f1-7c7a-4bcb-a807-7e3365dc48fd@www.speedtest.net:80?path=/?ed=2048&security=none&encryption=none&host=7.V.www.speedtest.net.dev.cloudflare.com.pinocchio1.ir.&type=ws#US🇺🇸
 
-vless://c3539933-a451-4915-ac5f-7a99a666aba7@104.21.21.41:80?path=/?ed=2048&security=none&encryption=none&host=ftp.debian.org.www.speedtest.net.ncba.ir.&type=ws#CA🇨🇦
+vless://c3539933-a451-4915-ac5f-7a99a666aba7@104.21.21.41:80?path=/?ed=2048&security=none&encryption=none&host=ftp.debian.org.www.speedtest.net.ncba.ir.&type=ws#US🇺🇸
 
 vless://cd8002d9-e8fd-4411-8bb6-fc80310ff81d@avval.ir:2053?path=vless-ws/?ed&security=tls&encryption=none&host=vip1-romax-tiktok.hsjsak.ir&fp=random&type=ws&sni=vip1-romax-tiktok.hsjsak.ir#CA🇨🇦
 
 vless://77e5eae2-c26b-41bb-a156-84644961a9e3@104.31.16.95:8080?path=/&security=none&encryption=none&host=ftp.debian.org.www.speedtest.net.dnschecker.heydasgermanyvip.name.ng.&type=ws#CA🇨🇦
 
-vless://cd8002d9-e8fd-4411-8bb6-fc80310ff81d@104.26.14.16:2053?path=/&security=tls&encryption=none&host=vip1-romax-tiktok.hsjsak.ir&fp=chrome&type=ws&sni=vip1-romax-tiktok.hsjsak.ir#CA🇨🇦
+vless://cd8002d9-e8fd-4411-8bb6-fc80310ff81d@104.26.14.16:2053?path=/&security=tls&encryption=none&host=vip1-romax-tiktok.hsjsak.ir&fp=chrome&type=ws&sni=vip1-romax-tiktok.hsjsak.ir#US🇺🇸
 
 vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.194.133:443?path=/&security=tls&encryption=none&host=fraud.chase&type=ws&sni=www.Arizona.edu#US🇺🇸
 
