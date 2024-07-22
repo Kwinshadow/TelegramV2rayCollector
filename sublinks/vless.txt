@@ -26,7 +26,7 @@ vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.19.110.50:443?path=/&security=t
 
 vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.130.133:443?path=/&security=tls&encryption=none&host=fraud.chase&type=ws&sni=www.Arizona.edu#US🇺🇸
 
-vless://cb4fca5f-edf8-415b-aa8f-ac52f415296a@104.21.51.208:443?path=/gPGhgE3kwHBXqpNptGAxAtI0QM&security=tls&encryption=none&alpn=http/1.1&host=de01.tradex2080.com&fp=chrome&type=ws&sni=deefull.tradex2080.com#US🇺🇸
+vless://cb4fca5f-edf8-415b-aa8f-ac52f415296a@104.21.51.208:443?path=/gPGhgE3kwHBXqpNptGAxAtI0QM&security=tls&encryption=none&alpn=http/1.1&host=de01.tradex2080.com&fp=chrome&type=ws&sni=deefull.tradex2080.com#CA🇨🇦
 
 vless://SVNTEAMx@speedtest.net:443?path=/?ed&security=tls&encryption=none&alpn=h2,http/1.1&host=torb.com&fp=firefox&type=ws&sni=speedtest.net#US🇺🇸
 
@@ -42,7 +42,7 @@ vless://cd8002d9-e8fd-4411-8bb6-fc80310ff81d@104.26.14.16:2053?path=/&security=t
 
 vless://TELEGRAM-ID-XPNTEAM@xpnteam-mci-free-chanell.eiskaltenaa.ir:2096?mode=multi&security=tls&encryption=none&alpn=h2&authority=&fp=chrome&type=grpc&serviceName=&sni=xpnteam-mci-free-chanell.eiskaltenaa.ir#INT🌍
 
-vless://658a5fce-391b-46ed-bac2-0af9772ec953@104.26.10.138:8080?path=/FIRELINKVPNNN&security=none&encryption=none&host=sbp.unironically.ir&type=ws#US🇺🇸
+vless://658a5fce-391b-46ed-bac2-0af9772ec953@104.26.10.138:8080?path=/FIRELINKVPNNN&security=none&encryption=none&host=sbp.unironically.ir&type=ws#CA🇨🇦
 
 vless://cd8002d9-e8fd-4411-8bb6-fc80310ff81d@avval.ir:2053?path=vless-ws/?ed&security=tls&encryption=none&host=vip1-romax-tiktok.hsjsak.ir&fp=random&type=ws&sni=vip1-romax-tiktok.hsjsak.ir#CA🇨🇦
 
@@ -82,11 +82,7 @@ vless://d41faf1e-054b-48e9-9487-40747f230808@speed.cloudflare.com:443?path=/ws&s
 
 vless://cd8002d9-e8fd-4411-8bb6-fc80310ff81d@avval.ir:2053?path=vless-ws/?ed&security=tls&encryption=none&host=vip1-romax-tiktok.hsjsak.ir&fp=random&type=ws&sni=vip1-romax-tiktok.hsjsak.ir#CA🇨🇦
 
-vless://telegram-id-PcV2ray@www.speedtest.net:8880?path=/-PcV2ry--PcV2ry-TEL--PcV2ry-TEL--PcV2ry&security=none&encryption=none&host=2.V.V2.www.speedtest.net.V.www.speedtest.net.mashtimji.ir.&type=ws#CA🇨🇦
-
-vless://cedb2cca-5c53-467b-dbe1-53f4126f42d6@cpanel.com:8080?path=/GozaegahVPN/ws/?ed&security=none&encryption=none&host=GozargahVPN-GozargahVPN-GozargahVPN-GozargahVPN-GozargahVPN-GozargahVPN.你好世界.tech&type=ws#CA🇨🇦
-
-vless://DIgiV2RAY@zula.ir:2095?path=/DigiconnecT?ed=1024&security=none&encryption=none&host=wWw.vArZeSh3.Com.QUENTIN.1.1.1.1.radiotehran.org.&type=ws#CA🇨🇦
+vless://telegram-id-PcV2ray@www.speedtest.net:8880?path=/-PcV2ry--PcV2ry-TEL--PcV2ry-TEL--PcV2ry&security=none&encryption=none&host=2.V.V2.www.speedtest.net.V.www.speedtest.net.mashtimji.ir.&type=ws#US🇺🇸
 
 vless://Parsashonam-19@104.21.19.124:8880?path=/?ed=2560&security=none&encryption=none&host=myket.xn--ir-6g5cr0ao9vf3s229b.arvancloud.ir.digehkhastehshodamazbasdamanehkharidam.blog.&type=ws#CA🇨🇦
 
