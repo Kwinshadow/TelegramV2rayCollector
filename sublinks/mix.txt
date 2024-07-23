@@ -22,19 +22,19 @@ vless://87d803c7-f879-478e-e1f2-738d804de98e@zula.ir:80?path=/2FF4sNFEEm2rBDKp42
 
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.111.69:443?path=/?ed=2048&security=tls&encryption=none&host=mmdv2.pages.dev&fp=randomized&type=ws&sni=mmdv2.pages.dev#US🇺🇸
 
-vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.14.65:80?path=/&security=none&encryption=none&host=us1.rtacg.com&type=ws#INT🌍
+vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.14.65:80?path=/&security=none&encryption=none&host=us1.rtacg.com&type=ws#US🇺🇸
 
 vmess://eyJhZGQiOiIxMDQuMjEuODIuMTciLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6Imd3ZGVmLnNicyIsImlkIjoiYmM4NjQwNzgtZGNmMy00YmY0LThkYmYtY2E5ZjIwMGI1NmJlIiwibmV0Ijoid3MiLCJwYXRoIjoiXC9saW5rd3MiLCJwb3J0IjoiNDQzIiwicHMiOiJVU1x1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmOCIsInNjeSI6ImF1dG8iLCJzbmkiOiJnd2RlZi5zYnMiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ==
 
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.19.110.50:443?path=/&security=tls&encryption=none&host=mmdv2.pages.dev&type=ws&sni=mmdv2.pages.dev#INT🌍
+vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.19.110.50:443?path=/&security=tls&encryption=none&host=mmdv2.pages.dev&type=ws&sni=mmdv2.pages.dev#US🇺🇸
 
 vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.130.133:443?path=/&security=tls&encryption=none&host=fraud.chase&type=ws&sni=www.Arizona.edu#US🇺🇸
 
-vless://cb4fca5f-edf8-415b-aa8f-ac52f415296a@104.21.51.208:443?path=/gPGhgE3kwHBXqpNptGAxAtI0QM&security=tls&encryption=none&alpn=http/1.1&host=de01.tradex2080.com&fp=chrome&type=ws&sni=deefull.tradex2080.com#INT🌍
+vless://cb4fca5f-edf8-415b-aa8f-ac52f415296a@104.21.51.208:443?path=/gPGhgE3kwHBXqpNptGAxAtI0QM&security=tls&encryption=none&alpn=http/1.1&host=de01.tradex2080.com&fp=chrome&type=ws&sni=deefull.tradex2080.com#US🇺🇸
 
 vless://SVNTEAMx@speedtest.net:443?path=/?ed&security=tls&encryption=none&alpn=h2,http/1.1&host=torb.com&fp=firefox&type=ws&sni=speedtest.net#US🇺🇸
 
-vmess://eyJhZGQiOiJ3d3cuc3BlZWR0ZXN0Lm5ldCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiVXMxLnNvY2lmaWxlcy5jb20uIiwiaWQiOiIzM2FlODZhMC00NzNkLTExZWYtYTZjZC0xMjM5ZDAyNTUyNzIiLCJuZXQiOiJ3cyIsInBhdGgiOiJcL3Ztd3MiLCJwb3J0IjoiODAiLCJwcyI6IlVTXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4Iiwic2N5Ijoibm9uZSIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
+vmess://eyJhZGQiOiJ3d3cuc3BlZWR0ZXN0Lm5ldCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiVXMxLnNvY2lmaWxlcy5jb20uIiwiaWQiOiIzM2FlODZhMC00NzNkLTExZWYtYTZjZC0xMjM5ZDAyNTUyNzIiLCJuZXQiOiJ3cyIsInBhdGgiOiJcL3Ztd3MiLCJwb3J0IjoiODAiLCJwcyI6IklOVFx1ZDgzY1x1ZGYwZCIsInNjeSI6Im5vbmUiLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==
 
 vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.130.133:443?path=/&security=tls&encryption=none&host=fraud.chase&type=ws&sni=www.Arizona.edu#US🇺🇸
 
@@ -48,15 +48,15 @@ vless://cd8002d9-e8fd-4411-8bb6-fc80310ff81d@104.26.14.16:2053?path=/&security=t
 
 vless://TELEGRAM-ID-XPNTEAM@xpnteam-mci-free-chanell.eiskaltenaa.ir:2096?mode=multi&security=tls&encryption=none&alpn=h2&authority=&fp=chrome&type=grpc&serviceName=&sni=xpnteam-mci-free-chanell.eiskaltenaa.ir#INT🌍
 
-vless://658a5fce-391b-46ed-bac2-0af9772ec953@104.26.10.138:8080?path=/FIRELINKVPNNN&security=none&encryption=none&host=sbp.unironically.ir&type=ws#US🇺🇸
+vless://658a5fce-391b-46ed-bac2-0af9772ec953@104.26.10.138:8080?path=/FIRELINKVPNNN&security=none&encryption=none&host=sbp.unironically.ir&type=ws#INT🌍
 
-vless://cd8002d9-e8fd-4411-8bb6-fc80310ff81d@avval.ir:2053?path=vless-ws/?ed&security=tls&encryption=none&host=vip1-romax-tiktok.hsjsak.ir&fp=random&type=ws&sni=vip1-romax-tiktok.hsjsak.ir#US🇺🇸
+vless://cd8002d9-e8fd-4411-8bb6-fc80310ff81d@avval.ir:2053?path=vless-ws/?ed&security=tls&encryption=none&host=vip1-romax-tiktok.hsjsak.ir&fp=random&type=ws&sni=vip1-romax-tiktok.hsjsak.ir#INT🌍
 
 vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@www.arizona.edu:443?path=/&security=tls&encryption=none&host=fraud.chase&type=ws&sni=www.Arizona.edu#ES🇪🇸
 
 vless://ab178d57-d18c-4658-8362-f06599777cae@zula.ir:80?path=AfV2ray?ed=2048&security=none&encryption=none&host=allV2ray.cbr.roghanali.IR.&type=ws#INT🌍
 
-vless://5779d821-693b-4573-b71d-d332199ead38@zula.ir:80?path=/?ed&security=none&encryption=none&host=www.speedtest.net.ftp.debian.org.xn--ihqvlaa157dbvciyg50okggl0r2f5bcj1a.11.buydeskapp.com.&type=ws#US🇺🇸
+vless://5779d821-693b-4573-b71d-d332199ead38@zula.ir:80?path=/?ed&security=none&encryption=none&host=www.speedtest.net.ftp.debian.org.xn--ihqvlaa157dbvciyg50okggl0r2f5bcj1a.11.buydeskapp.com.&type=ws#INT🌍
 
 vless://67a4bed6-5528-49a2-a0ae-54332babb956@se2.hosting-ip.com:80?path=/&security=none&encryption=none&host=www.speedtest.net.ftp.debian.org.自己不去看啥事情基本事事.srtongston.ir&type=ws#SE🇸🇪
 
