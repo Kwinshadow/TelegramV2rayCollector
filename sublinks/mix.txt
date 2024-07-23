@@ -30,7 +30,7 @@ vless://1d86846c-5a27-43c8-8981-57bb75c82195@www.speedtest.net:443?path=/paradis
 
 vless://SVNTEAM@speedtest.net:443?path=/?ed&security=tls&encryption=none&alpn=h2,http/1.1&host=torb.com&fp=firefox&type=ws&sni=speedtest.net#US🇺🇸
 
-vless://f3747309-5c2d-5bb4-9ffc-d8a3f1302741@www.speedtest.net:80?path=/vless&security=none&encryption=none&host=de1.vless.site&type=ws#US🇺🇸
+vless://f3747309-5c2d-5bb4-9ffc-d8a3f1302741@www.speedtest.net:80?path=/vless&security=none&encryption=none&host=de1.vless.site&type=ws#CA🇨🇦
 
 vless://5779d821-693b-4573-b71d-d332199ead38@zula.ir:80?path=/?ed&security=none&encryption=none&host=www.speedtest.net.ftp.debian.org.xn--ihqvlaa157dbvciyg50okggl0r2f5bcj1a.38.buydeskapp.com.&type=ws#US🇺🇸
 
@@ -38,7 +38,7 @@ vless://87d803c7-f879-478e-e1f2-738d804de98e@zula.ir:80?path=/2FF4sNFEEm2rBDKp42
 
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.111.69:443?path=/?ed=2048&security=tls&encryption=none&host=mmdv2.pages.dev&fp=randomized&type=ws&sni=mmdv2.pages.dev#US🇺🇸
 
-vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.14.65:80?path=/&security=none&encryption=none&host=us1.rtacg.com&type=ws#CA🇨🇦
+vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.14.65:80?path=/&security=none&encryption=none&host=us1.rtacg.com&type=ws#US🇺🇸
 
 vmess://eyJhZGQiOiIxMDQuMjEuODIuMTciLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6Imd3ZGVmLnNicyIsImlkIjoiYmM4NjQwNzgtZGNmMy00YmY0LThkYmYtY2E5ZjIwMGI1NmJlIiwibmV0Ijoid3MiLCJwYXRoIjoiXC9saW5rd3MiLCJwb3J0IjoiNDQzIiwicHMiOiJVU1x1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmOCIsInNjeSI6ImF1dG8iLCJzbmkiOiJnd2RlZi5zYnMiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ==
 
@@ -50,7 +50,7 @@ vless://cb4fca5f-edf8-415b-aa8f-ac52f415296a@104.21.51.208:443?path=/gPGhgE3kwHB
 
 vless://SVNTEAMx@speedtest.net:443?path=/?ed&security=tls&encryption=none&alpn=h2,http/1.1&host=torb.com&fp=firefox&type=ws&sni=speedtest.net#US🇺🇸
 
-vmess://eyJhZGQiOiJ3d3cuc3BlZWR0ZXN0Lm5ldCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiVXMxLnNvY2lmaWxlcy5jb20uIiwiaWQiOiIzM2FlODZhMC00NzNkLTExZWYtYTZjZC0xMjM5ZDAyNTUyNzIiLCJuZXQiOiJ3cyIsInBhdGgiOiJcL3Ztd3MiLCJwb3J0IjoiODAiLCJwcyI6IkNBXHVkODNjXHVkZGU4XHVkODNjXHVkZGU2Iiwic2N5Ijoibm9uZSIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
+vmess://eyJhZGQiOiJ3d3cuc3BlZWR0ZXN0Lm5ldCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiVXMxLnNvY2lmaWxlcy5jb20uIiwiaWQiOiIzM2FlODZhMC00NzNkLTExZWYtYTZjZC0xMjM5ZDAyNTUyNzIiLCJuZXQiOiJ3cyIsInBhdGgiOiJcL3Ztd3MiLCJwb3J0IjoiODAiLCJwcyI6IlVTXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4Iiwic2N5Ijoibm9uZSIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
 
 vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.130.133:443?path=/&security=tls&encryption=none&host=fraud.chase&type=ws&sni=www.Arizona.edu#US🇺🇸
 
@@ -146,7 +146,7 @@ vless://Join-VPNCUSTOMIZE@braelyn.ns.cloudflare.com:80?type=ws&host=VPNcustomize
 
 vless://601a1cf2-5abf-4cb4-90a7-f82cf3e22bff@108.162.192.20:443?path=/VLESS&security=tls&encryption=none&alpn=h2,http/1.1&host=blaze-uk.my-android-app.info&fp=chrome&type=ws&sni=blaze-uk.my-android-app.info#CA🇨🇦
 
-vless://e73ae05b-ca3d-4063-aaf8-01682aaf5e46@www.speedtest.net:80?path=/Telegram-configMs?ed=2048&security=none&encryption=none&host=5.www.speedtest.net.zula.ir.zemestanil.ir&type=ws#US🇺🇸
+vless://e73ae05b-ca3d-4063-aaf8-01682aaf5e46@www.speedtest.net:80?path=/Telegram-configMs?ed=2048&security=none&encryption=none&host=5.www.speedtest.net.zula.ir.zemestanil.ir&type=ws#CA🇨🇦
 
 vless://d6f79630-aa94-4536-b2ef-899b5acb3b49@104.21.34.74:443?path=/nimws&security=tls&encryption=none&host=unmanliest.appreviewcenter.com&fp=chrome&type=ws&sni=unmanliest.appreviewcenter.com#CA🇨🇦
 
