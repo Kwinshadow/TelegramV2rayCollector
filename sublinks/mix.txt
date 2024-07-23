@@ -30,7 +30,7 @@ vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.19.110.50:443?path=/&security=t
 
 vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.130.133:443?path=/&security=tls&encryption=none&host=fraud.chase&type=ws&sni=www.Arizona.edu#US🇺🇸
 
-vless://cb4fca5f-edf8-415b-aa8f-ac52f415296a@104.21.51.208:443?path=/gPGhgE3kwHBXqpNptGAxAtI0QM&security=tls&encryption=none&alpn=http/1.1&host=de01.tradex2080.com&fp=chrome&type=ws&sni=deefull.tradex2080.com#US🇺🇸
+vless://cb4fca5f-edf8-415b-aa8f-ac52f415296a@104.21.51.208:443?path=/gPGhgE3kwHBXqpNptGAxAtI0QM&security=tls&encryption=none&alpn=http/1.1&host=de01.tradex2080.com&fp=chrome&type=ws&sni=deefull.tradex2080.com#CA🇨🇦
 
 vless://SVNTEAMx@speedtest.net:443?path=/?ed&security=tls&encryption=none&alpn=h2,http/1.1&host=torb.com&fp=firefox&type=ws&sni=speedtest.net#US🇺🇸
 
@@ -44,7 +44,7 @@ vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.194.133:443?path=/&security
 
 vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@www.arizona.edu:443?path=/&security=tls&encryption=none&host=fraud.chase&type=ws&sni=www.Arizona.edu#ES🇪🇸
 
-vless://cd8002d9-e8fd-4411-8bb6-fc80310ff81d@104.26.14.16:2053?path=/&security=tls&encryption=none&host=vip1-romax-tiktok.hsjsak.ir&fp=chrome&type=ws&sni=vip1-romax-tiktok.hsjsak.ir#CA🇨🇦
+vless://cd8002d9-e8fd-4411-8bb6-fc80310ff81d@104.26.14.16:2053?path=/&security=tls&encryption=none&host=vip1-romax-tiktok.hsjsak.ir&fp=chrome&type=ws&sni=vip1-romax-tiktok.hsjsak.ir#US🇺🇸
 
 vless://TELEGRAM-ID-XPNTEAM@xpnteam-mci-free-chanell.eiskaltenaa.ir:2096?mode=multi&security=tls&encryption=none&alpn=h2&authority=&fp=chrome&type=grpc&serviceName=&sni=xpnteam-mci-free-chanell.eiskaltenaa.ir#INT🌍
 
@@ -90,7 +90,7 @@ vmess://eyJhZGQiOiJ6dWxhLmlyIiwiYWlkIjoiMCIsImFscG4iOiJoMixodHRwXC8xLjEiLCJmcCI6
 
 vless://cd8002d9-e8fd-4411-8bb6-fc80310ff81d@avval.ir:2053?path=vless-ws/?ed&security=tls&encryption=none&host=vip1-romax-tiktok.hsjsak.ir&fp=random&type=ws&sni=vip1-romax-tiktok.hsjsak.ir#CA🇨🇦
 
-vless://telegram-id-PcV2ray@www.speedtest.net:8880?path=/-PcV2ry--PcV2ry-TEL--PcV2ry-TEL--PcV2ry&security=none&encryption=none&host=2.V.V2.www.speedtest.net.V.www.speedtest.net.mashtimji.ir.&type=ws#CA🇨🇦
+vless://telegram-id-PcV2ray@www.speedtest.net:8880?path=/-PcV2ry--PcV2ry-TEL--PcV2ry-TEL--PcV2ry&security=none&encryption=none&host=2.V.V2.www.speedtest.net.V.www.speedtest.net.mashtimji.ir.&type=ws#US🇺🇸
 
 vless://Parsashonam-19@104.21.19.124:8880?path=/?ed=2560&security=none&encryption=none&host=myket.xn--ir-6g5cr0ao9vf3s229b.arvancloud.ir.digehkhastehshodamazbasdamanehkharidam.blog.&type=ws#CA🇨🇦
 
@@ -140,5 +140,5 @@ vless://51866260-8c74-4788-8ded-a0e25741df2c@www.parsvds.ir:8080?security=&type=
 
 vless://1ff21df6-10e2-45cf-9cc8-beb0f2792678@2.189.59.2:443?security=tls&sni=mci.unlimiteddev-vpn.Com.&fp=chrome&type=grpc&serviceName=Channel:@UnlimitedDev&encryption=none#IR🇮🇷
 
-vless://feb83e1f-038a-484d-b86d-0a1673311dd4@www.parsvds.ir:80?type=ws&host=VPNcustomize-vpnCUSTOMIZE-VPNcustomize.CUSTOMIZEspeedtest.net.&path=VPNCUSTOMIZE?ed=8080&security=none#CA🇨🇦
+vless://feb83e1f-038a-484d-b86d-0a1673311dd4@www.parsvds.ir:80?type=ws&host=VPNcustomize-vpnCUSTOMIZE-VPNcustomize.CUSTOMIZEspeedtest.net.&path=VPNCUSTOMIZE?ed=8080&security=none#INT🌍
 
