@@ -38,7 +38,7 @@ vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.66.133:443?path=/&security=
 
 vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.2.133:443?path=/&security=tls&encryption=none&host=fraud.chase&type=ws&sni=www.Arizona.edu#US🇺🇸
 
-vless://933bf3c5-5989-4183-bf47-8b1a1af0b7cf@parsvds.com:2095?path=/&security=none&encryption=none&host=upgrade.google.com.www.speedtest.net.www.speedtest.net.piNocchio1.iR.&type=httpupgrade#CA🇨🇦
+vless://933bf3c5-5989-4183-bf47-8b1a1af0b7cf@parsvds.com:2095?path=/&security=none&encryption=none&host=upgrade.google.com.www.speedtest.net.www.speedtest.net.piNocchio1.iR.&type=httpupgrade#US🇺🇸
 
 vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.130.133:443?path=/&security=tls&encryption=none&host=fraud.chase&type=ws&sni=www.Arizona.edu#US🇺🇸
 
@@ -85,4 +85,10 @@ vless://Parsashonam-27@104.21.19.124:8880?path=/?ed=2560&security=none&encryptio
 vless://Parsashonam-27@104.24.185.137:8080?path=/?ed=2560&security=none&encryption=none&host=myket.xn--ir-6g5cr0ao9vf3s229b.arvancloud.ir.digehkhastehshodamazbasdamanehkharidam.blog.&type=ws#CA🇨🇦
 
 vless://Parsashonam-27@190.93.247.247:443?path=/irancell.app&security=tls&encryption=none&alpn=h2,http/1.1&host=mail.offch.blog&fp=chrome&type=ws&sni=mail.offch.blog.#CR🇨🇷
+
+vless://Parsashonam-26@104.21.19.124:8880?path=/?ed=2560&security=none&encryption=none&host=myket.xn--ir-6g5cr0ao9vf3s229b.arvancloud.ir.digehkhastehshodamazbasdamanehkharidam.blog.&type=ws#CA🇨🇦
+
+vless://Parsashonam-26@104.24.185.137:8080?path=/?ed=2560&security=none&encryption=none&host=myket.xn--ir-6g5cr0ao9vf3s229b.arvancloud.ir.digehkhastehshodamazbasdamanehkharidam.blog.&type=ws#CA🇨🇦
+
+vless://Parsashonam-26@190.93.247.247:443?path=/irancell.app&security=tls&encryption=none&alpn=h2,http/1.1&host=mail.offch.blog&fp=chrome&type=ws&sni=mail.offch.blog.#CR🇨🇷
 
