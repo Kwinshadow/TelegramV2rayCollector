@@ -1,7 +1,5 @@
  vless://0d32bff4-7abd-44ef-9d35-e80fcbe49af0@www.parspack.com:8080?type=ws&path=/@NIM_VPN_ir,@NIM_VPN_ir&host=opa.kolacghi.ir&security=none#US🇺🇸
 
-vless://b33e1b10-986f-4b1f-a1ee-c2a21f8899b7@www.parspack.com:8080?type=ws&path=/@NIM_VPN_ir,@NIM_VPN_ir&host=opa.kolacghi.ir&security=none#US🇺🇸
-
 vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.66.133:443?path=/&security=tls&encryption=none&alpn=h3,h2,http/1.1&host=fraud.chase&fp=chrome&type=ws&sni=speedtest.net#US🇺🇸
 
 vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.66.133:443?path=/&security=tls&encryption=none&host=fraud.chase&fp=chrome&type=ws&sni=www.Arizona.edu#US🇺🇸
@@ -32,7 +30,7 @@ vmess://eyJhZGQiOiIxNzIuNjcuNzEuMTYwIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhv
 
 vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.194.133:443?path=/&security=tls&encryption=none&host=fraud.chase&type=ws&sni=www.Arizona.edu#US🇺🇸
 
-vless://94f51d56-204b-466b-b1d7-d397df9273d7@104.21.20.148:2095?path=/Digi-Tel-Digiv-Digicnc-saaaalaaaam-?ed=1024&security=none&encryption=none&host=www.speedtest.net.ftp.debian.org.www.digikala.com.radiotehran.org.&type=ws#US🇺🇸
+vless://94f51d56-204b-466b-b1d7-d397df9273d7@104.21.20.148:2095?path=/Digi-Tel-Digiv-Digicnc-saaaalaaaam-?ed=1024&security=none&encryption=none&host=www.speedtest.net.ftp.debian.org.www.digikala.com.radiotehran.org.&type=ws#CA🇨🇦
 
 vless://94f51d56-204b-466b-b1d7-d397df9273d7@104.21.20.148:2095?path=/Digi-Tel-Digiv-Digicnc-saaaalaaaam-?ed&security=none&encryption=none&host=www.speedtest.net.ftp.debian.org.www.digikala.com.radiotehran.org.&type=ws#US🇺🇸
 
