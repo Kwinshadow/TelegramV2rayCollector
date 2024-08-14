@@ -26,7 +26,7 @@ vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.194.133:443?path=/&security
 
 vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.66.133:443?path=/&security=tls&encryption=none&alpn=h3,h2,http/1.1&host=fraud.chase&fp=chrome&type=ws&sni=speedtest.net#US🇺🇸
 
-vless://5df7962e-f9fe-41e6-ab49-ed96ccb856a7@172.66.44.135:80?path=/&security=none&encryption=none&host=v2ra1.ecrgpk.workers.dev&type=ws#US🇺🇸
+vless://5df7962e-f9fe-41e6-ab49-ed96ccb856a7@172.66.44.135:80?path=/&security=none&encryption=none&host=v2ra1.ecrgpk.workers.dev&type=ws#CA🇨🇦
 
 vless://e773e3fb-e264-4328-a153-93c27dc2c984@104.21.19.124:8880?path=/nazan/pedar/sag&security=none&encryption=none&host=splUs.Ir.DigIcYBer.CLIck.&type=httpupgrade#US🇺🇸
 
@@ -103,6 +103,10 @@ vless://Parsashonam-36@104.21.19.124:8880?path=/?ed=2560&security=none&encryptio
 vless://Parsashonam-36@104.24.185.137:8080?path=/?ed=2560&security=none&encryption=none&host=myket.xn--ir-6g5cr0ao9vf3s229b.arvancloud.ir.DigehKhastehShodamAzBasDamanehKharidam.BlOG.&type=ws#CA🇨🇦
 
 vless://Parsashonam-36@190.93.247.247:443?path=/irancell.app&security=tls&encryption=none&alpn=h2,http/1.1&host=Mail.Offch.BlOG.&fp=chrome&type=ws&sni=Mail.Offch.BlOG.#CR🇨🇷
+
+vless://230897ef-fb28-4881-be0d-01f5bfc882dd@www.parsvds.ir:8080?security=&type=ws&path=/Telegram:@UnlimitedDev-Telegram:@UnlimitedDev?ed=8080&host=unlimiteddev-vpn.unlimiteddev.Community.&encryption=none#CA🇨🇦
+
+vless://230897ef-fb28-4881-be0d-01f5bfc882dd@185.146.173.252:8080?security=&type=ws&path=/Telegram:@UnlimitedDev-Telegram:@UnlimitedDev?ed=8080&host=unlimiteddev-vpn.unlimiteddev.Community.&encryption=none#SE🇸🇪
 
 vless://48514232-5325-46a0-84af-a0db683a5bc9@www.parsvds.ir:8080?security=&type=ws&path=/Telegram:@UnlimitedDev-Telegram:@UnlimitedDev?ed=8080&host=unlimiteddev-vpn.unlimiteddev.Community.&encryption=none#CA🇨🇦
 
