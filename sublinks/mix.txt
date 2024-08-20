@@ -32,7 +32,7 @@ vless://855c5f2f-c42c-41e2-bbb2-35cd09bc55ab@SpeeDTeST.OrG:80?security=none&encr
 
 vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.66.133:443?path=/&security=tls&encryption=none&alpn=h3,h2,http/1.1&host=fraud.chase&fp=chrome&type=ws&sni=speedtest.net#US🇺🇸
 
-vless://855c5f2f-c42c-41e2-bbb2-35cd09bc55ab@SpeeDTeST.OrG:80?security=none&encryption=none&host=WwW.SpeedTest.Net.WhiteBer.InsisTom.D6625996.V06.SiMansaNaT.Ir.&type=ws#US🇺🇸
+vless://855c5f2f-c42c-41e2-bbb2-35cd09bc55ab@SpeeDTeST.OrG:80?security=none&encryption=none&host=WwW.SpeedTest.Net.WhiteBer.InsisTom.D6625996.V06.SiMansaNaT.Ir.&type=ws#CA🇨🇦
 
 vless://855c5f2f-c42c-41e2-bbb2-35cd09bc55ab@SpeeDTeST.OrG:80?security=none&encryption=none&host=WwW.SpeedTest.Net.WhiteBer.InsisTom.D6625996.V05.SiMansaNaT.Ir.&type=ws#US🇺🇸
 
@@ -40,7 +40,7 @@ vmess://eyJhZGQiOiIxNzIuNjQuMTAzLjIxMSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJo
 
 vless://7a5a4624-df8d-4955-bccc-b3fa6161411f@185.146.173.200:443?path=/XV2ray?ed&security=tls&encryption=none&host=fastxv.pages.dev&type=ws&sni=pages.dev#SE🇸🇪
 
-vless://855c5f2f-c42c-41e2-bbb2-35cd09bc55ab@SpeeDTeST.OrG:80?security=none&encryption=none&host=WwW.SpeedTest.Net.WhiteBer.InsisTom.D6625996.V11.SiMansaNaT.Ir.&type=ws#CA🇨🇦
+vless://855c5f2f-c42c-41e2-bbb2-35cd09bc55ab@SpeeDTeST.OrG:80?security=none&encryption=none&host=WwW.SpeedTest.Net.WhiteBer.InsisTom.D6625996.V11.SiMansaNaT.Ir.&type=ws#US🇺🇸
 
 vless://Parsashonam-40@185.146.173.39:8880?path=/&security=none&encryption=none&host=Search.DigiKala.CYoU.&type=httpupgrade#SE🇸🇪
 
@@ -55,6 +55,10 @@ vless://28d6004a-77e0-4668-b6f2-970969c3348b@www.speedtest.net:2052?path=/telegr
 vless://TELEGRAM-ServerNett@[2a01:4f8:c012:9907::1]:22481?security=none&encryption=none&headerType=none&type=tcp#INT🌍
 
 vless://646531dc-4c93-4af6-f534-740316bcaa98@104.21.57.17:2052?path=/telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER?ed=2052&security=none&encryption=none&host=01.V2.h.www.speedtest.net.asve.iR.&type=httpupgrade#CA🇨🇦
+
+vless://Parsashonam-43@185.146.173.39:8880?path=/&security=none&encryption=none&host=Search.DigiKala.CYoU.&type=httpupgrade#SE🇸🇪
+
+vless://Parsashonam-43@[2a01:4f8:1c1b:26eb::1]:8888?security=none&encryption=none&headerType=none&type=tcp#INT🌍
 
 vless://Parsashonam-42@185.146.173.39:8880?path=/&security=none&encryption=none&host=Search.DigiKala.CYoU.&type=httpupgrade#SE🇸🇪
 
