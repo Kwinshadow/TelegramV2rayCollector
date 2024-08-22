@@ -38,9 +38,9 @@ vless://855c5f2f-c42c-41e2-bbb2-35cd09bc55ab@SpeeDTeST.OrG:80?security=none&encr
 
 vless://4ee50f98-d646-4491-b5a5-339fd79153a4@www.speedtest.net:8080?path=/speedtest.net?ed=512&security=none&encryption=none&host=h17.Xn--gmq282ekfhyys3gs.Com.&type=httpupgrade#US🇺🇸
 
-vless://94f51d56-204b-466b-b1d7-d397df9273d4@172.67.193.36:2095?path=/Digi-Tel-Digiv-Digicnc-saaaalaaaam-?ed=1024&security=none&encryption=none&host=www.speedtest.net.ftp.debian.org.www.digikala.com.radiotehran.org.&type=ws#US🇺🇸
+vless://94f51d56-204b-466b-b1d7-d397df9273d4@172.67.193.36:2095?path=/Digi-Tel-Digiv-Digicnc-saaaalaaaam-?ed=1024&security=none&encryption=none&host=www.speedtest.net.ftp.debian.org.www.digikala.com.radiotehran.org.&type=ws#CA🇨🇦
 
-vless://855c5f2f-c42c-41e2-bbb2-35cd09bc55ab@SpeeDTeST.OrG:80?security=none&encryption=none&host=WwW.SpeedTest.Net.WhiteBer.InsisTom.D6625996.V15.SiMansaNaT.Ir.&type=ws#CA🇨🇦
+vless://855c5f2f-c42c-41e2-bbb2-35cd09bc55ab@SpeeDTeST.OrG:80?security=none&encryption=none&host=WwW.SpeedTest.Net.WhiteBer.InsisTom.D6625996.V15.SiMansaNaT.Ir.&type=ws#US🇺🇸
 
 vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.0.0:80?path=/?ed=2048&security=none&encryption=none&host=fraud.chase&type=ws#US🇺🇸
 
@@ -88,6 +88,10 @@ vless://telegram-id-ArV2ray@www.speedtest.net:8880?path=/telegram-ArV2ry,telegra
 
 vless://7a5a4624-df8d-4955-bccc-b3fa6161411f@parsvds.com:443?path=/XV2ry2?ed=512&security=tls&encryption=none&host=Telegram---XV2ray---XV2ray---XV2ray---XV2ray---XV2ray.Pages.dev&type=ws&sni=pages.dev#CA🇨🇦
 
+vless://Parsashonam-45@185.146.173.39:8880?path=/&security=none&encryption=none&host=Search.DigiKala.CYoU.&type=httpupgrade#SE🇸🇪
+
+vless://Parsashonam-45@[2a01:4f8:1c1b:26eb::1]:8888?security=none&encryption=none&headerType=none&type=tcp#INT🌍
+
 vless://Parsashonam-44@185.146.173.39:8880?path=/&security=none&encryption=none&host=Search.DigiKala.CYoU.&type=httpupgrade#SE🇸🇪
 
 vless://Parsashonam-44@[2a01:4f8:1c1b:26eb::1]:8888?security=none&encryption=none&headerType=none&type=tcp#INT🌍
@@ -95,10 +99,6 @@ vless://Parsashonam-44@[2a01:4f8:1c1b:26eb::1]:8888?security=none&encryption=non
 vless://Parsashonam-43@185.146.173.39:8880?path=/&security=none&encryption=none&host=Search.DigiKala.CYoU.&type=httpupgrade#SE🇸🇪
 
 vless://Parsashonam-43@[2a01:4f8:1c1b:26eb::1]:8888?security=none&encryption=none&headerType=none&type=tcp#INT🌍
-
-vless://Parsashonam-42@185.146.173.39:8880?path=/&security=none&encryption=none&host=Search.DigiKala.CYoU.&type=httpupgrade#SE🇸🇪
-
-vless://Parsashonam-42@[2a01:4f8:1c1b:26eb::1]:8888?security=none&encryption=none&headerType=none&type=tcp#INT🌍
 
 vless://935c1cbd-b6da-41a4-8944-c05ed55e1e95@unlimiteddev-vpn.sabadyt.ir:8880?path=/Telegram:@UnlimitedDev-Telegram:@UnlimitedDev-Telegram:@UnlimitedDev&security=none&encryption=none&host=unlimiteddev-vpn.unlimiteddev.Community.&type=httpupgrade#CA🇨🇦
 
