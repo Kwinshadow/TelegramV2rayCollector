@@ -2,6 +2,10 @@
 
 vless://7f3f26f8-bede-496c-aa17-04b6fab0b64f@www.parspack.com:8080?type=ws&path=/@NIM_VPN_ir,@NIM_VPN_ir&host=opa.kolacghi.ir&security=none#GB🇬🇧
 
+vless://5df7962e-f9fe-41e6-ab49-ed96ccb856a7@172.66.44.135:80?path=/&security=none&encryption=none&host=v2ra1.ecrgpk.workers.dev&type=ws#US🇺🇸
+
+vless://f5a78514-1a94-486e-92a7-3bc9817095a6@172.67.156.27:443?path=/nimws&security=tls&encryption=none&host=nitriding.appreviewcenter.com&type=ws&sni=nitriding.appreviewcenter.com#US🇺🇸
+
 vless://6ee1b0f6-845a-454c-a5db-7b0f6bbb3852@185.146.173.90:2053?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&authority=&type=grpc&serviceName=&sni=connectingno.technewspaper.store#SE🇸🇪
 
 vless://5df7962e-f9fe-41e6-ab49-ed96ccb856a7@172.66.44.135:80?path=/&security=none&encryption=none&host=v2ra1.ecrgpk.workers.dev&type=ws#US🇺🇸
