@@ -30,7 +30,7 @@ vless://3ae99ca1-1964-43a0-ac50-0f69fb64a18b@185.234.64.35:8443?mode=gun&securit
 
 vless://89b90001-4206-4871-a99d-1744d48f215b@103.17.99.37:19280?security=reality&encryption=none&pbk=F5_aTQFA2QRCig3L-qT0Qth76JdewSHK5MgEt_p8Dlo&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=cdn-dynmedia-1.microsoft.com&sid=a8bd783f#HK🇭🇰
 
-vless://850a9d4e-4e1f-41e1-8ba1-b8d0a0d6fe00@172.66.47.200:443?path=/pimYiCPFd3353OXG/MTM5LjE4NS4zNC4xMzE=?ed=2560&security=tls&encryption=none&alpn=h2,http/1.1&host=ev2raydev.pages.dev&fp=randomized&type=ws&sni=eV2rAYdEV.pageS.dEv#US🇺🇸
+vless://850a9d4e-4e1f-41e1-8ba1-b8d0a0d6fe00@172.66.47.200:443?path=/pimYiCPFd3353OXG/MTM5LjE4NS4zNC4xMzE=?ed=2560&security=tls&encryption=none&alpn=h2,http/1.1&host=ev2raydev.pages.dev&fp=randomized&type=ws&sni=eV2rAYdEV.pageS.dEv#CA🇨🇦
 
 vless://3ae99ca1-1964-43a0-ac50-0f69fb64a18b@185.234.64.35:8443?mode=gun&security=reality&encryption=none&authority=&pbk=9_hNyoPG96fNIMh4IBQ3gs88n86vwCjp53tL_X_2dy4&fp=chrome&type=grpc&serviceName=grpc&sni=104.16.220.32&sid=0cfbfab0b04ca069#FR🇫🇷
 
@@ -47,26 +47,6 @@ vless://7f69c69c-d4ab-44e5-a12a-c0bd48626228@79.127.70.84:8080?security=none&enc
 vless://5df7962e-f9fe-41e6-ab49-ed96ccb856a7@172.66.44.135:80?path=/&security=none&encryption=none&host=v2ra1.ecrgpk.workers.dev&type=ws#CA🇨🇦
 
 vless://88b2d70d-196c-4948-942d-3200c52d0541@79.127.70.80:2083?security=none&encryption=none&host=www.speedtest.net&headerType=http&type=tcp#IR🇮🇷
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.varzesh360.co:443#BH🇧🇭
-
-ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6cC95RFBsa1lKUHBOc2hxeE8rRjdDOU1iR3hVdGRDampxM0pFQmZnS2tiWT0=@109.204.233.40:57255#FI🇫🇮
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#AE🇦🇪
-
-ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6K3FBKzkrZWVvSXJqRXA2KzBOUmJoVHlJU3ppWk0ybUQ4SlluVzRBK0pWbz0=@109.204.233.40:56365#FI🇫🇮
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#AE🇦🇪
-
-ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@23.150.152.53:9101#US🇺🇸
-
-ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@69.50.95.180:5498#US🇺🇸
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.varzesh360.co:443#BH🇧🇭
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#AE🇦🇪
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#AE🇦🇪
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#AE🇦🇪
 
@@ -94,6 +74,10 @@ vless://ac6b3d48-d16f-4125-9f17-d986541a3ee9@web.bbv2ry.pics:443?type=ws&path=/&
 
 vless://ac6b3d48-d16f-4125-9f17-d986541a3ee9@web.bbv2ry.pics:443?type=ws&path=/&host=Sky2.bbv2ry.pics&security=tls&fp=chrome&alpn=http/1.1,h2&sni=Sky2.bbv2ry.pics#INT🌍
 
+vless://94b50dec-4505-45f3-b1e1-2945d252fec9@speedtest.net:443?security=tls&sni=speedtest.net&fp=firefox&type=ws&path=/Telegram:@UnlimitedDev-Telegram:@UnlimitedDev-Telegram:@UnlimitedDev?ed=8880&host=TEL.UNLIMITEDDEV.http.www.speedtest.net.fast.com.unlimiteddev.ir.&encryption=none#US🇺🇸
+
+vless://94b50dec-4505-45f3-b1e1-2945d252fec9@iranserver.com:80?security=none&sni=join-to.unlimiteddev.community&fp=chrome&type=ws&path=/Telegram:@UnlimitedDev-Telegram:@UnlimitedDev-Telegram:@UnlimitedDev?ed=8880&host=join-to.unlimiteddev.Community.&encryption=none#CA🇨🇦
+
 vless://2a245a20-1f31-4cf6-bc26-8f0929c9a64f@speedtest.net:443?security=tls&sni=speedtest.net&fp=firefox&type=ws&path=/Telegram:@UnlimitedDev-Telegram:@UnlimitedDev-Telegram:@UnlimitedDev?ed=8880&host=TEL.UNLIMITEDDEV.http.www.speedtest.net.fast.com.unlimiteddev.ir.&encryption=none#US🇺🇸
 
 vless://2a245a20-1f31-4cf6-bc26-8f0929c9a64f@iranserver.com:80?security=none&sni=join-to.unlimiteddev.community&fp=chrome&type=ws&path=/Telegram:@UnlimitedDev-Telegram:@UnlimitedDev-Telegram:@UnlimitedDev?ed=8880&host=join-to.unlimiteddev.Community.&encryption=none#CA🇨🇦
@@ -108,5 +92,7 @@ vless://7f64b6ea-a0ee-477f-8322-bc4d73c324b9@iranserver.com:80?security=none&sni
 
 vless://7bd66866-fbf4-4d10-a2cb-7188f37eaff7@speedtest.net:443?security=tls&sni=speedtest.net&fp=firefox&type=ws&path=/Telegram:@UnlimitedDev-Telegram:@UnlimitedDev-Telegram:@UnlimitedDev?ed=8880&host=TEL.UNLIMITEDDEV.http.www.speedtest.net.fast.com.unlimiteddev.ir.&encryption=none#US🇺🇸
 
-vless://8ae2c48b-35fa-4d46-8bc2-b446930bfef9@speedtest.net:443?security=tls&sni=speedtest.net&fp=firefox&type=ws&path=/Telegram:@UnlimitedDev-Telegram:@UnlimitedDev-Telegram:@UnlimitedDev?ed=8880&host=TEL.UNLIMITEDDEV.http.www.speedtest.net.fast.com.unlimiteddev.ir.&encryption=none#US🇺🇸
+vless://e3f3c0f0-3d05-40cd-b6bb-38db4b6e56fc@sinabigo1.soft10.ir:443?type=httpupgrade&host=sinabigo1.soft10.ir&path=/Bia-TO-SiNABiGO-SiNABiGOdfNYO9yksh&security=tls&fp=chrome&sni=sinabigo1.soft10.ir&alpn=http/1.1#CA🇨🇦
+
+vmess://eyJ0bHMiOiJ0bHMiLCJpZCI6ImUzZjNjMGYwLTNkMDUtNDBjZC1iNmJiLTM4ZGI0YjZlNTZmYyIsImZwIjoiY2hyb21lIiwicG9ydCI6IjQ0MyIsInNuaSI6InNpbmFiaWdvMS5zb2Z0MTAuaXIiLCJhbHBuIjoiaHR0cFwvMS4xIiwicHMiOiJDQVx1ZDgzY1x1ZGRlOFx1ZDgzY1x1ZGRlNiIsImFkZCI6InNpbmFiaWdvMS5zb2Z0MTAuaXIiLCJob3N0Ijoic2luYWJpZ28xLnNvZnQxMC5pciIsInBhdGgiOiJcL3NpbmJpZ28tc2luYWJpZ28tc2luYWJpZ28tU2lOQUJpR29kZk5ZTzl5a3NoIiwic2N5IjoiYXV0byIsIm5ldCI6Imh0dHB1cGdyYWRlIn0=
 
