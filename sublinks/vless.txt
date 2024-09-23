@@ -44,7 +44,7 @@ vless://78326cbc-e27d-4b44-8781-bc49473ecff4@79.127.70.84:8880?security=none&enc
 
 vless://7f69c69c-d4ab-44e5-a12a-c0bd48626228@79.127.70.84:8080?security=none&encryption=none&host=www.speedtest.net&headerType=http&type=tcp#IR🇮🇷
 
-vless://5df7962e-f9fe-41e6-ab49-ed96ccb856a7@172.66.44.135:80?path=/&security=none&encryption=none&host=v2ra1.ecrgpk.workers.dev&type=ws#CA🇨🇦
+vless://5df7962e-f9fe-41e6-ab49-ed96ccb856a7@172.66.44.135:80?path=/&security=none&encryption=none&host=v2ra1.ecrgpk.workers.dev&type=ws#US🇺🇸
 
 vless://88b2d70d-196c-4948-942d-3200c52d0541@79.127.70.80:2083?security=none&encryption=none&host=www.speedtest.net&headerType=http&type=tcp#IR🇮🇷
 
@@ -90,7 +90,7 @@ vless://c77fea1b-8ddd-48bb-bb97-0ec6f9f736c9@iranserver.com:80?security=none&sni
 
 vless://7f64b6ea-a0ee-477f-8322-bc4d73c324b9@speedtest.net:443?security=tls&sni=speedtest.net&fp=firefox&type=ws&path=/Telegram:@UnlimitedDev-Telegram:@UnlimitedDev-Telegram:@UnlimitedDev?ed=8880&host=TEL.UNLIMITEDDEV.http.www.speedtest.net.fast.com.unlimiteddev.ir.&encryption=none#US🇺🇸
 
-vless://7f64b6ea-a0ee-477f-8322-bc4d73c324b9@iranserver.com:80?security=none&sni=join-to.unlimiteddev.community&fp=chrome&type=ws&path=/Telegram:@UnlimitedDev-Telegram:@UnlimitedDev-Telegram:@UnlimitedDev?ed=8880&host=join-to.unlimiteddev.Community.&encryption=none#CA🇨🇦
+vless://7f64b6ea-a0ee-477f-8322-bc4d73c324b9@iranserver.com:80?security=none&sni=join-to.unlimiteddev.community&fp=chrome&type=ws&path=/Telegram:@UnlimitedDev-Telegram:@UnlimitedDev-Telegram:@UnlimitedDev?ed=8880&host=join-to.unlimiteddev.Community.&encryption=none#INT🌍
 
-vless://e3f3c0f0-3d05-40cd-b6bb-38db4b6e56fc@sinabigo1.soft10.ir:443?type=httpupgrade&host=sinabigo1.soft10.ir&path=/Bia-TO-SiNABiGO-SiNABiGOdfNYO9yksh&security=tls&fp=chrome&sni=sinabigo1.soft10.ir&alpn=http/1.1#CA🇨🇦
+vless://e3f3c0f0-3d05-40cd-b6bb-38db4b6e56fc@sinabigo1.soft10.ir:443?type=httpupgrade&host=sinabigo1.soft10.ir&path=/Bia-TO-SiNABiGO-SiNABiGOdfNYO9yksh&security=tls&fp=chrome&sni=sinabigo1.soft10.ir&alpn=http/1.1#INT🌍
 
