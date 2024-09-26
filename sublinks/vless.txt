@@ -12,15 +12,15 @@ vless://3ae99ca1-1964-43a0-ac50-0f69fb64a18b@185.234.64.35:8443?mode=gun&securit
 
 vless://0adf9ba5-1519-42e4-aba9-bcce993546b1@103.35.189.42:8443?mode=gun&security=reality&encryption=none&authority=&pbk=zCELVBcsSmZcAU_kLjLLy5RwM4NJK8GPNK4A6Bu4hU8&fp=chrome&type=grpc&serviceName=grpc&sni=104.17.152.139&sid=825728c67d1f07ae#US🇺🇸
 
-vless://8953f5bd-6ac8-4a67-b23e-ad01770ae331@162.159.138.178:8443?path=/?ed=2560&security=tls&encryption=none&host=vless.sub.amclubs.us.kg&type=ws&sni=vless.sub.amclubs.us.kg#US🇺🇸
+vless://8953f5bd-6ac8-4a67-b23e-ad01770ae331@162.159.138.178:8443?path=/?ed=2560&security=tls&encryption=none&host=vless.sub.amclubs.us.kg&type=ws&sni=vless.sub.amclubs.us.kg#CA🇨🇦
 
 vless://89b90001-4206-4871-a99d-1744d48f215b@103.17.99.37:19280?security=reality&encryption=none&pbk=F5_aTQFA2QRCig3L-qT0Qth76JdewSHK5MgEt_p8Dlo&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=cdn-dynmedia-1.microsoft.com&sid=a8bd783f#HK🇭🇰
 
-vless://a94edb46-0734-4593-a8b5-9cd11ddc57f6@172.66.45.7:443?path=/?ed=2560&security=tls&encryption=none&host=5c53ca21.vpn-aryoo.pages.dev&type=ws&sni=5c53ca21.vpn-aryoo.pages.dev#CA🇨🇦
+vless://a94edb46-0734-4593-a8b5-9cd11ddc57f6@172.66.45.7:443?path=/?ed=2560&security=tls&encryption=none&host=5c53ca21.vpn-aryoo.pages.dev&type=ws&sni=5c53ca21.vpn-aryoo.pages.dev#US🇺🇸
 
 vless://850a9d4e-4e1f-41e1-8ba1-b8d0a0d6fe00@172.66.47.200:443?path=/pimYiCPFd3353OXG/MTM5LjE4NS4zNC4xMzE=?ed=2560&security=tls&encryption=none&alpn=h2,http/1.1&host=ev2raydev.pages.dev&fp=randomized&type=ws&sni=eV2rAYdEV.pageS.dEv#CA🇨🇦
 
-vless://e2f4d1fa-0a6d-48c3-a5bb-8b438e78af23@www.speedtest.net:443?path=/?ed=2048&security=tls&encryption=none&host=119f3a0b.chikiy123w.pages.dev&fp=randomized&type=ws&sni=119f3a0b.chikiy123w.pages.dev#CA🇨🇦
+vless://e2f4d1fa-0a6d-48c3-a5bb-8b438e78af23@www.speedtest.net:443?path=/?ed=2048&security=tls&encryption=none&host=119f3a0b.chikiy123w.pages.dev&fp=randomized&type=ws&sni=119f3a0b.chikiy123w.pages.dev#US🇺🇸
 
 vless://c3399596-adb2-4aab-8dde-62260091406b@speedtest.net:443?path=/de?ed=1048&security=tls&encryption=none&host=kianimobileshup.ir&fp=firefox&type=ws&sni=speedtest.net#US🇺🇸
 
@@ -53,6 +53,4 @@ vless://24cd7f26-280d-4127-a31e-3cf7deef971f@iranserver.com:80?security=none&sni
 vless://873c509a-550a-489a-ac1f-c887a4c133b2@speedtest.net:443?security=tls&sni=speedtest.net&fp=firefox&type=ws&path=/Telegram:@UnlimitedDev-Telegram:@UnlimitedDev-Telegram:@UnlimitedDev?ed=8880&host=TEL.UNLIMITEDDEV.http.www.speedtest.net.fast.com.unlimiteddev.ir.&encryption=none#US🇺🇸
 
 vless://873c509a-550a-489a-ac1f-c887a4c133b2@iranserver.com:80?security=none&sni=join-to.unlimiteddev.community&fp=chrome&type=ws&path=/Telegram:@UnlimitedDev-Telegram:@UnlimitedDev-Telegram:@UnlimitedDev?ed=8880&host=join-to.unlimiteddev.Community.&encryption=none#CA🇨🇦
-
-vless://6bc3fbd5-1c71-4321-b5b7-5e1060ed4826@sinabigo.soft10.ir:443?type=ws&host=sinabigo.soft10.ir&path=/Bia--SiNABiGO--SiNABiGO--LqZwXyhqvlBwEC&security=tls&fp=chrome&sni=sinabigo.soft10.ir&alpn=http/1.1#CA🇨🇦
 
