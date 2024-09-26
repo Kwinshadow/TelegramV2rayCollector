@@ -34,7 +34,7 @@ vless://a94edb46-0734-4593-a8b5-9cd11ddc57f6@172.66.45.7:443?path=/?ed=2560&secu
 
 vless://850a9d4e-4e1f-41e1-8ba1-b8d0a0d6fe00@172.66.47.200:443?path=/pimYiCPFd3353OXG/MTM5LjE4NS4zNC4xMzE=?ed=2560&security=tls&encryption=none&alpn=h2,http/1.1&host=ev2raydev.pages.dev&fp=randomized&type=ws&sni=eV2rAYdEV.pageS.dEv#CA🇨🇦
 
-vless://e2f4d1fa-0a6d-48c3-a5bb-8b438e78af23@www.speedtest.net:443?path=/?ed=2048&security=tls&encryption=none&host=119f3a0b.chikiy123w.pages.dev&fp=randomized&type=ws&sni=119f3a0b.chikiy123w.pages.dev#CA🇨🇦
+vless://e2f4d1fa-0a6d-48c3-a5bb-8b438e78af23@www.speedtest.net:443?path=/?ed=2048&security=tls&encryption=none&host=119f3a0b.chikiy123w.pages.dev&fp=randomized&type=ws&sni=119f3a0b.chikiy123w.pages.dev#US🇺🇸
 
 vless://c3399596-adb2-4aab-8dde-62260091406b@speedtest.net:443?path=/de?ed=1048&security=tls&encryption=none&host=kianimobileshup.ir&fp=firefox&type=ws&sni=speedtest.net#US🇺🇸
 
@@ -59,6 +59,10 @@ vless://Parsashonam-66@speedtest.net:443?path=/@Parsashonam/ws?ed=2560&security=
 vless://Parsashonam-66@[2a01:4f8:1c1b:26eb::1]:8888?security=none&encryption=none&headerType=none&type=tcp#INT🌍
 
 vless://ac6b3d48-d16f-4125-9f17-d986541a3ee9@web.bbv2ry.pics:443?type=ws&path=/&host=Sky2.bbv2ry.pics&security=tls&fp=chrome&alpn=http/1.1,h2&sni=Sky2.bbv2ry.pics#INT🌍
+
+vless://92d37260-cf51-437e-a3ac-9eb70cce60b5@speedtest.net:443?security=tls&sni=speedtest.net&fp=firefox&type=ws&path=/Telegram:@UnlimitedDev-Telegram:@UnlimitedDev-Telegram:@UnlimitedDev?ed=8880&host=TEL.UNLIMITEDDEV.http.www.speedtest.net.fast.com.unlimiteddev.ir.&encryption=none#US🇺🇸
+
+vless://92d37260-cf51-437e-a3ac-9eb70cce60b5@iranserver.com:80?security=none&sni=join-to.unlimiteddev.community&fp=chrome&type=ws&path=/Telegram:@UnlimitedDev-Telegram:@UnlimitedDev-Telegram:@UnlimitedDev?ed=8880&host=join-to.unlimiteddev.Community.&encryption=none#CA🇨🇦
 
 vless://a5ff380f-a4a5-48fa-a652-350efdf09e2a@speedtest.net:443?security=tls&sni=speedtest.net&fp=firefox&type=ws&path=/Telegram:@UnlimitedDev-Telegram:@UnlimitedDev-Telegram:@UnlimitedDev?ed=8880&host=TEL.UNLIMITEDDEV.http.www.speedtest.net.fast.com.unlimiteddev.ir.&encryption=none#US🇺🇸
 
