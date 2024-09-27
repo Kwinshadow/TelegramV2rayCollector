@@ -26,7 +26,7 @@ vless://8e1c348a-de32-41a8-8cbe-1c67593ffa34@79.127.70.118:2053?security=none&en
 
 vless://e2f4d1fa-0a6d-48c3-a5bb-8b438e78af23@www.speedtest.net:443?path=/?ed=2048&security=tls&encryption=none&host=119f3a0b.chikiy123w.pages.dev&fp=randomized&type=ws&sni=119f3a0b.chikiy123w.pages.dev#US🇺🇸
 
-vless://a94edb46-0734-4593-a8b5-9cd11ddc57f6@172.66.45.7:443?path=/?ed=2560&security=tls&encryption=none&host=5c53ca21.vpn-aryoo.pages.dev&type=ws&sni=5c53ca21.vpn-aryoo.pages.dev#US🇺🇸
+vless://a94edb46-0734-4593-a8b5-9cd11ddc57f6@172.66.45.7:443?path=/?ed=2560&security=tls&encryption=none&host=5c53ca21.vpn-aryoo.pages.dev&type=ws&sni=5c53ca21.vpn-aryoo.pages.dev#CA🇨🇦
 
 vless://850a9d4e-4e1f-41e1-8ba1-b8d0a0d6fe00@172.66.47.200:443?path=/pimYiCPFd3353OXG/MTM5LjE4NS4zNC4xMzE=?ed=2560&security=tls&encryption=none&alpn=h2,http/1.1&host=ev2raydev.pages.dev&fp=randomized&type=ws&sni=eV2rAYdEV.pageS.dEv#US🇺🇸
 
@@ -36,15 +36,15 @@ vless://3ae99ca1-1964-43a0-ac50-0f69fb64a18b@185.234.64.35:8443?mode=gun&securit
 
 vless://0adf9ba5-1519-42e4-aba9-bcce993546b1@103.35.189.42:8443?mode=gun&security=reality&encryption=none&authority=&pbk=zCELVBcsSmZcAU_kLjLLy5RwM4NJK8GPNK4A6Bu4hU8&fp=chrome&type=grpc&serviceName=grpc&sni=104.17.152.139&sid=825728c67d1f07ae#US🇺🇸
 
-vless://8953f5bd-6ac8-4a67-b23e-ad01770ae331@162.159.138.178:8443?path=/?ed=2560&security=tls&encryption=none&host=vless.sub.amclubs.us.kg&type=ws&sni=vless.sub.amclubs.us.kg#US🇺🇸
+vless://8953f5bd-6ac8-4a67-b23e-ad01770ae331@162.159.138.178:8443?path=/?ed=2560&security=tls&encryption=none&host=vless.sub.amclubs.us.kg&type=ws&sni=vless.sub.amclubs.us.kg#CA🇨🇦
 
 vless://89b90001-4206-4871-a99d-1744d48f215b@103.17.99.37:19280?security=reality&encryption=none&pbk=F5_aTQFA2QRCig3L-qT0Qth76JdewSHK5MgEt_p8Dlo&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=cdn-dynmedia-1.microsoft.com&sid=a8bd783f#HK🇭🇰
 
 vless://a94edb46-0734-4593-a8b5-9cd11ddc57f6@172.66.45.7:443?path=/?ed=2560&security=tls&encryption=none&host=5c53ca21.vpn-aryoo.pages.dev&type=ws&sni=5c53ca21.vpn-aryoo.pages.dev#CA🇨🇦
 
-vless://850a9d4e-4e1f-41e1-8ba1-b8d0a0d6fe00@172.66.47.200:443?path=/pimYiCPFd3353OXG/MTM5LjE4NS4zNC4xMzE=?ed=2560&security=tls&encryption=none&alpn=h2,http/1.1&host=ev2raydev.pages.dev&fp=randomized&type=ws&sni=eV2rAYdEV.pageS.dEv#CA🇨🇦
+vless://850a9d4e-4e1f-41e1-8ba1-b8d0a0d6fe00@172.66.47.200:443?path=/pimYiCPFd3353OXG/MTM5LjE4NS4zNC4xMzE=?ed=2560&security=tls&encryption=none&alpn=h2,http/1.1&host=ev2raydev.pages.dev&fp=randomized&type=ws&sni=eV2rAYdEV.pageS.dEv#US🇺🇸
 
-vless://e2f4d1fa-0a6d-48c3-a5bb-8b438e78af23@www.speedtest.net:443?path=/?ed=2048&security=tls&encryption=none&host=119f3a0b.chikiy123w.pages.dev&fp=randomized&type=ws&sni=119f3a0b.chikiy123w.pages.dev#CA🇨🇦
+vless://e2f4d1fa-0a6d-48c3-a5bb-8b438e78af23@www.speedtest.net:443?path=/?ed=2048&security=tls&encryption=none&host=119f3a0b.chikiy123w.pages.dev&fp=randomized&type=ws&sni=119f3a0b.chikiy123w.pages.dev#US🇺🇸
 
 vless://c3399596-adb2-4aab-8dde-62260091406b@speedtest.net:443?path=/de?ed=1048&security=tls&encryption=none&host=kianimobileshup.ir&fp=firefox&type=ws&sni=speedtest.net#US🇺🇸
 
@@ -55,6 +55,10 @@ vless://3ae99ca1-1964-43a0-ac50-0f69fb64a18b@185.234.64.35:8443?mode=gun&securit
 vless://89b90001-4206-4871-a99d-1744d48f215b@103.17.99.37:19280?security=reality&encryption=none&pbk=F5_aTQFA2QRCig3L-qT0Qth76JdewSHK5MgEt_p8Dlo&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=cdn-dynmedia-1.microsoft.com&sid=a8bd783f#HK🇭🇰
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.co:443#GB🇬🇧
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@103.167.234.98:990#AL🇦🇱
+
+vless://TELEGRAM-ServerNett@[2a01:4f8:1c17:5155::1]:20531?security=none&encryption=none&headerType=none&type=tcp#INT🌍
 
 vless://Parsashonam-67@185.146.173.39:8880?path=/&security=none&encryption=none&host=Search.DigiKala.CYoU.&type=httpupgrade#SE🇸🇪
 
@@ -85,4 +89,8 @@ vless://24cd7f26-280d-4127-a31e-3cf7deef971f@iranserver.com:80?security=none&sni
 vless://873c509a-550a-489a-ac1f-c887a4c133b2@speedtest.net:443?security=tls&sni=speedtest.net&fp=firefox&type=ws&path=/Telegram:@UnlimitedDev-Telegram:@UnlimitedDev-Telegram:@UnlimitedDev?ed=8880&host=TEL.UNLIMITEDDEV.http.www.speedtest.net.fast.com.unlimiteddev.ir.&encryption=none#US🇺🇸
 
 vless://873c509a-550a-489a-ac1f-c887a4c133b2@iranserver.com:80?security=none&sni=join-to.unlimiteddev.community&fp=chrome&type=ws&path=/Telegram:@UnlimitedDev-Telegram:@UnlimitedDev-Telegram:@UnlimitedDev?ed=8880&host=join-to.unlimiteddev.Community.&encryption=none#CA🇨🇦
+
+vmess://eyJwb3J0IjoiNDQzIiwiaG9zdCI6InNpbmFiaWdvMS5zb2Z0MTAuaXIiLCJpZCI6IjFiZjM2YWJlLWFhMzItNDFmNS05NTIzLTcwZDcxMzY0NWJhNiIsInNuaSI6InNpbmFiaWdvMS5zb2Z0MTAuaXIiLCJhbHBuIjoiaHR0cFwvMS4xIiwidGxzIjoidGxzIiwicGF0aCI6IlwvSm9pbmluLS1TaU5BQmlHTy0tU2lOQUJpR08tLVF3bElLdGp5THlIIiwicHMiOiJDQVx1ZDgzY1x1ZGRlOFx1ZDgzY1x1ZGRlNiIsIm5ldCI6Imh0dHB1cGdyYWRlIiwiYWRkIjoic2luYWJpZ28xLnNvZnQxMC5pciIsImZwIjoiY2hyb21lIiwic2N5IjoiYXV0byJ9
+
+vmess://eyJhZGQiOiJzaW5hYmlnbzEuc29mdDEwLmlyIiwicG9ydCI6IjQ0MyIsIm5ldCI6IndzIiwiaG9zdCI6InNpbmFiaWdvMS5zb2Z0MTAuaXIiLCJpZCI6IjFiZjM2YWJlLWFhMzItNDFmNS05NTIzLTcwZDcxMzY0NWJhNiIsInBhdGgiOiJcL0pvaW5pbi0tU2lOQUJpR08tLVNpTkFCaUdPLS1McVp3WHlocXZsQndFQyIsImFscG4iOiJodHRwXC8xLjEiLCJzbmkiOiJzaW5hYmlnbzEuc29mdDEwLmlyIiwiZnAiOiJjaHJvbWUiLCJwcyI6IkNBXHVkODNjXHVkZGU4XHVkODNjXHVkZGU2IiwidGxzIjoidGxzIiwic2N5IjoiYXV0byJ9
 
