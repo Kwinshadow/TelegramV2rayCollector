@@ -4,15 +4,15 @@ vless://e2f4d1fa-0a6d-48c3-a5bb-8b438e78af23@www.speedtest.net:443?path=/?ed=204
 
 vless://a94edb46-0734-4593-a8b5-9cd11ddc57f6@172.66.45.7:443?path=/?ed=2560&security=tls&encryption=none&host=5c53ca21.vpn-aryoo.pages.dev&type=ws&sni=5c53ca21.vpn-aryoo.pages.dev#US🇺🇸
 
-vless://850a9d4e-4e1f-41e1-8ba1-b8d0a0d6fe00@172.66.47.200:443?path=/pimYiCPFd3353OXG/MTM5LjE4NS4zNC4xMzE=?ed=2560&security=tls&encryption=none&alpn=h2,http/1.1&host=ev2raydev.pages.dev&fp=randomized&type=ws&sni=eV2rAYdEV.pageS.dEv#CA🇨🇦
+vless://850a9d4e-4e1f-41e1-8ba1-b8d0a0d6fe00@172.66.47.200:443?path=/pimYiCPFd3353OXG/MTM5LjE4NS4zNC4xMzE=?ed=2560&security=tls&encryption=none&alpn=h2,http/1.1&host=ev2raydev.pages.dev&fp=randomized&type=ws&sni=eV2rAYdEV.pageS.dEv#US🇺🇸
 
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@188.114.97.3:443?path=/fbcWzDzJvoTG4l0W?ed=2560&security=tls&encryption=none&host=v2nGfasT-b95.PAGEs.dEv&type=ws&sni=V2NgFAST-b95.Pages.dEv#US🇺🇸
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@188.114.97.3:443?path=/fbcWzDzJvoTG4l0W?ed=2560&security=tls&encryption=none&host=v2nGfasT-b95.PAGEs.dEv&type=ws&sni=V2NgFAST-b95.Pages.dEv#CA🇨🇦
 
 vless://3ae99ca1-1964-43a0-ac50-0f69fb64a18b@185.234.64.35:8443?mode=gun&security=reality&encryption=none&authority=&pbk=9_hNyoPG96fNIMh4IBQ3gs88n86vwCjp53tL_X_2dy4&fp=chrome&type=grpc&serviceName=grpc&sni=104.16.220.32&sid=0cfbfab0b04ca069#FR🇫🇷
 
 vless://0adf9ba5-1519-42e4-aba9-bcce993546b1@103.35.189.42:8443?mode=gun&security=reality&encryption=none&authority=&pbk=zCELVBcsSmZcAU_kLjLLy5RwM4NJK8GPNK4A6Bu4hU8&fp=chrome&type=grpc&serviceName=grpc&sni=104.17.152.139&sid=825728c67d1f07ae#US🇺🇸
 
-vless://8953f5bd-6ac8-4a67-b23e-ad01770ae331@162.159.138.178:8443?path=/?ed=2560&security=tls&encryption=none&host=vless.sub.amclubs.us.kg&type=ws&sni=vless.sub.amclubs.us.kg#CA🇨🇦
+vless://8953f5bd-6ac8-4a67-b23e-ad01770ae331@162.159.138.178:8443?path=/?ed=2560&security=tls&encryption=none&host=vless.sub.amclubs.us.kg&type=ws&sni=vless.sub.amclubs.us.kg#US🇺🇸
 
 vless://89b90001-4206-4871-a99d-1744d48f215b@103.17.99.37:19280?security=reality&encryption=none&pbk=F5_aTQFA2QRCig3L-qT0Qth76JdewSHK5MgEt_p8Dlo&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=cdn-dynmedia-1.microsoft.com&sid=a8bd783f#HK🇭🇰
 
@@ -45,6 +45,10 @@ vless://Parsashonam-66@speedtest.net:443?path=/@Parsashonam/ws?ed=2560&security=
 vless://Parsashonam-66@[2a01:4f8:1c1b:26eb::1]:8888?security=none&encryption=none&headerType=none&type=tcp#INT🌍
 
 vless://ac6b3d48-d16f-4125-9f17-d986541a3ee9@web.bbv2ry.pics:443?type=ws&path=/&host=Sky2.bbv2ry.pics&security=tls&fp=chrome&alpn=http/1.1,h2&sni=Sky2.bbv2ry.pics#INT🌍
+
+vless://df6fffa2-16c8-4469-977b-a1e4739aeb96@speedtest.net:443?security=tls&sni=speedtest.net&fp=firefox&type=ws&path=/Telegram:@UnlimitedDev-Telegram:@UnlimitedDev-Telegram:@UnlimitedDev?ed=8880&host=TEL.UNLIMITEDDEV.http.www.speedtest.net.fast.com.unlimiteddev.ir.&encryption=none#US🇺🇸
+
+vless://df6fffa2-16c8-4469-977b-a1e4739aeb96@iranserver.com:80?security=none&sni=join-to.unlimiteddev.community&fp=chrome&type=ws&path=/Telegram:@UnlimitedDev-Telegram:@UnlimitedDev-Telegram:@UnlimitedDev?ed=8880&host=join-to.unlimiteddev.Community.&encryption=none#CA🇨🇦
 
 vless://46efd52f-ea02-4544-86a7-d094876a164e@speedtest.net:443?security=tls&sni=speedtest.net&fp=firefox&type=ws&path=/Telegram:@UnlimitedDev-Telegram:@UnlimitedDev-Telegram:@UnlimitedDev?ed=8880&host=TEL.UNLIMITEDDEV.http.www.speedtest.net.fast.com.unlimiteddev.ir.&encryption=none#US🇺🇸
 
