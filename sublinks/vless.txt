@@ -16,11 +16,11 @@ vless://8953f5bd-6ac8-4a67-b23e-ad01770ae331@162.159.138.178:8443?path=/?ed=2560
 
 vless://89b90001-4206-4871-a99d-1744d48f215b@103.17.99.37:19280?security=reality&encryption=none&pbk=F5_aTQFA2QRCig3L-qT0Qth76JdewSHK5MgEt_p8Dlo&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=cdn-dynmedia-1.microsoft.com&sid=a8bd783f#HK🇭🇰
 
-vless://a94edb46-0734-4593-a8b5-9cd11ddc57f6@172.66.45.7:443?path=/?ed=2560&security=tls&encryption=none&host=5c53ca21.vpn-aryoo.pages.dev&type=ws&sni=5c53ca21.vpn-aryoo.pages.dev#US🇺🇸
+vless://a94edb46-0734-4593-a8b5-9cd11ddc57f6@172.66.45.7:443?path=/?ed=2560&security=tls&encryption=none&host=5c53ca21.vpn-aryoo.pages.dev&type=ws&sni=5c53ca21.vpn-aryoo.pages.dev#CA🇨🇦
 
 vless://850a9d4e-4e1f-41e1-8ba1-b8d0a0d6fe00@172.66.47.200:443?path=/pimYiCPFd3353OXG/MTM5LjE4NS4zNC4xMzE=?ed=2560&security=tls&encryption=none&alpn=h2,http/1.1&host=ev2raydev.pages.dev&fp=randomized&type=ws&sni=eV2rAYdEV.pageS.dEv#CA🇨🇦
 
-vless://e2f4d1fa-0a6d-48c3-a5bb-8b438e78af23@www.speedtest.net:443?path=/?ed=2048&security=tls&encryption=none&host=119f3a0b.chikiy123w.pages.dev&fp=randomized&type=ws&sni=119f3a0b.chikiy123w.pages.dev#US🇺🇸
+vless://e2f4d1fa-0a6d-48c3-a5bb-8b438e78af23@www.speedtest.net:443?path=/?ed=2048&security=tls&encryption=none&host=119f3a0b.chikiy123w.pages.dev&fp=randomized&type=ws&sni=119f3a0b.chikiy123w.pages.dev#CA🇨🇦
 
 vless://c3399596-adb2-4aab-8dde-62260091406b@speedtest.net:443?path=/de?ed=1048&security=tls&encryption=none&host=kianimobileshup.ir&fp=firefox&type=ws&sni=speedtest.net#US🇺🇸
 
@@ -33,8 +33,6 @@ vless://89b90001-4206-4871-a99d-1744d48f215b@103.17.99.37:19280?security=reality
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@joinmahdiserver-az7.pages.dev:8443?path=/5MYfsbXPTJZd737O?ed=2560&security=tls&encryption=none&alpn=h2,http/1.1&host=JoInmaHDiseRveR-Az7.paGES.dEv&fp=randomized&type=ws&sni=JOInMahdIServER-Az7.PaGeS.DEv#CA🇨🇦
 
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@www.speedtest.net:8443?path=/ISB6gvC3mmVSWxzE?ed=2560&security=tls&encryption=none&alpn=h2,http/1.1&host=joinmahdiseRver-Az7.pAgES.dev&fp=randomized&type=ws&sni=jOInmAHDiSERVer-AZ7.paGes.dEV#CA🇨🇦
-
-vless://1b3b276f-44b4-4c39-bfdf-67ff6337b41f@www.visa.com:443?path=/Telegram-@V2ray_Alpha/?ed=2560&security=tls&encryption=none&alpn=h2,http/1.1&host=poORiaReD--PErsePOlIs.PagES.DEv&fp=randomized&type=ws&sni=POOrIaREd--persEPolIS.pAGEs.Dev#CA🇨🇦
 
 vless://Parsashonam-68@185.146.173.39:8880?path=/&security=none&encryption=none&host=Search.DigiKala.CYoU.&type=httpupgrade#SE🇸🇪
 
@@ -50,17 +48,11 @@ vless://Parsashonam-67@[2a01:4f8:1c1b:26eb::1]:8888?security=none&encryption=non
 
 vless://ac6b3d48-d16f-4125-9f17-d986541a3ee9@web.bbv2ry.pics:443?type=ws&path=/&host=Sky2.bbv2ry.pics&security=tls&fp=chrome&alpn=http/1.1,h2&sni=Sky2.bbv2ry.pics#INT🌍
 
+vless://7614a561-883f-4447-8a50-178a9060bcea@speedtest.net:443?security=tls&sni=speedtest.net&fp=firefox&type=ws&path=/Telegram:@UnlimitedDev-Telegram:@UnlimitedDev-Telegram:@UnlimitedDev?ed=8880&host=TEL.UNLIMITEDDEV.http.www.speedtest.net.fast.com.unlimiteddev.ir.&encryption=none#US🇺🇸
+
 vless://df6fffa2-16c8-4469-977b-a1e4739aeb96@speedtest.net:443?security=tls&sni=speedtest.net&fp=firefox&type=ws&path=/Telegram:@UnlimitedDev-Telegram:@UnlimitedDev-Telegram:@UnlimitedDev?ed=8880&host=TEL.UNLIMITEDDEV.http.www.speedtest.net.fast.com.unlimiteddev.ir.&encryption=none#US🇺🇸
 
 vless://46efd52f-ea02-4544-86a7-d094876a164e@speedtest.net:443?security=tls&sni=speedtest.net&fp=firefox&type=ws&path=/Telegram:@UnlimitedDev-Telegram:@UnlimitedDev-Telegram:@UnlimitedDev?ed=8880&host=TEL.UNLIMITEDDEV.http.www.speedtest.net.fast.com.unlimiteddev.ir.&encryption=none#US🇺🇸
 
 vless://46efd52f-ea02-4544-86a7-d094876a164e@iranserver.com:80?security=none&sni=join-to.unlimiteddev.community&fp=chrome&type=ws&path=/Telegram:@UnlimitedDev-Telegram:@UnlimitedDev-Telegram:@UnlimitedDev?ed=8880&host=join-to.unlimiteddev.Community.&encryption=none#CA🇨🇦
-
-vless://92d37260-cf51-437e-a3ac-9eb70cce60b5@speedtest.net:443?security=tls&sni=speedtest.net&fp=firefox&type=ws&path=/Telegram:@UnlimitedDev-Telegram:@UnlimitedDev-Telegram:@UnlimitedDev?ed=8880&host=TEL.UNLIMITEDDEV.http.www.speedtest.net.fast.com.unlimiteddev.ir.&encryption=none#US🇺🇸
-
-vless://92d37260-cf51-437e-a3ac-9eb70cce60b5@iranserver.com:80?security=none&sni=join-to.unlimiteddev.community&fp=chrome&type=ws&path=/Telegram:@UnlimitedDev-Telegram:@UnlimitedDev-Telegram:@UnlimitedDev?ed=8880&host=join-to.unlimiteddev.Community.&encryption=none#CA🇨🇦
-
-vless://a5ff380f-a4a5-48fa-a652-350efdf09e2a@speedtest.net:443?security=tls&sni=speedtest.net&fp=firefox&type=ws&path=/Telegram:@UnlimitedDev-Telegram:@UnlimitedDev-Telegram:@UnlimitedDev?ed=8880&host=TEL.UNLIMITEDDEV.http.www.speedtest.net.fast.com.unlimiteddev.ir.&encryption=none#US🇺🇸
-
-vless://a5ff380f-a4a5-48fa-a652-350efdf09e2a@iranserver.com:80?security=none&sni=join-to.unlimiteddev.community&fp=chrome&type=ws&path=/Telegram:@UnlimitedDev-Telegram:@UnlimitedDev-Telegram:@UnlimitedDev?ed=8880&host=join-to.unlimiteddev.Community.&encryption=none#CA🇨🇦
 
