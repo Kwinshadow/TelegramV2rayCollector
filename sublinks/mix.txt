@@ -36,7 +36,7 @@ vless://3ae99ca1-1964-43a0-ac50-0f69fb64a18b@185.234.64.35:8443?mode=gun&securit
 
 vless://0adf9ba5-1519-42e4-aba9-bcce993546b1@103.35.189.42:8443?mode=gun&security=reality&encryption=none&authority=&pbk=zCELVBcsSmZcAU_kLjLLy5RwM4NJK8GPNK4A6Bu4hU8&fp=chrome&type=grpc&serviceName=grpc&sni=104.17.152.139&sid=825728c67d1f07ae#US🇺🇸
 
-vless://8953f5bd-6ac8-4a67-b23e-ad01770ae331@162.159.138.178:8443?path=/?ed=2560&security=tls&encryption=none&host=vless.sub.amclubs.us.kg&type=ws&sni=vless.sub.amclubs.us.kg#CA🇨🇦
+vless://8953f5bd-6ac8-4a67-b23e-ad01770ae331@162.159.138.178:8443?path=/?ed=2560&security=tls&encryption=none&host=vless.sub.amclubs.us.kg&type=ws&sni=vless.sub.amclubs.us.kg#US🇺🇸
 
 vless://89b90001-4206-4871-a99d-1744d48f215b@103.17.99.37:19280?security=reality&encryption=none&pbk=F5_aTQFA2QRCig3L-qT0Qth76JdewSHK5MgEt_p8Dlo&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=cdn-dynmedia-1.microsoft.com&sid=a8bd783f#HK🇭🇰
 
@@ -57,10 +57,6 @@ vless://89b90001-4206-4871-a99d-1744d48f215b@103.17.99.37:19280?security=reality
 vless://1b3b276f-44b4-4c39-bfdf-67ff6337b41f@www.visa.com:443?path=/Telegram-MARAMBASHI/?ed=2560&security=tls&encryption=none&alpn=h2,http/1.1&host=poORiaReD--PErsePOlIs.PagES.DEv&fp=randomized&type=ws&sni=POOrIaREd--persEPolIS.pAGEs.Dev#CA🇨🇦
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#AE🇦🇪
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#GB🇬🇧
-
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@mahdiserver-8kq.pages.dev:2053?path=/rjg4TCTS0bycCI9t?ed=2560&security=tls&encryption=none&alpn=h2,http/1.1&host=MaHdIsErver-8KQ.pagES.dEV&fp=randomized&type=ws&sni=MAHDiSERver-8KQ.PagEs.DeV#INT🌍
 
 vless://Parsashonam-69@185.146.173.39:8880?path=/&security=none&encryption=none&host=Search.DigiKala.CYoU.&type=httpupgrade#SE🇸🇪
 
