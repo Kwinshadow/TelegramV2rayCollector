@@ -28,15 +28,15 @@ vless://e2f4d1fa-0a6d-48c3-a5bb-8b438e78af23@www.speedtest.net:443?path=/?ed=204
 
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.18.39.232:2083?path=/iEKjUnufUjeTiIrt?ed=2560&security=tls&encryption=none&alpn=h2,http/1.1&host=argodev11222.pages.dev&fp=randomized&type=ws&sni=ArGodev11222.PaGes.Dev#US🇺🇸
 
-vless://e8b87dd9-cc8f-407c-a1f3-a564009fe6ee@172.66.47.130:443?path=/?ed=2048&security=tls&encryption=none&host=dc1bf227.vf-8co.pages.dev&type=ws&sni=dc1bf227.vf-8co.pages.dev#US🇺🇸
+vless://e8b87dd9-cc8f-407c-a1f3-a564009fe6ee@172.66.47.130:443?path=/?ed=2048&security=tls&encryption=none&host=dc1bf227.vf-8co.pages.dev&type=ws&sni=dc1bf227.vf-8co.pages.dev#CA🇨🇦
 
 vless://a64f0cea-ca89-40e6-b316-b3badff1eb90@104.18.5.250:443?path=/BDwnEtVwG7BS0S9f?ed=2560&security=tls&encryption=none&alpn=h2,http/1.1&host=iSAA1.paGEs.DEV&fp=randomized&type=ws&sni=iSaa1.PAGeS.DeV#US🇺🇸
 
-vless://38720105-063f-40f5-a5eb-f3198b9b617d@172.66.44.233:443?path=/?ed=2048&security=tls&encryption=none&host=aksnmaioas.pages.dev&type=ws&sni=aksnmaioas.pages.dev#US🇺🇸
+vless://38720105-063f-40f5-a5eb-f3198b9b617d@172.66.44.233:443?path=/?ed=2048&security=tls&encryption=none&host=aksnmaioas.pages.dev&type=ws&sni=aksnmaioas.pages.dev#CA🇨🇦
 
 vless://a64f0cea-ca89-40e6-b316-b3badff1eb90@172.66.47.151:443?path=/T7OzaaLG5SkllZJf?ed=2560&security=tls&encryption=none&alpn=h2,http/1.1&host=IsaA1.pAGEs.DEV&fp=randomized&type=ws&sni=iSaA1.paGes.DEv#CA🇨🇦
 
-vless://c6d299d4-db0b-4444-8b56-b23bbdcbcd67@172.66.47.200:443?path=/StDNeNqkbQxrj6Xy?ed=2560&security=tls&encryption=none&alpn=h2,http/1.1&host=mIDsuMMer-bpb.PAgEs.DeV&fp=randomized&type=ws&sni=midsUMmER-Bpb.pAgES.DEV#US🇺🇸
+vless://c6d299d4-db0b-4444-8b56-b23bbdcbcd67@172.66.47.200:443?path=/StDNeNqkbQxrj6Xy?ed=2560&security=tls&encryption=none&alpn=h2,http/1.1&host=mIDsuMMer-bpb.PAgEs.DeV&fp=randomized&type=ws&sni=midsUMmER-Bpb.pAgES.DEV#CA🇨🇦
 
 vless://4045e84e-5e3c-4f70-8ff5-c1097882a55a@172.66.47.100:443?path=/YE8wFQQnzARDsNUP/ZGUucmFkaWNhbGx5LnBybw==&security=tls&encryption=none&alpn=http/1.1&host=bpb-worker-panel1-e4p.pages.dev&fp=randomized&type=ws&sni=BPb-WOrKeR-paneL1-e4P.PAGES.DEV#US🇺🇸
 
@@ -48,13 +48,13 @@ vless://e8b87dd9-cc8f-407c-a1f3-a564009fe6ee@172.66.47.130:443?path=/?ed=2048&se
 
 vless://a64f0cea-ca89-40e6-b316-b3badff1eb90@104.18.5.250:443?path=/BDwnEtVwG7BS0S9f?ed=2560&security=tls&encryption=none&alpn=h2,http/1.1&host=iSAA1.paGEs.DEV&fp=randomized&type=ws&sni=iSaa1.PAGeS.DeV#US🇺🇸
 
-vless://38720105-063f-40f5-a5eb-f3198b9b617d@172.66.44.233:443?path=/?ed=2048&security=tls&encryption=none&host=aksnmaioas.pages.dev&type=ws&sni=aksnmaioas.pages.dev#CA🇨🇦
+vless://38720105-063f-40f5-a5eb-f3198b9b617d@172.66.44.233:443?path=/?ed=2048&security=tls&encryption=none&host=aksnmaioas.pages.dev&type=ws&sni=aksnmaioas.pages.dev#US🇺🇸
 
 vless://a64f0cea-ca89-40e6-b316-b3badff1eb90@172.66.47.151:443?path=/T7OzaaLG5SkllZJf?ed=2560&security=tls&encryption=none&alpn=h2,http/1.1&host=IsaA1.pAGEs.DEV&fp=randomized&type=ws&sni=iSaA1.paGes.DEv#CA🇨🇦
 
-vless://c6d299d4-db0b-4444-8b56-b23bbdcbcd67@172.66.47.200:443?path=/StDNeNqkbQxrj6Xy?ed=2560&security=tls&encryption=none&alpn=h2,http/1.1&host=mIDsuMMer-bpb.PAgEs.DeV&fp=randomized&type=ws&sni=midsUMmER-Bpb.pAgES.DEV#CA🇨🇦
+vless://c6d299d4-db0b-4444-8b56-b23bbdcbcd67@172.66.47.200:443?path=/StDNeNqkbQxrj6Xy?ed=2560&security=tls&encryption=none&alpn=h2,http/1.1&host=mIDsuMMer-bpb.PAgEs.DeV&fp=randomized&type=ws&sni=midsUMmER-Bpb.pAgES.DEV#US🇺🇸
 
-vless://4045e84e-5e3c-4f70-8ff5-c1097882a55a@172.66.47.100:443?path=/YE8wFQQnzARDsNUP/ZGUucmFkaWNhbGx5LnBybw==&security=tls&encryption=none&alpn=http/1.1&host=bpb-worker-panel1-e4p.pages.dev&fp=randomized&type=ws&sni=BPb-WOrKeR-paneL1-e4P.PAGES.DEV#CA🇨🇦
+vless://4045e84e-5e3c-4f70-8ff5-c1097882a55a@172.66.47.100:443?path=/YE8wFQQnzARDsNUP/ZGUucmFkaWNhbGx5LnBybw==&security=tls&encryption=none&alpn=http/1.1&host=bpb-worker-panel1-e4p.pages.dev&fp=randomized&type=ws&sni=BPb-WOrKeR-paneL1-e4P.PAGES.DEV#US🇺🇸
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.varzesh360.co:443#BH🇧🇭
 
