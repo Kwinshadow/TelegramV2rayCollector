@@ -86,10 +86,6 @@ vless://012116a8-7d92-4c5f-b3f2-13a0e9b37ba9@www.speedtest.net:2052?path=/Telegr
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#GB🇬🇧
 
-vless://TELEGRAM-ServerNett@[2a01:4f8:c010:4462::1]:43120?security=none&encryption=none&headerType=none&type=tcp#INT🌍
-
-vless://4045e84e-5e3c-4f70-8ff5-c1097882a55a@bpb-worker-panel1-e4p.pages.dev:443?path=/Telegram@V2ray_Alpha/?ed=2560&security=tls&encryption=none&alpn=http/1.1&host=bpb-worker-panel1-e4p.pages.dev&fp=randomized&type=ws&sni=bpb-wOrkeR-PANEl1-E4P.PaGeS.Dev#INT🌍
-
 vless://Parsashonam-79@185.146.173.39:8880?path=/&security=none&encryption=none&host=Search.DigiKala.CYoU.&type=httpupgrade#SE🇸🇪
 
 vless://Parsashonam-79@Zmaoz.Faculty.Ucdavis.Edu:443?path=/@Parsashonam/ws?ed=2560&security=tls&encryption=none&alpn=h2,http/1.1&host=Parsashonam0.com&fp=firefox&type=ws&sni=Zmaoz.Faculty.Ucdavis.Edu.#ES🇪🇸
@@ -112,6 +108,10 @@ vless://ac6b3d48-d16f-4125-9f17-d986541a3ee9@web.bbv2ry.pics:443?type=ws&path=/&
 
 vless://ac6b3d48-d16f-4125-9f17-d986541a3ee9@web.bbv2ry.pics:443?type=ws&path=/&host=Sky2.bbv2ry.pics&security=tls&fp=chrome&alpn=http/1.1,h2&sni=Sky2.bbv2ry.pics#INT🌍
 
+vless://fc6364d1-3d9d-480f-be9a-7b6d6a57e584@live.wkrq.com:443?security=tls&sni=live.wkrq.com&fp=chrome&type=ws&path=@UnlimitedDev----@UnlimitedDev-----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev?ed=8880&host=UNLIMITEDDEV.zr.ir&encryption=none#ES🇪🇸
+
+vless://a7c1b775-b14d-4b5d-b2ed-f4964a60d69b@104.17.234.114:443?security=tls&sni=UNLIMITEDDEV.unlimiteddev-vpn.com&fp=chrome&type=ws&path=/@UnlimitedDev----@UnlimitedDev-----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev?ed=8080&host=UNLIMITEDDEV.unlimiteddev-vpn.com&encryption=none#INT🌍
+
 vless://7cc46a92-dc37-4aae-b58c-c1b56257a14f@live.wkrq.com:443?security=tls&sni=live.wkrq.com&fp=chrome&type=ws&path=@UnlimitedDev----@UnlimitedDev-----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev?ed=8880&host=UNLIMITEDDEV.zr.ir&encryption=none#ES🇪🇸
 
 vless://537639f0-21cc-4cf2-b2f8-55ef652abfdb@104.17.234.114:443?security=tls&sni=UNLIMITEDDEV.unlimiteddev-vpn.com&fp=chrome&type=ws&path=/@UnlimitedDev----@UnlimitedDev-----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev?ed=8080&host=UNLIMITEDDEV.unlimiteddev-vpn.com&encryption=none#INT🌍
@@ -119,12 +119,4 @@ vless://537639f0-21cc-4cf2-b2f8-55ef652abfdb@104.17.234.114:443?security=tls&sni
 vless://0bbc49e0-5e6d-4a18-8efe-b06d1f9cb2c9@live.wkrq.com:443?security=tls&sni=live.wkrq.com&fp=chrome&type=ws&path=@UnlimitedDev----@UnlimitedDev-----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev?ed=8880&host=UNLIMITEDDEV.zr.ir&encryption=none#ES🇪🇸
 
 vless://c0a883b7-f908-4a63-a599-b4b551297f09@104.17.234.114:443?security=tls&sni=UNLIMITEDDEV.unlimiteddev-vpn.com&fp=chrome&type=ws&path=/@UnlimitedDev----@UnlimitedDev-----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev?ed=8080&host=UNLIMITEDDEV.unlimiteddev-vpn.com&encryption=none#INT🌍
-
-vless://998d2d83-40cf-4a69-9072-d5112d6d86c3@live.wkrq.com:443?security=tls&sni=live.wkrq.com&fp=chrome&type=ws&path=@UnlimitedDev----@UnlimitedDev-----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev?ed=8880&host=UNLIMITEDDEV.zr.ir&encryption=none#ES🇪🇸
-
-vless://57000b59-476f-4a60-bd83-efe418bb3965@104.17.234.114:443?security=tls&sni=UNLIMITEDDEV.unlimiteddev-vpn.com&fp=chrome&type=ws&path=/@UnlimitedDev----@UnlimitedDev-----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev?ed=8080&host=UNLIMITEDDEV.unlimiteddev-vpn.com&encryption=none#INT🌍
-
-vless://c5beddd5-94a8-40dd-9374-b14b7a5082d8@live.wkrq.com:443?security=tls&sni=live.wkrq.com&fp=chrome&type=ws&path=@UnlimitedDev----@UnlimitedDev-----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev?ed=8880&host=UNLIMITEDDEV.zr.ir&encryption=none#ES🇪🇸
-
-vless://e3785672-3d6a-488e-bdae-3cb0fd18cc1a@104.17.234.114:443?security=tls&sni=UNLIMITEDDEV.unlimiteddev-vpn.com&fp=chrome&type=ws&path=/@UnlimitedDev----@UnlimitedDev-----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev?ed=8080&host=UNLIMITEDDEV.unlimiteddev-vpn.com&encryption=none#INT🌍
 
