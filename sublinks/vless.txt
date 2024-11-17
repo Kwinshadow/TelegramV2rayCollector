@@ -30,6 +30,8 @@ vless://262ddcb2-e051-466b-8d1c-d70cfc2a10f1@www.speedtest.net:2052?path=/&secur
 
 vless://1c5aa689-b879-4cf2-953a-d3bff35db893@www.speedtest.net:443?mode=gun&security=tls&alpn=h3,h2,http/1.1&encryption=none&authority=&fp=chrome&type=grpc&serviceName=@ConfigTell,@ConfigTell,@ConfigTell&sni=www.felafel.org#US🇺🇸
 
+vless://bba5ce00-09e4-4fce-8d26-35db5b4e38d4@cfpage-39t.pages.dev:443?path=/TELEGRAM-MARAMBASHI/?ed=2560&security=tls&encryption=none&host=cfpage-39t.pages.dev&fp=random&type=ws&sni=cfpage-39t.pages.dev#US🇺🇸
+
 vless://Parsashonam-108@185.146.173.39:8880?path=/&security=none&encryption=none&host=Search.DigiKala.CYoU.&type=httpupgrade#SE🇸🇪
 
 vless://Parsashonam-108@Zmaoz.Faculty.Ucdavis.Edu:443?path=/@Parsashonam/ws?ed=2560&security=tls&encryption=none&alpn=h2,http/1.1&host=Parsashonam0.com&fp=firefox&type=ws&sni=Zmaoz.Faculty.Ucdavis.Edu.#ES🇪🇸
