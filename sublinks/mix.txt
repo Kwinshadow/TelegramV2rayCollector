@@ -40,11 +40,11 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#AE�
 
 vless://fca01448-d84a-436e-9aec-3be1ebdfb350@199.34.228.178:443?path=/if1pdmbi6sinplj2/mtu4ljewms4ymdmumti3?ed=2560&security=tls&encryption=none&host=sB-1u6.Pages.DEV&type=ws&sni=sB-1u6.Pages.DEV#US🇺🇸
 
-vless://50b7fc84-85b4-4043-b1f7-6477c9017a44@162.159.152.2:443?path=/purlitefastest.pages.dev/?ed=2560&security=tls&encryption=none&host=purlitefastest.pages.dev&type=ws&sni=purlitefastest.pages.dev#INT🌍
+vless://50b7fc84-85b4-4043-b1f7-6477c9017a44@162.159.152.2:443?path=/purlitefastest.pages.dev/?ed=2560&security=tls&encryption=none&host=purlitefastest.pages.dev&type=ws&sni=purlitefastest.pages.dev#US🇺🇸
 
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.47.197:2053?path=/QrovCgkdpds4nV8U?ed=2560&security=tls&alpn=h2,http/1.1&encryption=none&host=bpb-worker-panel-brh.pages.dev&fp=randomized&type=ws&sni=bPb-worKEr-PaNeL-BrH.PAGeS.dEv#INT🌍
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.47.197:2053?path=/QrovCgkdpds4nV8U?ed=2560&security=tls&alpn=h2,http/1.1&encryption=none&host=bpb-worker-panel-brh.pages.dev&fp=randomized&type=ws&sni=bPb-worKEr-PaNeL-BrH.PAGeS.dEv#US🇺🇸
 
-vless://d3a12e79-ef42-4268-b367-42eeb3494e60@104.21.233.139:443?path=/?ed=2048&security=tls&encryption=none&host=Hagh.PaGes.DEv&type=ws&sni=Hagh.PaGes.DEv#INT🌍
+vless://d3a12e79-ef42-4268-b367-42eeb3494e60@104.21.233.139:443?path=/?ed=2048&security=tls&encryption=none&host=Hagh.PaGes.DEv&type=ws&sni=Hagh.PaGes.DEv#CA🇨🇦
 
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.47.115:443?path=/tmlO9TqxlsNgBI70?ed=2560&security=tls&encryption=none&host=6b700e9b.bpb-worker-panel-9r9.pages.dev&type=ws&sni=6B700E9B.BPB-WORKEr-PAnel-9r9.PAGeS.dev#INT🌍
 
@@ -82,15 +82,15 @@ vless://ac6b3d48-d16f-4125-9f17-d986541a3ee9@web.bbv2ry.pics:443?type=ws&path=/&
 
 vless://c7c70041-3470-4d74-8a51-5b7e77d24d3a@104.17.234.128:8080?security=none&type=ws&path=@UnlimitedDev----@UnlimitedDev-----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev?ed=8880&host=join.bede.unlimiteddev.www.speedtest.net.de.abrha.co.unlimiteddev.community.&encryption=none#INT🌍
 
-vless://029704f4-f54c-435c-b877-3e77dba73095@www.speedtest.net:80?security=&type=ws&path=@UnlimitedDev----@UnlimitedDev-----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev?ed=8880&host=join.bede.unlimiteddev.www.speedtest.net.de.abrha.co.unlimiteddev-vpn.com&encryption=none#CA🇨🇦
+vless://029704f4-f54c-435c-b877-3e77dba73095@www.speedtest.net:80?security=&type=ws&path=@UnlimitedDev----@UnlimitedDev-----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev?ed=8880&host=join.bede.unlimiteddev.www.speedtest.net.de.abrha.co.unlimiteddev-vpn.com&encryption=none#INT🌍
 
-vless://c7c70041-3470-4d74-8a51-5b7e77d24d3a@104.17.234.128:8080?security=none&type=ws&path=@UnlimitedDev----@UnlimitedDev-----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev?ed=8880&host=join.bede.UNLIMITEDDEV.www.speedtest.net.de.Abrha.co.sabadyt.ir&encryption=none#CA🇨🇦
+vless://c7c70041-3470-4d74-8a51-5b7e77d24d3a@104.17.234.128:8080?security=none&type=ws&path=@UnlimitedDev----@UnlimitedDev-----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev?ed=8880&host=join.bede.UNLIMITEDDEV.www.speedtest.net.de.Abrha.co.sabadyt.ir&encryption=none#INT🌍
 
-vless://db5e3e84-9ce0-40c4-f4b2-7bd4a16de2a4@104.17.234.128:8080?security=none&type=ws&path=@UnlimitedDev----@UnlimitedDev-----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev?ed=8880&host=join.bede.unlimiteddev.www.speedtest.net.de.abrha.co.unlimiteddev.community.&encryption=none#CA🇨🇦
+vless://db5e3e84-9ce0-40c4-f4b2-7bd4a16de2a4@104.17.234.128:8080?security=none&type=ws&path=@UnlimitedDev----@UnlimitedDev-----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev?ed=8880&host=join.bede.unlimiteddev.www.speedtest.net.de.abrha.co.unlimiteddev.community.&encryption=none#INT🌍
 
-vless://f92b39b8-e639-44c4-8de0-bd70f5e46e75@www.speedtest.net:80?security=&type=ws&path=@UnlimitedDev----@UnlimitedDev-----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev?ed=8880&host=join.bede.unlimiteddev.www.speedtest.net.de.abrha.co.unlimiteddev-vpn.com&encryption=none#CA🇨🇦
+vless://f92b39b8-e639-44c4-8de0-bd70f5e46e75@www.speedtest.net:80?security=&type=ws&path=@UnlimitedDev----@UnlimitedDev-----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev?ed=8880&host=join.bede.unlimiteddev.www.speedtest.net.de.abrha.co.unlimiteddev-vpn.com&encryption=none#INT🌍
 
-vless://db5e3e84-9ce0-40c4-f4b2-7bd4a16de2a4@104.17.234.128:8080?security=none&type=ws&path=@UnlimitedDev----@UnlimitedDev-----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev?ed=8880&host=join.bede.UNLIMITEDDEV.www.speedtest.net.de.Abrha.co.sabadyt.ir&encryption=none#CA🇨🇦
+vless://db5e3e84-9ce0-40c4-f4b2-7bd4a16de2a4@104.17.234.128:8080?security=none&type=ws&path=@UnlimitedDev----@UnlimitedDev-----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev?ed=8880&host=join.bede.UNLIMITEDDEV.www.speedtest.net.de.Abrha.co.sabadyt.ir&encryption=none#INT🌍
 
 vless://510718c4-3925-4b4d-c34c-59871cf0af04@104.17.234.128:8080?security=none&type=ws&path=@UnlimitedDev----@UnlimitedDev-----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev?ed=8880&host=join.bede.unlimiteddev.www.speedtest.net.de.abrha.co.unlimiteddev.community.&encryption=none#INT🌍
 
