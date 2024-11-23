@@ -38,7 +38,7 @@ vless://c31d6b4e-6105-4197-c94d-c45bce6c23a2@2.189.104.10:52418?path=/&security=
 
 vless://fca01448-d84a-436e-9aec-3be1ebdfb350@199.34.228.178:443?path=/if1pdmbi6sinplj2/mtu4ljewms4ymdmumti3?ed=2560&security=tls&encryption=none&host=sB-1u6.Pages.DEV&type=ws&sni=sB-1u6.Pages.DEV#US🇺🇸
 
-vless://9902fc94-31f9-4afe-b37a-82f5790b3d2a@172.66.47.192:443?path=/&security=tls&encryption=none&host=dabF5Ca6.dE1-1nD.PaGeS.dEv&type=ws&sni=dabF5Ca6.dE1-1nD.PaGeS.dEv#US🇺🇸
+vless://9902fc94-31f9-4afe-b37a-82f5790b3d2a@172.66.47.192:443?path=/&security=tls&encryption=none&host=dabF5Ca6.dE1-1nD.PaGeS.dEv&type=ws&sni=dabF5Ca6.dE1-1nD.PaGeS.dEv#CA🇨🇦
 
 vless://9d5e7586-64e1-4c29-9d47-6cbbd57fe8d1@104.16.190.131:8443?path=/?ed=2048&security=tls&encryption=none&host=pardazeshvpn-tg48.pages.dev&type=ws&sni=pardazeshvpn-tg48.pages.dev#CA🇨🇦
 
@@ -86,6 +86,14 @@ vless://Parsashonam-112@[2a01:4f8:1c1b:26eb::1]:8888?security=none&encryption=no
 
 vless://ac6b3d48-d16f-4125-9f17-d986541a3ee9@web.bbv2ry.pics:443?type=ws&path=/&host=Sky2.bbv2ry.pics&security=tls&fp=chrome&alpn=http/1.1,h2&sni=Sky2.bbv2ry.pics#INT🌍
 
+vless://2487c34c-016e-43f3-9460-cb13b1f4c418@unlimiteddev.fastly80-3.hosting-ip.com:80?security=none&alpn=h3,h2,http/1.1&fp=chrome&type=ws&path=@UnlimitedDev----@UnlimitedDev-----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev?ed=2480&host=UNLIMITEDDEV.channel-telegram-1.ir&encryption=none#US🇺🇸
+
+vless://2487c34c-016e-43f3-9460-cb13b1f4c418@unlimiteddev.fastly80-2.hosting-ip.com:80?security=none&alpn=h3,h2,http/1.1&fp=chrome&type=ws&path=@UnlimitedDev----@UnlimitedDev-----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev?ed=2480&host=UNLIMITEDDEV.channel-telegram-1.ir&encryption=none#US🇺🇸
+
+vless://825e491b-ea38-4f77-c7c7-2b678ef03785@104.17.234.128:8080?security=none&type=ws&path=@UnlimitedDev----@UnlimitedDev-----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev?ed=8880&host=join.bede.unlimiteddev.www.speedtest.net.de.abrha.co.unlimiteddev.community.&encryption=none#INT🌍
+
+vless://825e491b-ea38-4f77-c7c7-2b678ef03785@104.17.234.128:8080?security=none&type=ws&path=@UnlimitedDev----@UnlimitedDev-----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev?ed=8880&host=join.bede.UNLIMITEDDEV.www.speedtest.net.de.Abrha.co.sabadyt.ir&encryption=none#INT🌍
+
 vless://c3914fad-d88b-4f29-fc16-7823139dcc55@unlimiteddev.fastly80-3.hosting-ip.com:80?security=none&alpn=h3,h2,http/1.1&fp=chrome&type=ws&path=@UnlimitedDev----@UnlimitedDev-----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev?ed=2480&host=UNLIMITEDDEV.channel-telegram-1.ir&encryption=none#US🇺🇸
 
 vless://c3914fad-d88b-4f29-fc16-7823139dcc55@unlimiteddev.fastly80-2.hosting-ip.com:80?security=none&alpn=h3,h2,http/1.1&fp=chrome&type=ws&path=@UnlimitedDev----@UnlimitedDev-----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev?ed=2480&host=UNLIMITEDDEV.channel-telegram-1.ir&encryption=none#US🇺🇸
@@ -101,8 +109,4 @@ vless://60483bc2-ba33-46aa-bedd-20056a505aca@unlimiteddev.fastly80-2.hosting-ip.
 vless://575d6a95-279e-4287-803d-069c2fe4ac08@104.17.234.128:8080?security=none&type=ws&path=@UnlimitedDev----@UnlimitedDev-----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev?ed=8880&host=join.bede.unlimiteddev.www.speedtest.net.de.abrha.co.unlimiteddev.community.&encryption=none#INT🌍
 
 vless://575d6a95-279e-4287-803d-069c2fe4ac08@104.17.234.128:8080?security=none&type=ws&path=@UnlimitedDev----@UnlimitedDev-----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev?ed=8880&host=join.bede.UNLIMITEDDEV.www.speedtest.net.de.Abrha.co.sabadyt.ir&encryption=none#INT🌍
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToySFpoTUZIemU0ZUdHUTRONDNERjdaN2hOdE1ZOWs5b25wbnY3M2VMQWh2U1dWOXoyVjdqYlR6dHV5a2lWNEhxN1ZNdUFWZG9UenJocGRNWlNqb3ZjamdIWUVuV2RDamg=@mysql.firmconcha.one:57073?type=tcp#US🇺🇸
-
-vless://251780c1-1501-43b3-be2a-d144a20d479a@economist.com:443?type=httpupgrade&host=hdfy5persiaserverc1.afsharidempire.uk&path=/VM9JThTKh0lWQPcIDB&security=tls&fp=chrome&sni=hdfy5persiaserverc1.afsharidempire.uk&alpn=http/1.1#INT🌍
 
