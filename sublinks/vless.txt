@@ -20,9 +20,9 @@ vless://c31d6b4e-6105-4197-c94d-c45bce6c23a2@2.189.104.10:52418?path=/&security=
 
 vless://fca01448-d84a-436e-9aec-3be1ebdfb350@199.34.228.178:443?path=/if1pdmbi6sinplj2/mtu4ljewms4ymdmumti3?ed=2560&security=tls&encryption=none&host=sB-1u6.Pages.DEV&type=ws&sni=sB-1u6.Pages.DEV#US🇺🇸
 
-vless://9902fc94-31f9-4afe-b37a-82f5790b3d2a@172.66.47.192:443?path=/&security=tls&encryption=none&host=dabF5Ca6.dE1-1nD.PaGeS.dEv&type=ws&sni=dabF5Ca6.dE1-1nD.PaGeS.dEv#INT🌍
+vless://9902fc94-31f9-4afe-b37a-82f5790b3d2a@172.66.47.192:443?path=/&security=tls&encryption=none&host=dabF5Ca6.dE1-1nD.PaGeS.dEv&type=ws&sni=dabF5Ca6.dE1-1nD.PaGeS.dEv#CA🇨🇦
 
-vless://9d5e7586-64e1-4c29-9d47-6cbbd57fe8d1@104.16.190.131:8443?path=/?ed=2048&security=tls&encryption=none&host=pardazeshvpn-tg48.pages.dev&type=ws&sni=pardazeshvpn-tg48.pages.dev#INT🌍
+vless://9d5e7586-64e1-4c29-9d47-6cbbd57fe8d1@104.16.190.131:8443?path=/?ed=2048&security=tls&encryption=none&host=pardazeshvpn-tg48.pages.dev&type=ws&sni=pardazeshvpn-tg48.pages.dev#CA🇨🇦
 
 vless://d17bc275-a17b-4d41-9f52-879f6619ac2b@188.245.90.214:1633?security=reality&encryption=none&pbk=ANlgAsYC8HmKfJnc5SFvru822urkxG1PzW1Zw4Vbm0Q&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=stackoverflow.com&sid=9bc0a55a5379c0ed#DE🇩🇪
 
@@ -36,13 +36,11 @@ vless://1250c0dd-856e-4cb9-b254-5d8e55419fed@57.128.123.50:2096?path=/&security=
 
 vless://0fdc0235-0055-4203-a66f-f29e7e663d10@104.21.83.62:2096?path=/?ed=2048&security=tls&encryption=none&host=tnetplus3.pages.dev&fp=randomized&type=ws&sni=tnetplus3.pages.dev#INT🌍
 
-vless://ded3ea8d-4993-41a2-b28b-b8208036d1e1@www.speedtest.net:8443?path=/Telegram,VPNCUSTOMIZE,Telegram,VPNCUSTOMIZE,Telegram,VPNCUSTOMIZE,Telegram,VPNCUSTOMIZE,Telegram,VPNCUSTOMIZE,Telegram,VPNCUSTOMIZE,Telegram,VPNCUSTOMIZE,Telegram,VPNCUSTOMIZE?ed=2480&security=tls&alpn=h3,h2,http/1.1&encryption=none&host=join.bede.telegram.VPNCUSTOMIZE.www.speedtest.net.Abrha.co.za&fp=chrome&type=ws&sni=join.bede.telegram.VPNCUSTOMIZE.www.speedtest.net.Abrha.co.za#INT🌍
+vless://TELEGRAM-ServerNett@[2a01:4f8:c013:7538::1]:44635?security=none&encryption=none&headerType=none&type=tcp#INT🌍
 
-vless://c631264a-22cd-4817-a336-284c82d9511f@VPNCSTOMIZE.fastly80-3.hosting-ip.com:80?path=/Telegram,VPNCUSTOMIZE,Telegram,VPNCUSTOMIZE,Telegram,VPNCUSTOMIZE,Telegram,VPNCUSTOMIZE,Telegram,VPNCUSTOMIZE,Telegram,VPNCUSTOMIZE,Telegram,VPNCUSTOMIZE,Telegram,VPNCUSTOMIZE?ed&security=none&encryption=none&host=api.nhl.ir&type=ws#US🇺🇸
+vless://ca06ac35-c4dd-476b-8c5f-ff92abc37799@kinsley.ns.cloudflare.com:443?path=/&security=tls&encryption=none&host=vless.pages.us.kg&type=ws&sni=vless.pages.us.kg#INT🌍
 
-vless://15f34214-d8de-41e9-ba72-93daeafc59ef@chatgpt.com:2087?path=/TELEGRAM-MARAMBASHI_MARAMBASHI/?ed=2560&security=tls&encryption=none&host=subhiddify.mmdv2.host&type=ws&sni=subhiddify.mmdv2.host#INT🌍
-
-vless://2e9a0784-86fc-4e1b-861f-5dd6430cfdce@zula.ir:443?path=/TELEGRAM-MARAMBASHI_MARAMBASHI/?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=turkey-hp.pages.dev&fp=randomized&type=ws&sni=TurKEY-Hp.pAGEs.dev#INT🌍
+vless://TELEGRAM-NUFiLTER@nufilter.fastly80-3.hosting-ip.com:80?path=/telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER?ed=2048&security=none&encryption=none&host=api.nhl4.ir&type=ws#US🇺🇸
 
 vless://Parsashonam-113@185.146.173.39:8880?path=/&security=none&encryption=none&host=Search.DigiKala.CYoU.&type=httpupgrade#SE🇸🇪
 
@@ -84,5 +82,5 @@ vless://575d6a95-279e-4287-803d-069c2fe4ac08@104.17.234.128:8080?security=none&t
 
 vless://b9e82117-ed3a-4098-8153-100ca12aa523@fonts.com:443?mode=gun&security=tls&alpn=h2&encryption=none&fp=chrome&type=grpc&serviceName=VM9JThTUmfBox4IUADVrA&sni=hdfy5persiaserverc3.freeairlaines.com#INT🌍
 
-vless://b9e82117-ed3a-4098-8153-100ca12aa523@braze.com:443?mode=gun&security=tls&alpn=h2&encryption=none&fp=chrome&type=grpc&serviceName=VM9JThTUmfBox4IUADVrA&sni=hdfy5persiaserverc1.afsharidempire.uk#CA🇨🇦
+vless://b9e82117-ed3a-4098-8153-100ca12aa523@braze.com:443?mode=gun&security=tls&alpn=h2&encryption=none&fp=chrome&type=grpc&serviceName=VM9JThTUmfBox4IUADVrA&sni=hdfy5persiaserverc1.afsharidempire.uk#INT🌍
 
