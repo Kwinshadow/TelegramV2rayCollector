@@ -22,7 +22,7 @@ vless://fca01448-d84a-436e-9aec-3be1ebdfb350@199.34.228.178:443?path=/if1pdmbi6s
 
 vless://9902fc94-31f9-4afe-b37a-82f5790b3d2a@172.66.47.192:443?path=/&security=tls&encryption=none&host=dabF5Ca6.dE1-1nD.PaGeS.dEv&type=ws&sni=dabF5Ca6.dE1-1nD.PaGeS.dEv#CA🇨🇦
 
-vless://9d5e7586-64e1-4c29-9d47-6cbbd57fe8d1@104.16.190.131:8443?path=/?ed=2048&security=tls&encryption=none&host=pardazeshvpn-tg48.pages.dev&type=ws&sni=pardazeshvpn-tg48.pages.dev#US🇺🇸
+vless://9d5e7586-64e1-4c29-9d47-6cbbd57fe8d1@104.16.190.131:8443?path=/?ed=2048&security=tls&encryption=none&host=pardazeshvpn-tg48.pages.dev&type=ws&sni=pardazeshvpn-tg48.pages.dev#CA🇨🇦
 
 vless://d17bc275-a17b-4d41-9f52-879f6619ac2b@188.245.90.214:1633?security=reality&encryption=none&pbk=ANlgAsYC8HmKfJnc5SFvru822urkxG1PzW1Zw4Vbm0Q&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=stackoverflow.com&sid=9bc0a55a5379c0ed#DE🇩🇪
 
@@ -79,28 +79,4 @@ vless://c3914fad-d88b-4f29-fc16-7823139dcc55@unlimiteddev.fastly80-2.hosting-ip.
 vless://8e5f3ae4-3fb8-49cb-a15f-b06c77244890@104.17.234.128:8080?security=none&type=ws&path=@UnlimitedDev----@UnlimitedDev-----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev?ed=8880&host=join.bede.unlimiteddev.www.speedtest.net.de.abrha.co.unlimiteddev.community.&encryption=none#INT🌍
 
 vless://8e5f3ae4-3fb8-49cb-a15f-b06c77244890@104.17.234.128:8080?security=none&type=ws&path=@UnlimitedDev----@UnlimitedDev-----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev?ed=8880&host=join.bede.UNLIMITEDDEV.www.speedtest.net.de.Abrha.co.sabadyt.ir&encryption=none#INT🌍
-
-vless://e0d272b8-60df-5447-8009-ba324a09beff@172.67.171.92:443?type=ws&host=uk2.vless.site&path=/sinabigo&security=tls&sni=uk2.vless.site#INT🌍
-
-vless://e0d272b8-60df-5447-8009-ba324a09beff@185.146.173.98:80?type=ws&host=Uk2.vless.site.&path=/sinabigo&security=none#SE🇸🇪
-
-vless://318eedfe-06ef-5ab9-8063-84d714e3be3c@190.93.247.155:443?type=ws&host=pt1.vless.site&path=/sinabigo&security=tls&sni=pt1.vless.site#INT🌍
-
-vless://318eedfe-06ef-5ab9-8063-84d714e3be3c@185.146.173.69:80?type=ws&host=Pt1.vless.site.&path=/sinabigo&security=none#SE🇸🇪
-
-vless://44912129-199f-5742-897a-442d8960dd15@172.67.171.43:443?type=ws&host=pl1.vless.site&path=/sinabigo&security=tls&sni=pl1.vless.site#INT🌍
-
-vless://44912129-199f-5742-897a-442d8960dd15@185.146.173.38:80?type=ws&host=Pl1.vless.site.&path=/sinabigo&security=none#SE🇸🇪
-
-vless://4395e1de-84f8-54f5-92cd-628eb0061516@185.146.173.46:443?type=ws&host=nl1.vless.site&path=/sinabigo&security=tls&sni=nl1.vless.site#SE🇸🇪
-
-vless://4395e1de-84f8-54f5-92cd-628eb0061516@172.67.171.95:80?type=ws&host=Nl1.vless.site.&path=/sinabigo&security=none#INT🌍
-
-vless://a28bc2c5-9867-4271-8c1c-740bac4d2478@172.67.171.49:443?type=ws&host=de1.vless.site&path=/sinabigo&security=tls&sni=de1.vless.site#INT🌍
-
-vless://a28bc2c5-9867-4271-8c1c-740bac4d2478@185.146.173.98:80?type=ws&host=De1.vless.site.&path=/sinabigo&security=none#SE🇸🇪
-
-vless://c2483eb9-0a73-5c60-be30-720926aa00d3@190.93.247.155:443?type=ws&host=fr2.vless.site&path=/sinabigo&security=tls&sni=fr2.vless.site#INT🌍
-
-vless://c2483eb9-0a73-5c60-be30-720926aa00d3@185.146.173.42:80?type=ws&host=Fr2.vless.site.&path=/sinabigo&security=none#SE🇸🇪
 
