@@ -1,4 +1,8 @@
- vless://2b18c69d-b774-5eb8-9cf5-a5dd26bd6229@45.89.55.188:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless-grpc#RS🇷🇸
+ vmess://eyJhZGQiOiIxMDQuMTkuMTUwLjEwIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJtY2kubXRuLmlyLmNvbS5vcmcubmV0Lm9tMi5tdXNpY2ZhMTIzLmlyLiIsImlkIjoiOTRmMzMyYjAtYzVkMy00NTMxLWExZDYtNmU2MzU4Y2M2YzcyIiwibmV0IjoiaHR0cHVwZ3JhZGUiLCJwYXRoIjoiXC9kM2QzTG1seVlXNW9iM04wTG1OdmJRPT0/ZWQ9MjU2MCIsInBvcnQiOiIyMDk1IiwicHMiOiJVU1x1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmOCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==
+
+vmess://eyJhZGQiOiIxODYuMTkwLjIxNS45MyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiIwNDYyMWJhZS1hYjM2LTExZWMtYjkwOS0wMjQyYWMxMjAwMDIiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjIyMzI0IiwicHMiOiJDSFx1ZDgzY1x1ZGRlOFx1ZDgzY1x1ZGRlZCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
+
+vless://2b18c69d-b774-5eb8-9cf5-a5dd26bd6229@45.89.55.188:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless-grpc#RS🇷🇸
 
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638779006056412842.rasht-drec-abac.info:8880?mode=gun&security=none&encryption=none&type=grpc#FI🇫🇮
 
@@ -13,10 +17,6 @@ vless://b008cf5e-d8f9-48de-a6ec-b551a94cb579@g.soskom.ir:11045?type=grpc&service
 vless://3868c9cd-3fbf-46ac-87ff-c941d1e0693f@151.101.64.155:80?path=/telegram-ipv2ry-telegram-ipv2ry-telegram-ipv2ry?ed=2048&security=&encryption=none&host=1.wexer-rih.ir&type=ws#US🇺🇸
 
 vless://28da528a-d2d4-4cf7-a11f-1a096eafbc63@151.101.64.155:80?path=/telegram-ipv2ry-telegram-ipv2ry-telegram-ipv2ry?ed=2048&security=&encryption=none&host=2.wexer-rih.ir&type=ws#US🇺🇸
-
-vless://662c4a7c-0431-44d6-b717-86e9aea34ae3@151.101.64.155:80?path=/telegram-ipv2ry-telegram-ipv2ry-telegram-ipv2ry?ed=2048&security=none&encryption=none&host=2.wexer-rih.ir&type=ws#US🇺🇸
-
-vless://V2RAXX--@speedtest.net:80?mode=auto&path=/Telegram,V2RAXX,Telegram,?ed=2048&security=none&encryption=none&host=BIG-bang.global.ssl.fastly.net&type=xhttp#US🇺🇸
 
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:80?path=/LwW5jwrnymnOdqki?ed=2560&security=none&encryption=none&host=redw.pooriam.ir&type=ws#US🇺🇸
 
@@ -42,9 +42,9 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@admin.c3.webramz.co:44
 
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.17.148.22:80?path=/LwW5jwrnymnOdqki?ed=2560&security=none&encryption=none&host=redw.pooriam.ir&type=ws#CA🇨🇦
 
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:80?path=/LwW5jwrnymnOdqki?ed=2560&security=none&encryption=none&host=redw.pooriam.ir&type=ws#CA🇨🇦
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:80?path=/LwW5jwrnymnOdqki?ed=2560&security=none&encryption=none&host=redw.pooriam.ir&type=ws#INT🌍
 
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@tgju.org:80?path=/vpnowl?ed=2560&security=none&encryption=none&host=redfrEe8w.Pooriam.ir&type=ws#CA🇨🇦
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@tgju.org:80?path=/vpnowl?ed=2560&security=none&encryption=none&host=redfrEe8w.Pooriam.ir&type=ws#INT🌍
 
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@156.238.18.28:2095?path=/&security=none&encryption=none&host=redw.pooriam.ir&type=ws#JP🇯🇵
 
@@ -64,7 +64,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@admin.c3.webramz.co:44
 
 vless://e0c23a67-1fd3-4225-bf67-f1fdd465e9f7@91.107.156.176:443?security=reality&encryption=none&pbk=0sxnaKMU6kGtDElfjsdnNlL_7SxBq0QPhaaaWvAj9zw&headerType=none&fp=chrome&type=tcp&sni=mw5.baradshops.ir&sid=ac#DE🇩🇪
 
-vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@104.17.148.22:8443?path=/&security=tls&encryption=none&host=PbDcFyWr0.KoTtArY.InFo&type=ws&sni=PbDcFyWr0.KoTtArY.InFo#INT🌍
+vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@104.17.148.22:8443?path=/&security=tls&encryption=none&host=PbDcFyWr0.KoTtArY.InFo&type=ws&sni=PbDcFyWr0.KoTtArY.InFo#US🇺🇸
 
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@www.speedtest.net:8443?path=/&security=tls&encryption=none&host=6PaI52dYm3.DmNeWnOd110.CoM&type=ws&sni=6PaI52dYm3.DmNeWnOd110.CoM#INT🌍
 
