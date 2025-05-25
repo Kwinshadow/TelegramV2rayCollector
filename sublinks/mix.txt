@@ -30,7 +30,7 @@ vless://f56c315c-a8a6-4f15-b8e0-fcc2afe13b29@140.248.128.69:80?encryption=none&s
 
 vless://faa5c704-9d46-5753-905e-b56c7af4ed03@194.226.121.190:2052?encryption=none&security=none&type=grpc&authority=&serviceName=vless-grpc&mode=gun#RU🇷🇺
 
-vless://2404f667-5969-4883-a71a-ea2e0db2d25b@whatismyipaddress.com:2096?encryption=none&security=tls&sni=wwwspeedtestnetwhiteberinsistomd6625996s09.gorgeserver1.ir&type=ws&host=wwwspeedtestnetwhiteberinsistomd6625996s09.gorgeserver1.ir&path=/#US🇺🇸
+vless://2404f667-5969-4883-a71a-ea2e0db2d25b@whatismyipaddress.com:2096?encryption=none&security=tls&sni=wwwspeedtestnetwhiteberinsistomd6625996s09.gorgeserver1.ir&type=ws&host=wwwspeedtestnetwhiteberinsistomd6625996s09.gorgeserver1.ir&path=/#CA🇨🇦
 
 vless://9bf09a16-c5f1-4c9f-889d-25b9889df1b0@91.107.181.155:2025?encryption=none&security=none&type=grpc&authority=&serviceName=vless&mode=gun#DE🇩🇪
 
@@ -44,7 +44,7 @@ vless://e691b423-c7f7-4c78-a65b-694ac46767f4@54.147.77.121:39642?encryption=none
 
 vless://19b6fa27-c968-46be-b980-ca371ff5c0f6@157.90.117.244:50552?encryption=none&security=reality&sni=yahoo.com&fp=chrome&pbk=NKXHq-QeFgTQWspK15CDrkx3frdLdaXKSIsI-SUl_FY&sid=09&type=grpc#DE🇩🇪
 
-trojan://061ec9d5-ba40-428a-8be0-1947b10b5cfc@172.67.207.27:443?security=tls&sni=T.taipEi108.Dpdns.Org&alpn=http/1.1&fp=chrome&type=ws&host=t.taipei108.dpdns.org&path=/Dmby2AKiZKvMo1YauoQwY5#CA🇨🇦
+trojan://061ec9d5-ba40-428a-8be0-1947b10b5cfc@172.67.207.27:443?security=tls&sni=T.taipEi108.Dpdns.Org&alpn=http/1.1&fp=chrome&type=ws&host=t.taipei108.dpdns.org&path=/Dmby2AKiZKvMo1YauoQwY5#US🇺🇸
 
 vless://4a3dc64b-17e1-4ae7-a9a4-851f9794d4c6@104.152.210.36:25536?encryption=none&flow=xtls-rprx-vision&security=reality&sni=apps.apple.com&fp=qq&pbk=t4dzgL6Q-l6Y8d-Z0FSEvtAygZFDQqg0FPHn7Qxg90M&sid=c40fa703ffa3d3b8&type=tcp&headerType=none#CA🇨🇦
 
@@ -59,6 +59,16 @@ vless://3536e1fa-0850-44d1-b123-925ce12476cf@89.144.35.100:443?encryption=none&s
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@ru.vmagnum.win:57456#RU🇷🇺
 
 vless://c6ebff0f-7786-4bff-bdfc-d0557bf4b152@speedtest.net:80?encryption=none&security=none&type=ws&host=foffmelo.com&path=/olem/ws?ed=1024#US🇺🇸
+
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@108.162.193.20:8880?path=/?ed=2560&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#INT🌍
+
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@103.169.142.20:8880?path=/?ed=2560&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#AU🇦🇺
+
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@94.140.0.20:8880?path=/?ed=2560&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#AE🇦🇪
+
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.80.111.20:8880?path=/?ed=2560&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#DE🇩🇪
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#GB🇬🇧
 
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.21.56.44:80?path=/ShadowProxy66?ed=2560&security=none&encryption=none&host=REEdfREe8MahSaNg2.rEDOrG.IR&type=ws#INT🌍
 
@@ -113,16 +123,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.c
 vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@209.208.227.150:2096?path=/&security=tls&encryption=none&host=DrOt0Ai1Oq.DeRaKhT.iNfO&type=ws&sni=DrOt0Ai1Oq.DeRaKhT.iNfO#US🇺🇸
 
 vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@www.speedtest.net:443?path=/&security=tls&encryption=none&host=7N71aSdPzU.sOuBlOtIk.InFo&type=ws&sni=7N71aSdPzU.sOuBlOtIk.InFo#INT🌍
-
-vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@104.17.147.22:8443?path=/&security=tls&encryption=none&host=YqDaWy48R5.mAkEfOrLeSs.InFo&type=ws&sni=YqDaWy48R5.mAkEfOrLeSs.InFo#INT🌍
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.varzesh360.co:443#GB🇬🇧
-
-vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.114:8880?mode=gun&security=none&encryption=none&type=grpc#CY🇨🇾
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#GB🇬🇧
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#GB🇬🇧
 
 vless://TELEGRAM-NUFiLTER@theatlantic.com:80?path=/telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER?ed=8080&security=none&encryption=none&host=khorzokhan.com&type=ws#US🇺🇸
 
