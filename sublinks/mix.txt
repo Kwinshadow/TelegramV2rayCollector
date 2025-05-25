@@ -30,7 +30,7 @@ vless://f56c315c-a8a6-4f15-b8e0-fcc2afe13b29@140.248.128.69:80?encryption=none&s
 
 vless://faa5c704-9d46-5753-905e-b56c7af4ed03@194.226.121.190:2052?encryption=none&security=none&type=grpc&authority=&serviceName=vless-grpc&mode=gun#RU🇷🇺
 
-vless://2404f667-5969-4883-a71a-ea2e0db2d25b@whatismyipaddress.com:2096?encryption=none&security=tls&sni=wwwspeedtestnetwhiteberinsistomd6625996s09.gorgeserver1.ir&type=ws&host=wwwspeedtestnetwhiteberinsistomd6625996s09.gorgeserver1.ir&path=/#CA🇨🇦
+vless://2404f667-5969-4883-a71a-ea2e0db2d25b@whatismyipaddress.com:2096?encryption=none&security=tls&sni=wwwspeedtestnetwhiteberinsistomd6625996s09.gorgeserver1.ir&type=ws&host=wwwspeedtestnetwhiteberinsistomd6625996s09.gorgeserver1.ir&path=/#US🇺🇸
 
 vless://9bf09a16-c5f1-4c9f-889d-25b9889df1b0@91.107.181.155:2025?encryption=none&security=none&type=grpc&authority=&serviceName=vless&mode=gun#DE🇩🇪
 
@@ -44,7 +44,7 @@ vless://e691b423-c7f7-4c78-a65b-694ac46767f4@54.147.77.121:39642?encryption=none
 
 vless://19b6fa27-c968-46be-b980-ca371ff5c0f6@157.90.117.244:50552?encryption=none&security=reality&sni=yahoo.com&fp=chrome&pbk=NKXHq-QeFgTQWspK15CDrkx3frdLdaXKSIsI-SUl_FY&sid=09&type=grpc#DE🇩🇪
 
-trojan://061ec9d5-ba40-428a-8be0-1947b10b5cfc@172.67.207.27:443?security=tls&sni=T.taipEi108.Dpdns.Org&alpn=http/1.1&fp=chrome&type=ws&host=t.taipei108.dpdns.org&path=/Dmby2AKiZKvMo1YauoQwY5#US🇺🇸
+trojan://061ec9d5-ba40-428a-8be0-1947b10b5cfc@172.67.207.27:443?security=tls&sni=T.taipEi108.Dpdns.Org&alpn=http/1.1&fp=chrome&type=ws&host=t.taipei108.dpdns.org&path=/Dmby2AKiZKvMo1YauoQwY5#CA🇨🇦
 
 vless://4a3dc64b-17e1-4ae7-a9a4-851f9794d4c6@104.152.210.36:25536?encryption=none&flow=xtls-rprx-vision&security=reality&sni=apps.apple.com&fp=qq&pbk=t4dzgL6Q-l6Y8d-Z0FSEvtAygZFDQqg0FPHn7Qxg90M&sid=c40fa703ffa3d3b8&type=tcp&headerType=none#CA🇨🇦
 
@@ -136,6 +136,12 @@ vless://1f7a87e7-c52b-40a5-8f70-04cb6c2eb286@Shiraz-Website.thorav.ir:2087?mode=
 
 vless://61543d72-aa2d-4066-bbd3-5d470d4c77a1@www.speedtest.net:80?mode=auto&path=/?Join_Bade_Channel@JOKERRVPN&security=none&encryption=none&host=mother690.dgclix.ir&type=xhttp#INT🌍
 
+vless://Parsashonam-244@185.146.173.39:8880?path=/&security=none&encryption=none&host=Search.DigiKala.CYoU.&type=httpupgrade#SE🇸🇪
+
+vless://Parsashonam-244@Zmaoz.Faculty.Ucdavis.Edu:80?path=/@Parsashonam?ed=2048&security=none&alpn=h2,http/1.1&encryption=none&host=Parsashonam-DE.ir&fp=firefox&type=ws&sni=Zmaoz.Faculty.Ucdavis.Edu.#US🇺🇸
+
+vless://Parsashonam-244@[2a01:4f8:1c1b:e1d0::1]:8888?security=none&encryption=none&headerType=none&type=tcp#INT🌍
+
 vless://Parsashonam-243@185.146.173.39:8880?path=/&security=none&encryption=none&host=Search.DigiKala.CYoU.&type=httpupgrade#SE🇸🇪
 
 vless://Parsashonam-243@Zmaoz.Faculty.Ucdavis.Edu:80?path=/@Parsashonam?ed=2048&security=none&alpn=h2,http/1.1&encryption=none&host=Parsashonam-DE.ir&fp=firefox&type=ws&sni=Zmaoz.Faculty.Ucdavis.Edu.#US🇺🇸
@@ -147,12 +153,6 @@ vless://Parsashonam-242@185.146.173.39:8880?path=/&security=none&encryption=none
 vless://Parsashonam-242@Zmaoz.Faculty.Ucdavis.Edu:80?path=/@Parsashonam?ed=2048&security=none&alpn=h2,http/1.1&encryption=none&host=Parsashonam-DE.ir&fp=firefox&type=ws&sni=Zmaoz.Faculty.Ucdavis.Edu.#US🇺🇸
 
 vless://Parsashonam-242@[2a01:4f8:1c1b:e1d0::1]:8888?security=none&encryption=none&headerType=none&type=tcp#INT🌍
-
-vless://Parsashonam-241@185.146.173.39:8880?path=/&security=none&encryption=none&host=Search.DigiKala.CYoU.&type=httpupgrade#SE🇸🇪
-
-vless://Parsashonam-241@Zmaoz.Faculty.Ucdavis.Edu:80?path=/@Parsashonam?ed=2048&security=none&alpn=h2,http/1.1&encryption=none&host=Parsashonam-DE.ir&fp=firefox&type=ws&sni=Zmaoz.Faculty.Ucdavis.Edu.#US🇺🇸
-
-vless://Parsashonam-241@[2a01:4f8:1c1b:e1d0::1]:8888?security=none&encryption=none&headerType=none&type=tcp#INT🌍
 
 vless://ac6b3d48-d16f-4125-9f17-d986541a3ee9@web.bbv2ry.pics:443?type=ws&path=/&host=Sky2.bbv2ry.pics&security=tls&fp=chrome&alpn=http/1.1,h2&sni=Sky2.bbv2ry.pics#INT🌍
 
