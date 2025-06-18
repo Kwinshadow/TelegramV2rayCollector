@@ -38,5 +38,5 @@ A Bot get config from updated telegram channel
 * customv2ray
 
 ## Creator
-* <a href="https://t.me/QW5vbl9yd2lu">Telegram 🌀</a>
+* <a href="https://t.me/rwin6">Telegram 🌀</a>
 * <a href="https://github.com/Kwinshadow/">github ❄️</a>
