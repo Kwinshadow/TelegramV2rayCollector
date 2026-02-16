@@ -1,8 +1,14 @@
  trojan://humanity@188.114.98.0:443?path=/assignment&security=tls&host=www.calmlunch.com&type=ws&sni=www.calmlunch.com#US🇺🇸
 
-trojan://humanity@188.114.96.3:443?path=/assignment&security=tls&fp=chrome&type=ws&sni=www.multiplydose.com#INT🌍
+trojan://humanity@104.18.11.110:443?security=tls&sni=www.multiplydose.com&fp=chrome&insecure=0&allowInsecure=0&type=ws&path=/assignment#INT🌍
 
-trojan://telegram-id-privatevpns@13.38.166.142:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#INT🌍
+trojan://argonode@104.21.44.77:443?security=tls&sni=www.microsoft.com#INT🌍
 
-trojan://telegram-id-directvpn@13.38.166.142:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#INT🌍
+trojan://securepass@104.21.83.62:443?security=tls&sni=www.apple.com#INT🌍
+
+trojan://password123@185.146.173.158:443?security=tls&sni=www.microsoft.com#INT🌍
+
+trojan://telegram-id-privatevpns@3.123.112.209:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#INT🌍
+
+trojan://telegram-id-directvpn@3.123.112.209:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#INT🌍
 
