@@ -1,10 +1,16 @@
  trojan://humanity@188.114.98.0:443?path=/assignment&security=tls&host=www.calmlunch.com&type=ws&sni=www.calmlunch.com#US🇺🇸
 
-trojan://humanity@172.64.152.23:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#INT🌍
+trojan://humanity@104.21.40.34:443?path=/assignment&security=tls&insecure=1&host=www.gossipglove.com&type=ws&allowInsecure=1&sni=www.gossipglove.com#INT🌍
 
-trojan://humanity@172.64.152.23:443?path=/assignment&security=tls&host=www.calmlunch.com&type=ws&sni=www.calmlunch.com#INT🌍
+trojan://humanity@104.18.32.47:443?path=/assignment&security=tls&host=www.multiplydose.com&fp=chrome&type=ws&sni=www.multiplydose.com#INT🌍
 
-trojan://telegram-id-directvpn@3.69.220.38:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#INT🌍
+trojan://humanity@172.67.180.92:443?allowInsecure=0&sni=www.multiplydose.com&ws=1&wspath=/assignment#INT🌍
 
-trojan://telegram-id-privatevpns@3.69.220.38:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#INT🌍
+trojan://humanity@172.64.152.23:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.gossipglove.com#INT🌍
+
+trojan://humanity@www.gossipglove.com:443?path=/assignment&security=tls&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=www.gossipglove.com#INT🌍
+
+trojan://5a2c16f9@125.228.236.138:443?allowInsecure=0&sni=5c.hhhhh.eu.org&ws=1&wspath=/125.228.236.138:443#INT🌍
+
+trojan://9372cb81c7b0ad903f91f2f8a4d3f02b@18.183.109.29:3373?security=tls&insecure=1&headerType=none&fp=chrome&type=tcp&allowInsecure=1&sni=🔒 [By EbraSha]#INT🌍
 
