@@ -56,12 +56,6 @@ vless://e765eb5b-8442-40e3-9532-857ba5ececa7@ipbaz.ping-box.com:443?mode=gun&sec
 
 vless://4583d428-8ff9-4000-bcbd-953fe8c8df17@79.137.102.79:8880?security=reality&encryption=none&pbk=Pyq2phArGYw2shJNqNQ6f6pF_eb4AVo_lI6a7lgHd0k&headerType=none&fp=chrome&type=tcp&sni=max.ru&sid=2ad726e6b28daf57#FR🇫🇷
 
-vless://Parsashonam@chatGPT.com:2096?mode=auto&path=/&security=tls&alpn=http/1.1,h2&encryption=none&fp=chrome&type=xhttp&sni=signup.atlasw.ir#US🇺🇸
-
-vless://Parsashonam@104.21.14.158:2096?mode=auto&path=/&security=tls&encryption=none&fp=chrome&type=xhttp&sni=signup.atlasw.ir#US🇺🇸
-
-vless://Parsashonam@45.130.125.160:2096?mode=auto&path=/&security=tls&encryption=none&fp=chrome&type=xhttp&sni=signup.atlasw.ir#SC🇸🇨
-
 vless://7cacb8f2-37d0-4bed-a41c-1d3f246a3ffd@51.250.4.119:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=ads.x5.ru&fp=chrome&security=reality&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=17802e8ff84f12df#RU🇷🇺
 
 vless://886a0d08-58b1-417b-a26c-b551c3134b9c@91.243.86.46:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=nIEdZCSWE8FnO1f260LimY7O_yLtPdoM5MLZ_K9Wv1k&security=reality&sid=b3f49c5c122bfa2c&sni=eh.vk.com&type=tcp#RU🇷🇺
@@ -78,17 +72,17 @@ vless://bd1cbd82-1da8-497f-9eb5-83bf1d8b6de2@104.238.69.142:2053?mode=auto&path=
 
 vless://4bc7d558-1943-44de-bd82-56920bc9383e@ge.spectrum.vu:444?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&pbk=Qqy74nuyvVS2HaRaJyZYghFACzb_64UwMJAzp0R-YEA&sni=google.com#INT🌍
 
-vless://ef69fec4-568a-428b-b0bf-5b3f9e9faa23@pl4.node.getvpn4you.ru:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=Aa4ru03qrWtdb1VmZuI-Em59H_gZDusdCjds_yEJkyA&sid=2b48a7f1c3d9e506&sni=pingless.com#INT🌍
+vless://ef69fec4-568a-428b-b0bf-5b3f9e9faa23@pl4.node.getvpn4you.ru:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=Aa4ru03qrWtdb1VmZuI-Em59H_gZDusdCjds_yEJkyA&sid=2b48a7f1c3d9e506&sni=pingless.com#PL🇵🇱
 
 vless://7cacb8f2-37d0-4bed-a41c-1d3f246a3ffd@185.130.115.55:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&security=reality&sid=17f0f0e38f01af5a&sni=web.max.ru&type=tcp#INT🌍
 
 vless://7cacb8f2-37d0-4bed-a41c-1d3f246a3ffd@185.130.115.55:443?security=reality&encryption=none&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=web.max.ru&sid=33554379411b3219#RU🇷🇺
 
-vless://7cacb8f2-37d0-4bed-a41c-1d3f246a3ffd@95.163.210.173:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&security=reality&sid=87cc0414902bee2d&sni=max.ru&type=tcp#INT🌍
+vless://7cacb8f2-37d0-4bed-a41c-1d3f246a3ffd@95.163.210.173:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&security=reality&sid=87cc0414902bee2d&sni=max.ru&type=tcp#RU🇷🇺
 
 vless://7cacb8f2-37d0-4bed-a41c-1d3f246a3ffd@95.163.211.13:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&security=reality&sid=7426b0c03ef009dc&sni=max.ru&type=tcp#INT🌍
 
-vless://eb071647-72a6-46be-8e89-ff3d228d52f6@95.163.211.13:443?security=reality&encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=cd57a927f6b72d81&sni=max.ru#INT🌍
+vless://eb071647-72a6-46be-8e89-ff3d228d52f6@95.163.211.13:443?security=reality&encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=cd57a927f6b72d81&sni=max.ru#RU🇷🇺
 
 vless://01896982-f9df-4bd5-8f32-914253db2e61@51.250.65.209:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&security=reality&sid=43df3983229a1c73&sni=api-maps.yandex.ru&type=tcp#INT🌍
 
@@ -96,7 +90,7 @@ vless://01896982-f9df-4bd5-8f32-914253db2e61@51.250.83.255:443?encryption=none&f
 
 vless://64a3a23c-363a-4bee-9401-f5c42eea5a27@51.250.83.255:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&security=reality&sid=33554379411b3219&sni=api-maps.yandex.ru&type=tcp#INT🌍
 
-vless://64a3a23c-363a-4bee-9401-f5c42eea5a27@51.250.86.102:443/?security=reality&encryption=none&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=43df3983229a1c73#INT🌍
+vless://64a3a23c-363a-4bee-9401-f5c42eea5a27@51.250.86.102:443/?security=reality&encryption=none&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=43df3983229a1c73#RU🇷🇺
 
 vless://64a3a23c-363a-4bee-9401-f5c42eea5a27@51.250.87.167:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&security=reality&sid=65ce6cee3941af69&sni=ads.x5.ru#INT🌍
 
