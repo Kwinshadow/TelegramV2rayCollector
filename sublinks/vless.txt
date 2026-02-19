@@ -46,7 +46,7 @@ vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@104.16.2.90:443?path=/43.218.77.16=
 
 vless://fef4a93d-eb4f-4657-b56b-32a0dc060045@104.21.40.34:443?path=/&security=tls&encryption=none&host=dev.twistsparrow.xyz&fp=chrome&type=ws&sni=dev.twistsparrow.xyz#US🇺🇸
 
-vless://3bf002f8-b951-4dd5-b372-8d46ccd5f24b@pl-modx.webedg.net:443?security=reality&encryption=none&pbk=rpczbNzhaYC127W18DsTNJgVHeaKwdFAsmpzZhc31AM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=pl-modx.webedg.net#PL🇵🇱
+vless://3bf002f8-b951-4dd5-b372-8d46ccd5f24b@pl-modx.webedg.net:443?security=reality&encryption=none&pbk=rpczbNzhaYC127W18DsTNJgVHeaKwdFAsmpzZhc31AM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=pl-modx.webedg.net#INT🌍
 
 vless://686c62d9-17a7-43c9-a40a-f6747df60a9f@104.21.227.134:2096?path=/&security=tls&encryption=none&insecure=0&host=ca.adobe-connect.top&fp=chrome&type=ws&allowInsecure=0&sni=ca.adobe-connect.top#US🇺🇸
 
@@ -68,15 +68,15 @@ vless://06d5b138-623e-4c07-bb01-82c5dc4cdfe1@you2.configyous.site:2002?security=
 
 vless://a26bbed7-a286-4840-84bc-dc102c526777@151.101.192.223:80?mode=auto&path=category/music&security=none&encryption=none&host=iran.boltboost.gg&type=xhttp#US🇺🇸
 
-vless://ba2e4ada-6ebe-43cc-bfef-682e3babc5a8@h2.site.asan-ps.ir:1024?security=none&encryption=none&host=cloudflare.com&headerType=http&type=tcp#IR🇮🇷
+vless://ba2e4ada-6ebe-43cc-bfef-682e3babc5a8@h2.site.asan-ps.ir:1024?security=none&encryption=none&host=cloudflare.com&headerType=http&type=tcp#INT🌍
 
 vless://42c81f29-5dc4-489d-8446-cf6204a084f3@loncas.izumii.ir:7180?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#INT🌍
 
-vless://a643ebf9-421c-4b80-9022-6d62334b0a44@chatgpt.com:443?mode=auto&path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=edge-eu-1.veaglevpn.software&fp=chrome&type=xhttp&allowInsecure=0&sni=edge-eu-1.veaglevpn.software#INT🌍
+vless://a643ebf9-421c-4b80-9022-6d62334b0a44@chatgpt.com:443?mode=auto&path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=edge-eu-1.veaglevpn.software&fp=chrome&type=xhttp&allowInsecure=0&sni=edge-eu-1.veaglevpn.software#US🇺🇸
 
-vless://a4a5e0e8-cdc0-bdaf-e768-76c5707043c3@en4.netfinix.ir:2087?security=none&encryption=none&headerType=none&type=tcp#INT🌍
+vless://a4a5e0e8-cdc0-bdaf-e768-76c5707043c3@en4.netfinix.ir:2087?security=none&encryption=none&headerType=none&type=tcp#IR🇮🇷
 
-vless://ee3db1ee-23f7-4279-b5a2-21ff3aff7a48@tishert.motionbetter.ir:29487?mode=gun&security=reality&encryption=none&pbk=MaO9gWmzzml9ktupXxT0ZCkZicrUYKm4IKa1GcZSkDQ&fp=chrome&spx=/3lTUEFfBVvl31Gw&type=grpc&sni=www.yahoo.com&sid=4adab71b9c#INT🌍
+vless://ee3db1ee-23f7-4279-b5a2-21ff3aff7a48@tishert.motionbetter.ir:29487?mode=gun&security=reality&encryption=none&pbk=MaO9gWmzzml9ktupXxT0ZCkZicrUYKm4IKa1GcZSkDQ&fp=chrome&spx=/3lTUEFfBVvl31Gw&type=grpc&sni=www.yahoo.com&sid=4adab71b9c#IR🇮🇷
 
 vless://eb071647-72a6-46be-8e89-ff3d228d52f6@at.jojack.ru:443?security=reality&encryption=none&pbk=ca5sfJNcjkh3oNt51hRexXbGWgITAqCprGSU-YKCJBA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=at.jojack.ru&sid=8dc4fccb2bcfc99d#INT🌍
 
