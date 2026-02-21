@@ -48,19 +48,27 @@ vless://e8b1500b-e9e8-5492-8312-f4eadf7d0767@162.19.10.94:443?security=tls&encry
 
 vless://e5f8a9f6-f164-479b-b3b5-b90f213c7145@104.16.250.22:2053?path=/&security=tls&encryption=none&host=ir1.airpanel.top&type=ws&sni=ir1.airpanel.top#US🇺🇸
 
+vless://e6c7ed63-89db-4ae1-a3f8-7a722921b3b2@198.62.62.127:443?path=/O1w0n3vYgFKYs7EzNAvLPvOp&security=tls&alpn=http/1.1&encryption=none&host=apii.onlineshoppingez.ir&fp=chrome&type=ws&sni=apii.onlineshoppingez.ir#US🇺🇸
+
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@45.82.251.208:8880?mode=gun&security=none&encryption=none&fp=chrome&type=grpc#US🇺🇸
+
+vless://TELEGRAM-NUFiLTER@151.101.37.194:443?path=/TELEGRAM-NUFiLTER,TELEGRAM-NUFiLTER,TELEGRAM-NUFiLTER,TELEGRAM-NUFiLTER,TELEGRAM-NUFiLTER,TELEGRAM-NUFiLTER,TELEGRAM-NUFiLTER?ed=2056&security=tls&encryption=none&insecure=0&host=bazibashab.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=bazibashab.global.ssl.fastly.net#US🇺🇸
+
+vless://TELEGRAM-NUFiLTER@151.101.10.79:443?path=/TELEGRAM-NUFiLTER,TELEGRAM-NUFiLTER,TELEGRAM-NUFiLTER,TELEGRAM-NUFiLTER,TELEGRAM-NUFiLTER,TELEGRAM-NUFiLTER,TELEGRAM-NUFiLTER?ed=2056&security=tls&encryption=none&insecure=0&host=bikaaarimb.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=bikaaarimb.global.ssl.fastly.net#INT🌍
+
 vless://a0af2643-a236-463c-8056-3f71d05eed53@104.18.7.36:2086?encryption=none&security=none&type=ws&host=shomal-g74f3znf-v2.shomal-321.workers.dev&path=/?ed=2560#US🇺🇸
 
-vless://f8ae018b-b84d-4c9b-b03b-4642c3a25977@104.20.1.252:2052?security=none&type=ws&host=ExEMplAry-MILkytsxQiQYso.sPortlaNd.CoMPANy.&path=/?ed#US🇺🇸
+vless://f8ae018b-b84d-4c9b-b03b-4642c3a25977@104.20.1.252:2052?security=none&type=ws&host=ExEMplAry-MILkytsxQiQYso.sPortlaNd.CoMPANy.&path=/?ed#INT🌍
 
-vless://f8ae018b-b84d-4c9b-b03b-4642c3a25977@172.66.128.70:2052?security=none&type=ws&host=ExEMplAry-MILkytsxQiQYso.sPortlaNd.CoMPANy.&path=/?ed#US🇺🇸
+vless://f8ae018b-b84d-4c9b-b03b-4642c3a25977@172.66.128.70:2052?security=none&type=ws&host=ExEMplAry-MILkytsxQiQYso.sPortlaNd.CoMPANy.&path=/?ed#INT🌍
 
-vless://a7e84660-8f5c-43ba-b635-cc394c5be4b9@104.18.14.19:80?encryption=none&host=amita-b17wejf6-v2.amita.workers.dev&security=none&type=ws#US🇺🇸
+vless://a7e84660-8f5c-43ba-b635-cc394c5be4b9@104.18.14.19:80?encryption=none&host=amita-b17wejf6-v2.amita.workers.dev&security=none&type=ws#INT🌍
 
-vless://fe665bb7-a558-42bc-9ba7-a59288ee4b93@172.67.75.172:80?encryption=none&host=floral-term-d21f.wafajax493.workers.dev&type=ws#INT🌍
+vless://fe665bb7-a558-42bc-9ba7-a59288ee4b93@172.67.75.172:80?encryption=none&host=floral-term-d21f.wafajax493.workers.dev&type=ws#US🇺🇸
 
-vless://fe665bb7-a558-42bc-9ba7-a59288ee4b93@104.26.12.31:80?encryption=none&host=floral-term-d21f.wafajax493.workers.dev&type=ws#INT🌍
+vless://fe665bb7-a558-42bc-9ba7-a59288ee4b93@104.26.12.31:80?encryption=none&host=floral-term-d21f.wafajax493.workers.dev&type=ws#US🇺🇸
 
-vless://a7e84660-8f5c-43ba-b635-cc394c5be4b9@104.18.15.19:80?encryption=none&host=amita-b17wejf6-v2.amita.workers.dev&type=ws#US🇺🇸
+vless://a7e84660-8f5c-43ba-b635-cc394c5be4b9@104.18.15.19:80?encryption=none&host=amita-b17wejf6-v2.amita.workers.dev&type=ws#INT🌍
 
 vless://94671f42-fdd3-4503-a3e6-bda4a2527560@172.67.207.29:80?type=ws&security=none&encryption=none&path=/eyJqdW5rIjoibUVFb0RQcHJZZSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjM0LjI1My4yMzQuNjIiXX0=&host=019.electrocellco-cf-019.workers.dev&ed=2560&eh=Sec-WebSocket-Protocol#INT🌍
 
@@ -95,22 +103,4 @@ vless://ba49d874-fe02-465d-82d3-ed981dc7694f@188.114.96.7:443?path=/dbJqwUHWfrXV
 vless://ba49d874-fe02-465d-82d3-ed981dc7694f@188.114.98.134:443?path=/yraL4HRbwB8cMc0F?ed=2560&security=tls&encryption=none&alpn=http/1.1&host=o94yv7lif0-anxisd9efehvvs7mxn6bh.z-ule-ika-d-e-ne-k-e.workers.dev&fp=chrome&type=ws&sni=o94yv7LiF0-AnxIsd9EFehVvs7mXn6bh.z-UlE-ikA-d-e-nE-k-E.WorkeRs.dEv#INT🌍
 
 vless://33e1a095-1e25-4198-bfe7-ec312e4f98ee@172.66.128.70:80?host=CREDibLe-pLaNt7ddV4jJ7et.OnEeaT.CO.&path=/?ed&type=ws#INT🌍
-
-vless://9cf7e4ab-0da9-4213-d376-8f9d91668daf@8.6.112.0:443?encryption=none&security=tls&sni=hajimamad.ladyy-collection.ir&type=xhttp&host=hajimamad.ladyy-collection.ir&path=/&mode=auto&packetEncoding=xudp#INT🌍
-
-vless://d4d06e0d-b87c-489a-8196-e6c3aaf8a0ea@45.151.62.176:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=kx3McEZtfpd39WLu4GYpSxhZ-1ywTLrDa-33IsMgCQk&sid=110092f9&sni=lu15.connectvpn.tech#INT🌍
-
-vless://2a2a8023-3b4b-407d-a00a-7beb5a158148@172.66.128.70:80?path=/?ed&security=none&encryption=none&host=SHAggy-AGREEMeNTSpUfz4utdI.SpOrTland.COMPANy.&type=ws#INT🌍
-
-vless://860d8f27-ed60-4791-b6a0-e1e471d7ee6d@104.18.32.47:80?path=/?ed&security=none&encryption=none&host=NICE-MaNAgEmeNts6CV0rMC2T.ONeEat.co.&type=ws#INT🌍
-
-vless://c5fbb5dd-83bb-43ce-a799-e3e5c29e25da@104.18.32.47:80?path=/?ed&security=none&encryption=none&host=gLeEfuL-GrassMcKS7Sr4kw.wiNdleR.co.Uk.&type=ws#INT🌍
-
-vless://e31085f9-7f55-4a7d-b00e-ce94149477cb@104.18.32.47:80?path=/?ed&security=none&encryption=none&host=PrICKLy-AdverTisEMEnt6OaD5Z64MK.onEEaT.cO.&type=ws#INT🌍
-
-vless://686c62d9-17a7-43c9-a40a-f6747df60a9f@104.16.250.22:2096?security=tls&sni=ca.adobe-connect.top&type=ws&host=ca.adobe-connect.top&path=/&fp=chrome#INT🌍
-
-vless://686c62d9-17a7-43c9-a40a-f6747df60a9f@104.18.185.26:2096?security=tls&sni=ca.adobe-connect.top&type=ws&host=ca.adobe-connect.top&path=/&fp=chrome#INT🌍
-
-vless://636de463-b509-4631-adc6-400b21733278@104.21.89.4:2086?encryption=none&security=none&type=ws&host=index.harmony610.workers.dev&path=/l5s2vgexcus7b8c4#INT🌍
 
