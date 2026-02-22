@@ -62,29 +62,29 @@ vless://af488953-ea77-7ac1-965d-19b3cd17c213@record.persianmizban.com:443?path=/
 
 vless://0fc0adea-9279-43b0-9f26-39ccfe550385@213.177.176.190:21965?security=none&type=tcp&headerType=none&path=&host=#IR🇮🇷
 
-vless://0fc0adea-9279-43b0-9f26-39ccfe550385@213.177.176.190:25501?security=none&type=tcp&headerType=none&path=&host=#IR🇮🇷
+vless://0fc0adea-9279-43b0-9f26-39ccfe550385@213.177.176.190:25501?security=none&type=tcp&headerType=none&path=&host=#INT🌍
 
-vless://0fc0adea-9279-43b0-9f26-39ccfe550385@213.177.176.190:28272?security=none&type=tcp&headerType=none&path=&host=#IR🇮🇷
+vless://0fc0adea-9279-43b0-9f26-39ccfe550385@213.177.176.190:28272?security=none&type=tcp&headerType=none&path=&host=#INT🌍
 
 vless://0fc0adea-9279-43b0-9f26-39ccfe550385@213.177.176.190:28688?security=none&type=tcp&headerType=none&path=&host=#IR🇮🇷
 
 vless://0fc0adea-9279-43b0-9f26-39ccfe550385@213.177.176.190:31847?security=none&type=tcp&headerType=none&path=&host=#IR🇮🇷
 
-vless://0fc0adea-9279-43b0-9f26-39ccfe550385@213.177.176.190:32630?security=none&type=tcp&headerType=none&path=&host=#IR🇮🇷
+vless://0fc0adea-9279-43b0-9f26-39ccfe550385@213.177.176.190:32630?security=none&type=tcp&headerType=none&path=&host=#INT🌍
 
 vless://0fc0adea-9279-43b0-9f26-39ccfe550385@213.177.176.190:51139?security=none&type=tcp&headerType=none&path=&host=#IR🇮🇷
 
-vless://f8f72d24-17a1-46a2-cb10-3a433bd6e831@3.72.67.177:48764?security=none&encryption=none&headerType=none&type=tcp#DE🇩🇪
+vless://f8f72d24-17a1-46a2-cb10-3a433bd6e831@3.72.67.177:48764?security=none&encryption=none&headerType=none&type=tcp#INT🌍
 
-vless://76755143-35fc-4b1f-a793-3b24d31f4f6a@18.184.43.25:17373?security=none&encryption=none&headerType=none&type=tcp#INT🌍
+vless://76755143-35fc-4b1f-a793-3b24d31f4f6a@18.184.43.25:17373?security=none&encryption=none&headerType=none&type=tcp#DE🇩🇪
 
 vless://aeb85ee0-44b9-4863-9a4a-e54deec14333@ir2.dashping5.ir:8503?security=reality&encryption=none&pbk=O8eLP-YxVyIO-CKnYTBkaD68JhxhVIKRsbrxba50-Ro&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=www.varzesh3.com&sid=1409eefd9e69#INT🌍
 
-vless://0af70cb3-72d2-4811-fbff-fdfd53b8d841@3.79.229.48:443?security=none&encryption=none&headerType=none&type=tcp#INT🌍
+vless://0af70cb3-72d2-4811-fbff-fdfd53b8d841@3.79.229.48:443?security=none&encryption=none&headerType=none&type=tcp#DE🇩🇪
 
-vless://ee9b0614-50ec-41b6-951b-e1d5d755fa4b@glob.thisiswe.uno:2053?security=tls&encryption=none&host=cd11.thisiswe.uno&fp=chrome&type=ws&sni=cd11.thisiswe.uno#INT🌍
+vless://ee9b0614-50ec-41b6-951b-e1d5d755fa4b@glob.thisiswe.uno:2053?security=tls&encryption=none&host=cd11.thisiswe.uno&fp=chrome&type=ws&sni=cd11.thisiswe.uno#SC🇸🇨
 
-vless://0025a28e-11fa-4039-bbce-ba45edf8ab49@162.159.240.240:8443?path=/&security=tls&alpn=h2,http/1.1&encryption=none&host=ger.parogamers.com&fp=chrome&type=ws&sni=ger.parogamers.com#INT🌍
+vless://0025a28e-11fa-4039-bbce-ba45edf8ab49@162.159.240.240:8443?path=/&security=tls&alpn=h2,http/1.1&encryption=none&host=ger.parogamers.com&fp=chrome&type=ws&sni=ger.parogamers.com#US🇺🇸
 
 vless://ee9b0614-50ec-41b6-951b-e1d5d755fa4b@glob.thisiswe.uno:2053?path=/&security=tls&encryption=none&host=cd11.thisiswe.uno&fp=chrome&type=ws&sni=cd11.thisiswe.uno#INT🌍
 
