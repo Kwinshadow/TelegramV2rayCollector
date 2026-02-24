@@ -1,6 +1,8 @@
- trojan://736cd94d-7b94-3e44-8106-3419f64eaf09@60.250.152.209:3462?security=tls&sni=45.32.28.232&insecure=0&allowInsecure=0&type=tcp&headerType=none#TW🇹🇼
+ trojan://64a59181551b5773e390bd717a7b7c06@160.16.106.99:1281?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=www.nintendogames.net#JP🇯🇵
 
-trojan://Tn2Bf0iRwJkJQgDk6gX6x81RB@94.131.122.254:443?security=tls&sni=hl-freedom-2.undef.network&allowInsecure=1#INT🌍
+trojan://telegram-id-privatevpns@35.181.103.56:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#INT🌍
 
-trojan://humanity@172.64.152.23:443?path=/assignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#INT🌍
+trojan://telegram-id-directvpn@35.181.103.56:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#INT🌍
+
+trojan://736cd94d-7b94-3e44-8106-3419f64eaf09@60.250.152.209:3462?security=tls&sni=45.32.28.232&insecure=0&allowInsecure=0&type=tcp&headerType=none#INT🌍
 
