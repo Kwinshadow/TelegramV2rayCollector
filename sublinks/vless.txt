@@ -74,11 +74,11 @@ vless://e93de23f-8dd9-41a0-8296-26abab62f802@157.90.167.18:2223?mode=auto&path=/
 
 vless://1830df01-a5c7-479f-8caa-f47b63a96b0f@87.107.82.250:5613?mode=gun&security=reality&encryption=none&pbk=nIThQZcG8DU8zpy9hSp77SzhxBVbexk5AcQSDiRCjl0&fp=chrome&spx=/&type=grpc&sni=yahoo.com#INT🌍
 
-vless://f078abea-a480-44c7-a785-4436c767835a@103.231.75.185:443?security=reality&encryption=none&pbk=ve8spuAYBeV8j7QnofoqGecdYl1KZYYcykiyHHzNg1U&headerType=none&fp=chrome&spx=/&type=tcp&sni=yahoo.com&sid=0bce#INT🌍
+vless://f078abea-a480-44c7-a785-4436c767835a@103.231.75.185:443?security=reality&encryption=none&pbk=ve8spuAYBeV8j7QnofoqGecdYl1KZYYcykiyHHzNg1U&headerType=none&fp=chrome&spx=/&type=tcp&sni=yahoo.com&sid=0bce#TR🇹🇷
 
 vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@104.16.2.90:443?path=/43.218.77.16&security=tls&encryption=none&insecure=0&host=afrcloud22.mmv.kr&type=ws&allowInsecure=0&sni=Pulavpn11.afrcloud22.mmv.kr#US🇺🇸
 
-#AT🇦🇹
+#INT🌍
 
 vless://eb071647-72a6-46be-8e89-ff3d228d52f6@193.46.81.207:443?security=reality&encryption=none&pbk=ca5sfJNcjkh3oNt51hRexXbGWgITAqCprGSU-YKCJBA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=de.cdn.stun.su&sid=4daa022e84f8edf2#INT🌍
 
