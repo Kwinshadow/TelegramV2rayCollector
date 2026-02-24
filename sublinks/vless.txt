@@ -72,11 +72,11 @@ vless://94a03e9a-74d5-4036-95e9-563cc19355de@144.31.4.36:443?encryption=none&fp=
 
 vless://b8a44195-0860-4312-a0df-dae178585a48@178.17.59.73:2053?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=WckOSneVajAzpH0sZSAFAWPnmwuuEXKZrTICNj5_hHU&sid=4a5b6c7d&sni=www.ibm.com#PL🇵🇱
 
-vless://ea6b03ef-8356-4a8c-abe4-eade7a4806e4@sc-france2.09vpn.com:8443?encryption=none&type=ws&path=/vless/&security=tls#INT🌍
+vless://ea6b03ef-8356-4a8c-abe4-eade7a4806e4@sc-france2.09vpn.com:8443?encryption=none&type=ws&path=/vless/&security=tls#FR🇫🇷
 
 vless://e5f8a9f6-f164-479b-b3b5-b90f213c7145@141.101.121.23:2053/?type=ws&encryption=none&flow=&host=ir1.airpanel.top&path=/&security=tls&sni=ir1.airpanel.top&allowInsecure=1#US🇺🇸
 
-vless://a5922b61-09c2-4f13-87f6-b5c83244c6ee@SC-France2.09vpn.com:8443?path=/vless/&security=tls&encryption=none&type=ws#FR🇫🇷
+vless://a5922b61-09c2-4f13-87f6-b5c83244c6ee@SC-France2.09vpn.com:8443?path=/vless/&security=tls&encryption=none&type=ws#INT🌍
 
 vless://e5f8a9f6-f164-479b-b3b5-b90f213c7145@141.101.121.32:2053/?type=ws&encryption=none&flow=&host=ir1.airpanel.top&path=/&security=tls&sni=ir1.airpanel.top&allowInsecure=1#INT🌍
 
