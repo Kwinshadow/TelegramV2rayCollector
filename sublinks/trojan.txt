@@ -1,2 +1,6 @@
- trojan://humanity@free1.aattaash.com:443?type=ws&path=/assignment&security=tls&sni=www.creationlong.org#US🇺🇸
+ trojan://telegram-id-privatevpns@3.78.14.11:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#INT🌍
+
+trojan://telegram-id-directvpn@3.78.14.11:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#INT🌍
+
+trojan://humanity@free1.aattaash.com:443?type=ws&path=/assignment&security=tls&sni=www.creationlong.org#INT🌍
 
