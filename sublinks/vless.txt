@@ -40,31 +40,49 @@ vless://e6eec2e9-f98d-4fd4-afac-c504123231cf@104.16.89.18:443?path=/&security=tl
 
 vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@104.17.98.251:443?path=/&security=tls&encryption=none&insecure=0&host=afrcloud22.mmv.kr&type=ws&allowInsecure=0&sni=joinProxyVPN11.afrcloud22.mmv.kr#US🇺🇸
 
-vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@104.16.2.90:443?path=/43.218.77.16=1443&security=tls&encryption=none&insecure=0&host=afrcloud22.mmv.kr&fp=chrome&type=ws&allowInsecure=0&sni=Pulavpn11.afrcloud22.mmv.kr#US🇺🇸
+vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@104.16.2.90:443?path=/43.218.77.16=1443&security=tls&encryption=none&insecure=0&host=afrcloud22.mmv.kr&fp=chrome&type=ws&allowInsecure=0&sni=Pulavpn11.afrcloud22.mmv.kr#INT🌍
 
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@162.159.12.151:443?path=/&security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#US🇺🇸
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@162.159.12.151:443?path=/&security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#INT🌍
 
-vless://081efe27-f6b8-4f60-aedb-3c9effe9c67d@poe.com:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=1&host=80bab3a2.gon-7ye.pages.dev&type=ws&allowInsecure=1&sni=80bab3a2.gon-7ye.pages.dev#US🇺🇸
+vless://081efe27-f6b8-4f60-aedb-3c9effe9c67d@poe.com:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=1&host=80bab3a2.gon-7ye.pages.dev&type=ws&allowInsecure=1&sni=80bab3a2.gon-7ye.pages.dev#INT🌍
 
-vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@nodejs.org:443?path=/156.244.1.250=8443&security=tls&encryption=none&insecure=0&host=afrcloud22.mmv.kr&type=ws&allowInsecure=0&sni=afrcloud22.mmv.kr#US🇺🇸
+vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@nodejs.org:443?path=/156.244.1.250=8443&security=tls&encryption=none&insecure=0&host=afrcloud22.mmv.kr&type=ws&allowInsecure=0&sni=afrcloud22.mmv.kr#INT🌍
 
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@212.183.88.238:2096?path=/?ed=2560&Telegram🇨🇳+@WangCai2&security=tls&encryption=none&insecure=1&host=sni.jpmj.dev&type=ws&allowInsecure=1&sni=sni.jpmj.dev#AT🇦🇹
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@212.183.88.238:2096?path=/?ed=2560&Telegram🇨🇳+@WangCai2&security=tls&encryption=none&insecure=1&host=sni.jpmj.dev&type=ws&allowInsecure=1&sni=sni.jpmj.dev#INT🌍
 
-vless://e8b1500b-e9e8-5492-8312-f4eadf7d0767@57.129.64.102:443?security=tls&alpn=h2,http/1.1&encryption=none&insecure=1&headerType=none&type=tcp&allowInsecure=1&flow=xtls-rprx-vision&sni=nasnet-5712964102-direct.sharghdaily.co#DE🇩🇪
+vless://e8b1500b-e9e8-5492-8312-f4eadf7d0767@57.129.64.102:443?security=tls&alpn=h2,http/1.1&encryption=none&insecure=1&headerType=none&type=tcp&allowInsecure=1&flow=xtls-rprx-vision&sni=nasnet-5712964102-direct.sharghdaily.co#INT🌍
 
-vless://b46826d2-146d-4a4f-ae92-38ac64e86b30@78.157.47.62:2020?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#IR🇮🇷
+vless://b46826d2-146d-4a4f-ae92-38ac64e86b30@81.12.34.17:2018?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#INT🌍
 
-vless://b46826d2-146d-4a4f-ae92-38ac64e86b30@de4.b761plus.shop:2019?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#IR🇮🇷
+vless://b46826d2-146d-4a4f-ae92-38ac64e86b30@de1.b761plus.shop:2017?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#INT🌍
 
-vless://b76034bb-c66d-4958-929f-f92dc84427ce@ir.teslafn.com:1010?type=tcp&encryption=none&path=/&host=Telewebion.com&headerType=http&security=none#IR🇮🇷
+vless://b46826d2-146d-4a4f-ae92-38ac64e86b30@de4.b761plus.shop:2019?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#INT🌍
 
-vless://e331e97d-eb3e-4d52-9833-e2d32ab34bf8@ip2.xqfire.ir:219?encryption=none&security=none&type=tcp&headerType=http&host=MYket.iR#TR🇹🇷
+vless://b46826d2-146d-4a4f-ae92-38ac64e86b30@nl1.b761plus.shop:32401?security=&encryption=none&headerType=http&type=tcp#INT🌍
 
-vless://b46826d2-146d-4a4f-ae92-38ac64e86b30@127.0.0.1:666?security=&encryption=none&headerType=none&type=tcp#
+vless://b46826d2-146d-4a4f-ae92-38ac64e86b30@usa1.b761plus.shop:2025?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#INT🌍
 
-vless://b46826d2-146d-4a4f-ae92-38ac64e86b30@78.157.47.43:2023?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#IR🇮🇷
+vless://ec014e4a-91cf-4a54-a58b-d55841421eb0@teri-users.chamehdan.ir:8080?type=tcp&encryption=none&security=none#INT🌍
 
-vless://b46826d2-146d-4a4f-ae92-38ac64e86b30@78.157.47.48:2022?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#IR🇮🇷
+vless://db27952d-9de6-4a90-d508-0d2ab314d2f4@3.127.221.58:18694?security=&encryption=none&headerType=none&type=tcp#INT🌍
+
+vless://929358d5-8d10-4a0e-afe0-58d563d6ee42@3.120.151.222:49159?type=tcp&encryption=none&security=none#INT🌍
+
+vless://b1f221a1-8f01-4a81-befc-69874ebe70e0@3.70.120.213:48686?type=tcp&encryption=none&security=none#INT🌍
+
+vless://b46826d2-146d-4a4f-ae92-38ac64e86b30@78.157.47.62:2020?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#INT🌍
+
+vless://b46826d2-146d-4a4f-ae92-38ac64e86b30@de4.b761plus.shop:2019?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#INT🌍
+
+vless://b76034bb-c66d-4958-929f-f92dc84427ce@ir.teslafn.com:1010?type=tcp&encryption=none&path=/&host=Telewebion.com&headerType=http&security=none#INT🌍
+
+vless://e331e97d-eb3e-4d52-9833-e2d32ab34bf8@ip2.xqfire.ir:219?encryption=none&security=none&type=tcp&headerType=http&host=MYket.iR#INT🌍
+
+vless://b46826d2-146d-4a4f-ae92-38ac64e86b30@127.0.0.1:666?security=&encryption=none&headerType=none&type=tcp#INT🌍
+
+vless://b46826d2-146d-4a4f-ae92-38ac64e86b30@78.157.47.43:2023?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#INT🌍
+
+vless://b46826d2-146d-4a4f-ae92-38ac64e86b30@78.157.47.48:2022?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#INT🌍
 
 vless://b46826d2-146d-4a4f-ae92-38ac64e86b30@78.157.47.58:2024?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#INT🌍
 
@@ -72,9 +90,9 @@ vless://b46826d2-146d-4a4f-ae92-38ac64e86b30@81.12.34.144:2021?security=&encrypt
 
 vless://53e3ad33-7ca3-0393-f8db-3c56cca64686@caxp8.ru.neural-portal.com:8886?mode=auto&path=/&security=none&encryption=none&host=gbaz.ir&type=xhttp#INT🌍
 
-vless://53e3ad33-7ca3-0393-f8db-3c56cca64686@dis1x.uae.neural-portal.com:8887?mode=auto&path=/&security=none&encryption=none&host=gbaz.ir&type=xhttp#IR🇮🇷
+vless://53e3ad33-7ca3-0393-f8db-3c56cca64686@dis1x.uae.neural-portal.com:8887?mode=auto&path=/&security=none&encryption=none&host=gbaz.ir&type=xhttp#INT🌍
 
-vless://53e3ad33-7ca3-0393-f8db-3c56cca64686@jx1z5.de1.ion-quantum.com:8881?mode=auto&path=/&security=none&encryption=none&host=gbaz.ir&type=xhttp#IR🇮🇷
+vless://53e3ad33-7ca3-0393-f8db-3c56cca64686@jx1z5.de1.ion-quantum.com:8881?mode=auto&path=/&security=none&encryption=none&host=gbaz.ir&type=xhttp#INT🌍
 
 vless://53e3ad33-7ca3-0393-f8db-3c56cca64686@t7p9a.uk.modern-surge.com:8884?mode=auto&path=/&security=none&encryption=none&host=gbaz.ir&type=xhttp#INT🌍
 
@@ -88,69 +106,55 @@ vless://59f8b7fd-0679-4e6e-b84d-01697726e1e7@37.152.175.141:7720?mode=gun&securi
 
 vless://d594851c-3548-4c0a-9822-761cf027ccf6@94.184.18.121:35814?path=/&security=none&encryption=none&type=ws#INT🌍
 
-vless://0149f8a4-c31a-4bcf-98b6-cf98a5f11d76@91.192.160.7:9999?security=none&encryption=none&headerType=none&type=tcp#IR🇮🇷
+vless://0149f8a4-c31a-4bcf-98b6-cf98a5f11d76@91.192.160.7:9999?security=none&encryption=none&headerType=none&type=tcp#INT🌍
 
-vless://53e3ad33-7ca3-0393-f8db-3c56cca64686@address1.vector-reactor.ir:443?path=/wss?ed=2048&security=tls&encryption=none&alpn=http/1.1&host=app.vector-reactor.ir&fp=chrome&type=ws&sni=app.vector-reactor.ir#SC🇸🇨
+vless://53e3ad33-7ca3-0393-f8db-3c56cca64686@address1.vector-reactor.ir:443?path=/wss?ed=2048&security=tls&encryption=none&alpn=http/1.1&host=app.vector-reactor.ir&fp=chrome&type=ws&sni=app.vector-reactor.ir#INT🌍
 
-vless://ac1f64ca-3d3d-4c98-abef-883155e94f26@ge.x2net.top:443?path=/&security=tls&encryption=none&alpn=http/1.1&fp=chrome&type=ws&sni=ge.x2net.top#IR🇮🇷
+vless://ac1f64ca-3d3d-4c98-abef-883155e94f26@ge.x2net.top:443?path=/&security=tls&encryption=none&alpn=http/1.1&fp=chrome&type=ws&sni=ge.x2net.top#INT🌍
 
-vless://d268df3a-b47d-46fc-994f-41f6f9da5aa9@us.x2fastt.top:443?path=/&security=tls&encryption=none&alpn=http/1.1&fp=chrome&type=ws&sni=us.x2fastt.top#IR🇮🇷
+vless://d268df3a-b47d-46fc-994f-41f6f9da5aa9@us.x2fastt.top:443?path=/&security=tls&encryption=none&alpn=http/1.1&fp=chrome&type=ws&sni=us.x2fastt.top#INT🌍
 
-vless://ed1db134-43dd-4b97-8863-fd64001ba5d2@78.157.47.245:8522?security=none&type=tcp&headerType=http&path=/&host=#IR🇮🇷
+vless://ed1db134-43dd-4b97-8863-fd64001ba5d2@78.157.47.245:8522?security=none&type=tcp&headerType=http&path=/&host=#INT🌍
 
-#IR🇮🇷
+#INT🌍
 
-vless://7c623371-dd82-41c9-89ab-f514b43ac76b@dns5.golden-ping.ir:56149?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#IR🇮🇷
+vless://7c623371-dd82-41c9-89ab-f514b43ac76b@dns5.golden-ping.ir:56149?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#INT🌍
 
-vless://53e3ad33-7ca3-0393-f8db-3c56cca64686@ty1rm.nl.neural-portal.com:8885?security=none&type=xhttp&path=/&host=gbaz.ir#IR🇮🇷
+vless://53e3ad33-7ca3-0393-f8db-3c56cca64686@ty1rm.nl.neural-portal.com:8885?security=none&type=xhttp&path=/&host=gbaz.ir#INT🌍
 
-vless://53e3ad33-7ca3-0393-f8db-3c56cca64686@caxp8.ru.neural-portal.com:8886?security=none&type=xhttp&path=/&host=gbaz.ir#IR🇮🇷
+vless://53e3ad33-7ca3-0393-f8db-3c56cca64686@caxp8.ru.neural-portal.com:8886?security=none&type=xhttp&path=/&host=gbaz.ir#INT🌍
 
-vless://53e3ad33-7ca3-0393-f8db-3c56cca64686@dis1x.uae.neural-portal.com:8887?security=none&type=xhttp&path=/&host=gbaz.ir#IR🇮🇷
+vless://53e3ad33-7ca3-0393-f8db-3c56cca64686@dis1x.uae.neural-portal.com:8887?security=none&type=xhttp&path=/&host=gbaz.ir#INT🌍
 
-vless://53e3ad33-7ca3-0393-f8db-3c56cca64686@oisog.ion-quantum.info:8888?security=reality&type=xhttp&path=/&host=rond.ir&sni=rond.ir&fp=chrome&pbk=P_osa6hU6udHMTHi4cuvJPaH5rlOII2tJ75-LfSHhCA&sid=39a8aaad144bb8b4#IR🇮🇷
+vless://53e3ad33-7ca3-0393-f8db-3c56cca64686@oisog.ion-quantum.info:8888?security=reality&type=xhttp&path=/&host=rond.ir&sni=rond.ir&fp=chrome&pbk=P_osa6hU6udHMTHi4cuvJPaH5rlOII2tJ75-LfSHhCA&sid=39a8aaad144bb8b4#INT🌍
 
-vless://53e3ad33-7ca3-0393-f8db-3c56cca64686@address1.ultra-circuit.ir:443?security=tls&type=ws&path=/wss?ed=2048&host=app.ultra-circuit.ir&sni=app.ultra-circuit.ir&fp=chrome&alpn=http/1.1#SC🇸🇨
+vless://53e3ad33-7ca3-0393-f8db-3c56cca64686@address1.ultra-circuit.ir:443?security=tls&type=ws&path=/wss?ed=2048&host=app.ultra-circuit.ir&sni=app.ultra-circuit.ir&fp=chrome&alpn=http/1.1#INT🌍
 
-vless://53e3ad33-7ca3-0393-f8db-3c56cca64686@address1.vector-reactor.ir:443?security=tls&type=ws&path=/wss?ed=2048&host=app.vector-reactor.ir&sni=app.vector-reactor.ir&fp=chrome&alpn=http/1.1#SC🇸🇨
+vless://53e3ad33-7ca3-0393-f8db-3c56cca64686@address1.vector-reactor.ir:443?security=tls&type=ws&path=/wss?ed=2048&host=app.vector-reactor.ir&sni=app.vector-reactor.ir&fp=chrome&alpn=http/1.1#INT🌍
 
-vless://53e3ad33-7ca3-0393-f8db-3c56cca64686@address2.ultra-circuit.ir:8880?security=none&type=xhttp&path=/cloudapi&host=ftp4.2debian.org.www.speedtest.net.ieltsmahan.ieltsmahan.ts.autumn-peak.ir#US🇺🇸
+vless://53e3ad33-7ca3-0393-f8db-3c56cca64686@address2.ultra-circuit.ir:8880?security=none&type=xhttp&path=/cloudapi&host=ftp4.2debian.org.www.speedtest.net.ieltsmahan.ieltsmahan.ts.autumn-peak.ir#INT🌍
 
-vless://53e3ad33-7ca3-0393-f8db-3c56cca64686@address2.vector-reactor.ir:8880?security=none&type=xhttp&path=/cloudapi&host=ftp4.2debian.org.www.speedtest.net.ieltsmahan.ieltsmahan.ts.byte-harvest.ir#BR🇧🇷
+vless://53e3ad33-7ca3-0393-f8db-3c56cca64686@address2.vector-reactor.ir:8880?security=none&type=xhttp&path=/cloudapi&host=ftp4.2debian.org.www.speedtest.net.ieltsmahan.ieltsmahan.ts.byte-harvest.ir#INT🌍
 
 vless://53e3ad33-7ca3-0393-f8db-3c56cca64686@sub.terra-logic.ir:2083?security=tls&type=xhttp&path=/&host=app.terra-logic.ir&sni=app.terra-logic.ir&fp=chrome&alpn=h2,http/1.1#INT🌍
 
 vless://fe47ad0c-a006-4e74-8607-5d2502a1b915@teri-users.chamehdan.ir:8080?type=tcp&encryption=none&security=none#INT🌍
 
-vless://a5eb4618-c4b5-458b-aafb-e74558d9592d@uae-user-naran.chamehdan.ir:8080?type=tcp&encryption=none&security=none#IR🇮🇷
+vless://a5eb4618-c4b5-458b-aafb-e74558d9592d@uae-user-naran.chamehdan.ir:8080?type=tcp&encryption=none&security=none#INT🌍
 
-vless://37ce2f1a-7c49-45bf-aab3-821cb86e7849@germany4.modem99.ir:2702?security=none&encryption=none&host=testspeed-foreign.tci.ir&headerType=http&type=tcp#AE🇦🇪
+vless://37ce2f1a-7c49-45bf-aab3-821cb86e7849@germany4.modem99.ir:2702?security=none&encryption=none&host=testspeed-foreign.tci.ir&headerType=http&type=tcp#INT🌍
 
 vless://118a5e62-703c-4bc3-9ad6-30dcbdb4c13c@ir.teslafn.com:1010?security=&encryption=none&host=Skype.com&headerType=http&type=tcp#INT🌍
 
 vless://118a5e62-703c-4bc3-9ad6-30dcbdb4c13c@ir.teslafn.com:1010?type=tcp&encryption=none&path=/&host=Skype.com&headerType=http&security=none#INT🌍
 
-vless://a745126a-54b3-4b06-9a76-350093b884be@tr-tun.a1mshop2.xyz:22560?security=&encryption=none&host=aparat.com&headerType=http&type=tcp#IR🇮🇷
+vless://a745126a-54b3-4b06-9a76-350093b884be@tr-tun.a1mshop2.xyz:22560?security=&encryption=none&host=aparat.com&headerType=http&type=tcp#INT🌍
 
 vless://53e3ad33-7ca3-0393-f8db-3c56cca64686@jx1z5.de1.ion-quantum.com:8881?security=none&type=xhttp&path=/&host=gbaz.ir#INT🌍
 
-vless://53e3ad33-7ca3-0393-f8db-3c56cca64686@i6xa1.de2.ion-quantum.com:8882?security=none&type=xhttp&path=/&host=gbaz.ir#IR🇮🇷
+vless://53e3ad33-7ca3-0393-f8db-3c56cca64686@i6xa1.de2.ion-quantum.com:8882?security=none&type=xhttp&path=/&host=gbaz.ir#INT🌍
 
 vless://53e3ad33-7ca3-0393-f8db-3c56cca64686@z2v0a.us.modern-surge.com:8883?security=none&type=xhttp&path=/&host=gbaz.ir#INT🌍
 
 vless://53e3ad33-7ca3-0393-f8db-3c56cca64686@t7p9a.uk.modern-surge.com:8884?security=none&type=xhttp&path=/&host=gbaz.ir#INT🌍
-
-vless://0287644d-14ea-4fc0-ad7d-ef62d485cbae@194.1.155.36:443?hiddify=1&sni=google.com&type=tcp&alpn=http/1.1&host=google.com&encryption=none&fp=chrome&headerType=none&flow=xtls-rprx-vision&security=reality&pbk=SZUefYX5rVEQ-YCpZJHe0w9eBfwjeSBGDbJNw-QZnXA&sid=be839c62#INT🌍
-
-vless://11ba9239-8266-4376-888f-2b4017e3fa8e@194.1.155.171:443?hiddify=1&sni=www.google.com&type=tcp&alpn=http/1.1&host=www.google.com&encryption=none&fp=ios&headerType=none&flow=xtls-rprx-vision&security=reality&pbk=ONGvU6auVp3jikVNUFAhfY7i-w80qW4Zvo0z4s3zz1o&sid=2f7f06&headers={'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36 OPR/114.0.0.0', 'Pragma': 'no-cache'}#INT🌍
-
-vless://4f21615d-d8c1-466a-88b0-4a86ac3907cf@91.231.144.169:6556?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#INT🌍
-
-vless://a456476f-0010-4b51-9865-e6857b418aae@iraan1.tehrandigital.org:8082?security=none&encryption=none&host=Varzesh3.com&headerType=http&type=tcp#INT🌍
-
-vless://bf923569-ff69-4638-b1d3-38e3348d9571@irm2.server11net.ir:1010?security=none&encryption=none&headerType=http&type=tcp#INT🌍
-
-vless://bf923569-ff69-4638-b1d3-38e3348d9571@respina24.gdsrguydsrghj.ir:1010?security=none&encryption=none&headerType=http&type=tcp#INT🌍
-
-vless://d0c36ebf-a083-44a9-acc4-271658236986@KRT.starz-net.com:2089?security=none&encryption=none&headerType=none&type=tcp#INT🌍
 
