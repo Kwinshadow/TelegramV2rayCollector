@@ -52,19 +52,23 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@212.183.88.238:2096?path=/?ed=2560&
 
 vless://e8b1500b-e9e8-5492-8312-f4eadf7d0767@57.129.64.102:443?security=tls&alpn=h2,http/1.1&encryption=none&insecure=1&headerType=none&type=tcp&allowInsecure=1&flow=xtls-rprx-vision&sni=nasnet-5712964102-direct.sharghdaily.co#DE🇩🇪
 
+vless://a86e6207-8294-454f-9b44-b9314cc86d57@dd.utproject.cv:55467?path=/DOWNLOAD_MOVIES&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=dd.utproject.cv#IR🇮🇷
+
+vless://06c16bf0-3218-43ab-ba56-6032251ff98d@q1.aparatrat1.info:4646?type=tcp&security=none#IR🇮🇷
+
 vless://76f3825b-94ba-48b2-b0fa-4ab9b30d9031@81.12.32.41:50004?encryption=none&security=none&type=tcp&headerType=none#INT🌍
 
-vless://b778901f-d5cc-4be3-a430-0e6e2e580b63@2.144.22.99:35707?encryption=none&security=none&type=tcp&headerType=none#IR🇮🇷
+vless://b778901f-d5cc-4be3-a430-0e6e2e580b63@2.144.22.99:35707?encryption=none&security=none&type=tcp&headerType=none#INT🌍
 
 vless://288bf553-0631-4d4d-aeb2-82b490faf8e0@94.183.241.159:44444?type=tcp&security=none#INT🌍
 
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@158.101.152.6:2919?path=/?ed=2560&telegram🇨🇳+@wangcai2&security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&fp=chrome&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#JP🇯🇵
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@158.101.152.6:2919?path=/?ed=2560&telegram🇨🇳+@wangcai2&security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&fp=chrome&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#INT🌍
 
-vless://4bb175e9-436c-4449-a5db-3ccbfcb28022@3.79.110.241:29044?type=tcp&encryption=none&security=none#DE🇩🇪
+vless://4bb175e9-436c-4449-a5db-3ccbfcb28022@3.79.110.241:29044?type=tcp&encryption=none&security=none#INT🌍
 
 vless://403b2b80-703b-4498-eb92-96be57848d39@3.72.19.78:50256?type=tcp&encryption=none&security=none#INT🌍
 
-vless://f9f8289a-ce61-45d4-e7a3-5b1c6b9c126d@3.67.12.39:15948?type=tcp&encryption=none&security=none#DE🇩🇪
+vless://f9f8289a-ce61-45d4-e7a3-5b1c6b9c126d@3.67.12.39:15948?type=tcp&encryption=none&security=none#INT🌍
 
 vless://20f9fd85-1e0f-4426-e840-594fff87b8a0@18.184.52.243:444?type=grpc&encryption=none&serviceName=&authority=&security=none#INT🌍
 
@@ -113,18 +117,4 @@ vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.19.110.50:443?path=/TElEGRAM-MA
 vless://f8eec5de-eed9-4363-a5c8-26ef7993f47b@www.speedtest.net:80?host=ch1.dontbow.store.&path=/melov2ray/melov2ray/melov2ray/melov2ray/melov2ray/melov2ray/melov2ray&security=none&type=ws#INT🌍
 
 vless://ff9035ba-4052-4fa5-8ccf-f9a6ca57407d@91.184.250.227:443?security=reality&encryption=none&pbk=avkEIU1rwN4LGd4t5DHRQwm3GzzDP723R8mUOwxNCE4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.microsoft.com&sid=d14f7150911e712d#INT🌍
-
-vless://e384913f-8863-47b4-8858-a84b68abb4a6@7.cdnconn.com:23335?security=reality&encryption=none&pbk=7Gi8eiUU9TIVbGuvSU16gl5-Aqt7tcCSB9x6CSxyvik&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=icloud.com&sid=67b1e94e4dd1ef90#INT🌍
-
-vless://4c55e931-e33b-487c-806e-cb29b64a089c@94.183.241.159:22222?security=none&encryption=none&headerType=none&type=tcp#INT🌍
-
-vless://Telegram-ipV2Ray-sqp@185.146.173.58:2052?path=/Telegram-ipV2Ray?ed=2048&security=none&encryption=none&host=Ch.1.V2rayV2ray-_-_-V2ray.Zemestanil.Ir.&type=ws#INT🌍
-
-vless://cfb6d9ad-7a14-4061-b159-8902fd73bb56@185.146.173.43:2095?path=/DIGIV2RAY--DigiV2ray--digiv2ray--DIGIV2RAY--DigiV2ray--digiv2ray--DigiV2ray--DigiV2ray?ed=1024&security=none&encryption=none&host=DigiV2ray---_-_---DIGIq.radioTehran.org.&type=ws#INT🌍
-
-vless://telegram-id-ArV2ray@185.146.173.158:80?path=/telegram-ArV2ray#INT🌍
-
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.236.135.208:22224?path=/telegram-channel-vlessconfig&security=tls&encryption=none&type=ws&sni=trojan.burgerip.co.uk#INT🌍
-
-vless://0f3408b6-5db9-4a9b-9579-e978961d32b4@86.38.214.26:443?mode=gun&security=tls&encryption=none&alpn=http/1.1&authority=&fp=firefox&type=grpc&serviceName=/custom_config?ed=2048&sni=aLi.PinobiN.iR.#INT🌍
 
