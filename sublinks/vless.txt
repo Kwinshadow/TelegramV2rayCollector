@@ -52,17 +52,17 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@212.183.88.238:2096?path=/?ed=2560&
 
 vless://e8b1500b-e9e8-5492-8312-f4eadf7d0767@57.129.64.102:443?security=tls&alpn=h2,http/1.1&encryption=none&insecure=1&headerType=none&type=tcp&allowInsecure=1&flow=xtls-rprx-vision&sni=nasnet-5712964102-direct.sharghdaily.co#DE🇩🇪
 
-vless://085fd318-41f2-4a0a-8438-74f311de1c56@ir2.mahsanrz.ir:2023?path=/&security=none&encryption=none&type#IR🇮🇷
+vless://085fd318-41f2-4a0a-8438-74f311de1c56@ir2.mahsanrz.ir:2023?path=/&security=none&encryption=none&type#INT🌍
 
-vless://a1c6fb9b-fccd-488e-8967-ff0879b4b07c@unlimited.sibvpn.pro:2083?type=ws&path=/&security=none#IR🇮🇷
+vless://a1c6fb9b-fccd-488e-8967-ff0879b4b07c@unlimited.sibvpn.pro:2083?type=ws&path=/&security=none#INT🌍
 
-vless://a4f7ac23-8146-464b-a932-9753f97303aa@sr-d-2.sedarchahar.top:9102?security=none&encryption=none&host=api.live98.ir&headerType=http&type=tcp#IR🇮🇷
+vless://a4f7ac23-8146-464b-a932-9753f97303aa@sr-d-2.sedarchahar.top:9102?security=none&encryption=none&host=api.live98.ir&headerType=http&type=tcp#INT🌍
 
-vless://fe3ce5db-627f-4cb6-857d-f18eed038742@vzb.piko-network.top:3306?security=&encryption=none&headerType=none&type=tcp#IR🇮🇷
+vless://fe3ce5db-627f-4cb6-857d-f18eed038742@vzb.piko-network.top:3306?security=&encryption=none&headerType=none&type=tcp#INT🌍
 
 vless://7d79f908-7fcf-46a5-b813-4530b2a89dd3@It1.Xn--fjQYeXxiDv2znoe9rK1n8aGb1E05q.XN--6qQ79v59WHUl.COM:2342?security=none&encryption=none&host=p30afzar.com&headerType=http&type=tcp#INT🌍
 
-vless://b31fa821-b818-4eb2-9242-241b930152b2@81.12.33.166:1005?security=none&encryption=none&host=myket.ir&headerType=http&type=tcp#IR🇮🇷
+vless://b31fa821-b818-4eb2-9242-241b930152b2@81.12.33.166:1005?security=none&encryption=none&host=myket.ir&headerType=http&type=tcp#INT🌍
 
 vless://27b05085-9b96-4ee6-9c94-c2b4cafdb7d2@fl.v2online3.site:24025?security=none&encryption=none&host=myket.ir/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=http&type=tcp#INT🌍
 
@@ -107,24 +107,4 @@ vless://c9fc0f4a-183b-4cea-dc30-dd46f998a019@arshia.parvane.top:33553?type=tcp&e
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.182.77.216:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#INT🌍
 
 vless://fe3ce5db-627f-4cb6-857d-f18eed038742@vzb.piko-network.top:3306?security=none&encryption=none&headerType=none&type=tcp#INT🌍
-
-vless://0528182a-2f47-4d63-829e-f3bdb17d8036@tr4.mediadlx.ir:2083?type=kcp&encryption=none&headerType=dns&seed=b5xKhfPZCD&security=none#INT🌍
-
-vless://5d870ac3-9c5c-8071-9081-e9a79bce002b@fast2.lolokhan.cloud:80?path=/XIXVPN?ed&security=none&encryption=none&host=greencp3.global.ssl.fastly.net&type=ws#INT🌍
-
-vless://6bf2c61f-db69-4e00-9dc5-249b83e69d73@94.183.171.3:41314?security=none&encryption=none&host=bmw.com&headerType=http&type=tcp#INT🌍
-
-vless://ce7331c5-a28c-4478-ae06-2a2c5b5416fe@ir.api.clothesshopping.ir:19163?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless#INT🌍
-
-vless://dc923edf-9962-4817-bd51-f43f696c5fbc@oodplkgju.vjdkem.mmejdus.ksmajww.cncjskwisuxjs.infinityofconnectedminds.com:3090?path=/XIXVPN?ed&security=none&encryption=none&host=ebqbi.knedno.kbrgcwq.aqpfmy.utzuryso.infinityofconnectedminds.com&type=ws#INT🌍
-
-vless://b5a71bc7-cc2c-4c6c-90b6-d08c341994c6@46.245.65.49:2053?path=/&security=none&encryption=none&type=ws#INT🌍
-
-vless://2471c5fc-8a93-434b-8caf-177ff8849936@g2-de2-hz.a1mshop2.xyz:22560?security=none&encryption=none&host=aparat.com/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=http&type=tcp#INT🌍
-
-vless://7f08985c-4d1a-4ed3-bea7-c1da1b3ae3a6@212.80.8.212:38941?security=none&encryption=none&host=speedtest.net/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=http&type=tcp#INT🌍
-
-vless://0c04d4c1-3ff9-4844-a7e4-aadc902acdb0@hv344zom.novinpardazanpayam.net:48908?security=none&encryption=none&host=www.uptvs.com/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=http&type=tcp#INT🌍
-
-vless://879b0d4e-c575-40fe-a14a-1b2723888b93@nl-2-tun.khabarkhori.space:8081?security=none&encryption=none&host=www.speedtest.net/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=http&type=tcp#INT🌍
 
