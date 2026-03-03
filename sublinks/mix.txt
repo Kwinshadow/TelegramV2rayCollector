@@ -82,7 +82,7 @@ vless://6863526a-8c03-499d-8144-0087a9b78ab7@2.144.20.38:443/?type=ws&path=/&hos
 
 vless://a87e8b98-7555-47a6-96a1-a77d52cad6cc@46.245.120.148:58653?security=none&allowInsecure=0&encryption=none&type=tcp&host=uptvs.com&path=/&headerType=http#INT🌍
 
-ss://ce7331c5-a28c-4478-ae06-2a2c5b5416fe@ir.api.clothesshopping.ir:19163?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless#IR🇮🇷
+ss://ce7331c5-a28c-4478-ae06-2a2c5b5416fe@ir.api.clothesshopping.ir:19163?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless#INT🌍
 
 ss://6bf2c61f-db69-4e00-9dc5-249b83e69d73@94.183.171.3:41314?security=none&encryption=none&host=bmw.com&headerType=http&type=tcp#INT🌍
 
@@ -94,7 +94,7 @@ trojan://telegram-id-privatevpns@52.28.154.195:22222?security=tls&alpn=http/1.1&
 
 trojan://telegram-id-privatevpns@15.236.135.208:22222?security=tls&alpn=http/1.1&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=trojan.burgerip.co.uk#INT🌍
 
-trojan://opentunnel.net-english30day@54.37.18.204:443?security=tls&headerType=none&type=tcp&sni=uplod.ir#INT🌍
+trojan://opentunnel.net-english30day@54.37.18.204:443?security=tls&headerType=none&type=tcp&sni=uplod.ir#GB🇬🇧
 
 vless://ab0d9568-1ad3-4af5-961c-d10ca9a634ad@49.12.117.224:10101?encryption=none&security=reality&sni=tgju.org&fp=firefox&pbk=On5O0VfjqP40fu4gb2_ef4QwY2SsX1RA3q0pTwgXZzk&sid=7867c27d00514e3f&type=tcp&headerType=none#INT🌍
 
