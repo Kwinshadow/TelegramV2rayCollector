@@ -76,17 +76,17 @@ vless://423c14e1-9879-4335-b371-e582ce0dbc14@185.97.119.239:8080?security=none&e
 
 vless://54e5a989-5938-43ce-ba58-026ddbfd4d7b@45.141.234.159:30724?security=reality&encryption=none&pbk=KcWxOI6Y2kqFd_cg4bu-hWBZDlsJhT6TyRHhwFAHa0A&headerType=none&fp=chrome&spx=/&type=tcp&sni=yandex.ru&sid=eab8ab08e4d6faa0#INT🌍
 
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@chatgpt.com:2096?path=/?ed&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#US🇺🇸
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@chatgpt.com:2096?path=/?ed&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#INT🌍
 
-vless://91f8b4d5-b9eb-4740-b560-df710cc3c5e2@pl1.heliyadak.ir:3228?type=ws&security=none#IR🇮🇷
+vless://91f8b4d5-b9eb-4740-b560-df710cc3c5e2@pl1.heliyadak.ir:3228?type=ws&security=none#INT🌍
 
-vless://4a098f1e-c449-4061-8b95-70ae594d3458@46.8.113.237:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=ign.dev&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2#INT🌍
+vless://4a098f1e-c449-4061-8b95-70ae594d3458@46.8.113.237:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=ign.dev&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2#CZ🇨🇿
 
 vless://8c27381c-3124-0008-bfa3-76d1a00265c8@37.139.32.50:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&sni=ads.x5.ru&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&sid=43dcff53849b81e6#INT🌍
 
 vless://907b21dc-1beb-4e27-8c0f-f711b8fb223f@6t8q56c58d.0g97vcf0bhjg6sa4n1xx.realytag.com:882?security=none&encryption=none&host=skyroom.online,gharar.ir,igap.net&headerType=http&type=tcp#INT🌍
 
-vless://f65d8f52-da18-404a-bc6b-55aee5736207@emergency2.layer-ziro.ir:2002?security=none&type=tcp&headerType=http&path=/&host=anten.ir#INT🌍
+vless://f65d8f52-da18-404a-bc6b-55aee5736207@emergency2.layer-ziro.ir:2002?security=none&type=tcp&headerType=http&path=/&host=anten.ir#IR🇮🇷
 
 trojan://telegram-id-directvpn@15.188.31.240:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#INT🌍
 
