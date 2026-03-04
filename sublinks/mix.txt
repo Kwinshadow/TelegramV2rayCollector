@@ -72,17 +72,17 @@ vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@clyde.ns.cloudflare.com:2096?path=/
 
 vless://e6eec2e9-f98d-4fd4-afac-c504123231cf@104.16.89.18:443?path=/&security=tls&encryption=none&insecure=1&host=rukawa.pages.dev&type=ws&allowInsecure=1&sni=rukawa.pages.dev#INT🌍
 
-vless://d9a83363-40a6-4a21-9dbe-cb2b7d287048@104.26.15.21:443?path=/107.174.121.122=443&security=tls&encryption=none&insecure=1&host=afrcloud22.mmv.kr&type=ws&allowInsecure=1&sni=afrcloud22.mmv.kr#INT🌍
+vless://d9a83363-40a6-4a21-9dbe-cb2b7d287048@104.26.15.21:443?path=/107.174.121.122=443&security=tls&encryption=none&insecure=1&host=afrcloud22.mmv.kr&type=ws&allowInsecure=1&sni=afrcloud22.mmv.kr#US🇺🇸
 
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@57.129.49.1:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#DE🇩🇪
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@57.129.49.1:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#INT🌍
 
-vless://5976b860-e481-41e2-b2f2-9f8901bf84a2@94.183.241.159:22222?security=none&encryption=none&headerType=none&type=tcp#INT🌍
+vless://5976b860-e481-41e2-b2f2-9f8901bf84a2@94.183.241.159:22222?security=none&encryption=none&headerType=none&type=tcp#IR🇮🇷
 
-vless://77777777-6663-4ef2-b26b-ed2d70642678@172.64.145.202:2087?security=tls&encryption=none&insecure=1&host=afxmsv51.fx02.ccwu.cc&type=ws&allowInsecure=1&sni=afxmsv51.fx02.ccwu.cc#INT🌍
+vless://77777777-6663-4ef2-b26b-ed2d70642678@172.64.145.202:2087?security=tls&encryption=none&insecure=1&host=afxmsv51.fx02.ccwu.cc&type=ws&allowInsecure=1&sni=afxmsv51.fx02.ccwu.cc#US🇺🇸
 
 vless://8bc21af8-96d9-48a9-9bd7-6361684bedac@6t8q56c58d.0g97vcf0bhjg6sa4n1xx.realytag.com:882?security=none&encryption=none&host=skyroom.online,gharar.ir,igap.net&headerType=http&type=tcp#IR🇮🇷
 
-vless://e384913f-8863-47b4-8858-a84b68abb4a6@185.147.26.21:23335?security=reality&encryption=none&pbk=7Gi8eiUU9TIVbGuvSU16gl5-Aqt7tcCSB9x6CSxyvik&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=icloud.com#RU🇷🇺
+vless://e384913f-8863-47b4-8858-a84b68abb4a6@185.147.26.21:23335?security=reality&encryption=none&pbk=7Gi8eiUU9TIVbGuvSU16gl5-Aqt7tcCSB9x6CSxyvik&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=icloud.com#INT🌍
 
 vless://5703f5b9-d708-4443-b661-aae0c338e32c@62.60.212.216:443?security=reality&encryption=none&pbk=HiEn07HkK8FRuKgmNDATj9TsEh6z6QwozRADLvV8SEE&headerType=none&fp=random&type=tcp&sni=www.figma.com&sid=a4efab6a73#INT🌍
 
@@ -92,7 +92,7 @@ vless://9d78b6b9-bfaf-4f2f-b5b8-3051ee3f7722@194.145.119.216:8082?security=none&
 
 vless://ca9fe47c-2d84-4445-b2ff-36387c1aa948@194.60.228.135:7710?mode=gun&security=none&encryption=none&type=grpc&serviceName=qwemmqwoedmqwoemdoqwmedpmqwedmpm#INT🌍
 
-vless://a589a8c6-ddbb-496f-92bd-7422ea8c9fb7@isv31x.smrfy.online:45965?security=none&encryption=none&host=trexplus.org&headerType=http&type=tcp#IR🇮🇷
+vless://a589a8c6-ddbb-496f-92bd-7422ea8c9fb7@isv31x.smrfy.online:45965?security=none&encryption=none&host=trexplus.org&headerType=http&type=tcp#INT🌍
 
 vless://65e0671a-3a42-4f6d-9cd5-3e0d4c6bc43f@40.rexg.ir:11001?security=none&encryption=none&host=fire194.centerplus.xyz&headerType=http&type=tcp#INT🌍
 
