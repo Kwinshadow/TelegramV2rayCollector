@@ -1,4 +1,8 @@
- trojan://humanity@www.gossipglove.com:443?path=/assignment&security=tls&fp=chrome&type=ws&sni=www.gossipglove.com#INT🌍
+ trojan://842b5f9dd11e458d8613c907c4cc5723@149.28.151.140:443?encryption=none&security=tls&sni=www.gpt123.one&insecure=1&type=raw&headertype=none#INT🌍
 
-trojan://Nova-Proxy@190.93.244.43:8443?path=/?ed&security=tls&host=small-morning-2668.drusavm.workers.dev&type=ws&sni=small-morning-2668.drusavm.workers.dev#INT🌍
+trojan://telegram-id-privatevpns@63.180.53.233:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#INT🌍
+
+trojan://telegram-id-directvpn@63.180.53.233:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#INT🌍
+
+trojan://humanity@www.gossipglove.com:443?path=/assignment&security=tls&fp=chrome&type=ws&sni=www.gossipglove.com#INT🌍
 
