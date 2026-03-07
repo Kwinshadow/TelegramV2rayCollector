@@ -1,4 +1,8 @@
- trojan://telegram-id-privatevpns@52.29.115.99:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#DE🇩🇪
+ trojan://telegram-id-directvpn@15.188.101.85:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#INT🌍
+
+trojan://telegram-id-privatevpns@15.188.101.85:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#INT🌍
+
+trojan://telegram-id-privatevpns@52.29.115.99:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#INT🌍
 
 trojan://telegram-id-directvpn@52.29.115.99:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#INT🌍
 
