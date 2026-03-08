@@ -44,7 +44,7 @@ vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@104.16.2.90:443?path=/43.218.77.16=
 
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@162.159.12.151:443?path=/&security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#US🇺🇸
 
-vless://9f00e109-36ba-47a6-8dd5-4487fb93a6ff@rk4no3.cdnhoo.top:80?path=/get&security=none&encryption=none&type=ws#IR🇮🇷
+vless://9f00e109-36ba-47a6-8dd5-4487fb93a6ff@rk4no3.cdnhoo.top:80?path=/get&security=none&encryption=none&type=ws#INT🌍
 
 vless://f1f8a865-ca7d-4a20-aa2d-bfd08759b24b@151.101.10.79:443?security=tls&type=ws&headerType=&path=&host=nesfhab.global.ssl.fastly.net&sni=speedtest.net&fp=&allowInsecure=1#US🇺🇸
 
@@ -64,13 +64,13 @@ vless://f1f8a865-ca7d-4a20-aa2d-bfd08759b24b@kingmna.com:2083?security=tls&type=
 
 vless://f1f8a865-ca7d-4a20-aa2d-bfd08759b24b@kingmna.com:2083?security=tls&type=xhttp&headerType=&path=/&host=italyno.cedriklorenz.ir&mode=auto&extra={"scMaxEachPostBytes": "1000000", "scMaxConcurrentPosts": 100, "scMinPostsIntervalMs": 30, "xPaddingBytes": "100-1000", "noGRPCHeader": false}&sni=italyno.cedriklorenz.ir&fp=chrome&alpn=h2#US🇺🇸
 
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.199.232.208:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#INT🌍
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.199.232.208:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#DE🇩🇪
 
 vless://6c8f2ee5-effd-4601-90d3-8d289b2956ee@5.159.54.151:80?security=none&encryption=none&headerType=none&type=tcp#INT🌍
 
-vless://S144@5.159.54.144:21?security=none&encryption=none&headerType=none&type=tcp#IR🇮🇷
+vless://S144@5.159.54.144:21?security=none&encryption=none&headerType=none&type=tcp#INT🌍
 
-vless://c970f910-1103-446a-bdc8-a9cfb22381bf@hk.darknet.run:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=hk.darknet.run&fp=chrome&pbk=Jz86eEP-mzz7mV-S1YBmg05eeOeeezxTEOLoKlLjSXE&sid=a1b223d4&spx=/&type=tcp&headerType=none#HK🇭🇰
+vless://c970f910-1103-446a-bdc8-a9cfb22381bf@hk.darknet.run:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=hk.darknet.run&fp=chrome&pbk=Jz86eEP-mzz7mV-S1YBmg05eeOeeezxTEOLoKlLjSXE&sid=a1b223d4&spx=/&type=tcp&headerType=none#INT🌍
 
 vless://f1eb7fed-bc91-4285-9e7f-23d941a0204a@www.speedtest.net:443?mode=gun&security=tls&alpn=h3,h2,http/1.1&encryption=none&authority=&fp=chrome&type=grpc&serviceName=@ConfigTell,@ConfigTell,@ConfigTell&sni=www.felafel.org#US🇺🇸
 
@@ -82,7 +82,7 @@ vless://4dd14167-ddce-49d1-8322-133e82c0cbfb@109.95.65.242:900?security=none&enc
 
 vless://4f5def46-1a54-11f1-9053-92000723b4ab@vipde2.persianpinggame.com:9091?encryption=none&type=tcp&headerType=http&host=filmnet.ir&security=none#INT🌍
 
-vless://c72511d7-1729-403d-92c5-7448533a369a@Platform.snapp.ir.green-gaming-company.ir:1011?security=none&encryption=none&host=s.cafebazaar.ir&headerType=http&type=tcp#INT🌍
+vless://c72511d7-1729-403d-92c5-7448533a369a@Platform.snapp.ir.green-gaming-company.ir:1011?security=none&encryption=none&host=s.cafebazaar.ir&headerType=http&type=tcp#IR🇮🇷
 
 vless://c967de89-af86-4eba-be64-34e5656ca994@185.126.203.167:16957?security=none&encryption=none&headerType=none&type=tcp#INT🌍
 
