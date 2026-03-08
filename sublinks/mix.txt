@@ -46,6 +46,26 @@ vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@104.16.2.90:443?path=/43.218.77.16=
 
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@162.159.12.151:443?path=/&security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#US🇺🇸
 
+vless://a06f6bb2-7558-4828-adf1-169e871756ee@193.151.151.211:42595?type=tcp&security=none#IR🇮🇷
+
+vless://18e0d426-cbe2-4e80-a8d0-6af4116ec811@g1-tun-de.a1mshop2.xyz:14500?security=none&encryption=none&host=aparat.com&headerType=http&type=tcp#IR🇮🇷
+
+vless://26c9778e-ccc8-4c16-85a0-9b4f34a29bc9@rk4no3.cdnhoo.com:80?path=/get&security=none&encryption=none&type=ws#IR🇮🇷
+
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.79.165.50:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#DE🇩🇪
+
+trojan://telegram-id-privatevpns@3.79.165.50:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#DE🇩🇪
+
+trojan://telegram-id-directvpn@3.79.165.50:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#DE🇩🇪
+
+vless://4f5e47ba-1a54-11f1-9053-92000723b4ab@vipde7.persianpinggame.com:9094?security=none&encryption=none&host=filmnet.ir&headerType=http&type=tcp#IR🇮🇷
+
+vless://40634014-2458-4ddd-9125-b0023548f770@33kdksjskskwkwodk.lskwposkrjgso.ncniwlqnxbdje.wizardxray.ir:702?security=none&type=tcp&headerType=http&path=/&host=rubika.ir,igap.net,splus.ir,skyroom.online#IR🇮🇷
+
+vless://c17682e5-0b20-4e6d-b58d-8a0f753f3513@109.95.65.242:8032?security=&encryption=none&host=soft98.ir&headerType=http&type=tcp#IR🇮🇷
+
+vless://d9d163e3-793c-4fd4-8026-690d422bf8ea@s2.fastsnap.info:21113?security=none&encryption=none&headerType=none&type=tcp#IR🇮🇷
+
 vless://7d49a403-4956-4b05-b70b-98917a79a8ca@sv4.zestifypro.com:2082?encryption=none&type=tcp&headerType=http&path=/#IR🇮🇷
 
 vless://7d49a403-4956-4b05-b70b-98917a79a8ca@sv5.zestifypro.com:5050?encryption=none&type=tcp&headerType=http&path=/#IR🇮🇷
@@ -58,25 +78,25 @@ vless://9e6b86b9-dd24-4132-80cc-ca1de3a07fe7@sv2.zestifypro.com:2053?encryption=
 
 vless://9e6b86b9-dd24-4132-80cc-ca1de3a07fe7@sv3.zestifypro.com:3088?encryption=none&type=tcp&headerType=http&path=/#IR🇮🇷
 
-vless://9e6b86b9-dd24-4132-80cc-ca1de3a07fe7@sv4.zestifypro.com:2082?encryption=none&type=tcp&headerType=http&path=/#IR🇮🇷
+vless://9e6b86b9-dd24-4132-80cc-ca1de3a07fe7@sv4.zestifypro.com:2082?encryption=none&type=tcp&headerType=http&path=/#INT🌍
 
-vless://9e6b86b9-dd24-4132-80cc-ca1de3a07fe7@sv5.zestifypro.com:5050?encryption=none&type=tcp&headerType=http&path=/#IR🇮🇷
+vless://9e6b86b9-dd24-4132-80cc-ca1de3a07fe7@sv5.zestifypro.com:5050?encryption=none&type=tcp&headerType=http&path=/#INT🌍
 
-vless://9e6b86b9-dd24-4132-80cc-ca1de3a07fe7@sv6.zestifypro.com:6040?encryption=none&type=tcp&headerType=http&path=/#IR🇮🇷
+vless://9e6b86b9-dd24-4132-80cc-ca1de3a07fe7@sv6.zestifypro.com:6040?encryption=none&type=tcp&headerType=http&path=/#INT🌍
 
-vless://9e6b86b9-dd24-4132-80cc-ca1de3a07fe7@sv7.zestifypro.com:7030?encryption=none&type=tcp&headerType=http&path=/#IR🇮🇷
+vless://9e6b86b9-dd24-4132-80cc-ca1de3a07fe7@sv7.zestifypro.com:7030?encryption=none&type=tcp&headerType=http&path=/#INT🌍
 
-vless://c71d2f84-1ae1-11f1-97cf-7fa5d2a6fb9f@gr5.vpnjantit.com:10002?path=/vpnjantit&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0#DE🇩🇪
+vless://c71d2f84-1ae1-11f1-97cf-7fa5d2a6fb9f@gr5.vpnjantit.com:10002?path=/vpnjantit&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0#INT🌍
 
-vless://c71d2f84-1ae1-11f1-97cf-7fa5d2a6fb9f@gr5.vpnjantit.com:10004?path=/vpnjantit&security=none&encryption=none&type=ws#DE🇩🇪
+vless://c71d2f84-1ae1-11f1-97cf-7fa5d2a6fb9f@gr5.vpnjantit.com:10004?path=/vpnjantit&security=none&encryption=none&type=ws#INT🌍
 
-trojan://telegram-id-privatevpns@13.36.46.152:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#FR🇫🇷
+trojan://telegram-id-privatevpns@13.36.46.152:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#INT🌍
 
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.36.46.152:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#FR🇫🇷
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.36.46.152:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#INT🌍
 
-trojan://telegram-id-directvpn@13.36.46.152:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#FR🇫🇷
+trojan://telegram-id-directvpn@13.36.46.152:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#INT🌍
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@81.90.189.18:811#SG🇸🇬
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@81.90.189.18:811#INT🌍
 
 vless://ab8543cd-0e65-4b74-f5ad-932cffe0a12a@37.156.145.183:40652?security=none&encryption=none&headerType=none&type=tcp#INT🌍
 
@@ -145,24 +165,4 @@ vless://c970f910-1103-446a-bdc8-a9cfb22381bf@hk.darknet.run:443?encryption=none&
 vless://f1eb7fed-bc91-4285-9e7f-23d941a0204a@www.speedtest.net:443?mode=gun&security=tls&alpn=h3,h2,http/1.1&encryption=none&authority=&fp=chrome&type=grpc&serviceName=@ConfigTell,@ConfigTell,@ConfigTell&sni=www.felafel.org#INT🌍
 
 vless://ca492b57-4e98-49d5-aed2-61b67a2ec559@85.133.240.160:35812?security=reality&encryption=none&pbk=LOS87LofEJA0paPzrS2mIFhmTaqkOZC-AUFgNvE1UEs&headerType=none&fp=chrome&type=tcp&sni=learn.microsoft.com&sid=82cada35130f1ef2#INT🌍
-
-vless://3361a952-096a-4ea5-965b-556e2f870bba@146.70.106.79:21252?security=none&encryption=none&headerType=none&type=tcp#INT🌍
-
-vless://4dd14167-ddce-49d1-8322-133e82c0cbfb@109.95.65.242:900?security=none&encryption=none&headerType=none&type=tcp#INT🌍
-
-vless://4f5def46-1a54-11f1-9053-92000723b4ab@vipde2.persianpinggame.com:9091?encryption=none&type=tcp&headerType=http&host=filmnet.ir&security=none#INT🌍
-
-vless://c72511d7-1729-403d-92c5-7448533a369a@Platform.snapp.ir.green-gaming-company.ir:1011?security=none&encryption=none&host=s.cafebazaar.ir&headerType=http&type=tcp#INT🌍
-
-vless://c967de89-af86-4eba-be64-34e5656ca994@185.126.203.167:16957?security=none&encryption=none&headerType=none&type=tcp#INT🌍
-
-vless://0773112d-c3fc-4a9f-aea0-d9be521452ce@85.133.227.39:35812?security=reality&encryption=none&pbk=LOS87LofEJA0paPzrS2mIFhmTaqkOZC-AUFgNvE1UEs&headerType=none&fp=chrome&type=tcp&sni=learn.microsoft.com&sid=82cada35130f1ef2#INT🌍
-
-vless://5ee4a55f-5f6b-4a97-8670-8631238e4c6f@85.133.240.160:35812?security=reality&encryption=none&pbk=LOS87LofEJA0paPzrS2mIFhmTaqkOZC-AUFgNvE1UEs&headerType=none&fp=chrome&type=tcp&sni=www.microsoft.com&sid=82cada35130f1ef2#INT🌍
-
-vless://0773112d-c3fc-4a9f-aea0-d9be521452ce@85.133.240.82:8443?security=reality&encryption=none&pbk=LOS87LofEJA0paPzrS2mIFhmTaqkOZC-AUFgNvE1UEs&headerType=none&fp=chrome&type=tcp&sni=www.microsoft.com&sid=82cada35130f1ef2#INT🌍
-
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@57.129.53.181:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#INT🌍
-
-vless://908e6886-79f8-4acc-8452-c1576ffd0cd3@pm5.vhuma.com:443?security=none&encryption=none&host=bama.ir&headerType=http&type=tcp#INT🌍
 
