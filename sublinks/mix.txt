@@ -74,17 +74,17 @@ trojan://telegram-id-privatevpns@3.69.235.19:22222?security=tls&alpn=http/1.1&he
 
 trojan://telegram-id-directvpn@3.69.235.19:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#DE🇩🇪
 
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.69.235.19:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#INT🌍
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.69.235.19:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#DE🇩🇪
 
 vless://c4e2512d-060c-59a7-ad20-be4284298eeb@thesis.mhub-mc.ir:3010?encryption=none&flow=xtls-rprx-vision&security=reality&sni=refersion.com&fp=chrome&pbk=8DGDiqDs99PvQGTjFh4Xu_4DmuKbk5bDJsUb73gEzW0&sid=e32df1fa9070e48e&type=tcp&headerType=none113#IR🇮🇷
 
-vmess://eyJhZGQiOiJpcDMudGFyYXZhdC5uZXQiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6Im15a2V0LmlyIiwiaWQiOiJjZWI5YjY4Ny03NzJiLTQ1NjktYjVmYS0xYmU4NDM0NWQ2YzciLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiXC8iLCJwb3J0IjoiMTAyIiwicHMiOiJJTlRcdWQ4M2NcdWRmMGQiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
+vmess://eyJhZGQiOiJpcDMudGFyYXZhdC5uZXQiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6Im15a2V0LmlyIiwiaWQiOiJjZWI5YjY4Ny03NzJiLTQ1NjktYjVmYS0xYmU4NDM0NWQ2YzciLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiXC8iLCJwb3J0IjoiMTAyIiwicHMiOiJJUlx1ZDgzY1x1ZGRlZVx1ZDgzY1x1ZGRmNyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
 
 vless://c71d2f84-1ae1-11f1-97cf-7fa5d2a6fb9f@gr5.vpnjantit.com:10004?path=/vpnjantit&security=none&encryption=none&type=ws#INT🌍
 
-vless://e2ff29b0-1ae0-11f1-8359-92000723b4ab@dlc-new10.persianpinggame.com:5110?security=none&encryption=none&host=filmnet.ir&headerType=http&type=tcp#IR🇮🇷
+vless://e2ff29b0-1ae0-11f1-8359-92000723b4ab@dlc-new10.persianpinggame.com:5110?security=none&encryption=none&host=filmnet.ir&headerType=http&type=tcp#INT🌍
 
-vless://711f56b0-0d4c-4516-bea6-0e963749928c@my-rebar.shop:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=5vZadQxvsBfPR1hKN3TFOYsGLBBPDvd4sLVNnPzddRg&security=reality&sni=my-rebar.shop&type=tcp#FI🇫🇮
+vless://711f56b0-0d4c-4516-bea6-0e963749928c@my-rebar.shop:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=5vZadQxvsBfPR1hKN3TFOYsGLBBPDvd4sLVNnPzddRg&security=reality&sni=my-rebar.shop&type=tcp#INT🌍
 
 vless://4dd14167-ddce-49d1-8322-133e82c0cbfb@109.95.65.242:900?security=none&encryption=none&headerType=none&type=tcp#INT🌍
 
@@ -94,7 +94,7 @@ vless://7676cf73-16fb-47a7-b1fc-e5e928ccd58d@151.101.1.194:80?mode=auto&path=/Ti
 
 vless://0195d3b8-8bfa-4c6e-9988-56396952a50a@finland.dehnavy.ir:39461/?path=/&security=none&encryption=none&type=ws#INT🌍
 
-vless://38b816ea-4dcf-4354-8581-c8db49e73c01@sdl15.shahramv1.site:80?security=none&encryption=none&headerType=none&type=tcp#IR🇮🇷
+vless://38b816ea-4dcf-4354-8581-c8db49e73c01@sdl15.shahramv1.site:80?security=none&encryption=none&headerType=none&type=tcp#INT🌍
 
 vless://38b816ea-4dcf-4354-8581-c8db49e73c01@sdl15.shahramv1.site:80?encryption=none&packetEncoding=xudp#INT🌍
 
