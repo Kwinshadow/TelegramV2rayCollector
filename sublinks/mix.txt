@@ -46,31 +46,51 @@ vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@104.16.2.90:443?path=/43.218.77.16=
 
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@162.159.12.151:443?path=/&security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#US🇺🇸
 
+trojan://telegram-id-directvpn@13.36.100.6:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#FR🇫🇷
+
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.36.100.6:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#FR🇫🇷
+
+vless://b6c07d52-0288-4005-9634-b5d4bd661535@94.101.177.169:80?security=none&encryption=none&headerType=none&type=tcp#IR🇮🇷
+
+vless://c3f30d4c-2ba7-4cb8-aee1-a1ce9652d5aa@6t8q56c58d.0g97vcf0bhjg6sa4n1xx.realytag.com:882?security=none&encryption=none&host=skyroom.online,+gharar.ir,+igap.net&headerType=http&type=tcp#IR🇮🇷
+
+vless://686c62d9-17a7-43c9-a40a-f6747df60a9f@chatgpt.com:2096?path=/?TELEGRAM-?ed=512&security=tls&alpn=http/1.1&encryption=none&insecure=1&host=ca.adobe-connect.top&fp=chrome&type=ws&allowInsecure=1&sni=ca.adobe-connect.top#US🇺🇸
+
+vless://686c62d9-17a7-43c9-a40a-f6747df60a9f@chatgpt.com:2096?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=1&host=ca.adobe-connect.top&fp=chrome&type=ws&allowInsecure=1&sni=ca.adobe-connect.top#US🇺🇸
+
+#IR🇮🇷
+
+vmess://eyJhZGQiOiIxNTEuMjQzLjMuNTkiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiNDg4ZTg3ZWUtMDc0Yy00ZTUzLTk4ZWEtNjM5MjI4OGJkYzcxIiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIxNzg1OCIsInBzIjoiTkxcdWQ4M2NcdWRkZjNcdWQ4M2NcdWRkZjEiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
+
+#IR🇮🇷
+
+#IR🇮🇷
+
 vless://420349f3-6024-4457-bde6-b3d11183d728@31.216.62.198:20391?security=none&encryption=none&headerType=none&type=tcp#IR🇮🇷
 
 vless://b877a059-4473-43ec-8f62-c36ce19b28d9@151.101.1.194:80?mode=auto&path=/TignaliSWithYou&security=none&encryption=none&host=tignaltofan.global.ssl.fastly.net&type=xhttp#US🇺🇸
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1M21KcG53T29HR2x1QjRhRDU1TEtB@94.182.175.37:2096#IR🇮🇷
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1M21KcG53T29HR2x1QjRhRDU1TEtB@94.182.175.37:2096#INT🌍
 
 vless://6476305b-cf0d-4367-8758-b470bcaa51c2@haji.arezoni1.ir:666?security=none&encryption=none&headerType=none&type=tcp#IR🇮🇷
 
-vless://738d8767-5eff-49dd-b9b9-766d377afd27@6t8q56c58d.0g97vcf0bhjg6sa4n1xx.realytag.com:882?security=none&encryption=none&host=skyroom.online, gharar.ir, igap.net&headerType=http&type=tcp#IR🇮🇷
+vless://738d8767-5eff-49dd-b9b9-766d377afd27@6t8q56c58d.0g97vcf0bhjg6sa4n1xx.realytag.com:882?security=none&encryption=none&host=skyroom.online, gharar.ir, igap.net&headerType=http&type=tcp#INT🌍
 
-vless://a9dac221-fda2-44b2-8670-0fe4ee007449@viptun2.persianv2.ir:8443?security=none&encryption=none&headerType=none&type=tcp#IR🇮🇷
+vless://a9dac221-fda2-44b2-8670-0fe4ee007449@viptun2.persianv2.ir:8443?security=none&encryption=none&headerType=none&type=tcp#INT🌍
 
 vless://bade902e-eaff-48c1-bb66-c7c064e4a422@mp.sanflow.ir:921?security=none&encryption=none&host=pro30afzar.com&headerType=http&type=tcp#IR🇮🇷
 
 vless://ccac781d-1f3e-4e5b-99c2-d07d653b81e8@rk4no3.cdnhoo.top:80?encryption=none&security=none&type=ws&path=/get#INT🌍
 
-vless://fbb605a5-ce61-4aa9-804d-a2bd5baade57@meli2.ertebatgoostar.ir:2087?security=none&encryption=none&headerType=http&type=tcp#IR🇮🇷
+vless://fbb605a5-ce61-4aa9-804d-a2bd5baade57@meli2.ertebatgoostar.ir:2087?security=none&encryption=none&headerType=http&type=tcp#INT🌍
 
 trojan://telegram-id-privatevpns@13.36.100.6:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#FR🇫🇷
 
 vless://b6e371d1-0e7e-4145-ba77-32ea4c37e7d5@85.133.227.39:35812?security=reality&encryption=none&pbk=LOS87LofEJA0paPzrS2mIFhmTaqkOZC-AUFgNvE1UEs&headerType=none&fp=chrome&type=tcp&sni=www.microsoft.com&sid=82cada35130f1ef2#IR🇮🇷
 
-vless://c28188b7-3e78-4de9-bc7d-e651eb77ca8a@fin-tun.a1mshop2.xyz:12000?security=none&encryption=none&host=aparat.com&headerType=http&type=tcp#IR🇮🇷
+vless://c28188b7-3e78-4de9-bc7d-e651eb77ca8a@fin-tun.a1mshop2.xyz:12000?security=none&encryption=none&host=aparat.com&headerType=http&type=tcp#INT🌍
 
-vless://c2b88a44-9000-4c86-9df9-cee546d793b7@178.239.146.50:2001?security=none&encryption=none&host=anten.ir&headerType=http&type=tcp#IR🇮🇷
+vless://c2b88a44-9000-4c86-9df9-cee546d793b7@178.239.146.50:2001?security=none&encryption=none&host=anten.ir&headerType=http&type=tcp#INT🌍
 
 vless://c6c08b10-2484-4eea-ace7-b4379827a5d2@fn77.finuxmaster.shop:2053?security=none&encryption=none&host=soft98.ir&headerType=http&type=tcp#INT🌍
 
@@ -84,17 +104,17 @@ vless://ccac781d-1f3e-4e5b-99c2-d07d653b81e8@rk4no3.cdnhoo.top:80?security=none&
 
 vless://7443fd4b-1f3b-53af-dabd-3ff69241f55a@[::ffff:5eb8:1f74]:58008/?security=none&encryption=none&host=arvancloud.ir&headerType=http&type=tcp#INT🌍
 
-vless://4f561f73-0fe6-4bdd-a701-48ada9a0f5b3@sdl17s.shahramv1.site:443?encryption=none&type=tcp&headerType=none&security=tls&fp=firefox&sni=sdl17.shahramv1.site&alpn=h2,http/1.1#IR🇮🇷
+vless://4f561f73-0fe6-4bdd-a701-48ada9a0f5b3@sdl17s.shahramv1.site:443?encryption=none&type=tcp&headerType=none&security=tls&fp=firefox&sni=sdl17.shahramv1.site&alpn=h2,http/1.1#INT🌍
 
 trojan://telegram-id-privatevpns@3.79.165.50:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#INT🌍
 
-vless://0792fda1-176a-4a57-80df-be5222180046@94.101.181.41:19817?security=none&encryption=none&headerType=none&type=tcp#IR🇮🇷
+vless://0792fda1-176a-4a57-80df-be5222180046@94.101.181.41:19817?security=none&encryption=none&headerType=none&type=tcp#INT🌍
 
 vless://20e1938c-d198-4584-b62c-3b740c9a11ff@fn11.finuxmaster.shop:2095?security=none&encryption=none&host=soft98.ir&headerType=http&type=tcp#INT🌍
 
-vless://3361a952-096a-4ea5-965b-556e2f870bba@146.70.106.79:21252?security=none&encryption=none&headerType=none&type=tcp#NL🇳🇱
+vless://3361a952-096a-4ea5-965b-556e2f870bba@146.70.106.79:21252?security=none&encryption=none&headerType=none&type=tcp#INT🌍
 
-vless://4dd14167-ddce-49d1-8322-133e82c0cbfb@109.95.65.242:900?security=none&encryption=none&headerType=none&type=tcp#IR🇮🇷
+vless://4dd14167-ddce-49d1-8322-133e82c0cbfb@109.95.65.242:900?security=none&encryption=none&headerType=none&type=tcp#INT🌍
 
 vless://4f5def46-1a54-11f1-9053-92000723b4ab@vipde2.persianpinggame.com:9091?security=none&encryption=none&host=filmnet.ir&headerType=http&type=tcp#INT🌍
 
@@ -145,24 +165,4 @@ vless://e08f1ad7-0c60-446d-baec-08b3b69bb3d0@nl-90w-c.southnetworks.cloud:80?pat
 vless://f79d200c-ac04-45a8-98a7-031d629f705c@45.43.79.73:443?security=reality&encryption=none&pbk=sSxz8on32QOT9c9J-03K911U9vFr6xBKcK2zVfvk4QI&headerType=none&fp=chrome&type=tcp&sni=google.com&sid=cd620180#INT🌍
 
 vless://facbfb6d-873b-4faa-f998-945fcb03674c@94.183.149.205:8882?path=/&security=none&encryption=none&type=ws#INT🌍
-
-vless://686c62d9-17a7-43c9-a40a-f6747df60a9f@chatgpt.com:2096?path=/?TELEGRAM-?ed=512&security=tls&encryption=none&alpn=http/1.1&host=ca.adobe-connect.top&fp=chrome&type=ws&sni=ca.adobe-connect.top#INT🌍
-
-vless://686c62d9-17a7-43c9-a40a-f6747df60a9f@chatgpt.com:2096?path=/&security=tls&encryption=none&alpn=http/1.1&host=ca.adobe-connect.top&fp=chrome&type=ws&sni=ca.adobe-connect.top#INT🌍
-
-vless://6913f9c9-3210-d0dd-75fc-2328a11c836a@toystoreworld.ir:8585?security=none&encryption=none&host=myket.ir&headerType=http&type=tcp#INT🌍
-
-vless://6a3ad064-be7c-40be-9a48-171885a359b7@mail.tomandjery.eu.zero_proxy1:1001?security=reality&encryption=none&pbk=xrZlXeuTYmAC97-RbRi-aM7U67TOBMGCHVu3DovZihw&headerType=none&fp=firefox&type=tcp&sni=play.google.com&sid=6ba85179e30d4fc2#INT🌍
-
-vless://7061a7ca-787e-4dd2-8876-51b0ff01964c@link.mizbanertebatfarda.site:3010?path=/ws?ed=2048&security=none&encryption=none&host=myket.ir&type=ws#INT🌍
-
-vless://78f027b7-440f-4473-9cad-3ff01bc3e9a5@hol.emshabshabe.ir:442?security=none&encryption=none&headerType=http&type=tcp#INT🌍
-
-vless://859b7d71-a9fc-4234-8e03-42eb876a170a@151.115.96.243:7242?security=reality&encryption=none&pbk=jGmjU0vrRXCnIwn0rVatYKf5ihWZhMvqidp2ceY1QAM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=modily.net&sid=8c01e365#INT🌍
-
-vless://8716b6a0-b6af-476b-b684-838aec5d59c9@87.248.142.123:2096?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#INT🌍
-
-vless://9534971e-aab0-4deb-98e5-4319a48bec64@44kdksjskskwkwodk.lskwposkrjgso.ncniwlqnxbdje.wizardxray.ir:703?security=none&encryption=none&host=rubika.ir, igap.net, splus.ir, skyroom.online&headerType=http&type=tcp#INT🌍
-
-vless://a7444b2b-20fb-461f-9840-63e5c8c7d883@104.16.158.162:80?path=/?ed=2048&security=none&encryption=none&host=mute-violet-c674.poviy66273.workers.dev&type=ws#INT🌍
 
