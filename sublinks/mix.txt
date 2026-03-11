@@ -70,25 +70,25 @@ vless://a1b2c3d4-e5f6-7890-abcd-ef1234567890@de-fr.cloud.reality-hub.workers.dev
 
 vless://f099bbde-8193-46c9-b42f-392177520f02@37.32.8.38:35444?type=tcp&encryption=none&security=none#IR🇮🇷
 
-trojan://telegram-id-privatevpns@3.69.235.19:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#INT🌍
+trojan://telegram-id-privatevpns@3.69.235.19:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#DE🇩🇪
 
-trojan://telegram-id-directvpn@3.69.235.19:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#INT🌍
+trojan://telegram-id-directvpn@3.69.235.19:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#DE🇩🇪
 
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.69.235.19:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#INT🌍
 
-vless://c4e2512d-060c-59a7-ad20-be4284298eeb@thesis.mhub-mc.ir:3010?encryption=none&flow=xtls-rprx-vision&security=reality&sni=refersion.com&fp=chrome&pbk=8DGDiqDs99PvQGTjFh4Xu_4DmuKbk5bDJsUb73gEzW0&sid=e32df1fa9070e48e&type=tcp&headerType=none113#INT🌍
+vless://c4e2512d-060c-59a7-ad20-be4284298eeb@thesis.mhub-mc.ir:3010?encryption=none&flow=xtls-rprx-vision&security=reality&sni=refersion.com&fp=chrome&pbk=8DGDiqDs99PvQGTjFh4Xu_4DmuKbk5bDJsUb73gEzW0&sid=e32df1fa9070e48e&type=tcp&headerType=none113#IR🇮🇷
 
-vmess://eyJhZGQiOiJpcDMudGFyYXZhdC5uZXQiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6Im15a2V0LmlyIiwiaWQiOiJjZWI5YjY4Ny03NzJiLTQ1NjktYjVmYS0xYmU4NDM0NWQ2YzciLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiXC8iLCJwb3J0IjoiMTAyIiwicHMiOiJJUlx1ZDgzY1x1ZGRlZVx1ZDgzY1x1ZGRmNyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
+vmess://eyJhZGQiOiJpcDMudGFyYXZhdC5uZXQiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6Im15a2V0LmlyIiwiaWQiOiJjZWI5YjY4Ny03NzJiLTQ1NjktYjVmYS0xYmU4NDM0NWQ2YzciLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiXC8iLCJwb3J0IjoiMTAyIiwicHMiOiJJTlRcdWQ4M2NcdWRmMGQiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
 
 vless://c71d2f84-1ae1-11f1-97cf-7fa5d2a6fb9f@gr5.vpnjantit.com:10004?path=/vpnjantit&security=none&encryption=none&type=ws#INT🌍
 
-vless://e2ff29b0-1ae0-11f1-8359-92000723b4ab@dlc-new10.persianpinggame.com:5110?security=none&encryption=none&host=filmnet.ir&headerType=http&type=tcp#INT🌍
+vless://e2ff29b0-1ae0-11f1-8359-92000723b4ab@dlc-new10.persianpinggame.com:5110?security=none&encryption=none&host=filmnet.ir&headerType=http&type=tcp#IR🇮🇷
 
 vless://711f56b0-0d4c-4516-bea6-0e963749928c@my-rebar.shop:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=5vZadQxvsBfPR1hKN3TFOYsGLBBPDvd4sLVNnPzddRg&security=reality&sni=my-rebar.shop&type=tcp#FI🇫🇮
 
 vless://4dd14167-ddce-49d1-8322-133e82c0cbfb@109.95.65.242:900?security=none&encryption=none&headerType=none&type=tcp#INT🌍
 
-vless://a2a7636b-25d9-4f83-941c-ba88cef9e2e2@102.37.155.79:443?mode=auto&path=/stream/cubic&security=reality&encryption=none&pbk=2Y_6l4fk42l4SRZ2XKPQHu27uEWCWZnYOdh_dtQzcAI&fp=chrome&spx=/&type=xhttp&sni=mirror.arvancloud.ir&sid=33a6#ZA🇿🇦
+vless://a2a7636b-25d9-4f83-941c-ba88cef9e2e2@102.37.155.79:443?mode=auto&path=/stream/cubic&security=reality&encryption=none&pbk=2Y_6l4fk42l4SRZ2XKPQHu27uEWCWZnYOdh_dtQzcAI&fp=chrome&spx=/&type=xhttp&sni=mirror.arvancloud.ir&sid=33a6#INT🌍
 
 vless://7676cf73-16fb-47a7-b1fc-e5e928ccd58d@151.101.1.194:80?mode=auto&path=/TignaliSWithYou&security=none&encryption=none&host=tignaltofan.global.ssl.fastly.net&type=xhttp#INT🌍
 
@@ -98,7 +98,7 @@ vless://38b816ea-4dcf-4354-8581-c8db49e73c01@sdl15.shahramv1.site:80?security=no
 
 vless://38b816ea-4dcf-4354-8581-c8db49e73c01@sdl15.shahramv1.site:80?encryption=none&packetEncoding=xudp#INT🌍
 
-vless://674f6bd5-e2ef-4df1-9aac-4a8c2772d9c3@87.107.9.98:2020?security=none&encryption=none&headerType=none&type=tcp#IR🇮🇷
+vless://674f6bd5-e2ef-4df1-9aac-4a8c2772d9c3@87.107.9.98:2020?security=none&encryption=none&headerType=none&type=tcp#INT🌍
 
 trojan://W6u8Tsa7Wh2q8wXQVbxJucgf7FFw3o2@[::ffff:5eb8:1f32]:443?path=FWsoInxhJTVLXmAuQkAzJU9raylCQx1CXmVBNSESKgl8TH5nBzADOBJac1gQ&security=tls&fp=safari&type=ws&sni=mciglobal.ir#INT🌍
 
