@@ -70,19 +70,19 @@ vless://f91c1cc2-05fe-4efd-ba09-86cb6bec19e3@cdn.samantech.live:2087?type=ws&sec
 
 vless://f91c1cc2-05fe-4efd-ba09-86cb6bec19e3@cdn.samantech.live:8880?type=ws&security=none&host=cdn.samantech.live&path=/ws&encryption=none#US🇺🇸
 
-vless://f91c1cc2-05fe-4efd-ba09-86cb6bec19e3@cdn2.samannet.com:2082?type=ws&security=none&host=cdn2.samannet.com&path=/ws&encryption=none#INT🌍
+vless://f91c1cc2-05fe-4efd-ba09-86cb6bec19e3@cdn2.samannet.com:2082?type=ws&security=none&host=cdn2.samannet.com&path=/ws&encryption=none#US🇺🇸
 
 vless://f91c1cc2-05fe-4efd-ba09-86cb6bec19e3@cdn2.samannet.com:2083?type=ws&security=tls&sni=cdn2.samannet.com&host=cdn2.samannet.com&path=/ws&fp=chrome&encryption=none&alpn=&allowInsecure=1#US🇺🇸
 
-vless://f91c1cc2-05fe-4efd-ba09-86cb6bec19e3@cdn2.samannet.com:2087?type=ws&security=tls&sni=cdn2.samannet.com&host=cdn2.samannet.com&path=/ws&fp=chrome&encryption=none&alpn=&allowInsecure=1#INT🌍
+vless://f91c1cc2-05fe-4efd-ba09-86cb6bec19e3@cdn2.samannet.com:2087?type=ws&security=tls&sni=cdn2.samannet.com&host=cdn2.samannet.com&path=/ws&fp=chrome&encryption=none&alpn=&allowInsecure=1#US🇺🇸
 
-vless://f91c1cc2-05fe-4efd-ba09-86cb6bec19e3@cdn2.samannet.com:8880?type=ws&security=none&host=cdn2.samannet.com&path=/ws&encryption=none#US🇺🇸
+vless://f91c1cc2-05fe-4efd-ba09-86cb6bec19e3@cdn2.samannet.com:8880?type=ws&security=none&host=cdn2.samannet.com&path=/ws&encryption=none#INT🌍
 
 vless://f91c1cc2-05fe-4efd-ba09-86cb6bec19e3@testing.iranmonitor.live:2082?type=ws&security=none&host=testing.iranmonitor.live&path=/ws&encryption=none#US🇺🇸
 
 vless://f91c1cc2-05fe-4efd-ba09-86cb6bec19e3@testing.iranmonitor.live:2083?type=ws&security=tls&sni=testing.iranmonitor.live&host=testing.iranmonitor.live&path=/ws&fp=chrome&encryption=none&alpn=&allowInsecure=1#INT🌍
 
-vless://f91c1cc2-05fe-4efd-ba09-86cb6bec19e3@testing.iranmonitor.live:2087?type=ws&security=tls&sni=testing.iranmonitor.live&host=testing.iranmonitor.live&path=/ws&fp=chrome&encryption=none&alpn=&allowInsecure=1#US🇺🇸
+vless://f91c1cc2-05fe-4efd-ba09-86cb6bec19e3@testing.iranmonitor.live:2087?type=ws&security=tls&sni=testing.iranmonitor.live&host=testing.iranmonitor.live&path=/ws&fp=chrome&encryption=none&alpn=&allowInsecure=1#INT🌍
 
 vless://f91c1cc2-05fe-4efd-ba09-86cb6bec19e3@testing.iranmonitor.live:8880?type=ws&security=none&host=testing.iranmonitor.live&path=/ws&encryption=none#INT🌍
 
