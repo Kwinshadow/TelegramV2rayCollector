@@ -44,67 +44,47 @@ vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@104.16.2.90:443?path=/43.218.77.16=
 
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@162.159.12.151:443?path=/&security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#US🇺🇸
 
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@pqh29v4.globalfymain.com:8880?security=none&encryption=none&type=grpc&path=/#US🇺🇸
+vless://12d75b7d-8fdf-4785-8d62-d836854e7e63@chatgpt.com:2052?path=/?ed&security=none&encryption=none&host=parking-nfchbwa1-v2.parking-1ab.workers.dev&type=ws#US🇺🇸
 
-vless://e4824193-4f54-453b-d037-88368e85ef0e@all.tellmethetrue.shop:443?security=tls&encryption=none&sni=pqh42v8.carwashipdir.shop&alpn=h2&type=grpc&path=/#US🇺🇸
+vless://614c6f16-de06-4dc1-8cb5-4e6e594ddb4e@sps1s.shahramv1.site:443?security=tls&encryption=none&insecure=0&headerType=none&fp=firefox&type=tcp&allowInsecure=0&sni=sps1s.shahramv1.site#IR🇮🇷
 
-vless://e4824193-4f54-453b-d037-88368e85ef0e@all.tellmethetrue.shop:443?security=tls&encryption=none&sni=pqh36v3.carwashipdir.shop&alpn=h2&type=grpc&path=/#US🇺🇸
+vless://686c62d9-17a7-43c9-a40a-f6747df60a9f@chatgpt.com:2096?encryption=none&security=tls&sni=ca.adobe-connect.top&fp=chrome&alpn=http/1.1&insecure=1&allowInsecure=1&type=ws&host=ca.adobe-connect.top&path=/#US🇺🇸
 
-vless://13ad36e6-c091-43f2-8505-47d868dd544c@1qw.ae1autumn.cc.cd:80?security=none&encryption=none&type=ws&host=1qw.ae1autumn.cc.cd&path=/XR8So0uqFVa3vY9ZbxgW4#US🇺🇸
+vless://c558328b-eb46-424c-b9e0-574770f0b072@moi9.zem.indevs.in:443?encryption=none&security=tls&sni=moi9.zem.indevs.in&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=moi9.zem.indevs.in&path=/v8clafFSnPXNC0BXGtJ#US🇺🇸
 
-vless://4e45c1b4-9107-45dd-9995-cdf7cbb44d9d@mki.1ee.ccwu.cc:443?security=tls&sni=mki.1ee.ccwu.cc&fp=chrome&type=ws&host=mki.1ee.ccwu.cc&path=/hBasD7EdpBQ0zGAzsYHmsMrnO#US🇺🇸
+vless://c558328b-eb46-424c-b9e0-574770f0b072@dvgt.zem.indevs.in:80?encryption=none&security=none&sni=dvgt.zem.indevs.in&type=ws&host=dvgt.zem.indevs.in&path=/v8clafFSnPXNC0BXGtJ#US🇺🇸
 
-vless://4e45c1b4-9107-45dd-9995-cdf7cbb44d9d@bfbg.2nn.ccwu.cc:443?security=tls&sni=bfbg.2nn.ccwu.cc&type=ws&host=bfbg.2nn.ccwu.cc&path=/hBasD7EdpBQ0zGAzsYHmsMrnO#US🇺🇸
+vless://c558328b-eb46-424c-b9e0-574770f0b072@rtg.ae1autumn.cc.cd:443?encryption=none&security=tls&sni=rtg.ae1autumn.cc.cd&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=rtg.ae1autumn.cc.cd&path=/v8clafFSnPXNC0BXGtJ#INT🌍
 
-vless://4e45c1b4-9107-45dd-9995-cdf7cbb44d9d@yyynm.2nn.ccwu.cc:443?security=tls&sni=yyynm.2nn.ccwu.cc&type=ws&host=yyynm.2nn.ccwu.cc&path=/hBasD7EdpBQ0zGAzsYHmsMrnO#US🇺🇸
+vless://13ad36e6-c091-43f2-8505-47d868dd544c@ghju.apocalypse.cc.cd:80?encryption=none&security=none&sni=ghju.apocalypse.cc.cd&fp=chrome&type=ws&host=ghju.apocalypse.cc.cd&path=/XR8So0uqFVa3vY9ZbxgW4#US🇺🇸
 
-vless://4e45c1b4-9107-45dd-9995-cdf7cbb44d9d@mmhhj.2nn.ccwu.cc:443?security=tls&sni=mmhhj.2nn.ccwu.cc&fp=chrome&type=ws&host=mmhhj.2nn.ccwu.cc&path=/hBasD7EdpBQ0zGAzsYHmsMrnO#US🇺🇸
+vless://c558328b-eb46-424c-b9e0-574770f0b072@l098.zem.indevs.in:80?encryption=none&security=none&sni=l098.zem.indevs.in&type=ws&host=l098.zem.indevs.in&path=/v8clafFSnPXNC0BXGtJ#INT🌍
 
-vless://13ad36e6-c091-43f2-8505-47d868dd544c@cdfr.ae1autumn.dpdns.org:80?security=none&encryption=none&type=ws&host=cdfr.ae1autumn.dpdns.org&path=/XR8So0uqFVa3vY9ZbxgW4#US🇺🇸
+vless://c558328b-eb46-424c-b9e0-574770f0b072@o98.zem.indevs.in:80?encryption=none&security=none&sni=o98.zem.indevs.in&fp=chrome&type=ws&host=o98.zem.indevs.in&path=/v8clafFSnPXNC0BXGtJ#US🇺🇸
 
-vless://13ad36e6-c091-43f2-8505-47d868dd544c@cvfg.ae1autumn.cc.cd:80?security=none&encryption=none&type=ws&host=cvfg.ae1autumn.cc.cd&path=/XR8So0uqFVa3vY9ZbxgW4#US🇺🇸
+vless://fc625795-792d-4d9d-9d38-bffe59467d2d@www.visaeurope.ch:2083?encryption=none&security=tls&sni=daluan.eu.org&fp=randomized&type=ws&host=daluan.eu.org&path=/?ed=2560#US🇺🇸
 
-vless://e4824193-4f54-453b-d037-88368e85ef0e@chatgpt.com:443?security=tls&encryption=none&sni=pqh30v4.carwashipdir.shop&fp=chrome&type=grpc&path=/#US🇺🇸
+vless://c558328b-eb46-424c-b9e0-574770f0b072@rtg.ae1autumn.cc.cd:80?encryption=none&security=none&sni=rtg.ae1autumn.cc.cd&fp=chrome&type=ws&host=rtg.ae1autumn.cc.cd&path=/v8clafFSnPXNC0BXGtJ#INT🌍
 
-vless://e4824193-4f54-453b-d037-88368e85ef0e@all.tellmethetrue.shop:443?security=tls&encryption=none&sni=pqh20v3.carwashipdir.shop&alpn=h2&type=grpc&path=/#INT🌍
+vless://c558328b-eb46-424c-b9e0-574770f0b072@moi9.zem.indevs.in:80?encryption=none&security=none&sni=moi9.zem.indevs.in&type=ws&host=moi9.zem.indevs.in&path=/v8clafFSnPXNC0BXGtJ#INT🌍
 
-vless://e4824193-4f54-453b-d037-88368e85ef0e@all.tellmethetrue.shop:443?security=tls&encryption=none&sni=pqh21v7.carwashipdir.shop&alpn=h2&type=grpc&path=/#INT🌍
+vless://13ad36e6-c091-43f2-8505-47d868dd544c@dr.ae1autumn.dpdns.org:80?encryption=none&security=none&sni=dr.ae1autumn.dpdns.org&fp=chrome&type=ws&host=dr.ae1autumn.dpdns.org&path=/XR8So0uqFVa3vY9ZbxgW4#INT🌍
 
-vless://d5604db8-1f31-403d-a315-d8bafc70f7d2@bbg.66k.ccwu.cc:443?security=tls&encryption=none&type=ws&host=bbg.66k.ccwu.cc&path=/1Aeip9N4V6m20grcpQ8L96b#INT🌍
+vless://e5f8a9f6-f164-479b-b3b5-b90f213c7145@v3.dabache.top:2053?encryption=none&security=tls&sni=ir1.airpanel.top&fp=chrome&insecure=1&type=ws&host=ir1.airpanel.top&path=/#INT🌍
 
-vless://d5604db8-1f31-403d-a315-d8bafc70f7d2@njkkl.5nn.ccwu.cc:443?security=tls&sni=njkkl.5nn.ccwu.cc&fp=chrome&type=ws&headerType=none&host=njkkl.5nn.ccwu.cc&path=/1Aeip9N4V6m20grcpQ8L96b#INT🌍
+vless://1ef3cee6-4b96-424b-9b46-fdf01927581d@005.inc-electrocell-001-005-803.workers.dev:443?encryption=none&security=tls&sni=005.inc-ELECtRoCELL-001-005-803.WORKers.dEV&fp=chrome&alpn=http/1.1&insecure=0&allowInsecure=0&type=ws&host=005.inc-electrocell-001-005-803.workers.dev&path=/eyJqdW5rIjoidXJzTllJVlpXVWZUIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==?ed=2560#INT🌍
 
-vless://e4824193-4f54-453b-d037-88368e85ef0e@chatgpt.com:443?security=tls&encryption=none&sni=pqh30v4.carwashipdir.shop&fp=chrome&type=grpc&path=/&allow_insecure=1#INT🌍
+vless://fc625795-792d-4d9d-9d38-bffe59467d2d@myanmar.visa.com:8443?encryption=none&security=tls&sni=daluan.eu.org&fp=randomized&type=ws&host=daluan.eu.org&path=/?ed=2560#INT🌍
 
-vless://c558328b-eb46-424c-b9e0-574770f0b072@rtg.ae1autumn.cc.cd:443?security=tls&encryption=none&sni=rtg.ae1autumn.cc.cd&fp=chrome&type=ws&host=rtg.ae1autumn.cc.cd&path=/v8clafFSnPXNC0BXGtJ&allow_insecure=0#INT🌍
+vless://4e45c1b4-9107-45dd-9995-cdf7cbb44d9d@m9o0.1xq.indevs.in:80?security=none&type=ws&path=/hBasD7EdpBQ0zGAzsYHmsMrnO&host=m9o0.1xq.indevs.in&sni=m9o0.1xq.indevs.in&fp=chrome#INT🌍
 
-vless://36a857e4-f3d4-43aa-8b90-d7da849da989@002.inc-electrocell-001-002.workers.dev:443?security=tls&encryption=none&sni=002.Inc-ElectROcElL-001-002.WoRKERS.DEV&alpn=http/1.1&type=ws&host=002.inc-electrocell-001-002.workers.dev&path=/eyJqdW5rIjoib0RnakxTZUZvOSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=#INT🌍
+vless://4e45c1b4-9107-45dd-9995-cdf7cbb44d9d@mkii.1x4.indevs.in:80?&fp=chrome&sni=mkii.1x4.indevs.in&type=ws&headerType=none&host=mkii.1x4.indevs.in&path=/hBasD7EdpBQ0zGAzsYHmsMrnO#INT🌍
 
-vless://a73b8135-ec7a-4f70-bac6-81fbccad4515@labeller.neonime83.workers.dev:443?security=tls&encryption=none&sni=labeller.neonime83.workers.dev&type=ws&host=labeller.neonime83.workers.dev&path=/?ed=2560#INT🌍
+vless://4e45c1b4-9107-45dd-9995-cdf7cbb44d9d@mkiuy.1x9.indevs.in:80?security=none&type=ws&path=/hBasD7EdpBQ0zGAzsYHmsMrnO&host=mkiuy.1x9.indevs.in&sni=mkiuy.1x9.indevs.in&fp=chrome#INT🌍
 
-vless://2bcfbfba-b446-4ad5-93ad-72af9e008f61@blackshadow.dpdns.org:443?security=tls&encryption=none&sni=blackshadow.dpdns.org&fp=chrome&type=ws&host=blackshadow.dpdns.org&path=/44.209.52.7-443&allow_insecure=0#INT🌍
+vless://4e45c1b4-9107-45dd-9995-cdf7cbb44d9d@nmjk.1hh.ccwu.cc:80?security=none&type=ws&path=/hBasD7EdpBQ0zGAzsYHmsMrnO&host=nmjk.1hh.ccwu.cc&sni=nmjk.1hh.ccwu.cc&fp=chrome#INT🌍
 
-vless://5855c144-213f-43a2-abe8-5faf71fee574@vip.joghdana.ir:2357?encryption=none&type=tcp&security=none#INT🌍
+vless://4e45c1b4-9107-45dd-9995-cdf7cbb44d9d@nmk9o.1yy.ccwu.cc:80?&fp=chrome&sni=nmk9o.1yy.ccwu.cc&type=ws&headerType=none&host=nmk9o.1yy.ccwu.cc&path=/hBasD7EdpBQ0zGAzsYHmsMrnO#INT🌍
 
-vless://c558328b-eb46-424c-b9e0-574770f0b072@moi9.zem.indevs.in:443?security=tls&encryption=none&sni=moi9.zem.indevs.in&fp=chrome&type=ws&host=moi9.zem.indevs.in&path=/v8clafFSnPXNC0BXGtJ&allow_insecure=0#INT🌍
-
-vless://49d598ee-4dfc-4001-95ca-99a5b6002e3c@tiny-leaf-f59f.my-lla-s-a-njo-s-e.workers.dev:443?security=tls&encryption=none&sni=tiny-leaf-f59f.my-lla-s-a-njo-s-e.workers.dev&type=ws&host=tiny-leaf-f59f.my-lla-s-a-njo-s-e.workers.dev&path=ws#INT🌍
-
-vless://e08f1ad7-0c60-446d-baec-08b3b69bb3d0@nl-90w-c.southnetworks.cloud:80/?type=ws&encryption=none&path=/getWorkerUpdates#INT🌍
-
-vless://c031d6c7-5132-4d81-8efc-3b13a947984e@81.88.25.20:59029?security=&encryption=none&headerType=none&type=tcp#INT🌍
-
-vless://cb2e5fc3-c1bb-4cfc-b18c-69e450fbd017@212.233.123.162:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=web.max.ru&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=17f0f0e38f01af5a&spx=/#INT🌍
-
-vless://7c6fcd29-88fb-463a-b24e-bb48b0479863@146.185.242.246:8448?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=Ox4BT0R5103EpplP2y6TIVv0VC-xBR2-YT6EJ4YmkUw&spx=/#INT🌍
-
-vless://f4e22eff-20b2-4af7-aee9-4a67b82b47f3@www.speedtest.net:80?path=/@Config_On , @Config_On , @Config_On , @Config_On , @Config_On , @Config_On , @Config_On , @Config_On , @Config_On , @Config_On , @Config_On , @Config_On , @Config_On , @Config_On , @Config_On , @Config_On , @Config_On , @Config_On , @Config_On , @Config_On , @Config_On , @Config_On , @Config_On , @Config_On&;security=none&;encryption=none&;host=ok-config-10.4zkaban.xyz&;type=ws#INT🌍
-
-vless://61873e11-536e-45e9-ae5c-a375542bc05b@212.87.198.113:443?type=ws&path=/#INT🌍
-
-vless://61873e11-536e-45e9-ae5c-a375542bc05b@212.87.198.102:443?type=ws&path=/#INT🌍
-
-vless://61873e11-536e-45e9-ae5c-a375542bc05b@212.87.198.109:443?type=ws&path=/#INT🌍
-
-vless://532a9115-aee7-4d39-9638-1e5146de075b@muddy-math-c1fc.tmpnriqueau89.workers.dev:443?security=tls&encryption=none&sni=muddy-math-c1fc.tmpnriqueau89.workers.dev&alpn=h2,http/1.1&fp=chrome&type=ws&host=muddy-math-c1fc.tmpnriqueau89.workers.dev&path=/js/cHlpcC55Z2tray5kcGRucy5vcmc=/?ed=2048&allow_insecure=0#INT🌍
+vless://4e45c1b4-9107-45dd-9995-cdf7cbb44d9d@vnjki.1xq.indevs.in:80?security=none&type=ws&path=/hBasD7EdpBQ0zGAzsYHmsMrnO&host=vnjki.1xq.indevs.in&sni=vnjki.1xq.indevs.in&fp=chrome#INT🌍
 
