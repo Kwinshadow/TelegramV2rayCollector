@@ -46,39 +46,59 @@ vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@104.16.2.90:443?path=/43.218.77.16=
 
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@162.159.12.151:443?path=/&security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#US🇺🇸
 
+vless://677dcce6-58d5-4a3f-a174-d10bb07e01b7@wsss.beepn.info:80?security=none&encryption=none&headerType=none&type=tcp#US🇺🇸
+
+vless://9298fb7d-d257-4b52-b9ac-d1fb279e3032@wsss.beepn.info:2087?path=/path&security=tls&encryption=none&alpn=h2,http/1.1&host=Ws2.beepn.info&fp=chrome&type=ws&sni=Ws2.beepn.info#US🇺🇸
+
+vless://e44c9ff3-5a05-4ee9-b050-b8fbc7c1af04@188.114.98.0:2053?security=tls&encryption=none&headerType=none&type=tcp&sni=iran-iran-iran-iran-iran-iran-iran-iran-iran-iran.worldwidesuccesscatalysts.com#US🇺🇸
+
+vless://e44c9ff3-5a05-4ee9-b050-b8fbc7c1af04@188.114.98.0:2053?security=tls&encryption=none&headerType=none&type=tcp&sni=itfgnf-hkjkhfmhghf-hjmngb.infinitecreativehorizons.com#US🇺🇸
+
+vless://cff6f361-828a-43c8-a8b5-8d10b32e57fb@188.114.98.0:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=zh.hollowspot.ir&type=ws&allowInsecure=0&sni=zh.hollowspot.ir#US🇺🇸
+
+vless://3163a1be-663a-47ff-8b54-8e6a5591910d@hool.pollux.live:6064?security=none&encryption=none&headerType=none&type=tcp#IR🇮🇷
+
+vless://d429bc6f-570b-457e-88b9-4697e849ae1d@n-g-f-1.m2v2.site:2101?security=tls&alpn=h2,http/1.1&encryption=none&headerType=none&fp=chrome&type=tcp#IR🇮🇷
+
+vless://c2927649-ef10-4ebc-86a9-f06f8af0cbac@hool.pollux.live:6064?security=none&encryption=none&headerType=none&type=tcp#IR🇮🇷
+
+#INT🌍
+
+vless://478cc26d-16b3-4fdd-be64-60d5a5﷼﷼﷼﷼8c1622@188.114.98.0:80?path=/&security=none&encryption=none&host=tt.andishehparenting.com&type=ws#US🇺🇸
+
 vless://fd79f20d-ca75-4008-bac1-1be3482b300d@46.225.61.97:2082?type=ws&encryption=none&path=/ws&host=v.iampedi7.live&security=none#DE🇩🇪
 
 vless://677dcce6-58d5-4a3f-a174-d10bb07e01b7@wsss.beepn.info:80?mode=auto&path=/@vip_fragment_v2ray&security=none&encryption=none&host=bestcdn.imsoon.io.&type=xhttp#US🇺🇸
 
 vless://191f912f-7afa-496a-af23-f48eebe7f3bb@188.114.98.0:2053?mode=auto&path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=platform.darkspacex.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=platform.darkspacex.ir#US🇺🇸
 
-trojan://humanity@www.multiplydose.com:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.multiplydose.com#US🇺🇸
+trojan://humanity@www.multiplydose.com:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.multiplydose.com#INT🌍
 
 vless://686c62d9-17a7-43c9-a40a-f6747df60a9f@chatgpt.com:2096?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=1&host=ca.adobe-connect.top&fp=chrome&type=ws&allowInsecure=1&sni=ca.adobe-connect.top#US🇺🇸
 
-vless://191f912f-7afa-496a-af23-f48eebe7f3bb@188.114.98.0:2053?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&sni=platform.darkspacex.ir#US🇺🇸
+vless://191f912f-7afa-496a-af23-f48eebe7f3bb@188.114.98.0:2053?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&sni=platform.darkspacex.ir#INT🌍
 
-vless://20d983ca-d7fa-4fc6-a3db-c6f7e56c4629@188.114.98.0:2087?path=/&security=tls&encryption=none&alpn=h2,http/1.1&host=a4.maxriser.ir&fp=chrome&type=ws&sni=a4.maxriser.ir#US🇺🇸
+vless://20d983ca-d7fa-4fc6-a3db-c6f7e56c4629@188.114.98.0:2087?path=/&security=tls&encryption=none&alpn=h2,http/1.1&host=a4.maxriser.ir&fp=chrome&type=ws&sni=a4.maxriser.ir#INT🌍
 
 vless://232dcd07-d3d6-4fc6-a802-1d967f1e1a0a@188.114.98.0:443?security=tls&encryption=none&alpn=h2&headerType=none&fp=chrome&type=tcp&sni=api-fr.serx.ir#US🇺🇸
 
-vless://3f58cc47-94f6-40d3-8797-1ce66cb0555e@188.114.98.0:2087?path=/?ed=2048&security=tls&encryption=none&alpn=h2,http/1.1&host=nl4.maxriser.ir&fp=chrome&type=ws&sni=nl4.maxriser.ir#US🇺🇸
+vless://3f58cc47-94f6-40d3-8797-1ce66cb0555e@188.114.98.0:2087?path=/?ed=2048&security=tls&encryption=none&alpn=h2,http/1.1&host=nl4.maxriser.ir&fp=chrome&type=ws&sni=nl4.maxriser.ir#INT🌍
 
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@116.203.233.255:443?path=/?ed=2560&Telegram🇨🇳 @WangCai2&security=tls&encryption=none&host=sni.111000.v6.navy&type=ws&sni=sni.111000.v6.navy#DE🇩🇪
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@116.203.233.255:443?path=/?ed=2560&Telegram🇨🇳 @WangCai2&security=tls&encryption=none&host=sni.111000.v6.navy&type=ws&sni=sni.111000.v6.navy#INT🌍
 
 vless://f91c1cc2-05fe-4efd-ba09-86cb6bec19e3@cdn.samantech.live:2087?type=ws&security=tls&sni=cdn.samantech.live&host=cdn.samantech.live&path=/ws&fp=chrome&encryption=none&alpn=&allowInsecure=1#US🇺🇸
 
 vless://f91c1cc2-05fe-4efd-ba09-86cb6bec19e3@cdn.samantech.live:8880?type=ws&security=none&host=cdn.samantech.live&path=/ws&encryption=none#US🇺🇸
 
-vless://f91c1cc2-05fe-4efd-ba09-86cb6bec19e3@cdn2.samannet.com:2082?type=ws&security=none&host=cdn2.samannet.com&path=/ws&encryption=none#US🇺🇸
+vless://f91c1cc2-05fe-4efd-ba09-86cb6bec19e3@cdn2.samannet.com:2082?type=ws&security=none&host=cdn2.samannet.com&path=/ws&encryption=none#INT🌍
 
-vless://f91c1cc2-05fe-4efd-ba09-86cb6bec19e3@cdn2.samannet.com:2083?type=ws&security=tls&sni=cdn2.samannet.com&host=cdn2.samannet.com&path=/ws&fp=chrome&encryption=none&alpn=&allowInsecure=1#US🇺🇸
+vless://f91c1cc2-05fe-4efd-ba09-86cb6bec19e3@cdn2.samannet.com:2083?type=ws&security=tls&sni=cdn2.samannet.com&host=cdn2.samannet.com&path=/ws&fp=chrome&encryption=none&alpn=&allowInsecure=1#INT🌍
 
-vless://f91c1cc2-05fe-4efd-ba09-86cb6bec19e3@cdn2.samannet.com:2087?type=ws&security=tls&sni=cdn2.samannet.com&host=cdn2.samannet.com&path=/ws&fp=chrome&encryption=none&alpn=&allowInsecure=1#US🇺🇸
+vless://f91c1cc2-05fe-4efd-ba09-86cb6bec19e3@cdn2.samannet.com:2087?type=ws&security=tls&sni=cdn2.samannet.com&host=cdn2.samannet.com&path=/ws&fp=chrome&encryption=none&alpn=&allowInsecure=1#INT🌍
 
 vless://f91c1cc2-05fe-4efd-ba09-86cb6bec19e3@cdn2.samannet.com:8880?type=ws&security=none&host=cdn2.samannet.com&path=/ws&encryption=none#INT🌍
 
-vless://f91c1cc2-05fe-4efd-ba09-86cb6bec19e3@testing.iranmonitor.live:2082?type=ws&security=none&host=testing.iranmonitor.live&path=/ws&encryption=none#US🇺🇸
+vless://f91c1cc2-05fe-4efd-ba09-86cb6bec19e3@testing.iranmonitor.live:2082?type=ws&security=none&host=testing.iranmonitor.live&path=/ws&encryption=none#INT🌍
 
 vless://f91c1cc2-05fe-4efd-ba09-86cb6bec19e3@testing.iranmonitor.live:2083?type=ws&security=tls&sni=testing.iranmonitor.live&host=testing.iranmonitor.live&path=/ws&fp=chrome&encryption=none&alpn=&allowInsecure=1#INT🌍
 
@@ -145,24 +165,4 @@ trojan://SamNet2026SecurePass@142.171.65.106:10422?type=tcp&security=none#INT�
 trojan://SamNet2026SecurePass@192.227.173.38:10426?type=tcp&security=none#INT🌍
 
 trojan://SamNet2026SecurePass@198.23.188.165:10427?type=tcp&security=none#INT🌍
-
-vless://f91c1cc2-05fe-4efd-ba09-86cb6bec19e3@107.175.134.127:8443?type=tcp&security=reality&pbk=Tv5r0EUivhbrYpQ4gm2RT4UmyTSJ_bwq1Dm6NB9Epw0&fp=chrome&sni=yahoo.com&sid=52a71c34503d3df8&spx=/&flow=xtls-rprx-vision&encryption=none#INT🌍
-
-vless://f91c1cc2-05fe-4efd-ba09-86cb6bec19e3@107.175.134.148:443?type=ws&encryption=none&path=/&host=&security=none#INT🌍
-
-vless://f91c1cc2-05fe-4efd-ba09-86cb6bec19e3@142.171.65.106:443?type=ws&encryption=none&path=/&host=&security=none#INT🌍
-
-vless://f91c1cc2-05fe-4efd-ba09-86cb6bec19e3@142.171.65.106:8443?type=tcp&security=reality&pbk=xDucrxNMjHy-TielcVQZo4ESEtPoygQQmAyg08PZYG4&fp=chrome&sni=yahoo.com&sid=c766220befc80fcf&spx=/&flow=xtls-rprx-vision&encryption=none#INT🌍
-
-vless://f91c1cc2-05fe-4efd-ba09-86cb6bec19e3@198.23.249.154:443?type=ws&encryption=none&path=/&host=&security=none#INT🌍
-
-vless://f91c1cc2-05fe-4efd-ba09-86cb6bec19e3@198.23.249.154:8443?type=tcp&security=reality&pbk=qlo3nQHthxBwNOFQWOXbXezt1xzx3M34fQ08jcnE7To&fp=chrome&sni=yahoo.com&sid=d470092c533cc629&spx=/&flow=xtls-rprx-vision&encryption=none#INT🌍
-
-vless://f91c1cc2-05fe-4efd-ba09-86cb6bec19e3@23.95.113.104:443?type=ws&encryption=none&path=/&host=&security=none#INT🌍
-
-vless://f91c1cc2-05fe-4efd-ba09-86cb6bec19e3@23.95.113.104:8443?type=tcp&security=reality&pbk=CW1Y4w9xIkf-cBamMY0Oc4NrLXUJ1rwbeQL7pahJ-lw&fp=chrome&sni=yahoo.com&sid=3d69c9a69eae0dac&spx=/&flow=xtls-rprx-vision&encryption=none#INT🌍
-
-ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206Z01SVm1WaG9ncDBEUk5UMUk4SUdsZz09OmdNUlZtVmhvZ3AwRFJOVDFJOElHbGc9PQ==@104.168.82.83:8388#INT🌍
-
-ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206bXAxV2RLdWdET1huZ0MrZGJNc3BwQT09Om1wMVdkS3VnRE9YbmdDK2RiTXNwcEE9PQ==@107.175.134.148:8388#INT🌍
 
